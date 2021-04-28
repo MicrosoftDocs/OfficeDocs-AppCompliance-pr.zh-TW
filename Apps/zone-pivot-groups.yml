@@ -1,0 +1,75 @@
+### YamlMime:ZonePivotGroups
+groups:
+- id: app-info-data-mcas
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: mcas
+    title: 安全性及合規性
+- id: app-info-mcas
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: mcas
+    title: 安全性及合規性
+- id: app-info-identity
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: identity
+    title: Identity
+- id: app-info-data
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+- id: app-info-data-identity
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: identity
+    title: Identity
+- id: app-info-mcas-identity
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: mcas
+    title: 安全性及合規性
+  - id: identity
+    title: Identity
+- id: app-info-data-mcas-identity
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: mcas
+    title: 安全性及合規性
+  - id: identity
+    title: Identity
+metadata:
+  ms.openlocfilehash: 63cbd1492249802a82a13a4a68fd056a5ba26754
+  ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 04/28/2021
+  ms.locfileid: "52071229"
