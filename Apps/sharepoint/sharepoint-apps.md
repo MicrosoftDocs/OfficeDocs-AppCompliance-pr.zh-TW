@@ -16,11 +16,11 @@ ms.locfileid: "52071260"
 ---
 # <a name="microsoft-sharepoint-app-security-and-compliance"></a>Microsoft SharePoint 的應用程式安全性和合規性
 
-Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關其使用的應用程式和增益集的 SharePoint。 此資訊會補充 [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 應用程式目錄中的資訊，以及開發人員在提交其應用程式時所提供的資訊。 這項安全性、資料處理及符合性資訊的目的，是協助組織使用這些應用程式評估及管理風險。
+Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關所用 SharePoint 應用程式和增益集的決策。 此資訊會納入 [Microsoft 雲端 App 安全性](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 應用程式目錄 ，以及開發人員提交其應用程式時所提供的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
-| **App** | **Partner** | **發行者 Attested** | **認證** | **資料處理資訊** | **Cloud App Security 資訊** |
+| **應用程式** | **合作夥伴** | **發行者證明** | **認證** | **資料處理資訊** | **雲端 App 安全性資訊** |
 |:--------|:------------|:----------------------:|:-----------------------------:|:----------------------------------:|
-| [線上 SharePoint 的敏捷工作面板](./agile-is-task-board-for-sharepoint-online.md) | Agile-是 | **✓** |  | 是 | 是 |
+| [線上 SharePoint 的敏捷工作面板](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  | 是 | 是 |
 | [SharePoint 的 FormMachines](./enterprise-digital-machines-pty-ltd-formmachines-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** |  | 是 | 是 |
 | [SharePoint 的 Gaggle](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net，Inc.。 | **✓** |  | 是 | 是 |
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 是 | 是 |
