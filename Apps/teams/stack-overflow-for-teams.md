@@ -1,0 +1,111 @@
+---
+title: 堆疊溢位 Teams 依堆疊溢位之堆疊溢位的應用程式資訊
+ms.author: elmalova
+author: elenamalova
+ms.date: 08/06/2020
+ms.topic: article
+ms.service: attestation
+description: 所有可用的安全性和符合性資訊，針對 Teams 的堆疊溢位，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+zone_pivot_groups: app-info-data-mcas
+ms.openlocfilehash: 04af58c25d8c3726a386dc9b80b687b289314051
+ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52094131"
+---
+# <a name="stack-overflow-for-teams"></a>Teams 的 Stack Overflow
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>開發人員上次更新日期：2020年8月6日</p>
+
+* <a href="https://teams.microsoft.com/l/app/4783e622-5303-4ea7-a211-ef0dd405da73" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000739" target="_blank">在 AppSource 中查看</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>一般資訊
+
+堆疊溢位所提供的資訊至 Microsoft：
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式名稱 | Teams 的 Stack Overflow |
+| ID | WA200000739 |
+| 功能 | Bot，索引標籤，傳訊擴充功能 |
+| 支援 Office 365 用戶端 | Microsoft Teams |
+| 合作夥伴公司名稱 | Stack Overflow |
+| 合作夥伴網站的 URL | [https://stackoverflow.com](https://stackoverflow.com) |
+| 隱私權原則的 URL | [https://stackoverflow.com/legal/privacy-policy](https://stackoverflow.com/legal/privacy-policy) |
+| 使用條款的 URL | [https://stackoverflow.com/legal/terms-of-service/public](https://stackoverflow.com/legal/terms-of-service/public) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
+
+此資訊已透過堆疊溢位提供，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+
+>此應用程式不會使用 Microsoft Graph。
+
+
+#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
+
+若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
+
+>不會使用非 Microsoft 服務。
+
+#### <a name="data-access-via-bots"></a>透過 bot 的資料存取
+
+如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
+
+>| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| Bot 會使用交談 API 直接將郵件傳送到小組聊天。 Bot 也會使用名單直接訊息使用者 | 我們不會儲存名單中的資料 |  |
+
+
+
+#### <a name="telemetry-data"></a>遙測資料
+
+任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
+
+>錯誤。 MS Teams 使用者和 so Teams 使用者的對應會在 so Teams 產品中進行。
+MS Teams 會傳送我們的辨識識別碼，我們會將它們儲存在內部，以對應使用者。
+此外，MS Teams 會傳送給我們的 bot 要求 (防止要求偽造) 和索引標籤要求使用 SO cookie 驗證。
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
+
+說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
+
+>我們會根據 ISO27001 建立我們的安全性計畫。 資料會以邏輯方式分割成自己的 SQL 架構，並儲存在一組不同的資料庫中。 您的資料儲存在邏輯上分開的資料儲存區中，只有您的小組要求才能存取。
+
+#### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
+
+參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
+
+>否
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
+
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/23308' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/23308" target="_blank">在新的索引標籤中查看</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
