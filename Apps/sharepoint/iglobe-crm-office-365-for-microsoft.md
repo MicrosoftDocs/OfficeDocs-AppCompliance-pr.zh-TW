@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/17/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: 所有適用于 Microsoft Office 365 的 iGlobe CRM Office 365 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 92b4b115c22593fac898e9ebaeaf49af855c5137
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 5ec2f0c536f45192514218e7a0e5b7110fbfe650
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093964"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251662"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-office-365"></a>iGlobe Microsoft Office 365 的 CRM Office 365
 

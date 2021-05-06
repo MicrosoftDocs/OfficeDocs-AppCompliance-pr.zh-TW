@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: 所有適用于 Outlook 的 Adobe 簽署 Add-In 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5ae63ddb614784164870b24508e0782bce49dd48
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 530bd74a0c74561545c4e7076cec5f6bc0eb5aa4
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094104"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251802"
 ---
 # <a name="adobe-sign-add-in-for-outlook"></a>Outlook 的 Adobe Sign Add-In
 

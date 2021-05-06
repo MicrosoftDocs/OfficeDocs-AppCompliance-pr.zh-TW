@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 09/28/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: monday.com 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cf4fc476626fe4f623c6941cc2da096ec2a1ae41
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 84654bbc7ebbcf5afd14522a3dbbcc728e9f317a
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092774"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251372"
 ---
 # <a name="mondaycom"></a>monday.com
 

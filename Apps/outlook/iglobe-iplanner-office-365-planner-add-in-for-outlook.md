@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/17/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: iPlanner Office 365 Planner 增益集的所有可用安全性和符合性資訊資訊，Outlook、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a62f773ba3b172035429af8dc612131a1d777ee3
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 511b5f00bba5851f4f5a87ea65c39d3946a0313e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094068"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251752"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner 增益集 Outlook
 
@@ -31,11 +32,11 @@ ms.locfileid: "52094068"
 |:----------------|:-------------|
 | 應用程式名稱 | iPlanner Office 365 Planner 增益集 Outlook |
 | ID | WA104380147 |
-| 支援 Office 365 用戶端 | Windows 上的 Outlook 2013 或更新版本，Outlook 網頁上 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
 | 合作夥伴公司名稱 | iGlobe |
 | 合作夥伴網站的 URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
 | 隱私權原則的 URL | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
-| 使用條款的 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp; omkt = en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 使用條款的 URL | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

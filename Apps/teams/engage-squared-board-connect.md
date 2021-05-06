@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/16/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: 在 CSA 星型登錄中，所有適用于主機板連線的安全性和合規性資訊資訊，以及其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 51c344c6810287c155dffbac170fea0c1ab16259
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fdc58284721104fde1bb122f13532d9ecf63aabb
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093783"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250711"
 ---
 # <a name="board-connect"></a>版面連結
 
@@ -130,11 +131,11 @@ ms.locfileid: "52093783"
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 否 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，
-<br />
-- OAuth2 隱含 Flow （除非 SPA 是必要的）
-<br />
- | |您的應用程式是否公開任何 web APIs？ |是 | |如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ |是 | |您的應用程式是否使用預覽 APIs？ |無 | |您的應用程式使用的 APIs 是否已遭取代？ |否 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/> |
+| 您的應用程式是否公開任何 web APIs？ | 是 |
+| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

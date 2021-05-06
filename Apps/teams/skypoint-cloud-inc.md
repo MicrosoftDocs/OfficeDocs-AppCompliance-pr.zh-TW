@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/10/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: SkyPoint 雲端的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 80339fe31cdede2338402642baea596efc5369d8
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 99b5a7cf3c749e7a8d8ca5742eac7f8b81185bc1
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094152"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252273"
 ---
 # <a name="skypoint-cloud"></a>SkyPoint Cloud
 
@@ -123,11 +124,10 @@ SkyPoint 雲端 Inc. 已提供此資訊。關於此應用程式如何處理驗�
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 是 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，
-<br />
-- OAuth2 隱含 Flow （除非 SPA 是必要的）
-<br />
- | |您的應用程式是否公開任何 web APIs？ |無 | |您的應用程式是否使用預覽 APIs？ |無 | |您的應用程式使用的 APIs 是否已遭取代？ |否 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/> |
+| 您的應用程式是否公開任何 web APIs？ | 否 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

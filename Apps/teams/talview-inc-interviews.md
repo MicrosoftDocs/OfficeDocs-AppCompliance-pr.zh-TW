@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/12/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Talview 採訪的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5b8d68b8239d86be808cdd78d844b96b64712278
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 242ffe3ceb5dc7c88186b2740d48af42a6997b8e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092712"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52248121"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 

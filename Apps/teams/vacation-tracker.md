@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/05/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: 所有可用的假期追蹤器安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 33a6ecf06db07878a62a9b9a9edf4360f2507ee7
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: f4f6c515c09b33bc5ffbb9c4cb3c702362b9059c
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093565"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252243"
 ---
 # <a name="vacation-tracker"></a>假期追蹤程式
 
@@ -137,11 +138,11 @@ ms.locfileid: "52093565"
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 是 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，
-<br />
-- OAuth2 隱含 Flow （除非 SPA 是必要的）
-<br />
-- 資源擁有者密碼認證 (ROPC) 流程 | |您的應用程式是否公開任何 web APIs？ |是 | |如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ |是 | |您的應用程式是否使用預覽 APIs？ |無 | |您的應用程式使用的 APIs 是否已遭取代？ |否 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
+| 您的應用程式是否公開任何 web APIs？ | 是 |
+| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

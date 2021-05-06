@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: 所有可用的安全性和符合性資訊，針對敏捷工作面板、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 75935486fde59a033ead62c91f4276c2f2b1b133
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4ad5f0de96f6b1c7330eb480b1723361907e1239
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093939"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250992"
 ---
 # <a name="agile-task-board"></a>敏捷任務面板
 

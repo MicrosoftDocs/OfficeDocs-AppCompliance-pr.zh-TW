@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Wrike 的所有可用安全性和符合性資訊資訊，針對 Office 檔、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6ecbf74b4ef8e3f4203e01d0039b0573070e071e
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: c1304a161377b80c0248229aa1ef92f4f15e19d9
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094187"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251522"
 ---
 # <a name="wrike-for-office-documents"></a>Office 檔的 Wrike
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/31/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: SmartWork 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3fa673b3b6488cbca428f4583fe60021734525cf
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ac3365dd3b37fcc89ac63db89fc3f233a68ae045
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092723"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52249891"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -33,7 +34,7 @@ SmartWork for Intumit 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | SmartWork |
 | ID | WA200001149 |
-| 功能 | Bot |
+| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | SmartWork of Intumit |
 | 合作夥伴網站的 URL | [https://www.intumit.com](https://www.intumit.com) |

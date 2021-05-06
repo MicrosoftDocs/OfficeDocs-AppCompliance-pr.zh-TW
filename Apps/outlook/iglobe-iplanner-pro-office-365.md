@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/05/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: iPlanner Pro Office 365 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 651a24142abd6bb68e6ecafbe262a0b1af96402c
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 497b44a12613cf71cc761d7730b9ff84c9c7956f
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094067"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251742"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 

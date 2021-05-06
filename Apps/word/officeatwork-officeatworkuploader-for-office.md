@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/08/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊Office 的上載程式、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c920b92bd606c8e9b98c53554380da3858e5213e
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: f67b8dacee06afbeb341a20fb0147bab3add7331
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094192"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251542"
 ---
 # <a name="officeatwork--uploader-for-office"></a>officeatwork |Office 的上載程式
 
@@ -140,11 +141,10 @@ Officeatwork 此資訊的提供方式是關於此應用程式如何處理驗證�
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 是 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，
-<br />
-- OAuth2 隱含 Flow （除非 SPA 是必要的）
-<br />
-- 資源擁有者密碼認證 (ROPC) 流程 | |您的應用程式是否公開任何 web APIs？ |無 | |您的應用程式是否使用預覽 APIs？ |無 | |您的應用程式使用的 APIs 是否已遭取代？ |否 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
+| 您的應用程式是否公開任何 web APIs？ | 否 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

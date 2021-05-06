@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/25/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Yeeflow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 21fd7c76495a2bc559cb93bd89e3a8977b28ff09
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 853bf8e0467da6cf653998fc95c6cbc8c66dad1b
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093932"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250882"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -125,11 +126,11 @@ Akmii 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 是 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，
-<br />
-
-<br />
- | |您的應用程式是否公開任何 web APIs？ |是 | |如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ |是 | |您的應用程式是否使用預覽 APIs？ |無 | |您的應用程式使用的 APIs 是否已遭取代？ |否 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/><br/> |
+| 您的應用程式是否公開任何 web APIs？ | 是 |
+| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

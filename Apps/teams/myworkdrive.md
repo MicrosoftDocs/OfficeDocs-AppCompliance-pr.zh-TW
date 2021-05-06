@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/13/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: MyWorkDrive 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ff7c7e43f3927a3e6240208abc8568f283036991
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 389ebbea2d3faf1303f282bfb1d4805a749c13b9
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092758"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251212"
 ---
 # <a name="myworkdrive"></a>MyWorkDrive
 

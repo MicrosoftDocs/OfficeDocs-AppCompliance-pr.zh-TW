@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/11/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: ScanBuddy.ai 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e984c192f75050df735fe33644da4a1600167e4b
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 3d73d1399c4ed5669df2673ef861413683f4d49e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092786"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251382"
 ---
 # <a name="scanbuddyai"></a>ScanBuddy.ai
 

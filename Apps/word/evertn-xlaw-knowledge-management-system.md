@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/26/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: xLaw-知識管理系統的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b2aa11bf2f0601577058403bd0e2a898ce78eb61
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 37756d5e48843768b62ddfe6c9e34aad4122bfd3
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094199"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251582"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw-知識管理系統
 

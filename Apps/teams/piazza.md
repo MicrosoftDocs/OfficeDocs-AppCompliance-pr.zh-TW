@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 06/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Piazza 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3938ae4175f03f9a2164582d711b6cb7236aaa19
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: aa66ec207a068983982b25ca46e42958c29e5ff0
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092748"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251172"
 ---
 # <a name="piazza"></a>Piazza
 
