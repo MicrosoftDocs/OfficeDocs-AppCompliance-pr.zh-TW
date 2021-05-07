@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/22/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊可取得，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 129f564f8e25897fe9fc2cebfd55ae68fd20cf83
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 81a3afa06f4843c68a5e32da49f7e7be09e0684a
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092814"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252453"
 ---
 # <a name="reach"></a>達到
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/11/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Saberr 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 523498b2720b38a36aa76ec3f6dcb9f11384e1db
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 01ce38e7ec80ecb59912cbae3a15afce1f18810b
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093466"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252333"
 ---
 # <a name="saberr"></a>Saberr
 

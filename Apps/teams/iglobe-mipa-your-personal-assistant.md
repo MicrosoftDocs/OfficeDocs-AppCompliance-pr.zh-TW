@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/06/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: 所有適用于 MIPA 的安全性和符合性資訊資訊-您的個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7acb929082cdebca9780c741fbb584f3848b8108
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 243a39894b36ea470d25d4145169ecd6f2a27c75
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093703"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252533"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - 您的個人助理
 

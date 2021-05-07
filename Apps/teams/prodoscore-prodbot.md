@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/23/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Prodoscore ProdBot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 373544c31b3baca313c71cb1620b9c57c627fa69
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: b5075edb0ff6f23f01ef0975ee5429560720af9e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093484"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252363"
 ---
 # <a name="prodoscore-prodbot"></a>Prodoscore ProdBot
 
@@ -125,11 +126,10 @@ Prodoscore 此資訊的提供方式是關於此應用程式如何處理驗證、
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 是 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，
-<br />
-
-<br />
- | |您的應用程式是否公開任何 web APIs？ |無 | |您的應用程式是否使用預覽 APIs？ |是 | |您的應用程式使用的 APIs 是否已遭取代？ |否 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/><br/> |
+| 您的應用程式是否公開任何 web APIs？ | 否 |
+| 您的應用程式是否使用預覽 APIs？ | 是 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

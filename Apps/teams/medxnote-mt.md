@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 09/28/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Medxnote MT 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c76c9e0fe6166bf3acc8c2d48abb8172583d8dc9
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: c935846f32cf5f7edf6aa45155119ba948fcf907
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092791"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252423"
 ---
 # <a name="medxnote-mt"></a>Medxnote MT
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/19/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: 所有可用於 Jive 通訊的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6b88ed9c68a204d197005d0d1aadd8a5695e2f1e
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 337147716579739dc3d0f71e1eb46a330ce11423
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093679"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252493"
 ---
 # <a name="jive-communications"></a>Jive 通訊
 
