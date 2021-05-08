@@ -2,17 +2,17 @@
 title: Microsoft Teams App 安全性與合規性 - 所有 Apps
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/19/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 31d085e5a2f8d01e8899f7c3fe911184c2cff879
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 6bc983288ea2acb783fd99a80c6c4dbcfbf83fae
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52070912"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251042"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Microsoft Teams App 安全性與合規性
 
@@ -21,6 +21,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** | **資料處理資訊** | **雲端 App 安全性資訊**  | **APP 功能** |
 |:--------|:------------|:----------------------:|:-------------:|:-----------------------------:|:----------------------------------:|:---------------------|
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  | 是 | 是 | 索引標籤，連接器 |
+| [ADI](./akari-solutions-limited-adi.md) | Akari Solutions Limited | **✓** |  | 是 | 是 | Bot |
 | [Adobe 標誌](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 是 | 是 | Bot，索引標籤 |
 | [敏捷任務面板](./agile-is-task-board.md) | Agile-IS | **✓** |  | 是 | 是 | 索引標籤 |
 | [Alvao 服務台](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
@@ -31,10 +32,14 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [atSpoke](./townsend-street-labs-inc-atspoke.md) | Townsend Street Labs, Inc. | **✓** |  | 是 | 是 | Bot |
 | [AttendanceBot](./anaek-attendancebot.md) | Anaek | **✓** |  | 是 | 是 | Bot |
 | [AVA](./avepoint-inc-ava.md) | AvePoint, Inc. | **✓** |  | 是 | 是 | Bot，索引標籤 |
+| [Beekast](./beekast.md) | Beekast | **✓** |  | 是 | 是 | 索引標籤 |
 | [Beesy](./beesapps-beesy.md) | BeesApps | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [版面連結](./engage-squared-board-connect.md) | 使用方形 | **✓** |  | 是 | 是 | 索引標籤 |
 | [額外獎勵](./bonusly.md) | 額外獎勵 | **✓** |  | 是 | 是 | Bot |
+| [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  | 是 | 是 | Bot |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
+| [Brightidea](./brightidea.md) | Brightidea | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
+| [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [行事曆 BOT](./approved-contact-calendar-bot.md) | 已核准的連絡人 | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [CatchEm](./chimu-software-catchem.md) | Chimu Software | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [中心式](./biz-effective-centrical.md) | Biz-Effective | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
@@ -48,15 +53,18 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  | 是 | 是 | 索引標籤 |
 | [Droplr](./droplr.md) | Droplr | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [動態訊號](./dynamic-signal.md) | 動態訊號 | **✓** |  | 是 | 是 | Bot，索引標籤 |
+| [簡單專案](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR（亞洲） Co.Ltd。 | **✓** |  | 是 | 是 | 索引標籤 |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  | 是 | 是 | 索引標籤 |
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  | 是 | 是 | 連接器 |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
+| [Empuls](./empuls.md) | Empuls | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  | 是 | 是 | Bot |
 | [Evernote](./evernote.md) | Evernote | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [Evocom](./evocom-informationssysteme-gmbh.md) | Evocom Informationssysteme GmbH | **✓** |  | 是 | 是 | 索引標籤 |
 | [ezTeam](./enterprizid-inc-ezteam.md) | EnterprizID Inc | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | 企業數位電腦 | **✓** |  | 是 | 是 | 索引標籤，連接器 |
+| [Freehand by InVision](./invision-app-freehand-by.md) | InVision 應用程式 | **✓** |  | 是 | 是 | 索引標籤 |
 | [Freshdesk](./freshworks-inc-freshdesk.md) | Freshworks INC | **✓** |  | 是 | 是 | Bot |
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  | 是 | 是 | Bot |
 | [Go1](./go1.md) | Go1 | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
@@ -66,8 +74,10 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [HeyTaco！](./heytaco!.md) | HeyTaco！ | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [Hibob](./hibob-inc.md) | Hibob Inc. | **✓** |  | 是 | 是 | Bot |
+| [HighSide](./highside-inc.md) | HighSide, Inc | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
 | [Hoylu](./hoylu.md) | Hoylu | **✓** |  | 是 | 是 | 索引標籤 |
 | [HunchBuzz](./hunchbuzz.md) | HunchBuzz | **✓** |  | 是 | 是 | 索引標籤，連接器 |
+| [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  | 是 | 是 | Bot |
 | [IndustryIntel](./industry-intelligence-team-industryintel.md) | Industry Intelligence Team | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [InStation](./developers-invillia-instation.md) | Developers Invillia | **✓** |  | 是 | 是 | 索引標籤 |
 | [Jetdocs](./jetdocs.md) | Jetdocs | **✓** |  | 是 | 是 | Bot，索引標籤 |
@@ -103,10 +113,13 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  | 是 | 是 | 索引標籤，連接器 |
 | [OfficeSpace](./officespace-software.md) | OfficeSpace Software | **✓** |  | 是 | 是 | Bot |
 | [Officevibe](./officevibe.md) | Officevibe | **✓** |  | 是 | 是 | Bot |
+| [Onsight Connect](./librestream-onsight-connect.md) | Librestream | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [OpenAgora](./open-agora-openagora.md) | Open Agora | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  | 是 | 是 | Bot，索引標籤 |
+| [Package 通知程式](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  | 是 | 是 | 連接器 |
 | [Perfony](./perfony.md) | Perfony | **✓** |  | 是 | 是 | 索引標籤 |
 | [Piazza](./piazza.md) | Piazza | **✓** |  | 是 | 是 | 索引標籤 |
+| [Planyway 小組行事曆](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  | 是 | 是 | 索引標籤 |
 | [Polly](./polly.md) | Polly | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [Prezi Video](./prezi-video.md) | Prezi | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 是 | 是 | Bot，索引標籤，傳訊擴充功能，連接器 |
@@ -134,27 +147,32 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  | 是 | 是 | Bot |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps， Inc. | **✓** |  | 是 | 是 | 索引標籤，連接器 |
 | [Site24x7](./zoho-corporation-private-limited-site24x7.md) | Zoho Corporation Private Limited | **✓** |  | 是 | 是 | Bot，索引標籤，連接器 |
-| [Skillate](./skillate-laboratories-pvt-ltd.md) | Skillate Laboratories Pvt. Ltd. | **✓** |  | 是 | 是 | Bot，索引標籤，連接器 |
+| [Skillate](./skillate-laboratories-pvt-ltd.md) | Skillate Laboratories Pvt. | **✓** |  | 是 | 是 | Bot，索引標籤，連接器 |
 | [Skills by Pipe9](./pipe9com-skills-by-pipe9.md) | Pipe9.com | **✓** |  | 是 | 是 | 索引標籤 |
 | [SkyPoint Cloud](./skypoint-cloud-inc.md) | SkyPoint Cloud Inc. | **✓** |  | 是 | 是 | Bot |
 | [Slido](./slido.md) | Slido | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [Jira 的 Smart Connect](./yasoon-gmbh-smart-connect-for-jira.md) | yasoon GmbH | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
+| [SMART 學習套件](./smart-technologies-ulc-learning-suite.md) | SMART Technologies ULC | **✓** |  | 是 | 是 | 索引標籤 |
 | [Smartnotation](./smartnotation-bv.md) | Smartnotation B.V. | **✓** |  | 是 | 是 | 索引標籤，連接器 |
 | [Smartsheet](./smartsheet.md) | Smartsheet | **✓** |  | 是 | 是 | Bot，索引標籤 |
-| [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  | 是 | 是 | Bot |
+| [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  | 是 | 是 | Bot，索引標籤 |
+| [SmileBack](./smileback.md) | SmileBack | **✓** |  | 是 | 是 | 連接器 |
 | [Soapbox](./soapbox.md) | Soapbox | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [Spinify](./spinify.md) | Spinify | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [Teams 的 Stack Overflow](./stack-overflow-for-teams.md) | Stack Overflow | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能 |
 | [Standup Alice](./bao-le-duc-standup-alice.md) | Bao Le Duc | **✓** |  | 是 | 是 | Bot |
 | [StarLeaf](./starleaf.md) | StarLeaf | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
+| [StealthMail](./stealthmail-software-ltd.md) | Stealthmail Software Ltd | **✓** |  | 是 | 是 | 索引標籤 |
 | [Streem](./streem.md) | Streem | **✓** |  | 是 | 是 | Bot |
 | [Studi.ly](./inlogic-office-store-studily.md) | inLogic-Office Store | **✓** |  | 是 | 是 | 索引標籤 |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  | 是 | 是 | Bot，索引標籤，傳訊擴充功能，連接器 |
+| [SurveySparrow](./admin@surveysparrowcom-surveysparrow.md) | admin@surveysparrow.com | **✓** |  | 是 | 是 | Bot |
 | [Sympli](./sympli-llc.md) | Sympli，LLC | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
 | [TackleBox](./insiten-tacklebox.md) | Insiten | **✓** |  | 是 | 是 | 索引標籤，連接器 |
 | [Talla](./talla-inc.md) | Talla Inc. | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [Talview Interviews](./talview-inc-interviews.md) | Talview Inc | **✓** |  | 是 | 是 | 索引標籤 |
 | [TaskList](./limestat-inc-tasklist.md) | LimeStat, Inc | **✓** |  | 是 | 是 | Bot |
+| [Teamhood](./eylean-uab-teamhood.md) | Eylean, UAB | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
 | [ChitChattr 的 TeamMate](./chitchattr-teammate-by.md) | ChitChattr | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [TeamMood](./power-up-conseil-teammood.md) | Power Up Conseil | **✓** |  | 是 | 是 | Bot |
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  | 是 | 是 | Bot，索引標籤 |
@@ -165,7 +183,9 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  | 是 | 是 | Bot，傳訊擴充功能 |
 | [timeghost](./kollisch-gmbh-timeghost.md) | K&#246;llisch GmbH | **✓** |  | 是 | 是 | 索引標籤 |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  | 是 | 是 | Bot，連接器 |
+| [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  | 是 | 是 | 索引標籤 |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  | 是 | 是 | Bot，索引標籤 |
+| [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  | 是 | 是 | 索引標籤 |
 | [Tryane Analytics](./tryane-analytics.md) | Tryane | **✓** |  | 是 | 是 | 索引標籤 |
 | [假期追蹤程式](./vacation-tracker.md) | 假期追蹤程式 | **✓** |  | 是 | 是 | Bot，索引標籤 |
 | [Viima](./viima-solutions-oy.md) | Viima Solutions Oy | **✓** |  | 是 | 是 | 索引標籤 |
