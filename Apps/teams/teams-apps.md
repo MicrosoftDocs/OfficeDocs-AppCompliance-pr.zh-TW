@@ -2,17 +2,17 @@
 title: Microsoft Teams App 安全性與合規性 - 所有 Apps
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 6bc983288ea2acb783fd99a80c6c4dbcfbf83fae
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 029df430f55edfaef5a1c0bbf106c50438e19590
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251042"
+ms.locfileid: "52258820"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Microsoft Teams App 安全性與合規性
 
