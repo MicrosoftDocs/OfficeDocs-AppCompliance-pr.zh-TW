@@ -1,46 +1,46 @@
 ---
-title: Centrical 的應用程式資訊 Biz-Effective
+title: ADI 依 Akari 解決方案限制的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/12/2021
+ms.date: 04/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Centrical 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: ADI 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8255572428a9fc1bc2ea9dbe30edb558c3fc03ff
+ms.openlocfilehash: 435ede7d8821a4f93e930996f7159b794b5b8a22
 ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253164"
+ms.locfileid: "52253054"
 ---
-# <a name="centrical"></a>中心式
+# <a name="adi"></a>Adi
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年1月12日</p>
+<p>上次於開發人員的更新日期：2021年4月28日</p>
 
-* <a href="https://teams.microsoft.com/l/app/7a70b8e4-43ca-46a7-b7c3-eb31b33de397" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001531" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/de5717a1-6884-4b96-8b1e-ee17b5d778f3" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002615" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Biz-Effective 提供給 Microsoft 的資訊：
+Akari 解決方案所提供的資訊限制于 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 中心式 |
-| ID | WA200001531 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
+| 應用程式名稱 | Adi |
+| ID | WA200002615 |
+| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Biz-Effective |
-| 合作夥伴網站的 URL | [https://centrical.com](https://centrical.com) |
-| Teams 應用程式資訊頁面的 URL | [https://centrical.com/solutions/solutions-by-use-case-2/mic...](https://centrical.com/solutions/solutions-by-use-case-2/microsoft-teams-gamification/) |
-| 隱私權原則的 URL | [https://centrical.com/privacy](https://centrical.com/privacy) |
-| 使用條款的 URL | [https://centrical.com/terms](https://centrical.com/terms) |
+| 合作夥伴公司名稱 | Akari 解決方案限制 |
+| 合作夥伴網站的 URL | [https://akari.io/adi/](https://akari.io/adi/) |
+| Teams 應用程式資訊頁面的 URL | [https://akari.io/adi](https://akari.io/adi) |
+| 隱私權原則的 URL | [https://akari.io/adi-privacy-policy/](https://akari.io/adi-privacy-policy/) |
+| 使用條款的 URL | [https://akari.io/adi-terms-and-conditions/](https://akari.io/adi-terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +50,7 @@ Biz-Effective 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊的提供方式 Biz-Effective 是關於此應用程式如何收集和儲存組織資料，以及您的組織將會透過應用程式收集的資料所產生的控制項。
+此資訊是由 Akari 解決方案所提供，此應用程式會限制此應用程式如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -83,7 +83,7 @@ Biz-Effective 提供給 Microsoft 的資訊：
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->我們是 SOC2 類型2相容，ISO 27001 和 GDPR 相容。 我們有多個控制措施，可確保資料的隱私權和安全性。 我們只會使用應用程式的資料，而且不會與協力廠商共用。
+>少數管理員可以透過 PIM &amp; MFA 存取應用程式平臺元件。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -99,9 +99,9 @@ Biz-Effective 提供給 Microsoft 的資訊：
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36383' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37587' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36383" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37587" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,22 +111,21 @@ Biz-Effective 提供給 Microsoft 的資訊：
 
 ### <a name="identity-information"></a>身分識別資訊
 
-此資訊的提供方式 Biz-Effective 是此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+Akari 解決方案已提供此資訊，此應用程式會限制此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
-| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 假 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
 | 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 否 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
-| 您的應用程式是否公開任何 web APIs？ | 是 |
-| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
+| 您的應用程式，您避免使用什麼？ | ,<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/> |
+| 您的應用程式是否公開任何 web APIs？ | 否 |
 | 您的應用程式是否使用預覽 APIs？ | 否 |
 | 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
 

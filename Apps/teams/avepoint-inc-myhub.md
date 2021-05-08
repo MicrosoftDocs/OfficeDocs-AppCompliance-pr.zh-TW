@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/21/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: MyHub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 506849ae022916d92fc552d2e532ed7a6144df50
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 391c44f4f1d06742d1002b713f5f24f69db7d01e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52093892"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52253184"
 ---
 # <a name="myhub"></a>MyHub
 
