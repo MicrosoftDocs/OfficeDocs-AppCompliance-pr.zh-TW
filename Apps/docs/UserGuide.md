@@ -6,12 +6,12 @@ description: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 keywords: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1338edfc5ad4447d9167eea66388cd8d7a65a883
-ms.sourcegitcommit: 47fdc4f6dcfbc1b4c74f7e1e49343b9b1ce6ef9c
+ms.openlocfilehash: a6b0abb55359a16d4651722d776dfb16282edc87
+ms.sourcegitcommit: bb6c1353781d7b6f8b171bf6853b85e42fda656e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/11/2021
-ms.locfileid: "52313260"
+ms.locfileid: "52324082"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>合作夥伴的 Microsoft 365 應用程式規範計畫的使用者指南
 
@@ -150,17 +150,17 @@ ms.locfileid: "52313260"
 
 ![審查中的證明](../media/existing%20isv%203.png)
 
-## <a name="6---microsoft-365-re-certification-workflow"></a>6. Microsoft 365 Re-Certification 工作流程：
-
-**Microsoft 365 Publisher 證明和認證更新工作流程：** 
+## <a name="6---microsoft-365-publisher-attestation-and-certification-renewal-workflow"></a>6. Microsoft 365 Publisher 證明和認證更新工作流程：
 
 Microsoft 365App 相容性計畫現在提供一年的更新程式。 在此程式中，應用程式開發人員可以更新 Microsoft 365 憑證所需的現有 Publisher 認證問卷及檔。 
 
 **好處：**
 
-- 在 AppSource 中維護您的憑證徽章，以將您的應用程式與其他使用者區別開來。 
+- 在 AppSource 和小組存放區中維護您的憑證徽章，以將您的應用程式與其他使用者區別開來。 
 - 使用認證的應用程式，提高客戶的信賴程度。 
 - 協助 IT 管理員以更新的認證資訊作出合理的決策。 
+
+您可以在 [合作夥伴中心](https://partner.microsoft.com/en-us/dashboard/home) 取得新的更新程式，以提供無縫體驗。 在夥伴中心的到期日的開始90天之後，將會顯示更新提醒。 定期提醒也會透過電子郵件于到期的90、60和30天傳送。
 
 **第1層： Publisher 認證更新：** 
 
