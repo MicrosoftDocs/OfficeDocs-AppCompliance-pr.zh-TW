@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Soapbox 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 67f30267c8ab7af50cea771d8afc3836915d6cc2
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 6e2b43df38aac6307c36c4a2cc8d00fe1c3fb629
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52249781"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552774"
 ---
 # <a name="soapbox"></a>Soapbox
 
@@ -34,7 +34,6 @@ ms.locfileid: "52249781"
 |:----------------|:-------------|
 | 應用程式名稱 | Soapbox |
 | ID | WA104381501 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Soapbox |
 | 合作夥伴網站的 URL | [https://soapboxhq.com](https://soapboxhq.com) |
@@ -78,12 +77,11 @@ ms.locfileid: "52249781"
 >| 應用程式會存取小組名單和聊天名單我們使用此功能，在 SoapBox 中使用小組/聊天成員建立小組通道 | [名稱]、[電子郵件]、[Microsoft 使用者識別碼]，以改善 Microsoft 團隊使用者應用程式的外觀與風格，並確保每位使用者都能完全參與會議軟體。 |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->可以。 「名稱」、「電子郵件」和「Microsoft 使用者識別碼」出現在我們的整合記錄平臺內，可協助識別問題，並協助使用者使用此平臺。 30天后，會從記錄伺服器中移除資料。
+>是。 「名稱」、「電子郵件」和「Microsoft 使用者識別碼」出現在我們的整合記錄平臺內，可協助識別問題，並協助使用者使用此平臺。 30天后，會從記錄伺服器中移除資料。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

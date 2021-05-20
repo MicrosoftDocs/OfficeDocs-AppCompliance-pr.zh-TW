@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Smartsheet 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 063dd29aea9265d89eb3ba735a376c7b1f0b64e3
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: ddf77e7e73cc0bef1a21e72d1db328a4845a12f5
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251122"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551523"
 ---
 # <a name="smartsheet"></a>Smartsheet
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251122"
 |:----------------|:-------------|
 | 應用程式名稱 | Smartsheet |
 | ID | WA104380975 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Smartsheet |
 | 合作夥伴網站的 URL | [https://help.smartsheet.com/articles/2476201](https://help.smartsheet.com/articles/2476201) |
@@ -88,7 +87,6 @@ ms.locfileid: "52251122"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| Smartsheet 會使用它來協助追蹤 bot 的交談情況。 在初始驗證流程中，我們會在 Smartsheet 通知系統中為使用者建立 bot 記錄。 | 針對 Teams bot 的 Smartsheet，我們會從 Teams 中儲存使用者電子郵件和 userId，以協助追蹤 bot 的交談。  Smartsheet 儲存 tenantIds 以協助列出使用者屬於目錄中的群組，以及 groupIds 以進行郵件傳遞。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

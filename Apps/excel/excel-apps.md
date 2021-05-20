@@ -2,36 +2,36 @@
 title: Microsoft Excel應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/06/2021
+ms.date: 05/18/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 26f24c937b9ebbca58f3f841f19639f1a9c4008c
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 5677b001d3cf8632ec166fe428a8fce441d8d25e
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258950"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52549693"
 ---
 # <a name="microsoft-excel-app-security-and-compliance"></a>Microsoft Excel應用程式安全性和合規性
 
 Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關所用 Excel 應用程式和增益集的決策。 此資訊會納入 [Microsoft 雲端 App 安全性](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 應用程式目錄 ，以及開發人員提交其應用程式時所提供的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
-| **應用程式** | **合作夥伴** | **發行者證明** | **認證** | **資料處理資訊** | **雲端 App 安全性資訊** |
-|:--------|:------------|:----------------------:|:-----------------------------:|:----------------------------------:|
-| [NetSuite 的 CloudExtend 分析](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  | 是 | 是 |
-| [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  | 是 | 是 |
-| [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  | 是 | 是 |
-| [Office 365 Planner 的 iPlanner 報告工具](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 是 | 是 |
-| [Jira Cloud for Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  | 是 | 是 |
-| [Excel 的 Lucidchart 圖表](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid 軟體 Inc。 | **✓** |  | 是 | 是 |
-| [Excel 的文字分析 MeaningCloud](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  | 是 | 是 |
-| [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 是 | 是 |
-| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 是 | 是 |
-| [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 是 | 是 |
-| [QuickCells 圖形](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  | 是 | 是 |
-| [QuickCells Solvers](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  | 是 | 是 |
-| [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  | 是 | 是 |
-| [Office 檔的 Wrike](./wrike-inc-for-office-documents.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 是 | 是 |
-| [Office 的 Wunder365](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi 技術私人有限 | **✓** |  | 是 | 是 |
+| **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
+|:--------|:------------|:----------------------:|:-------------:|
+| [NetSuite 的 CloudExtend 分析](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
+| [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
+| [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
+| [Office 365 Planner 的 iPlanner 報告工具](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Jira Cloud for Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
+| [Excel 的 Lucidchart 圖表](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid 軟體 Inc。 | **✓** |  |
+| [Excel 的文字分析 MeaningCloud](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
+| [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [QuickCells 圖形](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
+| [QuickCells Solvers](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
+| [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
+| [Office 檔的 Wrike](./wrike-inc-for-office-documents.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Office 的 Wunder365](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi 技術私人有限 | **✓** |  |

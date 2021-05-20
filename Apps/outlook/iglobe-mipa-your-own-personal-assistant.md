@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: MIPA 中所有可用的安全性和符合性資訊資訊-您自己的個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 845430e287f089d0438649acf7a41d7e0ebe231c
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: a9f8609539de3ce0f630134dfac4c6b10b7d9378
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251732"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552524"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA-您自己的個人助理
 
@@ -96,15 +96,6 @@ ms.locfileid: "52251732"
 >不會使用非 Microsoft 服務。
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 專案 | 此增益集可以存取及修改使用中郵件中的個人資訊，例如本文、主旨、寄件者、收件者及附件資訊。 它可能會將此資料傳送給協力廠商服務。 您的信箱中的其他專案可以&#8217;t 讀取或修改。 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

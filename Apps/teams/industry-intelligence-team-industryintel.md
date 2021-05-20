@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: IndustryIntel 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 667a8680991551e79b9be5ae404c660e4ed72092
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 6e2c1c35d0054df773b83fa2d31a95daceaee585
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251362"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553064"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251362"
 |:----------------|:-------------|
 | 應用程式名稱 | IndustryIntel |
 | ID | WA200001907 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Industry Intelligence Team |
 | 合作夥伴網站的 URL | [https://www.industryintel.com/public:about-us/our-team](https://www.industryintel.com/public:about-us/our-team) |
@@ -73,12 +72,11 @@ ms.locfileid: "52251362"
 >| 驗證使用者是否有權存取業界智慧型網路。 如果使用者已成功驗證，使用者可以使用 Bot 和郵件擴充功能的完整功能。 | 我們只會儲存用於對應識別碼 w/工業智慧/內部使用者識別碼的小組成員識別碼。 |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->錯誤。 MS Teams 使用者和 so Teams 使用者的對應會在 so Teams 產品中進行。 MS Teams 會傳送我們的辨識識別碼，我們會將它們儲存在內部，以對應使用者。 此外，MS Teams 會傳送給我們的 bot 要求 (防止要求偽造) 和索引標籤要求使用 SO cookie 驗證。
+>否。 MS Teams 使用者和 so Teams 使用者的對應會在 so Teams 產品中進行。 MS Teams 會傳送我們的辨識識別碼，我們會將它們儲存在內部，以對應使用者。 此外，MS Teams 會傳送給我們的 bot 要求 (防止要求偽造) 和索引標籤要求使用 SO cookie 驗證。
 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項

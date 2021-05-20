@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Kronos 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2bc3f93ff83c3b284b97632806c5bff826806666
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 3a20e3a40ce61d6610b6f36e4c2943da1e9293d2
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251302"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552994"
 ---
 # <a name="kronos"></a>Kronos
 
@@ -34,7 +34,6 @@ Kronos，Inc. 提供給 Microsoft 的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | Kronos |
 | ID | WA104381629 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Kronos， Inc. |
 | 合作夥伴網站的 URL | [https://www.kronos.com/](https://www.kronos.com/) |
@@ -70,7 +69,6 @@ Kronos，Inc. 已提供此資訊。關於此應用程式如何收集和儲存組
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

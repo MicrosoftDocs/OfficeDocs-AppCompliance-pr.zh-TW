@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊都是廣泛的創意、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7d1186c5a9c17d2bf835569dad87e0f36aaf1d3c
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: f1fc5d97736ba587595ef6c742b14ce75c0b1863
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252213"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52550893"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252213"
 |:----------------|:-------------|
 | 應用程式名稱 | Wide Ideas |
 | ID | WA200000819 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Wide Ideas |
 | 合作夥伴網站的 URL | [https://getwideideas.com](https://getwideideas.com) |
@@ -77,7 +76,6 @@ ms.locfileid: "52252213"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 若要在後端建立使用者，並授與存取連結至小組之內容的許可權。 | 儲存： Name-To 顯示使用者的名稱，電子郵件地址-識別使用者 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

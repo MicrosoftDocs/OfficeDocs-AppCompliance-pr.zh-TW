@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HunchBuzz 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 998abeea286dce3c7a82c40e68695c1fd107aaa7
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: da50e7ef872263bd4d4d159733d631e4ba08f24d
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252543"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552104"
 ---
 # <a name="hunchbuzz"></a>HunchBuzz
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252543"
 |:----------------|:-------------|
 | 應用程式名稱 | HunchBuzz |
 | ID | WA200000160 |
-| 功能 | 索引標籤，連接器 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | HunchBuzz |
 | 合作夥伴網站的 URL | [https://hunchbuzz.com](https://hunchbuzz.com) |
@@ -70,7 +69,6 @@ ms.locfileid: "52252543"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

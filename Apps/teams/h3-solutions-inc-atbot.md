@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AtBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b25ded304a7ed4b1b9eaeb5b81d331c89ba713bc
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 3f56d0b3eb19f5bed8f7092507c8605af936b911
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252573"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552134"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252573"
 |:----------------|:-------------|
 | 應用程式名稱 | AtBot |
 | ID | WA104381219 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | H3 Solutions， Inc. |
 | 合作夥伴網站的 URL | [https://atbot.io](https://atbot.io) |
@@ -81,7 +80,6 @@ ms.locfileid: "52252573"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 在 bot 產生的聊天訊息中建立提及 | 否 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

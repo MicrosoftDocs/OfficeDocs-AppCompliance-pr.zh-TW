@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hibob 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5dc76a2f8a2ee57e23e3e581f069503fd2239bc1
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: f2eae876022c6213b5f39532f44de4c127c3655e
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250631"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553094"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -34,7 +34,6 @@ Hibob Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Hibob |
 | ID | WA200000765 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Hibob Inc. |
 | 合作夥伴網站的 URL | [https://www.hibob.com/](https://www.hibob.com/) |
@@ -71,7 +70,6 @@ Hibob Inc. 所提供的資訊給 Microsoft：
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| rooster 是用來比對透過電子郵件的王俊元使用者的 Teams 使用者。 對應用於識別碼、通知、與 Teams 設定檔的連結。 | 只會使用和儲存 UPN 屬性。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OnePlaceMail Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1eeee8a3aff40a8ca4486308bcfef5887b6ced6c
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 5094d1ad5e7b028ac115529de16ddb9cbef2086f
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252954"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552494"
 ---
 # <a name="oneplacemail-for-outlook"></a>Outlook 的 OnePlaceMail
 
@@ -81,15 +81,6 @@ OnePlace 解決方案所提供的資訊給 Microsoft：
 >| Chargify 服務用於訂閱管理和計費。 在應用程式中 (免費) 訂閱建立使用者的名字、姓氏、使用者的電子郵件地址會與 Chargify 共用。 對於支援多個授權使用者的已購買訂閱 () 個別使用者詳細資料不會與 Chargify 服務共用。 | 電子郵件地址 | 能夠將訂閱生命週期事件傳遞給使用者 |
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 信箱 | 此增益集可以讀取或修改您信箱中任何專案的內容，並建立新的專案。 它可以存取任何郵件或行事曆專案中的個人資訊，例如正文、主旨、寄件者、收件者或附件。 它可能會將此資料傳送給協力廠商服務。 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

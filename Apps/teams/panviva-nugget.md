@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Nugget 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d64477546191bbcfff12580f2b5816070d443229
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 1d5f6adea09ed546fae6b6c9ca0aa4ef13beb683
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251182"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552864"
 ---
 # <a name="nugget"></a>Nugget
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251182"
 |:----------------|:-------------|
 | 應用程式名稱 | Nugget |
 | ID | WA200001737 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Panviva |
 | 合作夥伴網站的 URL | [https://www.panviva.com](https://www.panviva.com) |
@@ -71,12 +70,11 @@ ms.locfileid: "52251182"
 >未存取 EUII。
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->可以。
+>是。
 已儲存 Teams 使用者識別碼：這是必要的，因此我們可以找回其所在的承租人和使用者為系統管理員的相關資訊。
 Teams 組織識別碼：這是儲存的，因此我們可以在租使用者中取得使用者，並取得該特定租使用者的訂閱詳細資料。
 

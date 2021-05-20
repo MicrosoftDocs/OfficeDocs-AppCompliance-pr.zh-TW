@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用的安全性和符合性資訊，如範本選擇、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 97967acac5f81e330b6cfcaccf68300a3a34d9a7
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 6af7611aebaf90acfc1785ad5e5cbba3e58f3871
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251202"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552884"
 ---
 # <a name="template-chooser"></a>範本選擇程式
 
@@ -33,7 +33,6 @@ ms.locfileid: "52251202"
 |:----------------|:-------------|
 | 應用程式名稱 | 範本選擇程式 |
 | ID | WA200000110 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | officeatwork |
 | 合作夥伴網站的 URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
@@ -86,7 +85,6 @@ ms.locfileid: "52251202"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

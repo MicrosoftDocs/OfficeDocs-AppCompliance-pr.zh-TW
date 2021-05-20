@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus Cloud 的所有可用安全性和符合性資訊資訊，也就是其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a1c561d7ce78573f7000f7a710467c53f662e64c
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 04797702995180e8a0a5305e88d49903eff80690
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251622"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52550543"
 ---
 # <a name="servicedesk-plus-cloud"></a>ServiceDesk Plus Cloud
 
@@ -34,7 +34,6 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | ServiceDesk Plus Cloud |
 | ID | WA200000037 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Zoho Corporation Private Limited |
 | 合作夥伴網站的 URL | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
@@ -80,7 +79,6 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

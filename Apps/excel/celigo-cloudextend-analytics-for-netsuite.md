@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 NetSuite 的 CloudExtend Analytics 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 073e27fbf0e2ad9f0fcde35051b2109e5c068952
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 12a973e35124a98ab2e284b40c536dabc8ae21a0
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52259009"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52549703"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>NetSuite 的 CloudExtend 分析
 
@@ -68,15 +68,6 @@ ms.locfileid: "52259009"
 >| Chargebee、NetSuite、Salesforce、Intercom、LogRocket、Amazon AWS | 組織名稱、NetSuite 帳戶號碼、組織電子郵件地址的網域、計費連絡人資訊 | 授權布建、驗證和帳單客戶支援、疑難排解及帳戶管理 |
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 檔 | 可以讀取和變更您的檔 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Reminderz 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7cefe4b3adc5b2c79f5123faddc9109ca3540f9b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: e383a57baf5cec02de28ac288a5f157d9073d8b7
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251392"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552304"
 ---
 # <a name="reminderz"></a>Reminderz
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251392"
 |:----------------|:-------------|
 | 應用程式名稱 | Reminderz |
 | ID | WA200001976 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | ChitChattr |
 | 合作夥伴網站的 URL | [https://www.chitchattr.com?p=reminderz](https://www.chitchattr.com?p=reminderz) |
@@ -79,7 +78,6 @@ ms.locfileid: "52251392"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 會檢索使用者的名稱，以顯示傳送郵件的使用者名稱，在提醒中。  | 使用者顯示名稱  | 儲存名稱，以供授權查詢 (，使用者 enquires 授權時，我們需要判斷目前授權的使用者)   |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

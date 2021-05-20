@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Wrike 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cd676daf8fa2ec7b8af9cc9fae79adce39ca7680
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 4ef844f9bf25ffa41a6054aa6ffcbebdb94be223
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251983"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52550763"
 ---
 # <a name="wrike"></a>Wrike
 
@@ -33,7 +33,6 @@ Wrike Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Wrike |
 | ID | WA104381390 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Wrike Inc. |
 | 合作夥伴網站的 URL | [https://www.wrike.com](https://www.wrike.com) |
@@ -78,7 +77,6 @@ Wrike Inc. 所提供的資訊給 Microsoft：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

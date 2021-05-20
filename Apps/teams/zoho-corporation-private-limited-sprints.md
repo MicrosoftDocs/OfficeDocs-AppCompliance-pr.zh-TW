@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho 衝刺（sprint）登錄中所有可用的安全性和符合性資訊，針對衝刺（其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊）。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ce6a41cb07c1886661d8c9de32528373b1745e68
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: fc19b083312c4c8222b894ae6bb35b0bbdd5314e
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251943"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552674"
 ---
 # <a name="zoho-sprints"></a>Zoho Sprints
 
@@ -34,7 +34,6 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | Zoho Sprints |
 | ID | WA200000188 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Zoho Corporation Private Limited |
 | 合作夥伴網站的 URL | [https://www.zoho.com/sprints/](https://www.zoho.com/sprints/) |
@@ -78,7 +77,6 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

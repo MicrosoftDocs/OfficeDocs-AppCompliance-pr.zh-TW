@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Teamhood 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 45367d70e46d9431a4cec2c9667009831e302821
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 760f57e7fdc562e5ee39d563792c195d38aecb23
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258840"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553154"
 ---
 # <a name="teamhood"></a>Teamhood
 
@@ -34,7 +34,6 @@ ms.locfileid: "52258840"
 |:----------------|:-------------|
 | 應用程式名稱 | Teamhood |
 | ID | WA200002568 |
-| 功能 | Bot，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Eylean, UAB |
 | 合作夥伴網站的 URL | [https://teamhood.com](https://teamhood.com) |
@@ -70,7 +69,6 @@ ms.locfileid: "52258840"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

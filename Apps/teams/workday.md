@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Workday 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e193bbcee79ab77e878554c07af452a6a37e1061
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 181356178c5af1fc2f728ad84b2bbd33a7fc92a1
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252303"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52550813"
 ---
 # <a name="workday"></a>Workday
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252303"
 |:----------------|:-------------|
 | 應用程式名稱 | Workday |
 | ID | WA200001555 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Workday |
 | 合作夥伴網站的 URL | [https://nw.myworkday.com/microsoftteams](https://nw.myworkday.com/microsoftteams) |
@@ -77,7 +76,6 @@ ms.locfileid: "52252303"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 名單資料可用於個人化使用者與 Workday 應用程式的互動。 | 否 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

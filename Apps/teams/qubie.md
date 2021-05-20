@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Qubie 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: aea17d24b3fbe2f840c21947213fefc7a4bfb283
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 0bbba08dde8cfe2fe19d9aee9de1720a8ef64a77
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252353"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552804"
 ---
 # <a name="qubie"></a>Qubie
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252353"
 |:----------------|:-------------|
 | 應用程式名稱 | Qubie |
 | ID | WA104381933 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Qubie |
 | 合作夥伴網站的 URL | [https://www.questback.com/our-products/performance-suite/te...](https://www.questback.com/our-products/performance-suite/teams-triumph-with-qubie/) |
@@ -72,7 +71,6 @@ ms.locfileid: "52252353"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 當您刪除小組聊天中的批註時顯示名稱，並回應導致錯誤的使用者或傳送問題的使用者。 回應檔案為 bug 的使用者，或有問題的使用者。 顯示小組效能問題時顯示，讓使用者知道問題的內容。 顯示報表及圖形時顯示小組名稱。 | 顯示名稱、電子郵件地址、小組名稱  |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

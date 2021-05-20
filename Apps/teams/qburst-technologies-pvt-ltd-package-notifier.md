@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，套件通告程式、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 29529aa7e2c907ec7c028061ecf3d2fea4535be2
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 32a5d38cf65162adfcf236d955d881b77cba0ec7
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252050"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552814"
 ---
-# <a name="package-notifier"></a>套件通告程式
+# <a name="package-notifier"></a>Package 通知程式
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,11 +32,10 @@ QBURST 技術 PVT 有限公司提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 套件通告程式 |
+| 應用程式名稱 | Package 通知程式 |
 | ID | WA200002737 |
-| 功能 | 連接器 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | QBURST 技術 PVT 有限公司 |
+| 合作夥伴公司名稱 | QBURST TECHNOLOGIES PVT LTD |
 | 合作夥伴網站的 URL | [https://package-notifier.qburst.in](https://package-notifier.qburst.in) |
 | Teams 應用程式資訊頁面的 URL | [不適用](N/A) |
 | 隱私權原則的 URL | [https://package-notifier.qburst.in/privacy-policy.html](https://package-notifier.qburst.in/privacy-policy.html) |
@@ -77,7 +76,6 @@ QBURST 技術 PVT 公司會提供此資訊，這些資訊是關於此應用程�
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

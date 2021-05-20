@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Cloverpop 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1f7ee0c5a92757d03291de890ebfde05ed55a7db
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: eaee7a04f4d8e74f97eef1fae358f80a0c3e2249
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252693"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553224"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252693"
 |:----------------|:-------------|
 | 應用程式名稱 | Cloverpop |
 | ID | WA200001803 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Cloverpop |
 | 合作夥伴網站的 URL | [https://www.cloverpop.com](https://www.cloverpop.com) |
@@ -77,12 +76,11 @@ ms.locfileid: "52252693"
 >| 我們會存取第一個/最後一個/顯示名稱資料，以準確顯示特定使用者針對決策所採取的動作。 我們會使用電子郵件地址做為資料庫中每個使用者的唯一識別碼，因為我們可讓每位使用者隸屬于多個組織。 我們只會存取此資料與我們的應用程式互動時，例如，如果他們回應投票。 | 我們會儲存第一個/最後一個/顯示名稱資料，以準確顯示特定使用者針對決策所採取的動作。  我們會儲存電子郵件地址，因為我們會將其當作 db 中每位使用者的唯一識別碼，讓每一位使用者都屬於多個組織。 我們只會儲存此資料與我們的應用程式互動時，例如，如果他們回應投票。 我們的決策資料應為決策的記錄系統，因此請務必儲存資料，以識別每個使用者對該決策的參與。 |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->可以。
+>是。
 當我們的應用程式與小組進行互動時，我們的記錄會顯示小組識別碼。
 我們將實際執行記錄的存取許可權制于所有以美國為基礎的三個 founders
 

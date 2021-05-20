@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LMS365 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 03f831a0dd6c1b2b17b7ce12a3d421eb8fe1f10d
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 44ed1631c7d0221b463f518f2494b7a8744eef30
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252643"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552214"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252643"
 |:----------------|:-------------|
 | 應用程式名稱 | LMS365 |
 | ID | WA104381467 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | ELEARNINGFORCE International |
 | 合作夥伴網站的 URL | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
@@ -88,7 +87,6 @@ ELEARNINGFORCE 國際性會提供此資訊，告知您此應用程式如何收�
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 當 Bot greets 使用者時，我們會使用名字來顯示個人化訊息。 | 個人資料儲存在專用 Azure 資料庫中，供各個客戶用來 Learner &amp; LMS365 應用程式內的管理管理員儀表板功能。 | 帳戶名稱、使用者顯示名稱、電子郵件地址、部門、職稱、Office、國家、城市、管理員識別碼/電子郵件 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

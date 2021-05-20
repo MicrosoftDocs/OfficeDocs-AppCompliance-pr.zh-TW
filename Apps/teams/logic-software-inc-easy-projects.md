@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和合規性資訊資訊，以方便專案、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2542fc340c052db868d7c87b3099c7c353ece634
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: c9c544f6c166a89c334a856082598097058a25a0
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252057"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552974"
 ---
-# <a name="easy-projects"></a>簡易專案
+# <a name="easy-projects"></a>簡單專案
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,11 +32,10 @@ ms.locfileid: "52252057"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 簡易專案 |
+| 應用程式名稱 | 簡單專案 |
 | ID | WA200002647 |
-| 功能 | Bot，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 邏輯軟體 Inc.。 |
+| 合作夥伴公司名稱 | Logic Software Inc. |
 | 合作夥伴網站的 URL | [https://www.easyprojects.net](https://www.easyprojects.net) |
 | Teams 應用程式資訊頁面的 URL | [https://www.easyprojects.net](https://www.easyprojects.net) |
 | 隱私權原則的 URL | [https://www.easyprojects.net/privacy/](https://www.easyprojects.net/privacy/) |
@@ -70,7 +69,6 @@ ms.locfileid: "52252057"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 61bfa520217c19f338d0531c204584ff8f811dd8
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: cba1d32ef248cc8228a0e38e1dc953dd07f4e5ad
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251412"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52548723"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -65,15 +65,6 @@ SHEETGO 歐 SL 會提供此資訊，此應用程式會如何收集和儲存組�
 >| MongoDB：記錄系統和使用者資料以供運作、Google BigQuery：記錄系統記錄使用量、Google Firestore：維護和協調我們 microservices 狀態的系統（帶區：付款系統） |  | 這些應用程式不會使用其他 Microsoft APIs |
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 檔 | 可以讀取和變更您的檔 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

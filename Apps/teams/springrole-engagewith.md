@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: EngageWith 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 42896bd4a2cd23ee5b5bff2f8236ddacabc56a3f
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 6bb19440f4d5e9518e917856fbe709fbcfc0792f
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52248351"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552754"
 ---
 # <a name="engagewith"></a>EngageWith
 
@@ -34,7 +34,6 @@ ms.locfileid: "52248351"
 |:----------------|:-------------|
 | 應用程式名稱 | EngageWith |
 | ID | WA200001915 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | SpringRole |
 | 合作夥伴網站的 URL | [https://engagewith.springworks.in/](https://engagewith.springworks.in/) |
@@ -74,7 +73,6 @@ ms.locfileid: "52248351"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 這種資料是用來顯示和儲存其獎勵積分 &amp; 兌換歷程記錄。 同時 utilised 應用程式的主要功能，以將 Kudos 和 Shoutout 授與對等專案 | 名稱、電子郵件、生日和工作周年紀念日。 | 這種資料是用來顯示和儲存其獎勵積分 &amp; 兌換歷程記錄 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

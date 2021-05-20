@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Standup Alice 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 00965db8a92b9f8bbadb3ac8fb17aa6f9d5837e6
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 033d62db333db7029c82b0e7ec7916af64eaf3e2
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250821"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552354"
 ---
 # <a name="standup-alice"></a>Standup Alice
 
@@ -34,7 +34,6 @@ Bao Le Duc 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Standup Alice |
 | ID | WA200000758 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Bao Le Duc |
 | 合作夥伴網站的 URL | [https://www.standupalice.com](https://www.standupalice.com) |
@@ -73,7 +72,6 @@ Bao Le Duc 所提供的資訊給 Microsoft：
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 我們使用顯示名稱來顯示 web 應用程式和 standup 報告，使其有意義。 我們可能會與 Teams 系統管理員交流免費試用版、付款金額。 | 顯示名稱和電子郵件地址。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

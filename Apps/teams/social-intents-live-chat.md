@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Live Chat 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3ca3e62c7f1a2e5a8b6aa1ad80427f7ac6c393bc
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 9bc8ccb18fd8e43dd3d59f15fbc324f835e82d93
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251112"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551483"
 ---
 # <a name="live-chat"></a>即時聊天
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251112"
 |:----------------|:-------------|
 | 應用程式名稱 | 即時聊天 |
 | ID | WA200000440 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Social Intents |
 | 合作夥伴網站的 URL | [https://www.socialintents.com](https://www.socialintents.com) |
@@ -71,7 +70,6 @@ ms.locfileid: "52251112"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 當小組成員按一下 [加入聊天] 時，我們會使用 members 電子郵件來識別哪一個代理設定檔接受聊天。 | 小組成員的電子郵件和接受 live chat 的名稱會儲存在聊天記錄資料庫中。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

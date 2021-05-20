@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: atSpoke 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 14f44eb8a74cde9a7803e079e561f93f0391561b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 9a159ce3ac976eb1916cd94b3eb1cf002f8e13c1
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52248061"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551193"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -34,7 +34,6 @@ Townsend 大街 Labs，Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | atSpoke |
 | ID | WA200001454 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Townsend Street Labs, Inc. |
 | 合作夥伴網站的 URL | [https://www.atspoke.com](https://www.atspoke.com) |
@@ -77,7 +76,6 @@ Townsend 大街 Labs，Inc. 所提供的資訊給 Microsoft：
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 它可讓 atSpoke 同步處理使用者 Microsoft Teams 以建立使用者及定義許可權。 | atSpoke 只會儲存電子郵件，讓 Microsoft Teams 使用者能夠以有效的使用者身分登入 atSpoke。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

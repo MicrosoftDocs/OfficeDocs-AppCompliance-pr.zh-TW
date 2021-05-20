@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9716284ced994f7047ef49123448f5ec158d8f13
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 8e2124ed68b2e9d750c8bc6a229eca0ccad200b5
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252753"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552444"
 ---
 # <a name="remind"></a>提醒
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252753"
 |:----------------|:-------------|
 | 應用程式名稱 | 提醒 |
 | ID | WA200001444 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | 88 Ventures Limited |
 | 合作夥伴網站的 URL | [https://www.teamsreminder.app](https://www.teamsreminder.app) |
@@ -73,7 +72,6 @@ ms.locfileid: "52252753"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >|  (1) 使用者設定郵件上的提醒時，bot 會嘗試取得最初傳送郵件的人員名稱，以在使用者設定另一個通道或聊天室成員的提醒時，在使用者的提醒清單中顯示該資訊 (2) 當使用者為另一個通道或聊天室成員設定提醒時，bot 會嘗試取得身分識別 (使用者或 bot) 及所述使用者名稱，以在使用者的提醒清單中顯示該身分識別。 |  (1) 使用者設定郵件上的提醒時，bot 會嘗試取得最初傳送郵件的人員名稱，以在使用者設定另一個通道或聊天室成員的提醒時，在使用者的提醒清單中顯示該資訊 (2) 當使用者為另一個通道或聊天室成員設定提醒時，bot 會嘗試取得身分識別 (使用者或 bot) 及所述使用者名稱，以在使用者的提醒清單中顯示該身分識別。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Webex 呼叫的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7ca4bea456984ceb47a6da8f74e34c3cd985247b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 8cd5499529eb41a5a840c9a7792e9b47f9a6c877
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250781"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552284"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250781"
 |:----------------|:-------------|
 | 應用程式名稱 | Webex Call |
 | ID | WA200001495 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Cisco |
 | 合作夥伴網站的 URL | [https://www.cisco.com/c/en/us/solutions/collaboration/webex...](https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html) |
@@ -78,7 +77,6 @@ Cisco 已提供此資訊，是由 Cisco 針對此應用程式如何收集和儲�
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 此郵件分機會閱讀聊天成員的電子郵件，讓使用者可以使用 Cisco WebEx 呼叫它們 | 否 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

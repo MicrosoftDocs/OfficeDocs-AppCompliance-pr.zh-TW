@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SurveyMonkey 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c9b4f40ab870844e403a1dc3c70a4535a3541190
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 57ba8ed84e0d9ea4101ea82ed5d92aef1f634ed1
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52248291"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552724"
 ---
 # <a name="surveymonkey"></a>SurveyMonkey
 
@@ -34,7 +34,6 @@ ms.locfileid: "52248291"
 |:----------------|:-------------|
 | 應用程式名稱 | SurveyMonkey |
 | ID | WA104381088 |
-| 功能 | Bot，索引標籤，傳訊擴充功能，連接器 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | SurveyMonkey |
 | 合作夥伴網站的 URL | [https://www.surveymonkey.com](https://www.surveymonkey.com) |
@@ -76,7 +75,6 @@ ms.locfileid: "52248291"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 我們呼叫 v3/交談/{識別碼}/pagedmembers 以檢查是否已將應用程式新增至小組並取得成員計數。 它只是用於內部的使用追蹤，我們只會查看聊天名單的大小，其他資訊也會被忽略。 | 是的，聊天的大小會儲存 (單一整數)  |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

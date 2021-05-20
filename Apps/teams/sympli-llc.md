@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sympli 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 06fc9e2b8454c39e5cc93d1cd39932e8bf972e96
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 52881ca94c9d40d017e1585988fa9a95c5db8392
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52248341"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552704"
 ---
 # <a name="sympli"></a>Sympli
 
@@ -34,7 +34,6 @@ ms.locfileid: "52248341"
 |:----------------|:-------------|
 | 應用程式名稱 | Sympli |
 | ID | WA200001551 |
-| 功能 | Bot，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Sympli，LLC |
 | 合作夥伴網站的 URL | [https://sympli.io](https://sympli.io) |
@@ -74,7 +73,6 @@ ms.locfileid: "52248341"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 使用者的指定名稱可用於豐富會話 UX。 | 否 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

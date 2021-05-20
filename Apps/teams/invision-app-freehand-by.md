@@ -8,20 +8,20 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和合規性資訊資訊，由 InVision 手繪出，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fa9a02b63eff4001789f5a7c854fd9ee554d6e84
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 76c6931b44a767d425baa07a84c86d7a44a3a64d
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258770"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553044"
 ---
-# <a name="freehand-by-invision"></a>透過 InVision 手繪多邊形
+# <a name="freehand-by-invision"></a>Freehand by InVision
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開發人員上次更新：2021年5月6日</p>
 
-* <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">在團隊存放區中查看</a>
+* <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381362" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
@@ -32,13 +32,12 @@ InVision 應用程式所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 透過 InVision 手繪多邊形 |
+| 應用程式名稱 | Freehand by InVision |
 | ID | WA104381362 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | InVision 應用程式 |
 | 合作夥伴網站的 URL | [https://www.invisionapp.com/](https://www.invisionapp.com/) |
-| [小組應用程式資訊] 頁面的 URL | [https://www.invisionapp.com/freehand](https://www.invisionapp.com/freehand) |
+| Teams 應用程式資訊頁面的 URL | [https://www.invisionapp.com/freehand](https://www.invisionapp.com/freehand) |
 | 隱私權原則的 URL | [https://www.invisionapp.com/privacy](https://www.invisionapp.com/privacy) |
 | 使用條款的 URL | [https://www.invisionapp.com/terms](https://www.invisionapp.com/terms) |
 
@@ -54,12 +53,12 @@ InVision 應用程式會提供此資訊，告知此應用程式如何收集及�
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何 [Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference) 。
+列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->此應用程式不使用 Microsoft Graph。
+>此應用程式不會使用 Microsoft Graph。
 
 
-#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
@@ -72,7 +71,6 @@ InVision 應用程式會提供此資訊，告知此應用程式如何收集及�
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -99,9 +97,9 @@ InVision 應用程式會提供此資訊，告知此應用程式如何收集及�
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog 的資訊如下所示。
+來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788" target="_blank">在新的索引標籤中查看</a>
 
@@ -118,7 +116,7 @@ InVision 應用程式已提供此資訊，說明此應用程式如何處理驗�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？  | 否 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 否 |
 | 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 否 |

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Klaxoon 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 96e987d281302b6f7c835adc6f18a69397c8bbfa
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 127b45d805b02136ba99f56aecfc583f30bdda25
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251322"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553014"
 ---
 # <a name="klaxoon"></a>Klaxoon𶠁
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251322"
 |:----------------|:-------------|
 | 應用程式名稱 | Klaxoon𶠁 |
 | ID | WA104382058 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Klaxoon𶠁 |
 | 合作夥伴網站的 URL | [https://klaxoon.com](https://klaxoon.com) |
@@ -73,7 +72,6 @@ ms.locfileid: "52251322"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 我們使用名單來個人化使用者回應。 例如： Hello {{givenName}}，謝謝您的問題！ | 否 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

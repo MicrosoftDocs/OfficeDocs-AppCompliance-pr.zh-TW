@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ezTeam 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cd6d7c3880cbf25db68a16c3780f11f2af1b1158
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: da54d5a540fd43c2bdc25a6f4e31ba88520ecbc3
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250701"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553174"
 ---
 # <a name="ezteam"></a>ezTeam
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250701"
 |:----------------|:-------------|
 | 應用程式名稱 | ezTeam |
 | ID | WA200002546 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | EnterprizID Inc |
 | 合作夥伴網站的 URL | [https://enterprizid.com](https://enterprizid.com) |
@@ -97,7 +96,6 @@ EnterprizID Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 歡迎訊息、核准和證明處理常式通知 | 我們確實會儲存識別碼的顯示名稱  | 我們的工具可讓使用者建立不同服務專案的要求，並儲存申請者的顯示名稱。 要求會跟隨核准工作流程，而且我們需要核准者顯示名稱，才能在要求詳細資料中顯示。 此外，在小組認證程式的成員中，我們會列出成員的顯示名稱。 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

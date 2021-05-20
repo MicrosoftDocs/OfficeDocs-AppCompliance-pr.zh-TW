@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Beesy 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fdab816d7eb03c7721deaad8e19be7691b23f9f2
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: d669b1b43c7b273b3cc68ed6cfc0f24b7234a293
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253174"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552344"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -34,7 +34,6 @@ ms.locfileid: "52253174"
 |:----------------|:-------------|
 | 應用程式名稱 | Beesy |
 | ID | WA200001248 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | BeesApps |
 | 合作夥伴網站的 URL | [https://www.beesy.me/](https://www.beesy.me/) |
@@ -73,7 +72,6 @@ ms.locfileid: "52253174"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 我們存取此資料以提供 bot 的內容，以直接將動作記錄到人員聊天 (我們的 bot 是虛擬的小幫手) 。 | 沒有直接從名單中儲存的資料，我們會比較團隊成員與已整合的人員，以 beesy.me 服務資料，只要符合。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

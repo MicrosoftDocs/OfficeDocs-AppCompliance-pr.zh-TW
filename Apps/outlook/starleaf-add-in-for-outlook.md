@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: StarLeaf 增益集 Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1ae18b1e6d9f89f0680c4b50e0e144851f052b0b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: f201131be32c743550a02a24e653f784a1d91817
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252924"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552474"
 ---
 # <a name="starleaf-add-in-for-outlook"></a>Outlook 的 StarLeaf 增益集
 
@@ -69,20 +69,11 @@ ms.locfileid: "52252924"
 
 
 
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 專案 | 此增益集可以存取及修改使用中郵件中的個人資訊，例如本文、主旨、寄件者、收件者及附件資訊。 它可能會將此資料傳送給協力廠商服務。 您的信箱中的其他專案可以&#8217;t 讀取或修改。 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->可以。 記錄包括使用者名、IP 位址、通話詳細資料記錄、有關連線品質 (封包遺失、高比特) 、裝置類型、通話進度的資訊。 資訊可供技術支援小組和資深開發人員用來診斷服務問題。 資料會在90天之後 anonymised。 保護此資料的控制項會在我們的 ISO/IEC 27001 認證下進行審核。
+>是。 記錄包括使用者名、IP 位址、通話詳細資料記錄、有關連線品質 (封包遺失、高比特) 、裝置類型、通話進度的資訊。 資訊可供技術支援小組和資深開發人員用來診斷服務問題。 資料會在90天之後 anonymised。 保護此資料的控制項會在我們的 ISO/IEC 27001 認證下進行審核。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

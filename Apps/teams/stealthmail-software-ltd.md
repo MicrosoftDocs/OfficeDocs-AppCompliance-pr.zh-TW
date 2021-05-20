@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: StealthMail 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6d452c06e214e4370d8df8ea9f901cee6db4f739
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 4855cb478e8ba2e53b793a1d61f477de88b74058
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250905"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552734"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -34,9 +34,8 @@ ms.locfileid: "52250905"
 |:----------------|:-------------|
 | 應用程式名稱 | StealthMail |
 | ID | WA200001748 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Stealthmail 軟體有限公司 |
+| 合作夥伴公司名稱 | Stealthmail Software Ltd |
 | 合作夥伴網站的 URL | [https://stealthmail.com](https://stealthmail.com) |
 | Teams 應用程式資訊頁面的 URL | [https://stealthmail.com/product/teams](https://stealthmail.com/product/teams) |
 | 隱私權原則的 URL | [https://stealthmail.com/privacy-statement](https://stealthmail.com/privacy-statement) |
@@ -78,7 +77,6 @@ ms.locfileid: "52250905"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

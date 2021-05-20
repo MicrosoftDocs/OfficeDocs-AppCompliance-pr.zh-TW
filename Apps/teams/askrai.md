@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: askR.ai 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7e540990d562161a11acf15c3924da0d5c6e66f1
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: df24c20ad60cd7e72946db7a8404019903b4a483
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250852"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552374"
 ---
 # <a name="askrai"></a>askR.ai
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250852"
 |:----------------|:-------------|
 | 應用程式名稱 | askR.ai |
 | ID | WA200001583 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | askR.ai |
 | 合作夥伴網站的 URL | [https://en.askr.ai/](https://en.askr.ai/) |
@@ -70,7 +69,6 @@ ms.locfileid: "52250852"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如文字、資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 477983aec1aeb8d25b3b0766c41fe7bc66d479a0
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 2cc4abf4924ca9af1ddd5b49b6a38c4427f3404a
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251082"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552384"
 ---
 # <a name="text"></a>文字
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251082"
 |:----------------|:-------------|
 | 應用程式名稱 | 文字 |
 | ID | WA200000383 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | 已核准的連絡人 |
 | 合作夥伴網站的 URL | [https://sales.approvedcontact.com/syniverse-microsoft-teams...](https://sales.approvedcontact.com/syniverse-microsoft-teams-text/) |
@@ -77,7 +76,6 @@ ms.locfileid: "52251082"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 我們使用名單來比較小組中每個人的空閒/忙碌時間，以便在開啟的時間排程會議。 | 我們只會儲存電子郵件地址，讓我們能夠比較空閒/忙碌時間。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如動態信號、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 19391d80121046303135b26da6714bb700bc7f73
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 0d3c59f6809bafe16eec2a1d709f40a980576b1b
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250731"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552224"
 ---
 # <a name="dynamic-signal"></a>動態訊號
 
@@ -34,7 +34,6 @@ Microsoft 提供的動態信號資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | 動態訊號 |
 | ID | WA200000102 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | 動態訊號 |
 | 合作夥伴網站的 URL | [https://dynamicsignal.com](https://dynamicsignal.com) |
@@ -77,7 +76,6 @@ Microsoft 提供的動態信號資訊：
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| openid using 使用 openid 目錄。 readwrite。對租使用者的網域和群組的所有存取權，將應用程式新增至小組 offline_access 保留租使用者群組和小組的存取權 | openid 允許獨立驗證。 目錄 readwrite。對租使用者的網域和群組的所有存取權，將應用程式新增至小組 offline_access 繼續存取租使用者的群組和小組注意：動態信號的應用程式會使用小組 bot，將動態信號內所建立的群組和許可權套用至 Teams，這樣，在動態信號內使用的使用者便可以存取相同的群組和 Teams 中的使用者。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

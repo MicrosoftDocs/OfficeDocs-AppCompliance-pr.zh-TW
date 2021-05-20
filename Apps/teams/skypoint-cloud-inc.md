@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SkyPoint 雲端的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 99b5a7cf3c749e7a8d8ca5742eac7f8b81185bc1
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 898f7fc73ff32a8d5c999ab78141b2bcda59a09f
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252273"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552824"
 ---
 # <a name="skypoint-cloud"></a>SkyPoint Cloud
 
@@ -34,7 +34,6 @@ SkyPoint Cloud Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | SkyPoint Cloud |
 | ID | WA200002580 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | SkyPoint Cloud Inc. |
 | 合作夥伴網站的 URL | [https://skypointcloud.com/](https://skypointcloud.com/) |
@@ -70,7 +69,6 @@ SkyPoint 雲端 Inc. 已提供此資訊。關於此應用程式如何收集和�
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

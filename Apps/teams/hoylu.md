@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hoylu 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7206fc0355b6e30f4a66dd6b5751f6ad72587ac4
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 4b63b3bd9cfec20a665d7fd112d2db09c280b594
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250621"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553084"
 ---
 # <a name="hoylu"></a>Hoylu
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250621"
 |:----------------|:-------------|
 | 應用程式名稱 | Hoylu |
 | ID | WA200001573 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Hoylu |
 | 合作夥伴網站的 URL | [https://hoylu.com](https://hoylu.com) |
@@ -71,12 +70,11 @@ ms.locfileid: "52250621"
 >未存取 EUII。
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->可以。 針對應用程式安全性進行記錄，而且會以名字和姓氏、電子郵件、IP 位址、組織識別碼的形式來收集 EUII 和 OII。 Hoylu 的記錄提供者是 Datadog。 Datadog 已認證其與歐盟 U.S 的相容性。隱私權防火牆架構，是雲端安全性同盟的星形報名者 (CSA) 。 Datadog 也 pursues 主要獨立的安全性、程式和服務的協力廠商驗證，包括完成 SOC 2 Type II audit。 使用者隨時可以要求透過 GDPR 相容的程式來刪除這項資訊。
+>是。 針對應用程式安全性進行記錄，而且會以名字和姓氏、電子郵件、IP 位址、組織識別碼的形式來收集 EUII 和 OII。 Hoylu 的記錄提供者是 Datadog。 Datadog 已認證其與歐盟 U.S 的相容性。隱私權防火牆架構，是雲端安全性同盟的星形報名者 (CSA) 。 Datadog 也 pursues 主要獨立的安全性、程式和服務的協力廠商驗證，包括完成 SOC 2 Type II audit。 使用者隨時可以要求透過 GDPR 相容的程式來刪除這項資訊。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

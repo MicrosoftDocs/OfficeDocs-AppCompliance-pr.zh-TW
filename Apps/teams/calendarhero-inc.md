@@ -1,44 +1,45 @@
 ---
-title: HeyTaco 的應用程式資訊！ HeyTaco！
+title: CalendarHero by CalendarHero Inc. 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 03/17/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: HeyTaco！的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: CalendarHero 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 66739977ba4aa3eef7456d4ec60530f94065a2b9
+ms.openlocfilehash: d27858000c591c320cfadc301ea16ddf2fac89bd
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553124"
+ms.locfileid: "52553309"
 ---
-# <a name="heytaco"></a>HeyTaco！
+# <a name="calendarhero"></a>CalendarHero
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2020年11月3日</p>
+<p>上次於開發人員的更新日期：2020年3月17日</p>
 
-* <a href="https://teams.microsoft.com/l/app/be8d11cf-265a-4974-9912-4ff28c29fc21" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001346" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/cac7469b-37cc-44f5-bf08-ff6654d35819" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000150" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-HeyTaco 所提供的資訊！ 至 Microsoft：
+由 CalendarHero Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | HeyTaco！ |
-| ID | WA200001346 |
+| 應用程式名稱 | CalendarHero |
+| ID | WA200000150 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | HeyTaco！ |
-| 合作夥伴網站的 URL | [https://www.heytaco.chat](https://www.heytaco.chat) |
-| 隱私權原則的 URL | [https://www.heytaco.chat/privacy](https://www.heytaco.chat/privacy) |
-| 使用條款的 URL | [https://www.heytaco.chat/terms](https://www.heytaco.chat/terms) |
+| 合作夥伴公司名稱 | CalendarHero Inc |
+| 合作夥伴網站的 URL | [https://calendarhero.com](https://calendarhero.com) |
+| Teams 應用程式資訊頁面的 URL | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
+| 隱私權原則的 URL | [https://calendarhero.com/privacy](https://calendarhero.com/privacy) |
+| 使用條款的 URL | [https://calendarhero.com/terms-of-use](https://calendarhero.com/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +49,7 @@ HeyTaco 所提供的資訊！ 至 Microsoft：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 HeyTaco 所提供！ 關於此應用程式如何收集和儲存組織資料，以及您的組織將會對應用程式收集的資料所做的控制。
+CalendarHero Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -56,9 +57,13 @@ HeyTaco 所提供的資訊！ 至 Microsoft：
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 電子郵件 | 委託 | 用來比對使用者的資料傳輸從時差到 MS Teams | 用來比對使用者從時差到 MS 小組的資料傳輸 | be8d11cf-265a-4974-9912-4ff28c29fc21 |
->| openid | 委託 | 用於簽署人員加入 HeyTaco！ | 用於簽署人員加入 HeyTaco！ | be8d11cf-265a-4974-9912-4ff28c29fc21 |
->| profile | 委託 | 用於捕獲使用者名稱、設定檔影像、時區偏移量、租使用者識別碼及小組識別碼 | 用於捕獲使用者名稱、頭像、時區偏移量、租使用者識別碼及小組識別碼 | be8d11cf-265a-4974-9912-4ff28c29fc21 |
+>| ReadWrite 的行事曆 | 包括 | 會議會在 Azure 的 mongoDB 中快取，但會加密描述。 | 存取使用者的行事曆事件。 |  |
+>| 連絡人。 ReadWrite | 包括 | 連絡人的名稱和電子郵件地址。 | 請閱讀使用者的連絡人 (，讓我們可以邀請他們加入會議) 。 |  |
+>| Group.Read.All | 包括 | 群組名稱和成員。 |  (選用) 「讀取公司使用者群組」 (可使用群組進行排程) 。 |  |
+>| Mail.Read | 包括 | 連絡人的電子郵件/名稱、互動的頻率/recency。 |  (選用) 是用來將電子郵件中繼資料讀取至使用者最重要的連絡人 (透過機器學習) 。 |  |
+>| MailboxSettings ReadWrite | 包括 | 使用者的時區。 | 使用者的時區。 |  |
+>| User.Read.All | 包括 | &amp;以連絡人) 儲存的使用者名稱電子郵件 (。 |  (選用) 讀取公司使用者 (，以與同事排程)  |  |
+>| offline_access | 應用程式 | 否 | 我們需要在使用者可以隨時讀寫，而不會顯示使用者。 |  |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -73,32 +78,26 @@ HeyTaco 所提供的資訊！ 至 Microsoft：
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 告訴使用者他們收到的是 taco，以及其來源。 | 從一個平臺 tacos 至另一個平臺的電子郵件地址 () 名稱 (供使用者) 設定檔影像 (，以在 leaderboard) 時區 (上顯示使用者設定檔影像) ，以根據租使用者匯總資料的承租人 (小組識別碼) 來聚合資料 (  |  |
+>| 匯入名稱/同事的電子郵件，讓我們的會議助理 bot 可以排程會議 | 名稱 &amp; 電子郵件。 兩者都是儲存在我們的資料庫中，以供快速查閱及部分名稱查閱 (例如。 與 Joe P) 會面 |  |
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->EUII 和 OII 未連接至任何記錄。 僅限錯誤類型和動作類型。
+>使用者和/或連絡人的電子郵件地址是用來將事件記錄至 LogDNA，我們的記錄提供者。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->HeyTaco！ 資料庫和資料備份是裝載在 Amazon Web 服務 (AWS) 上。 
-
-Amazon 的資料中心作業已獲 ISO 27001、SOC 1 和 SOC 2/SSAE 16/ISAE 3402 (先前的 SAS 70 Type II ) 、PCI Level 1、FISMA 適中及 Sarbanes-Oxley (SOX) 。
-
-當您透過我們的服務提交資訊時，您的資訊會受到保護，並以靜止的方式加密，並透過安全連線進行傳輸。 我們會執行各種安全性措施，以維護您個人資訊的安全性。
-
-我們有適當的許可權存取管理，可保護我們伺服器上的資料。
+>所有資料都是儲存在以魁北克城市（加拿大）為單位的 MS Azure 雲端資料中心。 有幾個欄位已使用 AES256 加密。 只有透過使用者/服務層級認證的工程師和後端伺服器可以存取資料庫。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
 參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
 
->是
+>否
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -108,9 +107,9 @@ Amazon 的資料中心作業已獲 ISO 27001、SOC 1 和 SOC 2/SSAE 16/ISAE 3402
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36139' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35668' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36139" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35668" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

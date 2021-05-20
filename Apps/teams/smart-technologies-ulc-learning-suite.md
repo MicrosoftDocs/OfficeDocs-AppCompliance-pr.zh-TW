@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 SMART 教學套件的安全性和合規性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: dacb9d3df2186d22696ba44a745e849a37cbd68b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 13d0e57260c286ef21a0c69637bc29508a642577
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252048"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551553"
 ---
-# <a name="smart-learning-suite"></a>智慧學習套件
+# <a name="smart-learning-suite"></a>SMART 學習套件
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,11 +32,10 @@ ULC 至 Microsoft 的智慧技術所提供的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 智慧學習套件 |
+| 應用程式名稱 | SMART 學習套件 |
 | ID | WA200001874 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 智慧技術 ULC |
+| 合作夥伴公司名稱 | SMART Technologies ULC |
 | 合作夥伴網站的 URL | [https://www.smarttech.com](https://www.smarttech.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.smarttech.com/smart-learning-suite/](https://www.smarttech.com/smart-learning-suite/) |
 | 隱私權原則的 URL | [https://www.smarttech.com/Legal/Privacy%20Policies/Privacy-...](https://www.smarttech.com/Legal/Privacy%20Policies/Privacy-Policy) |
@@ -73,7 +72,6 @@ ULC 至 Microsoft 的智慧技術所提供的資訊：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

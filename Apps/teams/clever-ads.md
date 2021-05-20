@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于聰明廣告的安全性和合規性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e892e5a36d61f34e0f9629acb15c2b8a2df03ec8
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 0b092ef8ab27bec0a2f5c3bf294b301a71d1649a
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250771"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552274"
 ---
 # <a name="clever-ads"></a>Clever 廣告
 
@@ -34,7 +34,6 @@ Microsoft 的聰明廣告所提供的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | Clever 廣告 |
 | ID | WA200001182 |
-| 功能 | Bot，索引標籤，傳訊擴充功能，連接器 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Clever 廣告 |
 | 合作夥伴網站的 URL | [https://www.cleverads.com/](https://www.cleverads.com/) |
@@ -73,7 +72,6 @@ Microsoft 的聰明廣告所提供的資訊：
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 應用程式會存取名單，以識別使用者是否屬於該小組，或是不將使用者排程的郵件傳送給他們的小組。 | 我們會儲存使用者識別碼、azureObjectId、UPN、tenantId、conversationId 和 serviceUrl，以在存取 [儀表板] 索引標籤時，將郵件傳送給使用者或小組並識別他。 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

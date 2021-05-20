@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SmartWork 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ac3365dd3b37fcc89ac63db89fc3f233a68ae045
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 4e757f0d927d10ecbccb406d8d4071b52b234deb
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52249891"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552784"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -34,7 +34,6 @@ SmartWork for Intumit 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | SmartWork |
 | ID | WA200001149 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | SmartWork of Intumit |
 | 合作夥伴網站的 URL | [https://www.intumit.com](https://www.intumit.com) |
@@ -75,12 +74,11 @@ SmartWork for Intumit 所提供的資訊給 Microsoft：
 >| 使用識別使用者的郵件，不論其是否來自有效的 AAD。 | 儲存使用者的郵寄清單，用以識別使用者是否來自有效的 AAD。 |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->錯誤。 在交談期間，我們會使用會話模式進行控制。 使用識別碼對應至 db 中的專案，然後存取資料。 我們不會特別記錄使用者的資訊
+>否。 在交談期間，我們會使用會話模式進行控制。 使用識別碼對應至 db 中的專案，然後存取資料。 我們不會特別記錄使用者的資訊
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

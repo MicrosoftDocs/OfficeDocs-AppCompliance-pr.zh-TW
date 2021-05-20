@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，針對 Teams 的堆疊溢位，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fbc9cc478287f752b14f47a4c4769e14eb96ff0b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 62f32ce131b2ebdf827d8e11e24873fc552577a7
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52248311"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552744"
 ---
 # <a name="stack-overflow-for-teams"></a>Teams 的 Stack Overflow
 
@@ -34,7 +34,6 @@ ms.locfileid: "52248311"
 |:----------------|:-------------|
 | 應用程式名稱 | Teams 的 Stack Overflow |
 | ID | WA200000739 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Stack Overflow |
 | 合作夥伴網站的 URL | [https://stackoverflow.com](https://stackoverflow.com) |
@@ -73,12 +72,11 @@ ms.locfileid: "52248311"
 >| Bot 會使用交談 API 直接將郵件傳送到小組聊天。 Bot 也會使用名單直接訊息使用者 | 我們不會儲存名單中的資料 |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->錯誤。 MS Teams 使用者和 so Teams 使用者的對應會在 so Teams 產品中進行。
+>否。 MS Teams 使用者和 so Teams 使用者的對應會在 so Teams 產品中進行。
 MS Teams 會傳送我們的辨識識別碼，我們會將它們儲存在內部，以對應使用者。
 此外，MS Teams 會傳送給我們的 bot 要求 (防止要求偽造) 和索引標籤要求使用 SO cookie 驗證。
 

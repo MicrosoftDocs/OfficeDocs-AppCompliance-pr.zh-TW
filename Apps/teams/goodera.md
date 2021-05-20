@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Goodera 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ee377f810df40253b3582dd3e127453a2a1520c3
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 55b69d4abaedb8f838f201812e11db2cc9aac39f
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252583"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552144"
 ---
 # <a name="goodera"></a>Goodera
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252583"
 |:----------------|:-------------|
 | 應用程式名稱 | Goodera |
 | ID | WA200002136 |
-| 功能 | Bot，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Goodera |
 | 合作夥伴網站的 URL | [https://about.goodera.com](https://about.goodera.com) |
@@ -72,7 +71,6 @@ ms.locfileid: "52252583"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 我們會存取使用者的電子郵件識別碼，讓我們能夠識別使用者並協助他們註冊 volunteering 機會。 | 電子郵件識別碼 | 此 PII 只會儲存，讓我們知道使用者已註冊哪些 volunteering 機會。 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

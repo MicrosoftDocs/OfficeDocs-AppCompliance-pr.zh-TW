@@ -6,12 +6,12 @@ description: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 keywords: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a6b0abb55359a16d4651722d776dfb16282edc87
-ms.sourcegitcommit: bb6c1353781d7b6f8b171bf6853b85e42fda656e
+ms.openlocfilehash: b8560fe46bbad2710001467e9edfeab72d6e0cb7
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52324082"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52549925"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>合作夥伴的 Microsoft 365 應用程式規範計畫的使用者指南
 
@@ -168,7 +168,7 @@ Microsoft 365App 相容性計畫現在提供一年的更新程式。 在此程�
 
 **步驟 1**：選取 [**續訂**] 以更新 Publisher 認證。 
 
-![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/1.PNG)
+![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/AppComplianceExpirationNotice.png)
 
 **步驟 2**：查看先前的 Publisher 認證答案，並視需要更新最新資訊。 提交 Publisher 認證以于準備時進行更新。 M365 應用程式規範分析員會檢查它。
 

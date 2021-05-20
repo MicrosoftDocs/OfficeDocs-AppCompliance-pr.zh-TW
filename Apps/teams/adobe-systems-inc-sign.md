@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用於 Adobe 符號的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7e2e11994a8cf7ede0e8c3e0bf33b015251116ad
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 7cb238a768ae020e13865748be5d0df96ebb35ca
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252733"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552424"
 ---
 # <a name="adobe-sign"></a>Adobe 標誌
 
@@ -33,7 +33,6 @@ Adobe Systems Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Adobe 標誌 |
 | ID | WA104381233 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Adobe Systems Inc. |
 | 合作夥伴網站的 URL | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
@@ -84,7 +83,6 @@ Adobe Systems Inc. 已提供此資訊。關於此應用程式如何收集和儲�
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 進行聊天訊息和驗證的自訂 | UserPrincipalName、name、email 和 objectId | 我們會儲存此資訊，以自訂非同步回應及驗證目的 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

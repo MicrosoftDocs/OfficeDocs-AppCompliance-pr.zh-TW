@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: C.AI 採用 Bot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0f4266baac0d62338554fb089347cff28829f99e
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 91a10acdc85e36fcf57a16b66797ae427ab39b1b
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250912"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552264"
 ---
-# <a name="cai-adoption-bot"></a>C.AI 採用 Bot
+# <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,9 +32,8 @@ ms.locfileid: "52250912"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | C.AI 採用 Bot |
+| 應用程式名稱 | C.AI Adoption Bot |
 | ID | WA200002633 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | contexxt.ai |
 | 合作夥伴網站的 URL | [https://www.contexxt.ai](https://www.contexxt.ai) |
@@ -72,7 +71,6 @@ ms.locfileid: "52250912"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 無法避免技術上的 Microsoft Teams (使用者識別碼傳送給它，) 自動 | 否 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

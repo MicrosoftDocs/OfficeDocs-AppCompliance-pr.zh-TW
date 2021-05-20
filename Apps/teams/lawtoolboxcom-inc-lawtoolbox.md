@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0bf192e58d66e43bfe64d237dffe4a8f2c33c8ce
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 2e97d65822a5baeb0cd78101660084e4142e98ea
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251292"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553004"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -34,7 +34,6 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | LawToolBox |
 | ID | WA104381656 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | LawToolBox.com Inc. |
 | 合作夥伴網站的 URL | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
@@ -95,7 +94,6 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 將新加入的使用者識別到小組中，並檢查潛在的潛在客戶 | 電子郵件、UserId |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

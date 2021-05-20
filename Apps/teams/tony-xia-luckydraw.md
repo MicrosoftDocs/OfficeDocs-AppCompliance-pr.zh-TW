@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LuckyDraw 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c2be17a1122ef5f0badf2cd5025770cd6e988b83
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 5ba1afff33ce27c6f520b34f73423c734c8859ec
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251022"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551263"
 ---
 # <a name="luckydraw"></a>LuckyDraw
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251022"
 |:----------------|:-------------|
 | 應用程式名稱 | LuckyDraw |
 | ID | WA200000091 |
-| 功能 | Bot，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Tony Xia |
 | 合作夥伴網站的 URL | [https://luckydraw.teetee365.com](https://luckydraw.teetee365.com) |
@@ -72,7 +71,6 @@ ms.locfileid: "52251022"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| LuckyDraw 不會存取名單 | LuckyDraw 不會存取名單 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

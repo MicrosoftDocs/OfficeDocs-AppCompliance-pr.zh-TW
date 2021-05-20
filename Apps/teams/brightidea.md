@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Brightidea 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d3dfa6b275015e87faf3b5f0c1a516ec31f1e14c
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 0ef99ec3d04a72624f002c05f6a120a34f674b8a
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253385"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553284"
 ---
 # <a name="brightidea"></a>Brightidea
 
@@ -34,7 +34,6 @@ ms.locfileid: "52253385"
 |:----------------|:-------------|
 | 應用程式名稱 | Brightidea |
 | ID | WA200002795 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Brightidea |
 | 合作夥伴網站的 URL | [https://www.brightidea.com](https://www.brightidea.com) |
@@ -73,7 +72,6 @@ ms.locfileid: "52253385"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 若要將 Teams 中的構思提交者與 Brightidea 帳戶進行相符 | 否 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

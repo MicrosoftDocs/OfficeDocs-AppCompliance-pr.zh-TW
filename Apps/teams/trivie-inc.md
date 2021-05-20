@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Trivie 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4026289b53d8a62b77eb970221bf91bf7af19afa
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 92da7dff6c2e344dc6f51c6ed386dd841139f44d
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250904"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551143"
 ---
 # <a name="trivie"></a>Trivie
 
@@ -34,9 +34,8 @@ Trivie，Inc. 提供給 Microsoft 的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | Trivie |
 | ID | WA200002718 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Trivie，Inc.。 |
+| 合作夥伴公司名稱 | Trivie, Inc. |
 | 合作夥伴網站的 URL | [https://www.trivie.com](https://www.trivie.com) |
 | Teams 應用程式資訊頁面的 URL | [https://trivie.com](https://trivie.com) |
 | 隱私權原則的 URL | [https://www.trivie.com/privacy-policy](https://www.trivie.com/privacy-policy) |
@@ -72,7 +71,6 @@ Trivie，Inc. 已提供此資訊。關於此應用程式如何收集和儲存組
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料
