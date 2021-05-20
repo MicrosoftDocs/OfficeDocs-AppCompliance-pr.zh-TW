@@ -6,14 +6,14 @@ ms.date: 04/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 BrainBot 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: BrainBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 74b3ca5d6a674ea7322995eb9941dadcd939b01c
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: b5eec3d8d487cdc79f8ecd180fe848812889d19d
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258860"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553374"
 ---
 # <a name="brainbot"></a>BrainBot
 
@@ -21,7 +21,7 @@ ms.locfileid: "52258860"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>上次於開發人員的更新日期：2021年4月28日</p>
 
-* <a href="https://teams.microsoft.com/l/app/3c95872f-ca12-456e-84b9-c717fe93330c" target="_blank">在團隊存放區中查看</a>
+* <a href="https://teams.microsoft.com/l/app/3c95872f-ca12-456e-84b9-c717fe93330c" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381981" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
@@ -34,11 +34,10 @@ ms.locfileid: "52258860"
 |:----------------|:-------------|
 | 應用程式名稱 | BrainBot |
 | ID | WA104381981 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Biggerbrains |
 | 合作夥伴網站的 URL | [https://brainbot.ai](https://brainbot.ai) |
-| [小組應用程式資訊] 頁面的 URL | [https://brainbot.ai](https://brainbot.ai) |
+| Teams 應用程式資訊頁面的 URL | [https://brainbot.ai](https://brainbot.ai) |
 | 隱私權原則的 URL | [https://brainbot.ai/privacypolicy/](https://brainbot.ai/privacypolicy/) |
 | 使用條款的 URL | [https://brainbot.ai/terms/](https://brainbot.ai/terms/) |
 
@@ -54,18 +53,18 @@ ms.locfileid: "52258860"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何 [Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference) 。
+列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| User.Read | 應用程式 | 我們在驗證程式中使用電子郵件地址 &amp; 完整名稱。 此外，電子郵件地址是用來將學習順序傳送給使用者，而使用者訂閱了一個 | 我們在驗證程式中使用電子郵件地址 &amp; 完整名稱。 此外，電子郵件地址是用來將學習順序傳送給使用者，而使用者訂閱了一個 | b256b34a-b377-4fc2-b25a-a8f5f0594e86 |
 
 
-#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->不使用非 Microsoft 服務。
+>不會使用非 Microsoft 服務。
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -74,7 +73,6 @@ ms.locfileid: "52258860"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 我們在驗證程式中使用電子郵件地址 &amp; 完整名稱。 此外，電子郵件地址是用來將學習順序傳送給使用者，而使用者訂閱了一個 | 電子郵件地址 &amp; 完整名稱 | 它們是用於登入目的，也做為應用程式功能的一部分，以便在使用者訂閱一個時，將學習順序傳送給使用者 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -101,9 +99,9 @@ ms.locfileid: "52258860"
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog 的資訊如下所示。
+來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37584' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37584' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37584" target="_blank">在新的索引標籤中查看</a>
 
@@ -120,7 +118,7 @@ Biggerbrains 此資訊的提供方式是關於此應用程式如何處理驗證�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？  | 否 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 否 |
 | 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
@@ -128,7 +126,7 @@ Biggerbrains 此資訊的提供方式是關於此應用程式如何處理驗證�
 | 您的應用程式是否支援多租賃？ | 否 |
 | 您的應用程式有機密用戶端嗎？ | 否 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含流程（除非 SPA 所需）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
 | 您的應用程式是否公開任何 web APIs？ | 否 |
 | 您的應用程式是否使用預覽 APIs？ | 否 |
 | 您的應用程式使用的 APIs 是否已遭取代？ | 否 |

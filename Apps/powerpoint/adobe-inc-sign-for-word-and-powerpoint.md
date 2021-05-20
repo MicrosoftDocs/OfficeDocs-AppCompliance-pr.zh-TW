@@ -1,19 +1,19 @@
 ---
-title: Adobe Inc. 進行 Word 和 PowerPoint 之 Adobe 符號的應用程式資訊。
+title: adobe inc. 進行 Word 和 PowerPoint 之 Adobe 符號的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Adobe 標記的所有可用安全性和符合性資訊資訊，針對 Word 和 PowerPoint，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有可用的 Adobe 符號安全性和符合性資訊資訊，針對 Word 及 PowerPoint，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3ac861b6472b9c96483ea3e8a9ad8fd4d7f02834
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: aa9b4a19f83574d7d9428bbf979ac7ee1375227c
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258940"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553644"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word 和 PowerPoint
 
@@ -32,7 +32,7 @@ Adobe Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Adobe Sign for Word 和 PowerPoint |
 | ID | WA104381155 |
-| 支援 Office 365 用戶端 | Word 2016 或更新版本的 Mac、PowerPoint 2013 Service Pack 1 或更新版本上的 windows、Word 2013 Service Pack 1 或更新版本。 Windows、Word 在網頁上、PowerPoint 網頁上，PowerPoint Mac 上的2016或更新版本 |
+| 支援 Office 365 用戶端 | Word 2016 或更新版本的 mac、PowerPoint 2013 service pack 1 或更新版本中 Windows、Word 2013 service pack 1 或更新版本中 Windows、Word 網頁版、PowerPoint 網頁版、PowerPoint 2016 或更新 mac |
 | 合作夥伴公司名稱 | Adobe Inc.。 |
 | 合作夥伴網站的 URL | [https://www.adobe.com/](https://www.adobe.com/) |
 | 隱私權原則的 URL | [https://www.adobe.com/privacy/policies-business/esign.html](https://www.adobe.com/privacy/policies-business/esign.html) |
@@ -50,7 +50,7 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何 [Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference) 。
+列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
@@ -61,22 +61,13 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 >| openid | 委託 | 電子郵件和 UserId。 若要為使用者簽署，以確保其同意使用 Adobe Sign app 的許可權。  | Email 是 Adobe Sign 中使用者的唯一識別碼。 我們會儲存電子郵件識別碼，以便將該使用者的所有活動對應至其 Adobe 簽署記錄。  | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
 
 
-#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->不使用非 Microsoft 服務。
+>不會使用非 Microsoft 服務。
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 檔 | 可以讀取和變更您的檔 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 
@@ -88,7 +79,7 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->我們在 Microsoft 小組應用程式的系統中，我們沒有任何客戶系統管理員互動。
+>在我們的 Microsoft Teams 應用程式的系統中，我們沒有任何客戶系統管理員互動。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -102,9 +93,9 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog 的資訊如下所示。
+來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/11641' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/11641' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/11641" target="_blank">在新的索引標籤中查看</a>
 
@@ -121,7 +112,7 @@ Adobe Inc. 已提供此資訊。此應用程式如何處理驗證、授權、app
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？  | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
 | 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
@@ -129,7 +120,7 @@ Adobe Inc. 已提供此資訊。此應用程式如何處理驗證、授權、app
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 否 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含流程（除非 SPA 所需）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
 | 您的應用程式是否公開任何 web APIs？ | 是 |
 | 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
 | 您的應用程式是否使用預覽 APIs？ | 否 |

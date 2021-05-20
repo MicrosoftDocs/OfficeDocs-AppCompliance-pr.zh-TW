@@ -1,45 +1,45 @@
 ---
-title: 使用 Sentry 的 Sentry 的應用程式資訊
+title: TeamGether 的應用程式資訊（按 EFFENCY）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2020
+ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 Sentry 的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: TeamGether 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7df6fe458724bbd7162c0bcfc2cdda95176a0e70
+ms.openlocfilehash: 4856abc549692b7963c9a21c2c073133626a78ea
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553894"
+ms.locfileid: "52553327"
 ---
-# <a name="sentry"></a>Sentry
+# <a name="teamgether"></a>TeamGether
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2020年12月9日</p>
+<p>開發人員上次更新：2021年4月16日</p>
 
-* <a href="https://teams.microsoft.com/l/app/5adee720-30de-4006-a342-d454317db1d4" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002106" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/5a0547cc-ea63-4425-acc8-08b89a8fc1a1" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002660" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 Sentry 提供給 Microsoft 的資訊：
+由 EFFENCY 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Sentry |
-| ID | WA200002106 |
+| 應用程式名稱 | TeamGether |
+| ID | WA200002660 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Sentry |
-| 合作夥伴網站的 URL | [https://sentry.io/](https://sentry.io/) |
-| Teams 應用程式資訊頁面的 URL | [https://docs.sentry.io/product/integrations/msteams/](https://docs.sentry.io/product/integrations/msteams/) |
-| 隱私權原則的 URL | [https://sentry.io/privacy/](https://sentry.io/privacy/) |
-| 使用條款的 URL | [https://sentry.io/terms/](https://sentry.io/terms/) |
+| 合作夥伴公司名稱 | EFFENCY |
+| 合作夥伴網站的 URL | [https://www.effency.fr](https://www.effency.fr) |
+| Teams 應用程式資訊頁面的 URL | [https://www.effency.fr/teams/](https://www.effency.fr/teams/) |
+| 隱私權原則的 URL | [https://www.effency.fr/protection-des-donnees](https://www.effency.fr/protection-des-donnees) |
+| 使用條款的 URL | [https://www.effency.fr/conditions-generales](https://www.effency.fr/conditions-generales) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "52553894"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由衛士提供此資訊的相關資訊，取決於此應用程式如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊是由 EFFENCY 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -57,14 +57,6 @@ ms.locfileid: "52553894"
 
 >此應用程式不會使用 Microsoft Graph。
 
-#### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
-
-以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
-
->| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| 團隊 | 否 |  |  |  |  |
->| 對話 | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
 
@@ -76,20 +68,22 @@ ms.locfileid: "52553894"
 
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
->未存取 EUII。
+>| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| 我們使用使用者的名稱來個人化郵件，而使用者的電子郵件地址會儲存在資料庫中，以便在必要時傳送電子郵件。 | 姓氏、名字和電子郵件地址 | 我們使用使用者的名稱來個人化郵件，而使用者的電子郵件地址會儲存在資料庫中，以便在必要時傳送電子郵件。 |
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->應用程式遙測或記錄中未出現 OII 或 EUII。
+>使用者的電子郵件地址可能會出現在記錄檔中，並儲存在資料庫中。 記錄會在7天后清除，除非使用者要求，否則資料庫中的資料會無限期保留。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->不適用
+>我們不會使用夥伴的資料
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -105,9 +99,9 @@ ms.locfileid: "52553894"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35271' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38160' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35271" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38160" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -117,7 +111,7 @@ ms.locfileid: "52553894"
 
 ### <a name="identity-information"></a>身分識別資訊
 
-有關此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則的衛士，請提供此資訊。
+EFFENCY 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|

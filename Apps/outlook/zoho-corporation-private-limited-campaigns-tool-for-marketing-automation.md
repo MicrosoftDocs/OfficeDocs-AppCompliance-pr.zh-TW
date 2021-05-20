@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho 活動工具的所有可用安全性和符合性資訊資訊，用於行銷自動化、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e6107ce4526c7880253d52b6cecb0898c205f57e
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: e67de0ca2871d5432b5a29ead52194225bc51c9a
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252904"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553684"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>行銷自動化的 Zoho 活動工具
 
@@ -73,15 +73,6 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 >不會使用非 Microsoft 服務。
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| 讀取專案 | 此增益集可以存取使用中郵件的個人資訊，例如寄件者名稱、收件者名稱、電子郵件地址、郵件內文及附件資訊。 增益集可能會將此資料傳送給協力廠商服務。 您的信箱中的其他專案可以&#8217;t 讀取或修改。 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

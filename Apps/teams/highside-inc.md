@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HighSide 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fefb6e186e892327c2014a4ba56dc8559f7047cc
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 17c8afbcd7b1b2711a24f8975e3582a7df02f4fc
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253048"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552094"
 ---
 # <a name="highside"></a>HighSide
 
@@ -34,9 +34,8 @@ ms.locfileid: "52253048"
 |:----------------|:-------------|
 | 應用程式名稱 | HighSide |
 | ID | WA200002220 |
-| 功能 | Bot，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | HighSide，Inc。 |
+| 合作夥伴公司名稱 | HighSide, Inc |
 | 合作夥伴網站的 URL | [https://highside.io](https://highside.io) |
 | Teams 應用程式資訊頁面的 URL | [https://highside.io/secureteams](https://highside.io/secureteams) |
 | 隱私權原則的 URL | [https://highside.io/privacy-shield](https://highside.io/privacy-shield) |
@@ -72,7 +71,6 @@ HighSide，Inc. 已提供此資訊，Inc. 瞭解此應用程式如何收集和�
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 搜尋功能 | 使用者名稱 | 搜尋功能 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

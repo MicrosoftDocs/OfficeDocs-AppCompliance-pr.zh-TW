@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: harmon.ie Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 848fff2a4dfebfc90181dd69c660e138e7e4f2a4
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: f494dbc3857bd9fed2603cef3dbc6f76306510c1
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251762"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553734"
 ---
 # <a name="harmonie-for-outlook"></a>Outlook 的 harmon.ie
 
@@ -68,15 +68,6 @@ Harmon.ie Corporation 已提供此資訊，讓您瞭解此應用程式如何收�
 >不會使用非 Microsoft 服務。
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 專案 | 此增益集可以存取及修改使用中郵件中的個人資訊，例如本文、主旨、寄件者、收件者及附件資訊。 它可能會將此資料傳送給協力廠商服務。 您的信箱中的其他專案可以&#8217;t 讀取或修改。 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

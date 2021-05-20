@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Wrike Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ebfdaa0748ab8c97ba7661cd0cc3f68354632c88
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 1ee6c98b2513459c588100a9b3b19ba529d98af0
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252914"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553694"
 ---
 # <a name="wrike-for-outlook"></a>Outlook 的 Wrike
 
@@ -71,15 +71,6 @@ Wrike Inc. 所提供的資訊給 Microsoft：
 >| Wrike 與下列廠商的整合可以存取部分資料： Marketo 是電子郵件潛在客戶捕獲服務-僅提供其名稱和電子郵件。 「推廣」是以雲端為基礎的銷售合約，只會提供他們的名稱和電子郵件。 Salesforce CRM 系統-具有連絡人資訊和帳單 (沒有機密資料) 客戶的資訊。 Zuora-帳單和開具發票的客戶。 所有廠商都有一個 DPA 到位。 |  | 我們使用 JS Office API，但我們不會收集/處理/處理/儲存任何組織資訊。 |
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 信箱 | 此增益集可以讀取或修改您信箱中任何專案的內容，並建立新的專案。 它可以存取任何郵件或行事曆專案中的個人資訊，例如正文、主旨、寄件者、收件者或附件。 它可能會將此資料傳送給協力廠商服務。 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

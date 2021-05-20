@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Slido 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: edbabc3008876892571f32e59147405d5d3fe7f2
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: b54b432cc2956498cfb142ba56789d94ab9c6253
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252263"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553864"
 ---
 # <a name="slido"></a>Slido
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252263"
 |:----------------|:-------------|
 | 應用程式名稱 | Slido |
 | ID | WA200002357 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Slido |
 | 合作夥伴網站的 URL | [https://www.sli.do](https://www.sli.do) |
@@ -79,7 +78,6 @@ ms.locfileid: "52252263"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 此資訊 enriches Bot 的功能，謝謝使用者可以提出 Bot 問題 &amp; 取得資訊的功能。  | 內容資料、購買資料、支付資料、連絡人資料、語音、技術資料 | 啟用 Slido 功能。 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Excel 至 Word 檔自動化的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 14cf8142d1c80fab178aca914d3e999aac5428cf
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: e3f7d7ec2b59ac21a44ca92737e9fbdba4cfdaaa
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251923"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553964"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel 對 Word 檔自動化
 
@@ -63,15 +63,6 @@ ms.locfileid: "52251923"
 >不會使用非 Microsoft 服務。
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| ReadWrite 檔 | 可以讀取和變更您的檔 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

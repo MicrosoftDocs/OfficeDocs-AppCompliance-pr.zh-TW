@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMeister 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3c460acdb9529126d9d1360dd478c30f78c55bac
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: a37e6c35b7a557ee146ad91e65d8f453dd94377e
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252413"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551914"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252413"
 |:----------------|:-------------|
 | 應用程式名稱 | MindMeister |
 | ID | WA104381116 |
-| 功能 | Bot，索引標籤，傳訊擴充功能，連接器 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | MeisterLabs GmbH |
 | 合作夥伴網站的 URL | [https://www.mindmeister.com](https://www.mindmeister.com) |
@@ -74,7 +73,6 @@ ms.locfileid: "52252413"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 識別 MindMeister 中已有連結的 Teams 使用者，並通知他們已安裝 bot。 | 我們不會儲存任何小組名單的資料 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

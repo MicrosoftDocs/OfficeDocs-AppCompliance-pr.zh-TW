@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OpenAgora 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 686d19238196db87387b7574c738e0e09746d047
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: e078e126a4d155fedc2cda86e12ff1341722962c
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250451"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551863"
 ---
 # <a name="openagora"></a>OpenAgora
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250451"
 |:----------------|:-------------|
 | 應用程式名稱 | OpenAgora |
 | ID | WA104381473 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Open Agora |
 | 合作夥伴網站的 URL | [https://www.open-agora.com/en/products/teams](https://www.open-agora.com/en/products/teams) |
@@ -74,7 +73,6 @@ ms.locfileid: "52250451"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| **Name** -用於顯示 voter 的名稱。 **電子郵件**-用於識別小組和聊天中的使用者;用為 voter 的唯一識別碼;用於在 Teams 內應答使用者的 feedbacks。 不會傳送未經傳遞的電子郵件給使用者。 | 名字和姓氏、顯示名稱、電子郵件地址 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

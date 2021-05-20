@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: netDocShare 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4ffccbb904d5283922a4ce6aae7fc5430e86d3d7
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: a3d27c85d6ceadf6f2cbf8d7c9b1449b95dc8327
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252483"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552024"
 ---
 # <a name="netdocshare"></a>netDocShare
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252483"
 |:----------------|:-------------|
 | 應用程式名稱 | netDocShare |
 | ID | WA200001619 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | KL Software Technologies |
 | 合作夥伴網站的 URL | [https://www.netdocshare.com/](https://www.netdocshare.com/) |
@@ -71,12 +70,11 @@ ms.locfileid: "52252483"
 >未存取 EUII。
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->可以。 我們在 Microsoft Azure 所主控的自訂 NoSQL Mongo DB 中儲存 EUII 及 OII。 用戶端停止訂閱後，我們會刪除上述資料庫中的資訊。
+>是。 我們在 Microsoft Azure 所主控的自訂 NoSQL Mongo DB 中儲存 EUII 及 OII。 用戶端停止訂閱後，我們會刪除上述資料庫中的資訊。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

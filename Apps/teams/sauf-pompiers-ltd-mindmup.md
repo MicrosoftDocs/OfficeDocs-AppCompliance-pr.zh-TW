@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMup 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 40075f99759ba0dae4cce2c2a37995076f1017c1
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: fc8852fe84307129e40d79f2f2d29c6133a81c11
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252323"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551793"
 ---
 # <a name="mindmup"></a>MindMup
 
@@ -34,7 +34,6 @@ ms.locfileid: "52252323"
 |:----------------|:-------------|
 | 應用程式名稱 | MindMup |
 | ID | WA200001759 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Sauf Pompiers Ltd |
 | 合作夥伴網站的 URL | [https://www.mindmup.com](https://www.mindmup.com) |
@@ -71,7 +70,6 @@ ms.locfileid: "52252323"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

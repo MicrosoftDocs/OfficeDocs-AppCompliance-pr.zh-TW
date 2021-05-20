@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: StarLeaf 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b180c5c804831624caedb4404b85ca216549fd2f
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 9dc0761fa00e94d97f3d29b4ac85e1d607498288
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251092"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553834"
 ---
 # <a name="starleaf"></a>StarLeaf
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251092"
 |:----------------|:-------------|
 | 應用程式名稱 | StarLeaf |
 | ID | WA200000185 |
-| 功能 | Bot，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | StarLeaf |
 | 合作夥伴網站的 URL | [https://www.starleaf.com](https://www.starleaf.com) |
@@ -78,12 +77,11 @@ ms.locfileid: "52251092"
 >| Bot 會存取小組名單，以代表透過 bot 預訂會議的使用者/主機預訂會議。 這可讓 StarLeaf 透過單一按鈕加入會議，以提供無縫的加入體驗。 | 名字、姓氏、電子郵件地址。 這可讓 StarLeaf bot 代表已與 bot 互動的使用者/主機預訂會議，並邀請團隊的其他成員參與會議。 |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->可以。 記錄包括使用者名、IP 位址、通話詳細資料記錄、有關連線品質 (封包遺失、高比特) 、裝置類型、通話進度的資訊。 資訊可供技術支援小組和資深開發人員用來診斷服務問題。 資料會在90天之後 anonymised。 保護此資料的控制項會在我們的 ISO/IEC 27001 認證下進行審核。
+>是。 記錄包括使用者名、IP 位址、通話詳細資料記錄、有關連線品質 (封包遺失、高比特) 、裝置類型、通話進度的資訊。 資訊可供技術支援小組和資深開發人員用來診斷服務問題。 資料會在90天之後 anonymised。 保護此資料的控制項會在我們的 ISO/IEC 27001 認證下進行審核。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

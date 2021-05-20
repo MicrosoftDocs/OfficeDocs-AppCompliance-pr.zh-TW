@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 365Projects 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f94a5d3400b9a5e36a03ade9ba6e548a0df3c283
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: d760c1c5bacf37fa23e26f4a9a15eb7dbbd75bb1
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251652"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553464"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251652"
 |:----------------|:-------------|
 | 應用程式名稱 | 365Projects |
 | ID | WA200002160 |
-| 功能 | 索引標籤，連接器 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | 365Apps |
 | 合作夥伴網站的 URL | [https://365projects.app](https://365projects.app) |
@@ -78,7 +77,6 @@ ms.locfileid: "52251652"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ScrumGenius 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 921cfb725b6e0ef6d59bb457a76c873f0aaf7806
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: ba3b54f7d99672d657b200bf36725d0c7bf03d83
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250401"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553904"
 ---
 # <a name="scrumgenius"></a>ScrumGenius
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250401"
 |:----------------|:-------------|
 | 應用程式名稱 | ScrumGenius |
 | ID | WA104381097 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | ScrumGenius |
 | 合作夥伴網站的 URL | [https://scrumgenius.com/](https://scrumgenius.com/) |
@@ -76,12 +75,11 @@ ms.locfileid: "52250401"
 >| 我們存取小組名單，所以當小組管理員安裝 scrumgenius 時，我們可以與 scrumgenius 同步處理團隊名單的其餘部分，讓我們能夠將其與我們的平臺進行同步處理，讓他們能夠設定 standup 報告，並指派應該取得報告的小組成員。 | 名字、姓氏、顯示名稱、電子郵件地址 |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->錯誤。 我們會將使用者與我們的記錄的內部識別碼聯繫在一起。
+>否。 我們會將使用者與我們的記錄的內部識別碼聯繫在一起。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

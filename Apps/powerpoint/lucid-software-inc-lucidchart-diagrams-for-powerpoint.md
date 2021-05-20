@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lucidchart 圖表 PowerPoint 的所有可用安全性和符合性資訊資訊，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f31afb0af97c420fc3ca84fb86eaf87c2fa33385
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 024b2e925ba84967bf40754908a8d98baa1d705f
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252833"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553604"
 ---
 # <a name="lucidchart-diagrams-for-powerpoint"></a>PowerPoint 的 Lucidchart 圖表
 
@@ -76,15 +76,6 @@ Lucid 軟體 Inc. 會提供此資訊，讓您瞭解此應用程式如何收集�
 >| Lucidchart 資料會儲存在 AWS 中。 |  | 我們不會使用任何 Microsoft APIs。 我們使用 openID 取得基本的使用者資料，以執行 SSO。 我們會使用其檔案選擇器 API，但不會讓我們透過您的瀏覽器提交給我們的使用者檔案的存取權。 |
 
 
-
-#### <a name="add-in-data-access"></a>增益集資料存取
-
-列出此應用程式在存取您組織的資料時所需的許可權、此許可權的理由和用途 (應用程式使用此資訊的情況為何？ ) ，以及應用程式是否在其資料庫中儲存任何這項資訊。
-
->| **Permission**  | **描述** |
->|:----------------|:----------------|
->| 寫入檔 | 可以對您的檔進行變更或建議 |
->| 傳送資料 | 可以透過網際網路傳送資料 |
 
 #### <a name="telemetry-data"></a>遙測資料
 

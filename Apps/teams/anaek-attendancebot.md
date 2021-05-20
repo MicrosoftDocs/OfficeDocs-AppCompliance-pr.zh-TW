@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AttendanceBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 38160356c691a04e0d109ebd67aaab3826b63286
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: d99f924734bd6857b32ebb85942e5ef7ddb3cf18
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253224"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553424"
 ---
 # <a name="attendancebot"></a>AttendanceBot
 
@@ -34,7 +34,6 @@ ms.locfileid: "52253224"
 |:----------------|:-------------|
 | 應用程式名稱 | AttendanceBot |
 | ID | WA104381652 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Anaek |
 | 合作夥伴網站的 URL | [https://www.attendancebot.com/microsoft-teams/](https://www.attendancebot.com/microsoft-teams/) |
@@ -72,7 +71,6 @@ ms.locfileid: "52253224"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| AttendanceBot 從 MS Teams 存取 PII | 名字、姓氏和電子郵件地址 | 電子郵件地址是安裝 AttendanceBot 之每個小組的唯一識別碼 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

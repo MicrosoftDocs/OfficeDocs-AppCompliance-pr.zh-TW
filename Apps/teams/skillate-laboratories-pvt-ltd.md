@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Skillate 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4f997d64a6306933f8006bf1931d55c26fba5466
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 982f32da96968ac9426ef93a86741e037c0f1713
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250061"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553874"
 ---
 # <a name="skillate"></a>Skillate
 
@@ -34,9 +34,8 @@ Skillate 實驗室 Pvt 提供的資訊。 有限公司對 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Skillate |
 | ID | WA200002490 |
-| 功能 | Bot，索引標籤，連接器 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Skillate Laboratories Pvt. Ltd. |
+| 合作夥伴公司名稱 | Skillate Laboratories Pvt. |
 | 合作夥伴網站的 URL | [https://skillate.com/](https://skillate.com/) |
 | Teams 應用程式資訊頁面的 URL | [https://www.skillate.com/features/intelligent-hiring/](https://www.skillate.com/features/intelligent-hiring/) |
 | 隱私權原則的 URL | [https://www.skillate.com/privacy-policy](https://www.skillate.com/privacy-policy) |
@@ -75,7 +74,6 @@ Skillate 實驗室 Pvt 提供此資訊。 有限公司：此應用程式如何�
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 我們只會使用電子郵件地址來 authorising 使用郵件擴充的使用者。 | 建立帳戶時，我們會儲存電子郵件、名字和姓氏。 不過，在應用程式使用過程中，使用者可以選擇根據客戶輸入新增更多變數 | 我們只會儲存電子郵件、使用者的名字和姓氏，以 authorise 及建立帳戶。  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

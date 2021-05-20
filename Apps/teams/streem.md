@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Streem 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0aa35bfbe583779597af9f3b7223e77227a6eb6b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: e2846048e24c525f55b3a51a5a5ce7c9fa2f862e
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251072"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553824"
 ---
 # <a name="streem"></a>Streem
 
@@ -34,7 +34,6 @@ ms.locfileid: "52251072"
 |:----------------|:-------------|
 | 應用程式名稱 | Streem |
 | ID | WA200000197 |
-| 功能 | Bot |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Streem |
 | 合作夥伴網站的 URL | [https://streem.com.au](https://streem.com.au) |
@@ -72,7 +71,6 @@ ms.locfileid: "52251072"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 根據 Streem 端的客戶帳戶來對應 Teams 使用者名稱 | 否 |  |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

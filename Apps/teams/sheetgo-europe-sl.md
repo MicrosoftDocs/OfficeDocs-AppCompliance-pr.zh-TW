@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b9dca68847e1a96a68db641b5f874248bfa978bb
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: bb23e321e4c40b0ed2c98026665b7e9f9e22a9e4
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250121"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553884"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250121"
 |:----------------|:-------------|
 | 應用程式名稱 | Sheetgo |
 | ID | WA200002067 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | SHEETGO EUROPE SL |
 | 合作夥伴網站的 URL | [https://www.sheetgo.com](https://www.sheetgo.com) |
@@ -71,7 +70,6 @@ SHEETGO 歐 SL 會提供此資訊，此應用程式會如何收集和儲存組�
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 MIPA 的安全性和符合性資訊資訊-您的個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 243a39894b36ea470d25d4145169ecd6f2a27c75
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 3c6e09d38057c2a84196982a94ea8f938b295fbe
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252533"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552084"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - 您的個人助理
 
@@ -33,7 +33,6 @@ ms.locfileid: "52252533"
 |:----------------|:-------------|
 | 應用程式名稱 | MIPA - 您的個人助理 |
 | ID | WA200000148 |
-| 功能 | Bot，索引標籤，傳訊擴充功能 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | iGlobe |
 | 合作夥伴網站的 URL | [https://mipa.iglobe.dk/](https://mipa.iglobe.dk/) |
@@ -103,7 +102,6 @@ ms.locfileid: "52252533"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

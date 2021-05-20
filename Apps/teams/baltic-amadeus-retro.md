@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用於懷舊的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0aa4d73311b10112ef62b2caf5219d1346eafeaa
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 49b17e202fb358284b9a36ed33646926d649afe3
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250831"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553454"
 ---
 # <a name="retro"></a>Retro
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250831"
 |:----------------|:-------------|
 | 應用程式名稱 | Retro |
 | ID | WA200001892 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Baltic Amadeus |
 | 合作夥伴網站的 URL | [https://www.ba.lt/en/](https://www.ba.lt/en/) |
@@ -75,12 +74,11 @@ ms.locfileid: "52250831"
 >| Bot 會存取名單，以檢查加入或離開小組的成員。 根據這一點，它會從專案中新增或停用該使用者，以便使用者不再顯示在衝刺參與者清單中。 | 電子郵件和 FullName 會連結在一起，並儲存在資料庫中。 電子郵件用於使用者識別，以便顯示登入使用者的適當內容。 FullName 用於顯示 puproses，因此其他使用者可以知道他們正在評估或寫入意見反應。  |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->錯誤。 在懷舊式應用程式中產生遙測/記錄的唯一處理程式是錯誤記錄。 錯誤記錄不包含任何 EUII 或 OII
+>否。 在懷舊式應用程式中產生遙測/記錄的唯一處理程式是錯誤記錄。 錯誤記錄不包含任何 EUII 或 OII
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

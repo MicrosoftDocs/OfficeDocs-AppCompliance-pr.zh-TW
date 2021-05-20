@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于連絡人中心的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f4f13a5dcd05622b297488fcfe8663028cc427fa
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: f6e143a7666d5f3a4cfb5744b7a27edfbe60b982
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252463"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552014"
 ---
 # <a name="contact-center"></a>Contact Center
 
@@ -34,7 +34,6 @@ Landis 技術 LLC 給 Microsoft 所提供的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | Contact Center |
 | ID | WA200001428 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Landis Technologies LLC |
 | 合作夥伴網站的 URL | [https://landistechnologies.com/office365contactcenter/](https://landistechnologies.com/office365contactcenter/) |
@@ -92,12 +91,11 @@ Landis 技術 LLC 給 Microsoft 所提供的資訊：
 >| 提供呼叫報告和使用者分析。 | Firstname、lastname 和 UPN 或電話號碼。 此資訊用於通話詳細資料包告和使用者活動分析。 |  |
 
 
-
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->可以。 MS Graph API 要求會記錄下來以協助支援 incidences。 它會根據 Microsoft Azure Application Insights 預設值予以刪除。
+>是。 MS Graph API 要求會記錄下來以協助支援 incidences。 它會根據 Microsoft Azure Application Insights 預設值予以刪除。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

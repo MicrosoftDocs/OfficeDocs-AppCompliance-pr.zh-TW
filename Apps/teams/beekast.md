@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Beekast 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ffadf66224db1b027e9daecc06716b884bf77305
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 01d29afbca709690d19f27a5a0c51e7b13a9672d
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250915"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553364"
 ---
 # <a name="beekast"></a>Beekast
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250915"
 |:----------------|:-------------|
 | 應用程式名稱 | Beekast |
 | ID | WA200001447 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Beekast |
 | 合作夥伴網站的 URL | [https://www.beekast.com](https://www.beekast.com) |
@@ -74,7 +73,6 @@ ms.locfileid: "52250915"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

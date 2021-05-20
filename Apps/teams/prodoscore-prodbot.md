@@ -1,21 +1,21 @@
 ---
-title: Prodoscore ProdBot 的應用程式資訊 Prodoscore
+title: ProdBot 的應用程式資訊（按 Prodoscore）
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Prodoscore ProdBot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: ProdBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b5075edb0ff6f23f01ef0975ee5429560720af9e
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 8cf445d1b1f7ef72300017ce095d0dec0e038f41
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252363"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551823"
 ---
-# <a name="prodoscore-prodbot"></a>Prodoscore ProdBot
+# <a name="prodbot"></a>ProdBot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,9 +32,8 @@ ms.locfileid: "52252363"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Prodoscore ProdBot |
+| 應用程式名稱 | ProdBot |
 | ID | WA200002620 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Prodoscore |
 | 合作夥伴網站的 URL | [https://www.prodoscore.com](https://www.prodoscore.com) |
@@ -72,7 +71,6 @@ ms.locfileid: "52252363"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Navo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6d6853c82a5da9425cbfd237494d51f769006398
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: ef2c71df0559a5a3db4612df5acf86835efe1a71
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251142"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553934"
 ---
 # <a name="navo"></a>Navo
 
@@ -34,7 +34,6 @@ Regroove 解決方案所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Navo |
 | ID | WA200001047 |
-| 功能 | 索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Regroove Solutions |
 | 合作夥伴網站的 URL | [https://getnavo.com](https://getnavo.com) |
@@ -74,7 +73,6 @@ Regroove 解決方案所提供的資訊給 Microsoft：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >未存取 EUII。
-
 
 
 #### <a name="telemetry-data"></a>遙測資料

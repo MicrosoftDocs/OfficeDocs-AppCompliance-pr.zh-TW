@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Yeeflow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 853bf8e0467da6cf653998fc95c6cbc8c66dad1b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: c8dc3fb5a23d480299aae331a9ccccae9641c66c
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250882"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553434"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -34,7 +34,6 @@ ms.locfileid: "52250882"
 |:----------------|:-------------|
 | 應用程式名稱 | Yeeflow |
 | ID | WA200000089 |
-| 功能 | Bot，索引標籤 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Akmii |
 | 合作夥伴網站的 URL | [https://www.yeeflow.com](https://www.yeeflow.com) |
@@ -72,7 +71,6 @@ ms.locfileid: "52250882"
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
 >| 傳送使用者易記的訊息，並識別使用者。 | 使用者的電子郵件和名稱 | 傳送使用者通知及顯示使用者名稱 |
-
 
 
 #### <a name="telemetry-data"></a>遙測資料
