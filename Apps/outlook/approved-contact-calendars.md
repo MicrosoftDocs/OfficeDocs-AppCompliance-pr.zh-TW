@@ -2,24 +2,24 @@
 title: 經核准連絡人的已核准連絡人行事曆應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，如核准的連絡人行事曆、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 57dd499fe648ed9a9b481d4175056977a0d6fa61
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 6849ef81797483688f6e0fad69338b1a015748d0
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552554"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629645"
 ---
 # <a name="approved-contact-calendars"></a>核准的連絡人行事曆
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2019年12月16日</p>
+<p>開發人員上次更新：2021年5月10日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380294" target="_blank">在 AppSource 中查看</a>
 
@@ -35,9 +35,9 @@ ms.locfileid: "52552554"
 | ID | WA104380294 |
 | 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
 | 合作夥伴公司名稱 | 已核准的連絡人 |
-| 合作夥伴網站的 URL | [https://approvedcontact.com/](https://approvedcontact.com/) |
+| 合作夥伴網站的 URL | [www.approvedcontact.com](www.approvedcontact.com) |
 | 隱私權原則的 URL | [https://approvedcontact.com/Privacy%20Policy.pdf](https://approvedcontact.com/Privacy%20Policy.pdf) |
-| 使用條款的 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp; omkt = en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 使用條款的 URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -105,3 +105,27 @@ ms.locfileid: "52552554"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+此資訊已透過核准的連絡人提供，此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
+| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
+| 您的應用程式是否支援多租賃？ | 是 |
+| 您的應用程式有機密用戶端嗎？ | 否 |
+| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式是否公開任何 web APIs？ | 否 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
