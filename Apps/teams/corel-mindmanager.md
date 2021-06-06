@@ -1,43 +1,44 @@
 ---
-title: NetSuite 的應用程式資訊，由 Celigo CloudExtend CloudExtend 分析
+title: MindManager 的應用程式資訊（按 Corel）
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/19/2021
+ms.date: 05/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 NetSuite 的 CloudExtend Analytics 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: MindManager 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 372534beddc10a260ccd8cf5fcc5a28cd8255e65
+ms.openlocfilehash: d9ed1eab16b73a84dcd3ddc41cc0b716865b9a29
 ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/06/2021
-ms.locfileid: "52790005"
+ms.locfileid: "52790031"
 ---
-# <a name="cloudextend-analytics-for-netsuite"></a>NetSuite 的 CloudExtend 分析
+# <a name="mindmanager"></a>MindManager
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新：2021年5月19日</p>
+<p>上次於開發人員的更新：2021年5月3日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002784" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/cebe4a59-b076-47f3-a7bf-79148daf82f7" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002261" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 Celigo CloudExtend 所提供的資訊給 Microsoft：
+由 Corel 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | NetSuite 的 CloudExtend 分析 |
-| ID | WA200002784 |
-| 支援 Office 365 用戶端 | Excel 2016 或更新版本 Mac 上 Excel 2016 或更新版本 Windows Excel 網頁版 |
-| 合作夥伴公司名稱 | Celigo CloudExtend |
-| 合作夥伴網站的 URL | [https://www.cloudextend.io](https://www.cloudextend.io) |
-| 隱私權原則的 URL | [https://www.celigo.com/privacy/](https://www.celigo.com/privacy/) |
-| 使用條款的 URL | [https://www.cloudextend.io/agreements/ssa/2019-12/](https://www.cloudextend.io/agreements/ssa/2019-12/) |
+| 應用程式名稱 | MindManager |
+| ID | WA200002261 |
+| 支援 Office 365 用戶端 | Microsoft Teams |
+| 合作夥伴公司名稱 | Corel |
+| 合作夥伴網站的 URL | [www.mindmanager.com](www.mindmanager.com) |
+| 隱私權原則的 URL | [https://www.corel.com/en/corel-privacy-policy/](https://www.corel.com/en/corel-privacy-policy/) |
+| 使用條款的 URL | [https://www.mindjet.com/go/mmcloudterms](https://www.mindjet.com/go/mmcloudterms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +48,7 @@ ms.locfileid: "52790005"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 Celigo CloudExtend 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊是由 Corel 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -55,8 +56,12 @@ ms.locfileid: "52790005"
 
 >| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 包括 | 讀取使用者有權存取的網站集合，以取得透過網站共用之活頁簿的相關資訊 | 儲存 siteid 以離線存取活頁簿。 | 7040f194-bf08-400e-acb1-69df7939416a |
->| Files.ReadWrite.All | 包括 | 讀取活頁簿內容，例如表格和工作表，並且能夠將內容寫入這些表格 | 活頁簿的詳細資料，例如 web url、活頁簿識別碼及活頁簿的位置以供離線存取 | 7040f194-bf08-400e-acb1-69df7939416a |
+>| ChannelMessage 傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | 檔案中繼資料，檔內容-檔案瀏覽器的使用者可以流覽其檔案，以開啟 MindManager ( mmap) 檔案。 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| [交談]。傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | 檔案中繼資料，檔內容-檔案瀏覽器的使用者可以流覽其檔案，以開啟 MindManager ( mmap) 檔案。 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| Files.ReadWrite | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | -設定檔資料：識別使用者並顯示其設定檔內容：在共同編輯會話期間 (即時協同編輯 MindManager mmap 檔案)  | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| Sites.ReadWrite.All | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | 檔案內容：在共同編輯會話期間 (MindManager mmap 檔案上的即時共同作業編輯)  | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| User.Read | 委託 | 設定檔資料：識別使用者並顯示其設定檔 | 設定檔資料：識別使用者並顯示其設定檔 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| offline_access | 委託 | 這樣一來，我們便可在需要時，將檔案重新儲存回其原始的位置以供使用者日後使用。 | 檔案內容：在共同編輯會話期間 (MindManager mmap 檔案上的即時共同作業編輯)  | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -65,21 +70,26 @@ ms.locfileid: "52790005"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Chargebee、NetSuite、Salesforce、Intercom、LogRocket、Amazon AWS | 組織名稱、NetSuite 帳戶號碼、組織電子郵件地址的網域、計費連絡人資訊 | 授權布建、驗證和帳單客戶支援、疑難排解及帳戶管理 |
+>| Amazon Web Services | 組織名稱、組織網域 | 組織需要在應用程式基礎結構內設定帳戶，以在 Teams 中使用應用程式 |
 
+#### <a name="data-access-via-bots"></a>透過 bot 的資料存取
+
+如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
+
+>未存取 EUII。
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->電子郵件地址、 
+>應用程式遙測或記錄中未出現 OII 或 EUII。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->不適用
+>如下所述： https://www.mindjet.com/go/mmcloudterms
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -95,9 +105,9 @@ ms.locfileid: "52790005"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/14008' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38778' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/14008" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38778" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,7 +117,7 @@ ms.locfileid: "52790005"
 
 ### <a name="identity-information"></a>身分識別資訊
 
-此資訊是由 Celigo CloudExtend 提供，此應用程式會如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+Corel 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -118,7 +128,7 @@ ms.locfileid: "52790005"
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
 | 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
 | 您的應用程式是否支援多租賃？ | 是 |
-| 您的應用程式有機密用戶端嗎？ | 否 |
+| 您的應用程式有機密用戶端嗎？ | 是 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
 | 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
 | 您的應用程式是否公開任何 web APIs？ | 是 |

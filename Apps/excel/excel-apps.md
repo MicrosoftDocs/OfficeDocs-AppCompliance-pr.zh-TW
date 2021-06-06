@@ -2,21 +2,21 @@
 title: Microsoft Excel應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/18/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 5677b001d3cf8632ec166fe428a8fce441d8d25e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 02f4c052f8c2960430d83f09fd5b4dd4c886a2e4
+ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549693"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52789985"
 ---
 # <a name="microsoft-excel-app-security-and-compliance"></a>Microsoft Excel應用程式安全性和合規性
 
-Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關所用 Excel 應用程式和增益集的決策。 此資訊會納入 [Microsoft 雲端 App 安全性](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 應用程式目錄 ，以及開發人員提交其應用程式時所提供的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
+Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關所用 Microsoft Excel 應用程式和增益集的決策。 此資訊會納入 [Microsoft 雲端 App 安全性](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 應用程式目錄 ，以及開發人員提交其應用程式時所提供的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
