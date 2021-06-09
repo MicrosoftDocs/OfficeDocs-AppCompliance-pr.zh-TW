@@ -41,6 +41,8 @@
           href: teams/asana.md
         - name: askR.ai
           href: teams/askrai.md
+        - name: 裝配
+          href: teams/carrothr-inc-assembly.md
         - name: AtBot
           href: teams/h3-solutions-inc-atbot.md
         - name: atSpoke
@@ -65,8 +67,12 @@
           href: teams/biggerbrains-brainbot.md
         - name: Breakthru
           href: teams/breakthru.md
+        - name: 明亮投票
+          href: teams/chat-apps-llc-bright-poll.md
         - name: Brightidea
           href: teams/brightidea.md
+        - name: 廣播
+          href: teams/cerkl-broadcast.md
         - name: C.AI Adoption Bot
           href: teams/contexxtai-cai-adoption-bot.md
         - name: 行事曆 BOT
@@ -77,6 +83,8 @@
           href: teams/chimu-software-catchem.md
         - name: 中心式
           href: teams/biz-effective-centrical.md
+        - name: ChurnZero
+          href: teams/churnzero.md
         - name: Cisco Webex 會議
           href: teams/cisco-webex-meetings.md
         - name: Clever 廣告
@@ -199,6 +207,8 @@
           href: teams/iglobe-mipa-your-personal-assistant.md
         - name: monday.com
           href: teams/mondaycom.md
+        - name: 使用 Jira 向前移動工作
+          href: teams/move-work-forward-with-jira.md
         - name: MURAL
           href: teams/mural.md
         - name: Mybys
@@ -235,6 +245,8 @@
           href: teams/piazza.md
         - name: Planyway 小組行事曆
           href: teams/rubius-planyway-team-calendar.md
+        - name: PlayQuiz-Aprende 和 Juega
+          href: teams/teamschamp-playquiz-aprende-and-juega.md
         - name: Polly
           href: teams/polly.md
         - name: Prezi Video
@@ -249,6 +261,8 @@
           href: teams/unscrambl-qbo.md
         - name: qChange Leader Experience
           href: teams/qchange-software-solution-inc-leader-experience.md
+        - name: 合格
+          href: teams/qualified.md
         - name: Qubie
           href: teams/qubie.md
         - name: Quicklinks
