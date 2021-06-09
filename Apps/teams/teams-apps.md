@@ -2,17 +2,17 @@
 title: Microsoft Teams App 安全性與合規性 - 所有 Apps
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 7633d1f172f68ac03427729a62cc7f5f1664ed15
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: c4ba6cd0abc0c6a7a026feabdd1a57e688d4a0d1
+ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52789995"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851583"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Microsoft Teams App 安全性與合規性
 
@@ -28,6 +28,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [ApproveSimple](./capriza-inc-approvesimple.md) | Capriza， Inc | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [askR.ai](./askrai.md) | askR.ai | **✓** |  |
+| [組件](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions， Inc. | **✓** |  |
 | [atSpoke](./townsend-street-labs-inc-atspoke.md) | Townsend Street Labs, Inc. | **✓** |  |
 | [AttendanceBot](./anaek-attendancebot.md) | Anaek | **✓** |  |
@@ -40,12 +41,15 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [額外獎勵](./bonusly.md) | 額外獎勵 | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  |
+| [亮色投票](./chat-apps-llc-bright-poll.md) | 聊天應用程式，LLC | **✓** |  |
 | [Brightidea](./brightidea.md) | Brightidea | **✓** |  |
+| [廣播](./cerkl-broadcast.md) | Cerkl | **✓** |  |
 | [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** |  |
 | [行事曆 BOT](./approved-contact-calendar-bot.md) | 已核准的連絡人 | **✓** |  |
 | [CalendarHero](./calendarhero-inc.md) | CalendarHero Inc | **✓** |  |
 | [CatchEm](./chimu-software-catchem.md) | Chimu Software | **✓** |  |
 | [中心式](./biz-effective-centrical.md) | Biz-Effective | **✓** |  |
+| [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [Cisco Webex 會議](./cisco-webex-meetings.md) | Cisco Webex 會議 | **✓** |  |
 | [Clever 廣告](./clever-ads.md) | Clever 廣告 | **✓** |  |
 | [Cloverpop](./cloverpop.md) | Cloverpop | **✓** |  |
@@ -107,6 +111,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [MindMup](./sauf-pompiers-ltd-mindmup.md) | Sauf Pompiers Ltd | **✓** |  |
 | [MIPA - 您的個人助理](./iglobe-mipa-your-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [monday.com](./mondaycom.md) | monday.com | **✓** |  |
+| [使用 Jira 推展工作進度](./move-work-forward-with-jira.md) | 推展工作進度 | **✓** |  |
 | [MURAL](./mural.md) | MURAL | **✓** |  |
 | [Mybys](./facilis-mybys.md) | Facilis | **✓** |  |
 | [MyHub](./avepoint-inc-myhub.md) | AvePoint, Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -125,6 +130,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Perfony](./perfony.md) | Perfony | **✓** |  |
 | [Piazza](./piazza.md) | Piazza | **✓** |  |
 | [Planyway 小組行事曆](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  |
+| [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprende-and-juega.md) | TeamsChamp | **✓** |  |
 | [Polly](./polly.md) | Polly | **✓** |  |
 | [Prezi Video](./prezi-video.md) | Prezi | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -132,6 +138,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Q](./moduleq-q.md) | ModuleQ | **✓** |  |
 | [qbo](./unscrambl-qbo.md) | Unscrambl | **✓** |  |
 | [qChange Leader Experience](./qchange-software-solution-inc-leader-experience.md) | qChange Software Solution, Inc. | **✓** |  |
+| [符合資格](./qualified.md) | 符合資格 | **✓** |  |
 | [Qubie](./qubie.md) | Qubie | **✓** |  |
 | [Quicklinks](./chitchattr-quicklinks.md) | ChitChattr | **✓** |  |
 | [達到](./livetiles-reach.md) | LiveTiles | **✓** |  |

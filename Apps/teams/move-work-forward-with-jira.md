@@ -1,45 +1,45 @@
 ---
-title: C.AI 採用 Bot 的應用程式資訊（按 contexxt.ai）
+title: 使用 Jira 向前移動工作所需的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/06/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: C.AI 採用 Bot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有可用的安全性和符合性資訊，可在 Jira 中向前移動工作、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d5e1ad704a7b72a8d3717b7aa1b3d60b23099998
+ms.openlocfilehash: a5ca2ec25650abba3f68a2ec543434c56d3c3d27
 ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851593"
+ms.locfileid: "52852038"
 ---
-# <a name="cai-adoption-bot"></a>C.AI Adoption Bot
+# <a name="move-work-forward-with-jira"></a>使用 Jira 向前移動工作
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新：2021年5月6日</p>
+<p>上次於開發人員的更新：2021年5月5日</p>
 
-* <a href="https://teams.microsoft.com/l/app/f5323aab-3063-46cb-b632-ee01d95de494" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002633" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/79ca2e8f-dd2c-40d5-897e-1b22d41038fe" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002855" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 contexxt.ai 提供給 Microsoft 的資訊：
+將工作轉寄給 Microsoft 所提供的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | C.AI Adoption Bot |
-| ID | WA200002633 |
+| 應用程式名稱 | 使用 Jira 向前移動工作 |
+| ID | WA200002855 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | contexxt.ai |
-| 合作夥伴網站的 URL | [https://contexxt.ai](https://contexxt.ai) |
-| Teams 應用程式資訊頁面的 URL | [https://contexxt.ai/cai-adoption-bot/](https://contexxt.ai/cai-adoption-bot/) |
-| 隱私權原則的 URL | [https://contexxt.ai/privacy-policy](https://contexxt.ai/privacy-policy) |
-| 使用條款的 URL | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
+| 合作夥伴公司名稱 | 向前移動工作 |
+| 合作夥伴網站的 URL | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
+| Teams 應用程式資訊頁面的 URL | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
+| 隱私權原則的 URL | [https://www.moveworkforward.com/privacy-policy](https://www.moveworkforward.com/privacy-policy) |
+| 使用條款的 URL | [https://www.moveworkforward.com/license-agreement/eula](https://www.moveworkforward.com/license-agreement/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "52851593"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 contexxt.ai 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊的移動方式是向前移動，以瞭解此應用程式如何收集和儲存組織資料，以及您的組織將對該應用程式所收集的資料所進行的控制。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -57,13 +57,12 @@ ms.locfileid: "52851593"
 
 >| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 應用程式 | 使用者的可用性可在適當的時間傳送秘訣，而不是在焦點時間內傳送範例（範例） | 匿名使用者的可用性可以在正確的時間傳送秘訣，而不是在焦點時間內傳送範例（範例） | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| ChannelMessage Read。 All | 應用程式 | Microsoft Teams 通道中繼資料，例如，每個通道的私人或或或或或多個會話，以分析 Teams 使用狀況 | 匿名 Microsoft Teams 通道中繼資料，例如，每個通道的私密或非會話數目，以分析 Teams 使用狀況 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| 已閱讀的聊天室。所有 | 應用程式 | Microsoft Teams 聊天中繼資料，例如郵件已贊或有多少群組和1:1 聊天是用來分析 Teams 的使用方式 | 匿名 Microsoft Teams 聊天中繼資料，類似于郵件已贊或有多少群組和1:1 聊天以分析 Teams 使用狀況 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Directory.Read.All | 應用程式 | 使用者物件識別碼，可將秘訣傳送至 specifi 的使用者稍後。 | 雜湊 (匿名) 物件識別碼使用者的識別碼，可將秘訣傳送給 specifi 使用者。 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Group.Read.All | 應用程式 | Microsoft Teams 中繼資料，類似 Teams 的數量和分析 Teams 使用的通道 | Microsoft Teams 中繼資料，類似 Teams 的數量和分析 Teams 使用的通道 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Mail.Read | 應用程式 | Microsoft Exchange 中繼資料，例如電子郵件和群組與1:1 電子郵件的數量，以分析 Exchange (與 Teams) 的使用狀況。 | 匿名 Microsoft Exchange 中繼資料，例如電子郵件和群組的數量與1:1 的電子郵件，用來分析 Exchange (與 Teams) 的使用狀況。 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| User.Read.All | 應用程式 | Microsoft Teams 聊天和交談的中繼資料，類似于提及使用者分析 Teams 使用狀況的方式 | 匿名 Microsoft Teams 聊天和交談中繼資料，類似于已提及使用者分析 Teams 使用狀況的方式 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| 通道。建立 | 委託 | 用於建立問題討論通道。 | 新建立之通道的 web url 會儲存在 Jira 中，以供快速存取 Microsoft Teams 討論通道。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
+>| ReadBasic | 委託 | 通道名稱和 id 是用來將 Jira 中的通知傳送至 Microsoft Teams。 | 通道識別碼及名稱是儲存來設定從 Jira 到 Microsoft Teams 的通知。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
+>| ReadBasic | 委託 | 使用此許可權可讓使用者在 Jira 中選取這其中一個加入的團隊。 | 要在 Jira 的 [設定畫面] 中顯示的團隊識別碼和名稱。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
+>| TeamsAppInstallation.ReadForTeam | 委託 | Teams 小組中的應用程式閱讀已安裝。 設定傳送至 Microsoft Teams 時，應用程式可以使用已安裝的 Bot 傳送至 Teams。 | 無 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
+>| User.Read | 委託 | 可讓使用者建立與同事的討論通道，並在通道郵件中提及 @-提及 | 無 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
+>| 電子郵件 | 委託 | 電子郵件是用來比對 Atlassian 和 Microsoft 使用者 | 不會儲存電子郵件。 僅在對應程式期間使用。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -78,26 +77,26 @@ ms.locfileid: "52851593"
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 在 Bot 架構中，使用者識別碼會自動傳輸，以與使用者通訊。 來自 C.AI 採用分析的其他流量資料是用來 individualize 使用者的學習體驗，因此，只為使用者（可能不會知道這些秘訣）傳送適當且有用的秘訣。 | 否 |  |
+>| 安裝應用程式時以名稱 Greet 使用者。 符合 Microsoft Teams 和 Atlassian 使用者。 | 否 |  |
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->應用程式遙測或記錄中未出現 OII 或 EUII。
+>我們記錄租使用者 url，該 url 儲存在最多5天的記錄中。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->Organizsations 可管理使用者 (指派/移除) 授權。 組織可以指派不同的角色來管理其授權。 Administartors 永遠可以要求刪除其資料。
+>我們只會使用提供嚴格資料隱私權保證的服務。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
 參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
 
->是
+>否
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,9 +106,9 @@ ms.locfileid: "52851593"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37589' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/39108' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37589" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/39108" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -119,7 +118,7 @@ ms.locfileid: "52851593"
 
 ### <a name="identity-information"></a>身分識別資訊
 
-Contexxt.ai 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
+此資訊已透過向前移動，瞭解此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -130,8 +129,9 @@ Contexxt.ai 此資訊的提供方式是關於此應用程式如何處理驗證�
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
 | 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
 | 您的應用程式是否支援多租賃？ | 是 |
-| 您的應用程式有機密用戶端嗎？ | 是 |
+| 您的應用程式有機密用戶端嗎？ | 否 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/><br/>-Resource 物主密碼認證 (ROPC) 流程 |
 | 您的應用程式是否公開任何 web APIs？ | 否 |
 | 您的應用程式是否使用預覽 APIs？ | 否 |
 | 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
