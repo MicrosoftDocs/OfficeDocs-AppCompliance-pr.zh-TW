@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindManager 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d9ed1eab16b73a84dcd3ddc41cc0b716865b9a29
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: 69efbc45560d3271f03f8af8e9cfeb1aa7c89e5d
+ms.sourcegitcommit: 41be194e2be4de3cdb686daee7a8f6e4d1fc765a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52790031"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52904539"
 ---
 # <a name="mindmanager"></a>MindManager
 
@@ -36,7 +36,7 @@ ms.locfileid: "52790031"
 | ID | WA200002261 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Corel |
-| 合作夥伴網站的 URL | [www.mindmanager.com](www.mindmanager.com) |
+| 合作夥伴網站的 URL | [https://www.mindmanager.com](https://www.mindmanager.com) |
 | 隱私權原則的 URL | [https://www.corel.com/en/corel-privacy-policy/](https://www.corel.com/en/corel-privacy-policy/) |
 | 使用條款的 URL | [https://www.mindjet.com/go/mmcloudterms](https://www.mindjet.com/go/mmcloudterms) |
 
