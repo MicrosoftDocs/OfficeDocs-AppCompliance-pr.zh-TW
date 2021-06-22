@@ -1,34 +1,35 @@
 ---
-title: 完成發行者證明
+title: 完成 Publisher 證明
 author: LGerrard
 ms.author: legerrar
-description: 發行者認證計畫的詳細資訊
+description: Publisher 認證計畫的詳細資訊
 keywords: 應用程式認證憑證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b169e63e6f4b4f7492c75c9e2aba09c2d7541b74
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4d5284beb199cc1c5a77bd6091bbc04428b545bd
+ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52070930"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53053427"
 ---
-# <a name="complete-publisher-attestation"></a>完成發行者證明
+# <a name="complete-publisher-attestation"></a>完成 Publisher 證明
 
-發行者證明是一個自願的計畫，您可以在其中完成您的應用程式安全性、資料處理及規範做法的自我評估。 您提供的資訊將會呈現給您的客戶，讓他們在為其組織啟用之前，可更好地評估您的應用程式。 
+Publisher證明是一個自願的計畫，您可以在其中完成應用程式安全性、資料處理及規範做法的自我評估。 您提供的資訊將會呈現給您的客戶，讓他們在為其組織啟用之前，可更好地評估您的應用程式。 
 
 > [!IMPORTANT]
-> Microsoft 不會驗證提供的資訊。 開發人員完全負責自我評估中提供的資訊。 
+> Microsoft 不會驗證所提供的資訊。 開發人員完全負責自我評估中提供的資訊。 
+
 
 ## <a name="program-benefits"></a>方案優點
 - 節省時間。 將您的客戶指向 [檔] 頁面，可在其中找到您對應用程式常見問題的回應。 
 - 加速企業組織的安全性與規範內部考核時程表。
 - 增加透明度。
 - 存放區中其他應用程式的區別。 
-- 從 AppSource 中的專案連結到 [檔] 頁面。 
-- 開啟 Microsoft 365 認證的資格。
+- 從 AppSource 中的專案，連結至您的 [檔] 頁面，位於 Teams 系統管理中心和 Microsoft 系統管理中心。 
+- 資格以開始 Microsoft 365 憑證。
 
-## <a name="publisher-attestation-applies-to-apps-that-integrate-with"></a>發行者認證適用于整合的應用程式：
+## <a name="publisher-attestation-applies-to-apps-that-integrate-with"></a>Publisher認證適用于與整合的應用程式：
 - Teams
 - Word
 - Excel
@@ -37,10 +38,11 @@ ms.locfileid: "52070930"
 - SharePoint
 - Project
 - OneNote
+- Web 應用程式
 
-## <a name="publisher-attestation-process"></a>發行者證明處理常式
+## <a name="publisher-attestation-process"></a>Publisher證明處理常式
 
-1. **請** 參與：發行者證明現在已在合作夥伴中心內整合。 您可以在夥伴中心內的方便使用問卷中完成證明。 如需逐步程式，請參閱我們的 [使用者指南](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) 。
+1. **請** 參與-Publisher 證明現在已在夥伴中心內整合。 您可以在夥伴中心內的方便使用問卷中完成證明。 如需逐步程式，請參閱我們的 [使用者指南](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) 。
 
 2. 等候 **評審意見反應和結果**：在一致性檢查檢查期間，如果分析員發現封鎖問題（如回應資料不足），系統就會聯繫您尋求進一步資訊。 分析員會維護一份應用程式活動記錄檔，詳述評審結果和您在整個程式中追蹤追蹤的報送。 一旦確定您的證明報告已完成且您可以接受回應，您的提交將會受到核准。 您的核准狀態會從提交時一年內有效。
 
@@ -53,18 +55,18 @@ ms.locfileid: "52070930"
    - 連結至提交資訊的詳細複本。
    - 根據您提交的證明報告所提供的資訊的宣告。
 
-例如， *請參閱* [Microsoft 小組應用程式安全性和合規性](../teams/teams-apps.md)
+例如，*請參閱* [Microsoft Teams 應用程式安全性和合規性](../teams/teams-apps.md)
 
-4. **回顧和重新提交** -您的發行者認證將需要一年的頻率重新提交。 當您的證明接近一年標記時，您會透過合作夥伴中心接收通知，以鼓勵您的證明重新提交。 
+4. **回顧和重新提交**-您的 Publisher 認證將需要一年的頻率重新提交。 當您的證明接近一年標記時，您會透過合作夥伴中心接收通知，以鼓勵您的證明重新提交。 
 
-   如果您的發行者證明尚未在到期日之前更新，您的應用程式證明狀態會被撤銷，您的發行者證明將會從 Microsoft 檔頁面移除。 
+   如果您的 Publisher 認證在到期日之前未更新，您的應用程式證明狀態會被撤銷，您的 Publisher 認證將會從 Microsoft 檔頁面移除。 
 
 >[!IMPORTANT]
->加入發行者認證計畫後，您就會同意這些補充條款，並遵循任何適用于您參與發行者證明計畫與 Microsoft Corporation 的隨附檔， ( "Microsoft"，"我們"，"us" 或 "我們的" ) 。 您表示並保證我們有權代表您自己、公司和/或其他實體接受這些發行者認證補充條款（如適用）。 我們隨時可能會變更、修改或終止這些補充字詞。 在任何變更或修正之後，您繼續參與發行者認證計畫，表示您同意新的增補條款。 如果您不同意新的附加條款，或是我們終止這些條款，您必須停止參與發行者認證計畫。
+>加入 Publisher 認證計畫後，即表示您同意這些補充條款，並遵循任何隨附的檔，這些檔適用于您與 Microsoft Corporation ( "microsoft"、"我們"、"us" 或 "我們" ) 的 Publisher 認證計畫中的參與。 您表示並保證我們具有授權，可代表您自行或公司和/或其他實體接受這些 Publisher 認證補充條款。 我們隨時可能會變更、修改或終止這些補充字詞。 在任何變更或修正之後，您繼續參與 Publisher 認證計畫，表示您同意新的增補條款。 如果您不同意新的附加條款，或是我們終止這些條款，您必須停止參與 Publisher 認證計畫。
 
 ## <a name="learn-more"></a>深入了解
 
-* [Microsoft 365 應用程式規範計畫概述](~/overview.md)  
-* [完成發行者驗證](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
-* [何謂發行者認證？](~/docs/enterprise-app-attestation-guide.md)  
+* [Microsoft 365應用程式規範計畫概述](~/overview.md)  
+* [完成 Publisher 驗證](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
+* [何謂 Publisher 認證？](~/docs/enterprise-app-attestation-guide.md)  
 * [完成 Microsoft 365 認證](~/docs/certification.md)
