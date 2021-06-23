@@ -7,18 +7,19 @@ keywords: Microsoft 365 m365 應用程式發行者證明憑證
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: 199c8f82a894566a918c30e529cefdfb8c259a48
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fd06ecd028876a862fa3938253817fae3ff0fea0
+ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071277"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53053437"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 應用程式合規性程式
 
 Microsoft 365 應用程式合規性程式透過三層漸進式方法來實現應用程式安全性與合規性。 每個層次都建立在下一個層面之上 – 這個分層程式讓使用者在使用 Microsoft 365 生態系統中的應用程式時，擁有所需的信心。 目前，程式中的所有層面都是自願的，由應用程式開發人員自行決定是否完成。 
 
 我們的使命宣言：Microsoft 客戶對執行其組織的應用程式完全信任。
+
   ![三層漸進式方法來實現應用程式合規性](media/Microsoft-App-Compliance-Overview.png) 
 
 ## <a name="publisher-verification"></a>發行者驗證
@@ -44,18 +45,12 @@ Microsoft 365 應用程式合規性程式透過三層漸進式方法來實現應
 - SharePoint
 - Project
 - OneNote
+- Web App
 
 > [!IMPORTANT]
-> Microsoft 不會驗證所提供的資訊。 開發人員僅會確認證明文件和相應應用程式效能資料的真實性、準確性和完整性。 
+> Microsoft 不會驗證提供的資訊。開發人員僅會確認證明文件和相應應用程式效能資料的真實性、準確性和完整性。 
 
 ## <a name="microsoft-365-certification"></a>Microsoft 365 憑證
-[Microsoft 365 憑證](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide)為組織提供了保證和信心，確保在使用 Microsoft Teams 應用程式時資料和隱私得到充分保護。 憑證會確認應用程式解決方案與 Microsoft 技術兼容，符合雲端 App 安全性最佳做法，以及得到 Microsoft 的支援。在此流程中，應用程式開發人員會與第三方評定者合作，以驗證組織的安全性及合規性標準。 Microsoft 365 憑證適用於與以下 Microsoft 平台整合的應用程式：
+[Microsoft 365 憑證](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide)為組織提供了保證和信心，確保在使用 Microsoft Teams 應用程式時資料和隱私得到充分保護。 憑證會確認應用程式解決方案與 Microsoft 技術兼容，符合雲端 App 安全性最佳做法，以及得到 Microsoft 的支援。在此流程中，應用程式開發人員會與第三方評定者合作，以驗證組織的安全性及合規性標準。 Microsoft 365 認證適用於符合發行者證明資格的相同應用程式。 
 
--   Teams
--   Word
--   Excel
--   PowerPoint 
--   Outlook
-- SharePoint
-- Project
-- OneNote
+
