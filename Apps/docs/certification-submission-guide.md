@@ -6,12 +6,12 @@ description: Microsoft 365認證提交指南精細查看
 keywords: 應用程式認證團隊 Microsoft 365 安全性符合性 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5e99defd75573b1335975ddc19e851c50da7721f
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 1ee9ba43ffe793f38438a26365cbb8cbc05aa2f3
+ms.sourcegitcommit: d8a1524fc419a1ca33971b656197f0b6a5efe2b9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053447"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53125963"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認證提交指南
 
@@ -104,9 +104,9 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 
 |人口大小              | 範例                  |
 |---------------------------- |-------------------------|
-|<5|1|
-|>5 & <10|第|
-|>9 & <25|個|
+|<5|1 |
+|>5 & <10|2 |
+|>9 & <25|3 |
 |>24|4 |
 
 > [!NOTE]
@@ -233,6 +233,7 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 將會檢查滲透測試報告，以確保沒有符合下列控制項中所述下列 **自動失敗準則** 的漏洞。
  
 **滲透測試需求**
+
 ||**滲透測試控制項**|
 | -------------------------|-----------------------------|
 |**一般準則**| **Controls**|
@@ -284,7 +285,7 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 
 這個網域會以安全性最佳作法衡量應用程式的支援基礎結構和部署程式的對齊方式。
 
-### <a name="controls"></a>控制措施
+### <a name="controls"></a>控制項
 
 |**控制系列**| **Controls**|
 | ------------------------|------------------------------ |
@@ -364,7 +365,7 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 
 您的應用程式會在其中檢索及儲存 M365 資料，您必須依照 [**附錄 B**](#appendix-a)中所定義的規格來執行資料儲存加密配置。
 
-### <a name="controls"></a>控制措施
+### <a name="controls"></a>控制項
 
 |**控制系列**| **Controls** |
 | -----------------------|-------------------------------- |
