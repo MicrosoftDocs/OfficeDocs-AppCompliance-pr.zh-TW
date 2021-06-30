@@ -6,12 +6,12 @@ description: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 keywords: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 437fcbc56309ca14566dbb95f470097af82c26bf
-ms.sourcegitcommit: bfabb191087786fae2b476e3f30861317886defa
+ms.openlocfilehash: 1da6de6ee6664bb868a2184be538a8e5bbc65ab2
+ms.sourcegitcommit: f6f3551bf1c00013efb6313ca3dc280de697137d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/29/2021
-ms.locfileid: "53179044"
+ms.locfileid: "53202603"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>合作夥伴的 Microsoft 365 應用程式規範計畫的使用者指南
 
@@ -21,25 +21,28 @@ ms.locfileid: "53179044"
 |階段2| Microsoft 365 憑證|
 
 ## <a name="1-overview"></a>1. 簡介
-這份檔是在 Microsoft 365 應用程式規範計畫中註冊的合作夥伴逐步使用者指南，其目標是透過夥伴中心入口網站進行 Publisher 證明和憑證。
+這份檔是在 Microsoft 365 應用程式規範計畫中註冊的合作夥伴逐步使用者指南，其意圖是透過夥伴中心入口網站進行 Publisher 證明和認證。
+
 
 ## <a name="2-acronyms--definitions"></a>2. 縮寫 & 定義
 | 縮略字 |定義 |
 |---|----|
-|電腦 [ (合作夥伴中心) ](https://partner.microsoft.com/)|所有 Microsoft 合作夥伴的入口網站。 合作夥伴會登入至夥伴中心，並提交 Self-Assessment 問卷。 Microsoft 365 應用程式相容性的[合作夥伴中心](https://partner.microsoft.com/dashboard/home)|
-|ISV|獨立軟體廠商。 A.k.a. Partner or Developer|
+|電腦 [ (合作夥伴中心) ](https://partner.microsoft.com/)|所有 Microsoft 合作夥伴的入口網站。 協力廠商會登入至夥伴中心，並提交自我評估問卷。 Microsoft 365 應用程式相容性的[合作夥伴中心](https://partner.microsoft.com/dashboard/home)|
+|ISV|獨立軟體廠商。 A.k.a. partner or developer|
 |應用程式來源| [應用程式目錄](https://appsource.microsoft.com/)
-||範例： [Now virtual agent](https://appsource.microsoft.com/product/office/WA104381816)|
+|範例|[現在，虛擬代理程式](https://appsource.microsoft.com/product/office/WA104381816)|
+
 
 ## <a name="3---publisher-attestation-workflow"></a>3. Publisher 認證工作流程
 
-首頁：這是一次夥伴登入夥伴中心的登陸頁面。
+**首頁** ：這是一次夥伴登入夥伴中心的登陸頁面。
 
 ![合作夥伴中心主畫面](../media/UserGuidePhotos/01.png)
 
 **步驟 1**   ：在頁面左側的導覽列中：
-1. 選取 Office 儲存區
-1. 選取一覽
+- 選取 Office 儲存區
+- 選取一覽
+
 
 ![Office可以在左側導覽找到存放區](../media/UserGuidePhotos/02.png)
 
@@ -55,19 +58,17 @@ ms.locfileid: "53179044"
 
 ![選取應用程式規範](../media/UserGuidePhotos/04.png)
 
-**步驟 4**：填寫 Publisher 證明的 Self-Assessment 問卷
+**步驟 4**：填寫 Publisher 證明的自我評估問卷
 
-![發行者證明](../media/UserGuidePhotos/5.5.PNG)
+![發行者證明](../media/UserGuidePhotos/5.5.png)
 
-**附注：** 如果您要回到更新/重新提交應用程式，請按一下 [選擇產品的下拉式清單]，選取應用程式，然後按一下 [仿製]。
+**附注如果您會傳回更新/重新提交應用程式，請按一下 [選擇產品的下拉式清單]，選取應用程式，然後按一下 [複製]。**
 
-![Clone](../media/UserGuidePhotos/05.PNG)
+![Clone](../media/UserGuidePhotos/05.png)
 
 您也可以利用匯入/匯出功能，離線完成表單，並在完成後將其匯入。
 
-![匯入匯出功能](../media/UserGuidePhotos/06.PNG)
-
-您也可以利用匯入/匯出功能，離線完成表單，並在完成後將其匯入。 
+![匯入匯出功能](../media/UserGuidePhotos/06.png)
 
 **步驟 5**：完成後，按一下 [提交]，評估現在會是「審閱」。
 
@@ -79,147 +80,151 @@ ms.locfileid: "53179044"
 
 **Publisher 證明拒絕**
 
-在此階段遭到拒絕時，合作夥伴可以：
--   View 失敗報告。
-    - 合作夥伴會透過電子郵件通知，而且可以在夥伴中心中查看失敗報告
--   更新並重新提交 Publisher 證明 ![ 更新並重新提交評估](../media/UserGuidePhotos/09.png)
+- 在此階段遭到拒絕時，合作夥伴可以：
+    - 查看失敗報告
+         - 合作夥伴會透過電子郵件通知，而且可以在夥伴中心中查看失敗報告
+    - 更新並重新提交 Publisher 證明
 
-**b. Publisher 認證重新提交**
+![更新並重新提交評估](../media/UserGuidePhotos/09.png)
 
-![在審閱下重新提交](../media/PA%20resubmission.png)
 
-**c. Publisher 證明核准**
+**b. Publisher 證明核准**
 
--   在核准合作夥伴可以執行下列作業：
+- 在核准合作夥伴可以執行下列作業：
     - 更新並重新提交證明
     - 查看和共用已完成的 Publisher 證明
-    - 開始 M365 認證處理常式
+    - 開始 Microsoft 365 認證程式
 
-![更新並重新提交](../media/AttestApproval.PNG)
+![更新並重新提交](../media/UserGuidePhotos/10.png)
 
-![查看已完成的證明 ](../media/PA%20approval%202.png)
+![開始 M365 應用程式認證](../media/UserGuidePhotos/11.png)
 
-![開始 M365 應用程式認證](../media/PA%20approval%203.png)
+**Post Publisher 認證核准： Publisher attested 應用程式 AppSource 中的連結範例**
 
-**Post Publisher 驗證核准： Publisher attested 應用程式 AppSource 中的連結範例**
+![完成證明的範例](../media/UserGuidePhotos/12.png)
 
-![完成證明的範例](../media/Example%20to%20attested%20apps.png)
 
 ## <a name="4-microsoft-365-certification-workflow"></a>4. Microsoft 365 認證工作流程
 
-協力廠商按一下「提交」並提交所有檔和證據進行審閱之後： 
+協力廠商可以從選取核取方塊，然後按一下 [提交]，以開始認證程式。 
 
-### <a name="microsoft-365-certification---submitted"></a>Microsoft 365認證-已提交
+![開始認證](../media/UserGuidePhotos/13.png)
 
-![已開始認證](../media/certification%201.png)
+**步驟1：** 初始檔提交填寫所有詳細資料，上傳相關的檔，然後按一下 [提交]
 
-**Microsoft 365 認證-已拒絕**
+![初始提交 ](../media/UserGuidePhotos/14.png)
+ ![ 初始提交2](../media/UserGuidePhotos/15.png)
 
-![拒絕的憑證](../media/certification%20rejected.png)
+在按一下 [提交] 時，證明提交將會受到審核。 
 
-**Microsoft 365認證-已核准**
+![Certificaiton 下的評論](../media/UserGuidePhotos/16.png)
 
-![已核准認證](../media/certification%20approved.png)
+當初始檔不足或沒有相關時，分析員會要求修訂。 分析員會與合作夥伴合作，協助您取得適當的檔以供核准。 
+
+![分析檢查提交](../media/UserGuidePhotos/17.png)
+
+當分析員核准初始檔提交後，協力廠商必須提交控制需求。 
+
+**步驟2：** 控制需求提交填寫所有詳細資料、上傳相關的檔，然後按一下 [提交] 
+
+![完全控制需求 ](../media/UserGuidePhotos/18.png)
+ ![ Upload 證據 ](../media/UserGuidePhotos/19.png)
+ ![ 保證控制需求已完成](../media/UserGuidePhotos/20.png)
+
+在按一下 [提交] 時，認證提交即會進行審閱。 
+
+![審查中的證據](../media/UserGuidePhotos/21.png)
+
+當控制項需求檔不足或沒有相關時，分析員會要求修訂。 分析員會與合作夥伴合作，協助您取得適當的檔以供核准。 
+
+![證據需要更新 ](../media/UserGuidePhotos/22.png)
+ ![ 瞭解哪些證據需要 ](../media/UserGuidePhotos/23.png)
+ ![ 在審查時更新證據](../media/UserGuidePhotos/24.png)
+
+若提交不符合核准標準，則分析員會拒絕提交。 合作夥伴可以與分析員搭配使用，以提供相關資訊和檔。 
+
+![拒絕提交](../media/UserGuidePhotos/25.png)
+
+所有的安全性標準都符合後，分析員便會核准提交，而且會 Microsoft 365 認證合作夥伴。 
+
+![已核准提交](../media/UserGuidePhotos/26.png)
 
 **後憑證核准： AppSource 中 Microsoft 365 憑證徽章的範例**
 
-![認證標記範例](../media/post%20certification%20badge.png)
+![認證標記範例](../media/UserGuidePhotos/27.png)
 
-## <a name="5-workflow-for-existing-isvs"></a>5. 現有 Isv 的工作流程
+## <a name="5---microsoft-365-renewal-workflow"></a>5. Microsoft 365 更新工作流程：
+  
+**Microsoft 365 Publisher 證明和憑證更新工作流程：** Microsoft 365 App 合規性計畫現在提供一年的更新程式。 在此程式中，應用程式開發人員可以更新 Microsoft 365 憑證所需的現有 Publisher 認證問卷及檔。 
+ 
+**好處：** 
 
-如果您是現有的 ISV，且想要更新 Publisher 證明。
-
-**步驟 1**：按一下「更新並重新提交您的 Publisher 認證」連結。
-
-![更新 Publisher 證明 ](../media/existing%20isv%201.png)
-
-**附注：**：如果您要回到更新/重新提交應用程式，請按一下 [選擇產品的下拉式清單]，選取應用程式，然後按一下 [匯入]。
-
-![針對不同整合的匯入證明](../media/M365%20App%20compliance.png)
-
-![按一下 [匯入](../media/M365%20App%20compliance1.png)
-
-**步驟 2**：對表單進行更新，然後按一下 [儲存/提交]。
-
-![按一下 [儲存] 或 [提交]](../media/existing%20isv%202.png)
-
-送出後，即會進行考核。
-
-![審查中的證明](../media/existing%20isv%203.png)
-
-## <a name="6---microsoft-365-publisher-attestation-and-certification-renewal-workflow"></a>6. Microsoft 365 Publisher 證明和認證更新工作流程：
-
-Microsoft 365App 相容性計畫現在提供一年的更新程式。 在此程式中，應用程式開發人員可以更新 Microsoft 365 憑證所需的現有 Publisher 認證問卷及檔。 
-
-**好處：**
-
-- 在 AppSource 和小組存放區中維護您的憑證徽章，以將您的應用程式與其他使用者區別開來。 
+- 在 AppSource、Teams 存放區、Office 存放區和其他書店中維護您的憑證徽章，以區別應用程式。 
 - 使用認證的應用程式，提高客戶的信賴程度。 
 - 協助 IT 管理員以更新的認證資訊作出合理的決策。 
 
-您可以在 [合作夥伴中心](https://partner.microsoft.com/en-us/dashboard/home) 取得新的更新程式，以提供無縫體驗。 在夥伴中心的到期日的開始90天之後，將會顯示更新提醒。 定期提醒也會透過電子郵件于到期的90、60和30天傳送。
+您可以在 [合作夥伴中心](https://partner.microsoft.com/dashboard/home) 取得更新程式，以提供無縫體驗。 在夥伴中心的到期日的開始90天之後，將會顯示更新提醒。 定期提醒也會透過電子郵件于到期的90、60和30天傳送。
 
-**第1層： Publisher 認證更新：** 
+**階段1： Publisher 證明更新：** 
 
-應用程式的 Publisher 認證答案將需要一年重新提交。 當證明臨近1年標記時，系統會傳送電子郵件提醒，以鼓勵重新提交證明。 
+您可以在 [合作夥伴中心](https://partner.microsoft.com/dashboard/home) 取得新的更新程式，以提供無縫體驗。 在夥伴中心的到期日的開始90天之後，將會顯示更新提醒。 定期提醒也會透過電子郵件于到期的90、60和30天傳送。 
 
 **步驟 1**：選取 [**續訂**] 以更新 Publisher 認證。 
 
-![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/AppComplianceExpirationNotice.png)
+![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/UserGuidePhotos/28.png)
 
-**步驟 2**：查看先前的 Publisher 認證答案，並視需要更新最新資訊。 提交 Publisher 認證以于準備時進行更新。 M365 應用程式規範分析員會檢查它。
+**步驟 2**：查看先前的 Publisher 認證答案，並視需要更新最新資訊。 提交 Publisher 認證以于準備時進行更新。 Microsoft 365 應用程式相容性分析員會檢查它。
 
-![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/2.PNG)
+![更新 Publisher 證明](../media/UserGuidePhotos/29.png)
 
-**Publisher 證明已過期：** 應用程式的資訊必須在到期日之前更新，以維護 Microsoft 檔上應用程式的 Publisher 認證頁面。及時更新也會確保 AppSource 和小組存放區中的應用程式持續聲譽徽章授予及圖示。
+**Publisher已核准的證明更新**
 
-![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/3.PNG)
+![Publisher認證更新](../media/UserGuidePhotos/30.png)
+
+**Publisher 證明已過期：** 應用程式的資訊必須在到期日之前更新，以維護 Microsoft 檔上應用程式的 Publisher 認證頁面。及時更新也會確保 AppSource 中的應用程式持續聲譽徽章授予和圖示、Teams 儲存區、Office 存放區及其他書店。
+
+![Publisher證明已到期](../media/UserGuidePhotos/31.png)
 
 附注：已到期，只要按一下「更新」，即可隨時啟動 Publisher 證明更新程式。 
 
-**第2層： Microsoft 365 認證更新** 
+**階段2： Microsoft 365 憑證更新** 
 
 應用程式的認證資訊需要一年的頻率重新提交。 這將需要重新驗證您目前環境中的範圍內控制項。 當憑證臨近1年標記時，系統會傳送電子郵件通知，以鼓勵重新提交檔和證據。 
 
-**認證更新核准/拒絕案例：**
+![認證更新](../media/UserGuidePhotos/32.png)
 
+**認證更新核准/拒絕案例：**
+ 
 **案例1：** 
 
-Publisher證明已完成。 憑證更新已開始，且正在進行審閱。 
+憑證更新已開始，且正在審查中。
 
-![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/4.PNG)
+![在審查時進行認證更新](../media/UserGuidePhotos/33.png)
 
 **案例1A：**
 
+
 憑證更新拒絕：在下列情況中，可能會拒絕認證： 
-
- - 應用程式不具備必要的工具、程式或設定，也無法在認證視窗中執行所需的變更。 
- - 應用程式有未完成的漏洞，無法在認證視窗內修正。 
-
-![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/5.PNG)
+- 應用程式不具備必要的工具、程式或設定，也無法在認證視窗中執行所需的變更。 
+- 應用程式有未完成的漏洞，無法在認證視窗內修正。 
+ 
+![憑證拒絕](../media/UserGuidePhotos/34.png)
     
 **案例1B：** 
 
 認證更新已獲批准  
 
-![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/6.PNG)
+![認證更新已核准](../media/UserGuidePhotos/35.png)
+
 
 **認證到期：**
+ 
+應用程式的資訊必須在到期日之前更新，以維護 Microsoft 檔上應用程式的 [證書] 頁面。及時更新也會確保 AppSource 和小組存放區中的應用程式持續聲譽徽章授予及圖示。
 
-應用程式的資訊必須在到期日之前更新，以維護 Microsoft 檔上應用程式的 [證書] 頁面。及時更新也會確保 AppSource 和小組存放區中的應用程式持續聲譽徽章授予及圖示。 
 
-![Microsoft 365 Publisher 證明和認證更新工作流程 ](../media/7.PNG)
+應用程式的資訊必須在到期日之前更新，以維護 Microsoft 檔上應用程式的 [證書] 頁面。及時更新也會確保 AppSource 中的應用程式持續聲譽徽章授予和圖示、Teams 儲存區、Office 存放區及其他書店。 
+
+![認證更新到期](../media/UserGuidePhotos/36.png)
     
 **附注**：只要按一下「更新」，即可隨時啟動 Publisher 證明和認證程式。 
-
-
-
-
-
-
-
-
-
-
-
 
