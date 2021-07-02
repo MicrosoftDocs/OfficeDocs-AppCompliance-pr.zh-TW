@@ -22,6 +22,138 @@
           href: docs/certification.md
         - name: Microsoft 365認證提交指南
           href: docs/certification-submission-guide.md
+    - name: Microsoft Excel應用程式
+      href: excel/excel-apps.md
+      items:
+        - name: NetSuite 的 CloudExtend 分析
+          href: excel/celigo-cloudextend-analytics-for-netsuite.md
+        - name: Excel 對 Word 檔自動化
+          href: excel/analysisplace-excel-to-word-document-automation.md
+        - name: Office 的 harmon.ie
+          href: excel/harmonie-corporation-for-office.md
+        - name: Office 365 Planner 的 iPlanner 報告工具
+          href: excel/iglobe-iplanner-reporting-tool-for-office-365-planner.md
+        - name: Jira Cloud for Excel
+          href: excel/atlassiancom-jira-cloud-for-excel.md
+        - name: Excel 的 Lucidchart 圖表
+          href: excel/lucid-software-inc-lucidchart-diagrams-for-excel.md
+        - name: Excel 的文字分析 MeaningCloud
+          href: excel/meaningcloud-text-analytics-for-excel.md
+        - name: Office 的 Office2SharePoint
+          href: excel/iglobe-office2sharepoint-for-office.md
+        - name: officeatwork |Office 的內容選擇器
+          href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |Office 的範本選擇器
+          href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
+        - name: QuickCells 圖形
+          href: excel/cc-1c-quickcells-graphs.md
+        - name: QuickCells Solvers
+          href: excel/cc-1c-quickcells-solvers.md
+        - name: Sheetgo
+          href: excel/sheetgo-europe-sl.md
+        - name: Office 檔的 Wrike
+          href: excel/wrike-inc-for-office-documents.md
+        - name: Office 的 Wunder365
+          href: excel/jiji-technologies-private-limited-wunder365-for-office.md
+    - name: Microsoft OneNote應用程式
+      href: onenote/onenote-apps.md
+      items:
+        - name: officeatwork |Office 的內容選擇器
+          href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: Office 的 Wunder365
+          href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
+    - name: Microsoft Outlook 應用程式
+      href: outlook/outlook-apps.md
+      items:
+        - name: Outlook 的 Adobe Sign Add-In
+          href: outlook/adobe-inc-sign-add-in-for-outlook.md
+        - name: Altru 影片
+          href: outlook/altru-videos.md
+        - name: 核准的連絡人行事曆
+          href: outlook/approved-contact-calendars.md
+        - name: Outlook 的 Asana
+          href: outlook/asana-for-outlook.md
+        - name: CI-Signature
+          href: outlook/ci-solution-gmbh-signature.md
+        - name: Outlook 的 harmon.ie
+          href: outlook/harmonie-corporation-for-outlook.md
+        - name: Zoho 發票的發票和時間追蹤
+          href: outlook/zoho-corporation-private-limited-invoice-and-time-tracking.md
+        - name: iPlanner Office 365 Planner 增益集 Outlook
+          href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
+        - name: iPlanner Pro Office 365
+          href: outlook/iglobe-iplanner-pro-office-365.md
+        - name: 'Jira Cloud for Outlook (官方) '
+          href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
+        - name: MIPA-您自己的個人助理
+          href: outlook/iglobe-mipa-your-own-personal-assistant.md
+        - name: ngDesk
+          href: outlook/all-blue-solutions-ngdesk.md
+        - name: Outlook 的 Office2SharePoint
+          href: outlook/iglobe-office2sharepoint-for-outlook.md
+        - name: officeatwork |Outlook 的內容選擇器
+          href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
+        - name: Outlook 的 OnePlaceMail
+          href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
+        - name: 優先順序清單-將電子郵件變成任務
+          href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
+        - name: Salesforce
+          href: outlook/salesforcecom-salesforce.md
+        - name: 電子郵件的 ServiceDesk Plus
+          href: outlook/zoho-corporation-private-limited-servicedesk-plus-for-email.md
+        - name: Outlook 的 StarLeaf 增益集
+          href: outlook/starleaf-add-in-for-outlook.md
+        - name: Outlook 的 Wrike
+          href: outlook/wrike-inc-for-outlook.md
+        - name: Wunder365
+          href: outlook/jiji-technologies-private-limited-wunder365.md
+        - name: 行銷自動化的 Zoho 活動工具
+          href: outlook/zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md
+        - name: 電子郵件的 CRM Zoho
+          href: outlook/zoho-corporation-private-limited-crm-for-email.md
+    - name: Microsoft PowerPoint 應用程式
+      href: powerpoint/powerpoint-apps.md
+      items:
+        - name: Adobe Sign for Word 和 PowerPoint
+          href: powerpoint/adobe-inc-sign-for-word-and-powerpoint.md
+        - name: Excel 對 Word 檔自動化
+          href: powerpoint/analysisplace-excel-to-word-document-automation.md
+        - name: Office 的 harmon.ie
+          href: powerpoint/harmonie-corporation-for-office.md
+        - name: PowerPoint 的 Lucidchart 圖表
+          href: powerpoint/lucid-software-inc-lucidchart-diagrams-for-powerpoint.md
+        - name: Office 的 Office2SharePoint
+          href: powerpoint/iglobe-office2sharepoint-for-office.md
+        - name: officeatwork |Office 的內容選擇器
+          href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |Office 的範本選擇器
+          href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
+        - name: SlideHub
+          href: powerpoint/nomorehours-slidehub.md
+        - name: Office 檔的 Wrike
+          href: powerpoint/wrike-inc-for-office-documents.md
+    - name: Microsoft Project應用程式
+      href: project/project-apps.md
+      items:
+        - name: officeatwork |Office 的範本選擇器
+          href: project/officeatwork-officeatworktemplate-chooser-for-office.md
+    - name: Microsoft SharePoint 應用程式
+      href: sharepoint/sharepoint-apps.md
+      items:
+        - name: 線上 SharePoint 的敏捷工作面板
+          href: sharepoint/agile-is-task-board-for-sharepoint-online.md
+        - name: SharePoint 的 FormMachines 連接器
+          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
+        - name: SharePoint 的 Gaggle
+          href: sharepoint/gagglenet-inc-gaggle-for-sharepoint.md
+        - name: iGlobe CRM 附加元件
+          href: sharepoint/iglobe-crm-add-ons.md
+        - name: iGlobe Microsoft Office 365 的 CRM Office 365
+          href: sharepoint/iglobe-crm-office-365-for-microsoft.md
+        - name: Konnect 電子郵件分析器
+          href: sharepoint/konnect-email-parser.md
+        - name: officeatwork |SharePoint 的範本選擇器
+          href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
     - name: Microsoft Teams應用程式
       href: teams/teams-apps.md
       items:
@@ -33,7 +165,7 @@
           href: teams/akari-solutions-limited-adi.md
         - name: Adobe 標誌
           href: teams/adobe-systems-inc-sign.md
-        - name: 議事日程上司
+        - name: Agenda Boss
           href: teams/appfluence-inc-agenda-boss.md
         - name: 敏捷任務面板
           href: teams/agile-is-task-board.md
@@ -77,7 +209,7 @@
           href: teams/brightidea.md
         - name: 廣播
           href: teams/cerkl-broadcast.md
-        - name: 佈告欄-NextSet
+        - name: 佈告欄 - NextSet
           href: teams/nextsetinc-bulletin-board-nextset.md
         - name: C.AI Adoption Bot
           href: teams/contexxtai-cai-adoption-bot.md
@@ -91,6 +223,8 @@
           href: teams/biz-effective-centrical.md
         - name: ChurnZero
           href: teams/churnzero.md
+        - name: CI Office 的精簡功能
+          href: teams/ci-solution-gmbh-out-of-office-lite.md
         - name: Cisco Webex 會議
           href: teams/cisco-webex-meetings.md
         - name: Clever 廣告
@@ -103,9 +237,11 @@
           href: teams/cauzey-pty-ltd-complish.md
         - name: 會議 i/O
           href: teams/conferences-io.md
+        - name: 連線 +
+          href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
-        - name: Datto 工作場所
+        - name: Datto Workplace
           href: teams/datto-inc-workplace.md
         - name: DBit
           href: teams/diamondsoft-solutions-llc-dbit.md
@@ -137,11 +273,11 @@
           href: teams/evocom-informationssysteme-gmbh.md
         - name: ezTeam
           href: teams/enterprizid-inc-ezteam.md
-        - name: 傢伙
+        - name: Fellow
           href: teams/fellow-insights-inc.md
         - name: FormMachines
           href: teams/enterprise-digital-machines-formmachines.md
-        - name: 寫意
+        - name: Freehand
           href: teams/invisionapp-inc-freehand.md
         - name: Freshdesk
           href: teams/freshworks-inc-freshdesk.md
@@ -159,8 +295,8 @@
           href: teams/guru-technologies.md
         - name: HeyTaco！
           href: teams/heytaco!.md
-        - name: 高數位教練
-          href: teams/digital-attitude-hi-coach.md
+        - name: hi Digital Coach
+          href: teams/digital-attitude-srl-hi-coach.md
         - name: Hi5
           href: teams/hi5technologies-hi5.md
         - name: Hibob
@@ -211,6 +347,8 @@
           href: teams/lucid-software-lucidspark.md
         - name: LuckyDraw
           href: teams/tony-xia-luckydraw.md
+        - name: 由 SMART Lumio
+          href: teams/smart-technologies-ulc-lumio-by.md
         - name: MailClark
           href: teams/mailclark.md
         - name: Medxnote MT
@@ -284,7 +422,7 @@
         - name: 符合資格
           href: teams/qualified.md
         - name: Qubie
-          href: teams/qubie.md
+          href: teams/tivian-qubie.md
         - name: Quicklinks
           href: teams/chitchattr-quicklinks.md
         - name: 達到
@@ -333,6 +471,8 @@
           href: teams/zoho-corporation-private-limited-site24x7.md
         - name: Skillate
           href: teams/skillate-laboratories-pvt-ltd.md
+        - name: SkilledHuman
+          href: teams/saltflat-limited-skilledhuman.md
         - name: Skills by Pipe9
           href: teams/pipe9com-skills-by-pipe9.md
         - name: SkyPoint Cloud
@@ -341,8 +481,6 @@
           href: teams/slido.md
         - name: Jira 的 Smart Connect
           href: teams/yasoon-gmbh-smart-connect-for-jira.md
-        - name: SMART 學習套件
-          href: teams/smart-technologies-ulc-learning-suite.md
         - name: Smartnotation
           href: teams/smartnotation-bv.md
         - name: Smartsheet
@@ -353,7 +491,7 @@
           href: teams/smileback.md
         - name: Soapbox
           href: teams/soapbox.md
-        - name: 社交倡議
+        - name: Social Advocacy
           href: teams/oktopost-social-advocacy.md
         - name: Spinify
           href: teams/spinify.md
@@ -453,69 +591,22 @@
           href: teams/zoho-corporation-private-limited-sign.md
         - name: Zoho Sprints
           href: teams/zoho-corporation-private-limited-sprints.md
-    - name: Microsoft Outlook 應用程式
-      href: outlook/outlook-apps.md
-      items:
-        - name: Adobe 簽署 Outlook 的 Add-In
-          href: outlook/adobe-inc-sign-add-in-for-outlook.md
-        - name: Altru 影片
-          href: outlook/altru-videos.md
-        - name: 核准的連絡人行事曆
-          href: outlook/approved-contact-calendars.md
-        - name: Outlook 的 Asana
-          href: outlook/asana-for-outlook.md
-        - name: Outlook 的 harmon.ie
-          href: outlook/harmonie-corporation-for-outlook.md
-        - name: Zoho 發票的發票和時間追蹤
-          href: outlook/zoho-corporation-private-limited-invoice-and-time-tracking.md
-        - name: 適用于 Outlook 的 Office 365 Planner 增益集 iPlanner
-          href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
-        - name: iPlanner Pro Office 365
-          href: outlook/iglobe-iplanner-pro-office-365.md
-        - name: 'Jira Cloud for Outlook (官方) '
-          href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
-        - name: MIPA-您自己的個人助理
-          href: outlook/iglobe-mipa-your-own-personal-assistant.md
-        - name: ngDesk
-          href: outlook/all-blue-solutions-ngdesk.md
-        - name: Outlook 的 Office2SharePoint
-          href: outlook/iglobe-office2sharepoint-for-outlook.md
-        - name: officeatwork |Outlook 的內容選擇器
-          href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
-        - name: Outlook 的 OnePlaceMail
-          href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
-        - name: 優先順序清單-將電子郵件變成任務
-          href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
-        - name: Salesforce
-          href: outlook/salesforcecom-salesforce.md
-        - name: 電子郵件的 ServiceDesk Plus
-          href: outlook/zoho-corporation-private-limited-servicedesk-plus-for-email.md
-        - name: Outlook 的 StarLeaf 增益集
-          href: outlook/starleaf-add-in-for-outlook.md
-        - name: Outlook 的 Wrike
-          href: outlook/wrike-inc-for-outlook.md
-        - name: Wunder365
-          href: outlook/jiji-technologies-private-limited-wunder365.md
-        - name: 行銷自動化的 Zoho 活動工具
-          href: outlook/zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md
-        - name: 電子郵件的 CRM Zoho
-          href: outlook/zoho-corporation-private-limited-crm-for-email.md
-    - name: Microsoft Word 應用程式
+    - name: Microsoft Word應用程式
       href: word/word-apps.md
       items:
         - name: Adobe Sign for Word 和 PowerPoint
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
         - name: Excel 對 Word 檔自動化
           href: word/analysisplace-excel-to-word-document-automation.md
-        - name: 適用于 Office 的 harmon.ie
+        - name: Office 的 harmon.ie
           href: word/harmonie-corporation-for-office.md
         - name: Word 的 Lucidchart 圖表
           href: word/lucid-software-inc-lucidchart-diagrams-for-word.md
-        - name: 適用于 Office 的 Office2SharePoint
+        - name: Office 的 Office2SharePoint
           href: word/iglobe-office2sharepoint-for-office.md
         - name: officeatwork |Office 的內容選擇器
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office Designer
+        - name: officeatwork |Office 的設計工具
           href: word/officeatwork-officeatworkdesigner-for-office.md
         - name: officeatwork |Office 的範本選擇器
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
@@ -527,90 +618,38 @@
           href: word/officeatwork-officeatworkwizard-for-office.md
         - name: Office 檔的 Wrike
           href: word/wrike-inc-for-office-documents.md
-        - name: 適用于 Office 的 Wunder365
+        - name: Office 的 Wunder365
           href: word/jiji-technologies-private-limited-wunder365-for-office.md
         - name: xLaw-知識管理系統
           href: word/evertn-xlaw-knowledge-management-system.md
-    - name: Microsoft PowerPoint 應用程式
-      href: powerpoint/powerpoint-apps.md
+    - name: Web App
+      href: web/web-apps.md
       items:
-        - name: Adobe Sign for Word 和 PowerPoint
-          href: powerpoint/adobe-inc-sign-for-word-and-powerpoint.md
-        - name: Excel 對 Word 檔自動化
-          href: powerpoint/analysisplace-excel-to-word-document-automation.md
-        - name: 適用于 Office 的 harmon.ie
-          href: powerpoint/harmonie-corporation-for-office.md
-        - name: PowerPoint 的 Lucidchart 圖表
-          href: powerpoint/lucid-software-inc-lucidchart-diagrams-for-powerpoint.md
-        - name: NoMore
-          href: powerpoint/nomorehours-nomore.md
-        - name: 適用于 Office 的 Office2SharePoint
-          href: powerpoint/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork |Office 的內容選擇器
-          href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office 的範本選擇器
-          href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: Office 檔的 Wrike
-          href: powerpoint/wrike-inc-for-office-documents.md
-    - name: Microsoft SharePoint 應用程式
-      href: sharepoint/sharepoint-apps.md
-      items:
-        - name: 線上 SharePoint 的敏捷工作面板
-          href: sharepoint/agile-is-task-board-for-sharepoint-online.md
-        - name: SharePoint 的 FormMachines 連接器
-          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
-        - name: SharePoint 的 Gaggle
-          href: sharepoint/gagglenet-inc-gaggle-for-sharepoint.md
-        - name: iGlobe CRM 附加元件
-          href: sharepoint/iglobe-crm-add-ons.md
-        - name: iGlobe Microsoft Office 365 的 CRM Office 365
-          href: sharepoint/iglobe-crm-office-365-for-microsoft.md
-        - name: Konnect 電子郵件分析器
-          href: sharepoint/konnect-email-parser.md
-        - name: officeatwork |SharePoint 的範本選擇器
-          href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
-    - name: Microsoft Excel 應用程式
-      href: excel/excel-apps.md
-      items:
-        - name: NetSuite 的 CloudExtend 分析
-          href: excel/celigo-cloudextend-analytics-for-netsuite.md
-        - name: Excel 對 Word 檔自動化
-          href: excel/analysisplace-excel-to-word-document-automation.md
-        - name: 適用于 Office 的 harmon.ie
-          href: excel/harmonie-corporation-for-office.md
-        - name: Office 365 Planner 的 iPlanner 報告工具
-          href: excel/iglobe-iplanner-reporting-tool-for-office-365-planner.md
-        - name: 適用于 Excel 的 Jira 雲端
-          href: excel/atlassiancom-jira-cloud-for-excel.md
-        - name: Excel 的 Lucidchart 圖表
-          href: excel/lucid-software-inc-lucidchart-diagrams-for-excel.md
-        - name: Excel 的 MeaningCloud 文字分析
-          href: excel/meaningcloud-text-analytics-for-excel.md
-        - name: 適用于 Office 的 Office2SharePoint
-          href: excel/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork |Office 的內容選擇器
-          href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office 的範本選擇器
-          href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: QuickCells 圖形
-          href: excel/cc-1c-quickcells-graphs.md
-        - name: QuickCells Solvers
-          href: excel/cc-1c-quickcells-solvers.md
-        - name: Sheetgo
-          href: excel/sheetgo-europe-sl.md
-        - name: Office 檔的 Wrike
-          href: excel/wrike-inc-for-office-documents.md
-        - name: 適用于 Office 的 Wunder365
-          href: excel/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: Microsoft OneNote 應用程式
-      href: onenote/onenote-apps.md
-      items:
-        - name: officeatwork |Office 的內容選擇器
-          href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: Office 的 Wunder365
-          href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: Microsoft Project應用程式
-      href: project/project-apps.md
-      items:
-        - name: officeatwork |Office 的範本選擇器
-          href: project/officeatwork-officeatworktemplate-chooser-for-office.md
+        - name: 內容選擇器
+          href: web/officeatwork-content-chooser.md
+        - name: Designer
+          href: web/officeatwork-designer.md
+        - name: iGlobe Microsoft 365 的 CRM Office 365
+          href: web/iglobe-crm-office-365-for-microsoft.md
+        - name: iPlanner Pro Office 365
+          href: web/iglobe-iplanner-pro-office-365.md
+        - name: LMS365
+          href: web/elearningforce-international-aps-lms365.md
+        - name: MIPA-我的智慧個人助理
+          href: web/iglobe-mipa-my-intelligent-personal-assistant.md
+        - name: Office2SharePoint
+          href: web/iglobe-office2sharepoint.md
+        - name: Priority Matrix
+          href: web/appfluence-inc-priority-matrix.md
+        - name: SalesTim
+          href: web/salestim.md
+        - name: 範本選擇程式
+          href: web/officeatwork-template-chooser.md
+        - name: 範本選擇器瀏覽器
+          href: web/officeatwork-template-chooser-browser.md
+        - name: 上傳者
+          href: web/officeatwork-uploader.md
+        - name: 驗證
+          href: web/officeatwork-verifier.md
+        - name: Wizard
+          href: web/officeatwork-wizard.md
