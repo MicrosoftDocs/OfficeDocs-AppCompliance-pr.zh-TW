@@ -1,45 +1,45 @@
 ---
-title: Workday 的應用程式資訊（按 Workday）
+title: ci 方案 GmbH 之 ci 外 Office 精簡功能的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2021
+ms.date: 06/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 Workday 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有可供 CI Office 的安全性和符合性資訊資訊。 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊，都是針對 CI 外 Lite。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f85cc0ccc778f7ed3440e85795574faad3868d24
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 87a4d77deaac6281018befe1fc2de44f0fe20c35
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279005"
+ms.locfileid: "53275281"
 ---
-# <a name="workday"></a>Workday
+# <a name="ci-out-of-office-lite"></a>CI Office 的精簡功能
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年1月26日</p>
+<p>上次於開發人員的更新日期：2021年6月2日</p>
 
-* <a href="https://teams.microsoft.com/l/app/aa4981ef-635f-4066-b260-97445a4b2819" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001555" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/e76af3f9-8fb6-4018-84c0-d5444ad72b4c" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002748" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 Workday 提供給 Microsoft 的資訊：
+Ci 解決方案 GmbH 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Workday |
-| ID | WA200001555 |
+| 應用程式名稱 | CI Office 的精簡功能 |
+| ID | WA200002748 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Workday |
-| 合作夥伴網站的 URL | [https://www.workday.com/en-us/homepage.html](https://www.workday.com/en-us/homepage.html) |
-| Teams 應用程式資訊頁面的 URL | [https://nw.myworkday.com/microsoftteams/](https://nw.myworkday.com/microsoftteams/) |
-| 隱私權原則的 URL | [https://www.workday.com/en-us/privacy.html](https://www.workday.com/en-us/privacy.html) |
-| 使用條款的 URL | [https://nw.myworkday.com/microsoftteams/post-license/](https://nw.myworkday.com/microsoftteams/post-license/) |
+| 合作夥伴公司名稱 | ci 解決方案 GmbH |
+| 合作夥伴網站的 URL | [https://www.ci-solution.com](https://www.ci-solution.com) |
+| Teams 應用程式資訊頁面的 URL | [https://www.ci-solution.com/support/en/ci-oof-lite/](https://www.ci-solution.com/support/en/ci-oof-lite/) |
+| 隱私權原則的 URL | [https://www.ci-solution.com/kontakt/datenschutz.html](https://www.ci-solution.com/kontakt/datenschutz.html) |
+| 使用條款的 URL | [https://www.ci-solution.com/agb](https://www.ci-solution.com/agb) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "53279005"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 Workday 在 Workday 中提供，供 Workday 使用此應用程式如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊已由 ci 解決方案 GmbH 提供，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -57,25 +57,20 @@ ms.locfileid: "53279005"
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsAppInstallation ReadWriteForUser 所有 | 應用程式 | 取得應用程式識別碼、為使用者安裝應用程式、從 AAD 取得 Teams 授權詳細資料 | 我們不會儲存與此功能相關的資料。  這可讓我們為使用者安裝應用程式。 | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
->| User.Read.All | 應用程式 | 找回使用者 AAID 以傳送使用者訊息。 | 只是 AAID 和 Teams AAID  | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
+>| 電子郵件 | 委託 | View 使用者的電子郵件地址 | Es werden keine Daten gespeichert。 | fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
->| 組織資料是在 Workday 服務和 Microsoft 之間共用。 請參閱您與 Workday 簽訂的合約條款，以取得其他詳細資料。 | 組織資料是在 Workday 服務和 Microsoft 之間共用。 請參閱您與 Workday 簽訂的合約條款，以取得其他詳細資料。 | 不適用 |
+>不會使用非 Microsoft 服務。
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
->| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
->| 名單資料可用於個人化使用者與 Workday 應用程式的互動。 | 否 |  |
+>未存取 EUII。
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -88,7 +83,7 @@ ms.locfileid: "53279005"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->請參閱您與 Workday 簽訂的合約條款。
+>Es liegen keine Daten bei Partnern。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -104,9 +99,9 @@ ms.locfileid: "53279005"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36384' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/39113' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36384" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/39113" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,7 +111,7 @@ ms.locfileid: "53279005"
 
 ### <a name="identity-information"></a>身分識別資訊
 
-此資訊是由 Workday 為此應用程式如何處理驗證、授權、application registration 最佳作法及其他身分識別準則所提供。
+此資訊已由 ci 解決方案 GmbH 提供，此應用程式會如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|

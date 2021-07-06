@@ -1,26 +1,27 @@
 ---
-title: Officeatwork 的應用程式資訊 |officeatwork 的 Office 嚮導
+title: 範本選擇瀏覽器的應用程式資訊 officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊Office 的嚮導、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+certification_type: attested
+description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊，如範本選擇瀏覽器、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5cc8fa3937324d734558365d237ca612941b3be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 630e587b1011007d6dbbd33bfad7364bd14f48b1
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279105"
+ms.locfileid: "53275285"
 ---
-# <a name="officeatwork--wizard-for-office"></a>officeatwork |Office 的嚮導
+# <a name="template-chooser-browser"></a>範本選擇器瀏覽器
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>上次於開發人員更新：2020年12月8日</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>上次於開發人員的更新日期：2021年6月22日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380519" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.template-chooser-browser" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
@@ -30,9 +31,8 @@ ms.locfileid: "53279105"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | officeatwork-Office 的嚮導 |
-| ID | WA104380519 |
-| 支援 Office 365 用戶端 | Word 2016 或更新版本的 Mac、Word 2016 或更新版本 Windows 上的 Word iPad，Word 網頁版 |
+| 應用程式名稱 | 範本選擇器瀏覽器 |
+| ID | officeatwork-ag。範本-選擇器-瀏覽器 |
 | 合作夥伴公司名稱 | officeatwork |
 | 合作夥伴網站的 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 隱私權原則的 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -54,17 +54,15 @@ ms.locfileid: "53279105"
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 連絡人。已讀取 | 委託 | 不儲存任何資料。 | 連絡人：啟用已登入使用者的所有連絡人的讀取。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read | 委託 | 不儲存任何資料。 | OneDrive- (內容) ：以啟用已登入使用者的檔案的讀取權。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read.All | 委託 | 不儲存任何資料。 | Teams- (內容) ：以啟用讀取已登入使用者的所有檔案。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Group.Read.All | 委託 | 不儲存任何資料。 | Office 365Users-限制為群組：啟用已登入使用者的所有群組。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Sites.Read.All | 委託 | 不儲存任何資料。 | SharePoint線上：啟用從 SharePoint 線上讀取資料。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read | 委託 | 不儲存任何資料。 | 共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read.All | 委託 | 不儲存任何資料。 | Office 365Users-All 屬性：允許讀取所有使用者的所有屬性。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.ReadBasic.All | 委託 | 不儲存任何資料。 | Office 365使用者-基本屬性：啟用所有使用者的基本屬性讀取 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
+>| Files.ReadWrite.All | 委託 | 不儲存任何資料。 | 「我的我的最愛」：能夠讀取及寫入資料至使用者 OneDrive;OneDrive：能夠在使用者 OneDrive 中讀取及寫入資料。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Group.ReadWrite.All | 委託 | 不儲存任何資料。 | Teams：能夠讀取及寫入群組中的資料。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| GroupMember Read。 All | 委託 | 不儲存任何資料。 | SharePoint線上：允許從 SharePoint 線上讀取資料的使用者許可權。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Sites.Read.All | 委託 | 不儲存任何資料。 | SharePoint線上：啟用從 SharePoint 線上讀取資料。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| User.Read | 委託 | 不儲存任何資料。 | 共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| User.Read.All | 委託 | 不儲存任何資料。 | Teams：找出使用者所屬的群組。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
@@ -108,9 +106,9 @@ ms.locfileid: "53279105"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

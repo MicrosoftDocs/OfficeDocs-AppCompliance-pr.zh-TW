@@ -1,26 +1,27 @@
 ---
-title: Officeatwork 的應用程式資訊 |officeatwork 的 Office 嚮導
+title: 設計人員的應用程式資訊 officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊Office 的嚮導、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+certification_type: attested
+description: 所有可用的安全性和符合性資訊資訊以供設計人員使用，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5cc8fa3937324d734558365d237ca612941b3be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 14c279da91489e679434e489f62945d9a99892d2
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279105"
+ms.locfileid: "53275284"
 ---
-# <a name="officeatwork--wizard-for-office"></a>officeatwork |Office 的嚮導
+# <a name="designer"></a>Designer
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>上次於開發人員更新：2020年12月8日</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>上次於開發人員的更新日期：2021年6月23日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380519" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.designer" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
@@ -30,12 +31,11 @@ ms.locfileid: "53279105"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | officeatwork-Office 的嚮導 |
-| ID | WA104380519 |
-| 支援 Office 365 用戶端 | Word 2016 或更新版本的 Mac、Word 2016 或更新版本 Windows 上的 Word iPad，Word 網頁版 |
+| 應用程式名稱 | Designer |
+| ID | officeatwork-ag. 設計工具 |
 | 合作夥伴公司名稱 | officeatwork |
 | 合作夥伴網站的 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
-| 隱私權原則的 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
+| 隱私權原則的 URL | []() |
 | 使用條款的 URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
