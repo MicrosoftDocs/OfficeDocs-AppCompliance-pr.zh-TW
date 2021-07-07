@@ -8,37 +8,37 @@ ms.service: attestation
 certification_type: attested
 description: Hoylu 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4b63b3bd9cfec20a665d7fd112d2db09c280b594
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b48adaf3c3816bea363b0fd8e6581f061a5eaed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553084"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281856"
 ---
-# <a name="hoylu"></a><span data-ttu-id="f5838-103">Hoylu</span><span class="sxs-lookup"><span data-stu-id="f5838-103">Hoylu</span></span>
+# <a name="hoylu"></a><span data-ttu-id="75548-103">Hoylu</span><span class="sxs-lookup"><span data-stu-id="75548-103">Hoylu</span></span>
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p><span data-ttu-id="f5838-104">開發人員上次更新：2020年7月20日</span><span class="sxs-lookup"><span data-stu-id="f5838-104">Last updated by the developer on: July 20, 2020</span></span></p>
+<p><span data-ttu-id="75548-104">開發人員上次更新：2020年7月20日</span><span class="sxs-lookup"><span data-stu-id="75548-104">Last updated by the developer on: July 20, 2020</span></span></p>
 
-* <span data-ttu-id="f5838-105"><a href="https://teams.microsoft.com/l/app/732e01bc-570a-43ac-9671-8c7fc4152662" target="_blank">在 Teams 儲存區中查看</a></span><span class="sxs-lookup"><span data-stu-id="f5838-105"><a href="https://teams.microsoft.com/l/app/732e01bc-570a-43ac-9671-8c7fc4152662" target="_blank">View in Teams store</a></span></span>
-* <span data-ttu-id="f5838-106"><a href="https://appsource.microsoft.com/product/office/WA200001573" target="_blank">在 AppSource 中查看</a></span><span class="sxs-lookup"><span data-stu-id="f5838-106"><a href="https://appsource.microsoft.com/product/office/WA200001573" target="_blank">View in AppSource</a></span></span>
+* <span data-ttu-id="75548-105"><a href="https://teams.microsoft.com/l/app/732e01bc-570a-43ac-9671-8c7fc4152662" target="_blank">在 Teams 儲存區中查看</a></span><span class="sxs-lookup"><span data-stu-id="75548-105"><a href="https://teams.microsoft.com/l/app/732e01bc-570a-43ac-9671-8c7fc4152662" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="75548-106"><a href="https://appsource.microsoft.com/product/office/WA200001573" target="_blank">在 AppSource 中查看</a></span><span class="sxs-lookup"><span data-stu-id="75548-106"><a href="https://appsource.microsoft.com/product/office/WA200001573" target="_blank">View in AppSource</a></span></span>
 
 ::: zone pivot="general"
 
-### <a name="general-information"></a><span data-ttu-id="f5838-107">一般資訊</span><span class="sxs-lookup"><span data-stu-id="f5838-107">General information</span></span>
+### <a name="general-information"></a><span data-ttu-id="75548-107">一般資訊</span><span class="sxs-lookup"><span data-stu-id="75548-107">General information</span></span>
 
-<span data-ttu-id="f5838-108">由 Hoylu 提供給 Microsoft 的資訊：</span><span class="sxs-lookup"><span data-stu-id="f5838-108">Information provided by Hoylu to Microsoft:</span></span>
+<span data-ttu-id="75548-108">由 Hoylu 提供給 Microsoft 的資訊：</span><span class="sxs-lookup"><span data-stu-id="75548-108">Information provided by Hoylu to Microsoft:</span></span>
 
-| <span data-ttu-id="f5838-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="f5838-109">**Information**</span></span> | <span data-ttu-id="f5838-110">**回應**</span><span class="sxs-lookup"><span data-stu-id="f5838-110">**Response**</span></span> |
+| <span data-ttu-id="75548-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="75548-109">**Information**</span></span> | <span data-ttu-id="75548-110">**回應**</span><span class="sxs-lookup"><span data-stu-id="75548-110">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="f5838-111">應用程式名稱</span><span class="sxs-lookup"><span data-stu-id="f5838-111">App name</span></span> | <span data-ttu-id="f5838-112">Hoylu</span><span class="sxs-lookup"><span data-stu-id="f5838-112">Hoylu</span></span> |
-| <span data-ttu-id="f5838-113">ID</span><span class="sxs-lookup"><span data-stu-id="f5838-113">ID</span></span> | <span data-ttu-id="f5838-114">WA200001573</span><span class="sxs-lookup"><span data-stu-id="f5838-114">WA200001573</span></span> |
-| <span data-ttu-id="f5838-115">支援 Office 365 用戶端</span><span class="sxs-lookup"><span data-stu-id="f5838-115">Office 365 clients supported</span></span> | <span data-ttu-id="f5838-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="f5838-116">Microsoft Teams</span></span> |
-| <span data-ttu-id="f5838-117">合作夥伴公司名稱</span><span class="sxs-lookup"><span data-stu-id="f5838-117">Partner company name</span></span> | <span data-ttu-id="f5838-118">Hoylu</span><span class="sxs-lookup"><span data-stu-id="f5838-118">Hoylu</span></span> |
-| <span data-ttu-id="f5838-119">合作夥伴網站的 URL</span><span class="sxs-lookup"><span data-stu-id="f5838-119">URL of partner website</span></span> | [https://hoylu.com](https://hoylu.com) |
-| <span data-ttu-id="f5838-120">隱私權原則的 URL</span><span class="sxs-lookup"><span data-stu-id="f5838-120">URL of Privacy Policy</span></span> | [https://hoylu.com/privacy-policy](https://hoylu.com/privacy-policy) |
-| <span data-ttu-id="f5838-121">使用條款的 URL</span><span class="sxs-lookup"><span data-stu-id="f5838-121">URL of Terms of Use</span></span> | [https://hoylu.com/terms-of-use](https://hoylu.com/terms-of-use) |
+| <span data-ttu-id="75548-111">應用程式名稱</span><span class="sxs-lookup"><span data-stu-id="75548-111">App name</span></span> | <span data-ttu-id="75548-112">Hoylu</span><span class="sxs-lookup"><span data-stu-id="75548-112">Hoylu</span></span> |
+| <span data-ttu-id="75548-113">ID</span><span class="sxs-lookup"><span data-stu-id="75548-113">ID</span></span> | <span data-ttu-id="75548-114">WA200001573</span><span class="sxs-lookup"><span data-stu-id="75548-114">WA200001573</span></span> |
+| <span data-ttu-id="75548-115">支援 Office 365 用戶端</span><span class="sxs-lookup"><span data-stu-id="75548-115">Office 365 clients supported</span></span> | <span data-ttu-id="75548-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="75548-116">Microsoft Teams</span></span> |
+| <span data-ttu-id="75548-117">合作夥伴公司名稱</span><span class="sxs-lookup"><span data-stu-id="75548-117">Partner company name</span></span> | <span data-ttu-id="75548-118">Hoylu</span><span class="sxs-lookup"><span data-stu-id="75548-118">Hoylu</span></span> |
+| <span data-ttu-id="75548-119">合作夥伴網站的 URL</span><span class="sxs-lookup"><span data-stu-id="75548-119">URL of partner website</span></span> | [https://hoylu.com](https://hoylu.com) |
+| <span data-ttu-id="75548-120">隱私權原則的 URL</span><span class="sxs-lookup"><span data-stu-id="75548-120">URL of Privacy Policy</span></span> | [https://www.hoylu.com/privacy-policy/](https://www.hoylu.com/privacy-policy/) |
+| <span data-ttu-id="75548-121">使用條款的 URL</span><span class="sxs-lookup"><span data-stu-id="75548-121">URL of Terms of Use</span></span> | [https://www.hoylu.com/terms-of-use/](https://www.hoylu.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -46,47 +46,47 @@ ms.locfileid: "52553084"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a><span data-ttu-id="f5838-122">應用程式如何處理資料</span><span class="sxs-lookup"><span data-stu-id="f5838-122">How the app handles data</span></span>
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="75548-122">應用程式如何處理資料</span><span class="sxs-lookup"><span data-stu-id="75548-122">How the app handles data</span></span>
 
-<span data-ttu-id="f5838-123">此資訊是由 Hoylu 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。</span><span class="sxs-lookup"><span data-stu-id="f5838-123">This information has been provided by Hoylu about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+<span data-ttu-id="75548-123">此資訊是由 Hoylu 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。</span><span class="sxs-lookup"><span data-stu-id="75548-123">This information has been provided by Hoylu about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
 
-#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="f5838-124">使用 Microsoft Graph 的資料存取</span><span class="sxs-lookup"><span data-stu-id="f5838-124">Data access using Microsoft Graph</span></span>
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="75548-124">使用 Microsoft Graph 的資料存取</span><span class="sxs-lookup"><span data-stu-id="75548-124">Data access using Microsoft Graph</span></span>
 
-<span data-ttu-id="f5838-125">列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。</span><span class="sxs-lookup"><span data-stu-id="f5838-125">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+<span data-ttu-id="75548-125">列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。</span><span class="sxs-lookup"><span data-stu-id="75548-125">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
 
-><span data-ttu-id="f5838-126">此應用程式不會使用 Microsoft Graph。</span><span class="sxs-lookup"><span data-stu-id="f5838-126">This application does not use Microsoft Graph.</span></span>
-
-
-#### <a name="non-microsoft-services-used"></a><span data-ttu-id="f5838-127">未使用的 Microsoft 服務</span><span class="sxs-lookup"><span data-stu-id="f5838-127">Non-Microsoft services used</span></span>
-
-<span data-ttu-id="f5838-128">若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。</span><span class="sxs-lookup"><span data-stu-id="f5838-128">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
-
-><span data-ttu-id="f5838-129">不會使用非 Microsoft 服務。</span><span class="sxs-lookup"><span data-stu-id="f5838-129">Non-Microsoft services are not used.</span></span>
-
-#### <a name="data-access-via-bots"></a><span data-ttu-id="f5838-130">透過 bot 的資料存取</span><span class="sxs-lookup"><span data-stu-id="f5838-130">Data access via bots</span></span>
-
-<span data-ttu-id="f5838-131">如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。</span><span class="sxs-lookup"><span data-stu-id="f5838-131">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="f5838-132">此應用程式是否使用此功能？</span><span class="sxs-lookup"><span data-stu-id="f5838-132">Does this app make use of this capability?</span></span>
-
-><span data-ttu-id="f5838-133">未存取 EUII。</span><span class="sxs-lookup"><span data-stu-id="f5838-133">No EUII is accessed.</span></span>
+><span data-ttu-id="75548-126">此應用程式不會使用 Microsoft Graph。</span><span class="sxs-lookup"><span data-stu-id="75548-126">This application does not use Microsoft Graph.</span></span>
 
 
-#### <a name="telemetry-data"></a><span data-ttu-id="f5838-134">遙測資料</span><span class="sxs-lookup"><span data-stu-id="f5838-134">Telemetry data</span></span>
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="75548-127">未使用的 Microsoft 服務</span><span class="sxs-lookup"><span data-stu-id="75548-127">Non-Microsoft services used</span></span>
 
-<span data-ttu-id="f5838-135">任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？</span><span class="sxs-lookup"><span data-stu-id="f5838-135">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="f5838-136">如果是，請描述要儲存的資料，以及保留和移除原則為何？</span><span class="sxs-lookup"><span data-stu-id="f5838-136">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+<span data-ttu-id="75548-128">若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。</span><span class="sxs-lookup"><span data-stu-id="75548-128">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
 
-><span data-ttu-id="f5838-137">是。</span><span class="sxs-lookup"><span data-stu-id="f5838-137">Yes.</span></span> <span data-ttu-id="f5838-138">針對應用程式安全性進行記錄，而且會以名字和姓氏、電子郵件、IP 位址、組織識別碼的形式來收集 EUII 和 OII。</span><span class="sxs-lookup"><span data-stu-id="f5838-138">Logging is done for application security, and EUII and OII are collected in the form of first and last name, email, IP address, organization ID.</span></span> <span data-ttu-id="f5838-139">Hoylu 的記錄提供者是 Datadog。</span><span class="sxs-lookup"><span data-stu-id="f5838-139">Hoylu's logging provider is Datadog.</span></span> <span data-ttu-id="f5838-140">Datadog 已認證其與歐盟 U.S 的相容性。隱私權防火牆架構，是雲端安全性同盟的星形報名者 (CSA) 。</span><span class="sxs-lookup"><span data-stu-id="f5838-140">Datadog has certified its compliance with the EU-U.S. Privacy Shield Framework and is a STAR Registrant for the Cloud Security Alliance (CSA).</span></span> <span data-ttu-id="f5838-141">Datadog 也 pursues 主要獨立的安全性、程式和服務的協力廠商驗證，包括完成 SOC 2 Type II audit。</span><span class="sxs-lookup"><span data-stu-id="f5838-141">Datadog also pursues key independent third-party validations of its security, processes, and services, including completion of the SOC 2 Type II audit.</span></span> <span data-ttu-id="f5838-142">使用者隨時可以要求透過 GDPR 相容的程式來刪除這項資訊。</span><span class="sxs-lookup"><span data-stu-id="f5838-142">A user can request deletion of this information through a GDPR compliant process at any time.</span></span>
+><span data-ttu-id="75548-129">不會使用非 Microsoft 服務。</span><span class="sxs-lookup"><span data-stu-id="75548-129">Non-Microsoft services are not used.</span></span>
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="f5838-143">夥伴所儲存資料的組織控制項</span><span class="sxs-lookup"><span data-stu-id="f5838-143">Organizational controls for data stored by partner</span></span>
+#### <a name="data-access-via-bots"></a><span data-ttu-id="75548-130">透過 bot 的資料存取</span><span class="sxs-lookup"><span data-stu-id="75548-130">Data access via bots</span></span>
 
-<span data-ttu-id="f5838-144">說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。</span><span class="sxs-lookup"><span data-stu-id="f5838-144">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+<span data-ttu-id="75548-131">如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。</span><span class="sxs-lookup"><span data-stu-id="75548-131">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="75548-132">此應用程式是否使用此功能？</span><span class="sxs-lookup"><span data-stu-id="75548-132">Does this app make use of this capability?</span></span>
 
-><span data-ttu-id="f5838-145">應用程式資料儲存在 Microsoft Azure 雲端服務中，而且所有使用的加密通訊協定都是 FIPS 140-2 相容。</span><span class="sxs-lookup"><span data-stu-id="f5838-145">The application data is stored in Microsoft Azure Cloud Services, and all used encryption protocols are FIPS 140-2 compliant.</span></span> <span data-ttu-id="f5838-146">只有基礎結構管理員 (PMA) 才能存取此實際執行資料。</span><span class="sxs-lookup"><span data-stu-id="f5838-146">this production data is only accessible by infrastructure administrators (PMA).</span></span> <span data-ttu-id="f5838-147">組織的帳戶管理是透過 Azure AD 搭配2FA 進行。</span><span class="sxs-lookup"><span data-stu-id="f5838-147">Account administration for the organization is done via Azure AD with 2FA.</span></span>
+><span data-ttu-id="75548-133">未存取 EUII。</span><span class="sxs-lookup"><span data-stu-id="75548-133">No EUII is accessed.</span></span>
 
-#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="f5838-148">組織資訊的人工檢查</span><span class="sxs-lookup"><span data-stu-id="f5838-148">Human review of organizational information</span></span>
 
-<span data-ttu-id="f5838-149">參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？</span><span class="sxs-lookup"><span data-stu-id="f5838-149">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+#### <a name="telemetry-data"></a><span data-ttu-id="75548-134">遙測資料</span><span class="sxs-lookup"><span data-stu-id="75548-134">Telemetry data</span></span>
 
-><span data-ttu-id="f5838-150">否</span><span class="sxs-lookup"><span data-stu-id="f5838-150">No</span></span>
+<span data-ttu-id="75548-135">任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？</span><span class="sxs-lookup"><span data-stu-id="75548-135">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="75548-136">如果是，請描述要儲存的資料，以及保留和移除原則為何？</span><span class="sxs-lookup"><span data-stu-id="75548-136">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+
+><span data-ttu-id="75548-137">是。</span><span class="sxs-lookup"><span data-stu-id="75548-137">Yes.</span></span> <span data-ttu-id="75548-138">針對應用程式安全性進行記錄，而且會以名字和姓氏、電子郵件、IP 位址、組織識別碼的形式來收集 EUII 和 OII。</span><span class="sxs-lookup"><span data-stu-id="75548-138">Logging is done for application security, and EUII and OII are collected in the form of first and last name, email, IP address, organization ID.</span></span> <span data-ttu-id="75548-139">Hoylu 的記錄提供者是 Datadog。</span><span class="sxs-lookup"><span data-stu-id="75548-139">Hoylu's logging provider is Datadog.</span></span> <span data-ttu-id="75548-140">Datadog 已認證其與歐盟 U.S 的相容性。隱私權防火牆架構，是雲端安全性同盟的星形報名者 (CSA) 。</span><span class="sxs-lookup"><span data-stu-id="75548-140">Datadog has certified its compliance with the EU-U.S. Privacy Shield Framework and is a STAR Registrant for the Cloud Security Alliance (CSA).</span></span> <span data-ttu-id="75548-141">Datadog 也 pursues 主要獨立的安全性、程式和服務的協力廠商驗證，包括完成 SOC 2 Type II audit。</span><span class="sxs-lookup"><span data-stu-id="75548-141">Datadog also pursues key independent third-party validations of its security, processes, and services, including completion of the SOC 2 Type II audit.</span></span> <span data-ttu-id="75548-142">使用者隨時可以要求透過 GDPR 相容的程式來刪除這項資訊。</span><span class="sxs-lookup"><span data-stu-id="75548-142">A user can request deletion of this information through a GDPR compliant process at any time.</span></span>
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="75548-143">夥伴所儲存資料的組織控制項</span><span class="sxs-lookup"><span data-stu-id="75548-143">Organizational controls for data stored by partner</span></span>
+
+<span data-ttu-id="75548-144">說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。</span><span class="sxs-lookup"><span data-stu-id="75548-144">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+
+><span data-ttu-id="75548-145">應用程式資料儲存在 Microsoft Azure 雲端服務中，而且所有使用的加密通訊協定都是 FIPS 140-2 相容。</span><span class="sxs-lookup"><span data-stu-id="75548-145">The application data is stored in Microsoft Azure Cloud Services, and all used encryption protocols are FIPS 140-2 compliant.</span></span> <span data-ttu-id="75548-146">只有基礎結構管理員 (PMA) 才能存取此實際執行資料。</span><span class="sxs-lookup"><span data-stu-id="75548-146">this production data is only accessible by infrastructure administrators (PMA).</span></span> <span data-ttu-id="75548-147">組織的帳戶管理是透過 Azure AD 搭配2FA 進行。</span><span class="sxs-lookup"><span data-stu-id="75548-147">Account administration for the organization is done via Azure AD with 2FA.</span></span>
+
+#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="75548-148">組織資訊的人工檢查</span><span class="sxs-lookup"><span data-stu-id="75548-148">Human review of organizational information</span></span>
+
+<span data-ttu-id="75548-149">參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？</span><span class="sxs-lookup"><span data-stu-id="75548-149">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+
+><span data-ttu-id="75548-150">否</span><span class="sxs-lookup"><span data-stu-id="75548-150">No</span></span>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -94,11 +94,11 @@ ms.locfileid: "52553084"
 
 ::: zone pivot="mcas"
 
-<span data-ttu-id="f5838-151">來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。</span><span class="sxs-lookup"><span data-stu-id="f5838-151">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+<span data-ttu-id="75548-151">來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。</span><span class="sxs-lookup"><span data-stu-id="75548-151">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
 
-<iframe height='1020' title='<span data-ttu-id="f5838-152">Microsoft Cloud App Security資訊</span><span class="sxs-lookup"><span data-stu-id="f5838-152">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35933' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="f5838-153">
+<iframe height='1020' title='<span data-ttu-id="75548-152">Microsoft Cloud App Security資訊</span><span class="sxs-lookup"><span data-stu-id="75548-152">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35933' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="75548-153">
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35933" target="_blank">在新的索引標籤中查看</a></span><span class="sxs-lookup"><span data-stu-id="f5838-153">
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35933" target="_blank">在新的索引標籤中查看</a></span><span class="sxs-lookup"><span data-stu-id="75548-153">
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35933" target="_blank">View in a new tab</a></span></span>
 

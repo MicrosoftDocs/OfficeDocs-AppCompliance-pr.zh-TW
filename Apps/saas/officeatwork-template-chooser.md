@@ -1,0 +1,144 @@
+---
+title: 透過 officeatwork 的範本選擇器的應用程式資訊
+ms.author: elmalova
+author: elenamalova
+ms.date: 06/22/2021
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: 所有可用的安全性和符合性資訊，如範本選擇、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 48f491b41cec663c07f11645f02cb495f248d765
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282525"
+---
+# <a name="template-chooser"></a><span data-ttu-id="73d52-103">範本選擇程式</span><span class="sxs-lookup"><span data-stu-id="73d52-103">Template Chooser</span></span>
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p><span data-ttu-id="73d52-104">上次於開發人員的更新日期：2021年6月22日</span><span class="sxs-lookup"><span data-stu-id="73d52-104">Last updated by the developer on: June 22, 2021</span></span></p>
+
+* <span data-ttu-id="73d52-105"><a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.template-chooser" target="_blank">在 AppSource 中查看</a></span><span class="sxs-lookup"><span data-stu-id="73d52-105"><a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.template-chooser" target="_blank">View in AppSource</a></span></span>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a><span data-ttu-id="73d52-106">一般資訊</span><span class="sxs-lookup"><span data-stu-id="73d52-106">General information</span></span>
+
+<span data-ttu-id="73d52-107">由 officeatwork 提供給 Microsoft 的資訊：</span><span class="sxs-lookup"><span data-stu-id="73d52-107">Information provided by officeatwork to Microsoft:</span></span>
+
+| <span data-ttu-id="73d52-108">**Information**</span><span class="sxs-lookup"><span data-stu-id="73d52-108">**Information**</span></span> | <span data-ttu-id="73d52-109">**回應**</span><span class="sxs-lookup"><span data-stu-id="73d52-109">**Response**</span></span> |
+|:----------------|:-------------|
+| <span data-ttu-id="73d52-110">應用程式名稱</span><span class="sxs-lookup"><span data-stu-id="73d52-110">App name</span></span> | <span data-ttu-id="73d52-111">範本選擇程式</span><span class="sxs-lookup"><span data-stu-id="73d52-111">Template Chooser</span></span> |
+| <span data-ttu-id="73d52-112">ID</span><span class="sxs-lookup"><span data-stu-id="73d52-112">ID</span></span> | <span data-ttu-id="73d52-113">officeatwork-ag。範本選擇</span><span class="sxs-lookup"><span data-stu-id="73d52-113">officeatwork-ag.template-chooser</span></span> |
+| <span data-ttu-id="73d52-114">合作夥伴公司名稱</span><span class="sxs-lookup"><span data-stu-id="73d52-114">Partner company name</span></span> | <span data-ttu-id="73d52-115">officeatwork</span><span class="sxs-lookup"><span data-stu-id="73d52-115">officeatwork</span></span> |
+| <span data-ttu-id="73d52-116">合作夥伴網站的 URL</span><span class="sxs-lookup"><span data-stu-id="73d52-116">URL of partner website</span></span> | [https://www.officeatwork.com](https://www.officeatwork.com) |
+| <span data-ttu-id="73d52-117">隱私權原則的 URL</span><span class="sxs-lookup"><span data-stu-id="73d52-117">URL of Privacy Policy</span></span> | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
+| <span data-ttu-id="73d52-118">使用條款的 URL</span><span class="sxs-lookup"><span data-stu-id="73d52-118">URL of Terms of Use</span></span> | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="73d52-119">應用程式如何處理資料</span><span class="sxs-lookup"><span data-stu-id="73d52-119">How the app handles data</span></span>
+
+<span data-ttu-id="73d52-120">此資訊是由 officeatwork 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。</span><span class="sxs-lookup"><span data-stu-id="73d52-120">This information has been provided by officeatwork about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="73d52-121">使用 Microsoft Graph 的資料存取</span><span class="sxs-lookup"><span data-stu-id="73d52-121">Data access using Microsoft Graph</span></span>
+
+<span data-ttu-id="73d52-122">列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。</span><span class="sxs-lookup"><span data-stu-id="73d52-122">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+
+>| <span data-ttu-id="73d52-123">**Permission**</span><span class="sxs-lookup"><span data-stu-id="73d52-123">**Permission**</span></span>  | <span data-ttu-id="73d52-124">**委派/應用程式的許可權 (類型)**</span><span class="sxs-lookup"><span data-stu-id="73d52-124">**Type of permission (Delegated/Application)**</span></span> | <span data-ttu-id="73d52-125">**資料是否已收集？要收集的理由？**</span><span class="sxs-lookup"><span data-stu-id="73d52-125">**Is data collected? Justification for collecting it?**</span></span> | <span data-ttu-id="73d52-126">**資料是否已儲存？儲存的理由**</span><span class="sxs-lookup"><span data-stu-id="73d52-126">**Is data stored? Justification for storing it?**</span></span> | <span data-ttu-id="73d52-127">**Azure AD 應用程式識別碼**</span><span class="sxs-lookup"><span data-stu-id="73d52-127">**Azure AD App ID**</span></span> |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| <span data-ttu-id="73d52-128">Files.ReadWrite.All</span><span class="sxs-lookup"><span data-stu-id="73d52-128">Files.ReadWrite.All</span></span> | <span data-ttu-id="73d52-129">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-129">delegated</span></span> | <span data-ttu-id="73d52-130">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-130">No data is stored.</span></span> | <span data-ttu-id="73d52-131">「我的我的最愛」：能夠讀取及寫入資料至使用者 OneDrive;OneDrive：能夠在使用者 OneDrive 中讀取及寫入資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-131">Favorites: to be able to read and write data to the users OneDrive; OneDrive: to be able to read and write data to the users OneDrive.</span></span> | <span data-ttu-id="73d52-132">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-132">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+>| <span data-ttu-id="73d52-133">Group.ReadWrite.All</span><span class="sxs-lookup"><span data-stu-id="73d52-133">Group.ReadWrite.All</span></span> | <span data-ttu-id="73d52-134">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-134">delegated</span></span> | <span data-ttu-id="73d52-135">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-135">No data is stored.</span></span> | <span data-ttu-id="73d52-136">Teams：能夠讀取及寫入群組中的資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-136">Teams: to be able to read and write data to a Group.</span></span> | <span data-ttu-id="73d52-137">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-137">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+>| <span data-ttu-id="73d52-138">GroupMember Read。 All</span><span class="sxs-lookup"><span data-stu-id="73d52-138">GroupMember.Read.All</span></span> | <span data-ttu-id="73d52-139">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-139">delegated</span></span> | <span data-ttu-id="73d52-140">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-140">No data is stored.</span></span> | <span data-ttu-id="73d52-141">SharePoint線上：允許從 SharePoint 線上讀取資料的使用者許可權。</span><span class="sxs-lookup"><span data-stu-id="73d52-141">SharePoint Online: user permission to enable reading data from SharePoint Online.</span></span> | <span data-ttu-id="73d52-142">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-142">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+>| <span data-ttu-id="73d52-143">Sites.Read.All</span><span class="sxs-lookup"><span data-stu-id="73d52-143">Sites.Read.All</span></span> | <span data-ttu-id="73d52-144">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-144">delegated</span></span> | <span data-ttu-id="73d52-145">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-145">No data is stored.</span></span> | <span data-ttu-id="73d52-146">SharePoint線上：啟用從 SharePoint 線上讀取資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-146">SharePoint Online: to enable reading data from SharePoint Online.</span></span> | <span data-ttu-id="73d52-147">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-147">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+>| <span data-ttu-id="73d52-148">User.Read</span><span class="sxs-lookup"><span data-stu-id="73d52-148">User.Read</span></span> | <span data-ttu-id="73d52-149">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-149">delegated</span></span> | <span data-ttu-id="73d52-150">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-150">No data is stored.</span></span> | <span data-ttu-id="73d52-151">共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。</span><span class="sxs-lookup"><span data-stu-id="73d52-151">Sing-In: to enable the officeatwork app to read the user's basic properties.</span></span> | <span data-ttu-id="73d52-152">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-152">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+>| <span data-ttu-id="73d52-153">User.Read.All</span><span class="sxs-lookup"><span data-stu-id="73d52-153">User.Read.All</span></span> | <span data-ttu-id="73d52-154">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-154">delegated</span></span> | <span data-ttu-id="73d52-155">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-155">No data is stored.</span></span> | <span data-ttu-id="73d52-156">Teams：找出使用者所屬的群組。</span><span class="sxs-lookup"><span data-stu-id="73d52-156">Teams: to find out what groups a user belongs to.</span></span> | <span data-ttu-id="73d52-157">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-157">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+>| <span data-ttu-id="73d52-158">offline_access</span><span class="sxs-lookup"><span data-stu-id="73d52-158">offline_access</span></span> | <span data-ttu-id="73d52-159">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-159">delegated</span></span> | <span data-ttu-id="73d52-160">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-160">No data is stored.</span></span> | <span data-ttu-id="73d52-161">In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。</span><span class="sxs-lookup"><span data-stu-id="73d52-161">Sing-In: to enable automatic sign-in via refresh-tokens, as without, users would have to manually sign-in every single time they launch the officeatwork app.</span></span> <span data-ttu-id="73d52-162">只有在啟用非 SSO 的主應用程式時，才需要此範圍。</span><span class="sxs-lookup"><span data-stu-id="73d52-162">This scope is only required for non-SSO enabled host applications.</span></span> | <span data-ttu-id="73d52-163">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-163">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+>| <span data-ttu-id="73d52-164">openid</span><span class="sxs-lookup"><span data-stu-id="73d52-164">openid</span></span> | <span data-ttu-id="73d52-165">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-165">delegated</span></span> | <span data-ttu-id="73d52-166">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-166">No data is stored.</span></span> | <span data-ttu-id="73d52-167">In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式</span><span class="sxs-lookup"><span data-stu-id="73d52-167">Sing-In: to enable users to sign-in to the officeatwork app with their organizational and/or Microsoft Account</span></span> | <span data-ttu-id="73d52-168">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-168">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+>| <span data-ttu-id="73d52-169">profile</span><span class="sxs-lookup"><span data-stu-id="73d52-169">profile</span></span> | <span data-ttu-id="73d52-170">委託</span><span class="sxs-lookup"><span data-stu-id="73d52-170">delegated</span></span> | <span data-ttu-id="73d52-171">不儲存任何資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-171">No data is stored.</span></span> | <span data-ttu-id="73d52-172">In：用於顯示 officeatwork 應用程式中已登入的使用者。</span><span class="sxs-lookup"><span data-stu-id="73d52-172">Sing-In: to show the signed-in user in the officeatwork app.</span></span> <span data-ttu-id="73d52-173">這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。</span><span class="sxs-lookup"><span data-stu-id="73d52-173">This helps assure/confirm the user what account was used to sign-in to the officeatwork app.</span></span> | <span data-ttu-id="73d52-174">dae2eacf-3eb5-4440-baff-984fbd5cae68</span><span class="sxs-lookup"><span data-stu-id="73d52-174">dae2eacf-3eb5-4440-baff-984fbd5cae68</span></span> |
+
+#### <a name="data-access-using-other-microsoft-apis"></a><span data-ttu-id="73d52-175">使用其他 Microsoft APIs 的資料存取權</span><span class="sxs-lookup"><span data-stu-id="73d52-175">Data access using other Microsoft APIs</span></span>
+
+<span data-ttu-id="73d52-176">以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。</span><span class="sxs-lookup"><span data-stu-id="73d52-176">Apps and add-ins built on Microsoft 365 may use additional Microsoft APIs other than Microsoft Graph to collect or process organizational identifiable information (OII).</span></span> <span data-ttu-id="73d52-177">列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。</span><span class="sxs-lookup"><span data-stu-id="73d52-177">List any Microsoft APIs other than Microsoft Graph this app uses.</span></span>
+
+>| <span data-ttu-id="73d52-178">**API**</span><span class="sxs-lookup"><span data-stu-id="73d52-178">**API**</span></span> |  <span data-ttu-id="73d52-179">**是否 OII 收集？**</span><span class="sxs-lookup"><span data-stu-id="73d52-179">**Is OII collected?**</span></span> |  <span data-ttu-id="73d52-180">**收集的 OII 是什麼？**</span><span class="sxs-lookup"><span data-stu-id="73d52-180">**What OII is Collected?**</span></span> | <span data-ttu-id="73d52-181">**收集 OII 的理由？**</span><span class="sxs-lookup"><span data-stu-id="73d52-181">**Justification for collecting OII?**</span></span> | <span data-ttu-id="73d52-182">**OII 是否儲存？**</span><span class="sxs-lookup"><span data-stu-id="73d52-182">**Is OII stored?**</span></span> | <span data-ttu-id="73d52-183">**儲存 OII 的理由？**</span><span class="sxs-lookup"><span data-stu-id="73d52-183">**Justification for storing OII?**</span></span> |
+>|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>| <span data-ttu-id="73d52-184">SharePointREST APIs</span><span class="sxs-lookup"><span data-stu-id="73d52-184">SharePoint REST APIs</span></span> | <span data-ttu-id="73d52-185">否</span><span class="sxs-lookup"><span data-stu-id="73d52-185">No</span></span> |  |  |  |  |
+
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="73d52-186">未使用的 Microsoft 服務</span><span class="sxs-lookup"><span data-stu-id="73d52-186">Non-Microsoft services used</span></span>
+
+<span data-ttu-id="73d52-187">若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。</span><span class="sxs-lookup"><span data-stu-id="73d52-187">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+
+><span data-ttu-id="73d52-188">不會使用非 Microsoft 服務。</span><span class="sxs-lookup"><span data-stu-id="73d52-188">Non-Microsoft services are not used.</span></span>
+
+
+
+#### <a name="telemetry-data"></a><span data-ttu-id="73d52-189">遙測資料</span><span class="sxs-lookup"><span data-stu-id="73d52-189">Telemetry data</span></span>
+
+<span data-ttu-id="73d52-190">任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？</span><span class="sxs-lookup"><span data-stu-id="73d52-190">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="73d52-191">如果是，請描述要儲存的資料，以及保留和移除原則為何？</span><span class="sxs-lookup"><span data-stu-id="73d52-191">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+
+><span data-ttu-id="73d52-192">是的，事件包括 oid 和 tenantId，而且會傳送至 Azure AppInsights。</span><span class="sxs-lookup"><span data-stu-id="73d52-192">Yes, events include the oid and tenantId and are sent to Azure AppInsights.</span></span> <span data-ttu-id="73d52-193">事件會在90天后自動刪除。</span><span class="sxs-lookup"><span data-stu-id="73d52-193">The events are automatically deleted after 90 days.</span></span> <span data-ttu-id="73d52-194">如果客戶想要刪除此資料，可使用隱私權聲明中提供的連結，以啟動對該資料的刪除。</span><span class="sxs-lookup"><span data-stu-id="73d52-194">If a customer wishes to have this data deleted, they can use the link provided in the privacy statement to initiate the deletion of that data.</span></span>
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="73d52-195">夥伴所儲存資料的組織控制項</span><span class="sxs-lookup"><span data-stu-id="73d52-195">Organizational controls for data stored by partner</span></span>
+
+<span data-ttu-id="73d52-196">說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。</span><span class="sxs-lookup"><span data-stu-id="73d52-196">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+
+><span data-ttu-id="73d52-197">「應用程式設定」資料 (功能旗標、組織顯示名稱、tenantId、系統管理員 oid) 清單會儲存在 Azure Cosmos DB 實例中 (每個租使用者) 一個檔案。</span><span class="sxs-lookup"><span data-stu-id="73d52-197">The applications settings data (feature flags, organization display name, tenantId, list of administrators oids) are stored in an Azure Cosmos DB instance (one file per tenant).</span></span> <span data-ttu-id="73d52-198">資料庫檔案已加密，且存取權僅限於選取的 officeatwork 工程師和支援人員。</span><span class="sxs-lookup"><span data-stu-id="73d52-198">The DB files are encrypted, and access is restricted to selected officeatwork engineers and support staff.</span></span> <span data-ttu-id="73d52-199">客戶可以使用系統管理中心 Web App 來存取及操縱 officeatwork 應用程式設定資料。</span><span class="sxs-lookup"><span data-stu-id="73d52-199">Customer can access and manipulate the officeatwork app settings data using the Admin Center Web App.</span></span>
+
+#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="73d52-200">組織資訊的人工檢查</span><span class="sxs-lookup"><span data-stu-id="73d52-200">Human review of organizational information</span></span>
+
+<span data-ttu-id="73d52-201">參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？</span><span class="sxs-lookup"><span data-stu-id="73d52-201">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+
+><span data-ttu-id="73d52-202">否</span><span class="sxs-lookup"><span data-stu-id="73d52-202">No</span></span>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+<span data-ttu-id="73d52-203">來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。</span><span class="sxs-lookup"><span data-stu-id="73d52-203">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+
+<iframe height='1020' title='<span data-ttu-id="73d52-204">Microsoft Cloud App Security資訊</span><span class="sxs-lookup"><span data-stu-id="73d52-204">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="73d52-205">
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385" target="_blank">在新的索引標籤中查看</a></span><span class="sxs-lookup"><span data-stu-id="73d52-205">
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385" target="_blank">View in a new tab</a></span></span>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a><span data-ttu-id="73d52-206">身分識別資訊</span><span class="sxs-lookup"><span data-stu-id="73d52-206">Identity information</span></span>
+
+<span data-ttu-id="73d52-207">Officeatwork 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。</span><span class="sxs-lookup"><span data-stu-id="73d52-207">This information has been provided by officeatwork about how this app handles authentication, authorization, application registration best practices, and other Identity criteria.</span></span>
+
+| <span data-ttu-id="73d52-208">**Information**</span><span class="sxs-lookup"><span data-stu-id="73d52-208">**Information**</span></span> | <span data-ttu-id="73d52-209">**回應**</span><span class="sxs-lookup"><span data-stu-id="73d52-209">**Response**</span></span> |
+|:----------------|:-------------|
+| <span data-ttu-id="73d52-210">您是否要與 Microsoft 識別平臺 (Azure AD) 整合？</span><span class="sxs-lookup"><span data-stu-id="73d52-210">Do you integrate with Microsoft Identify Platform (Azure AD)?</span></span>  | <span data-ttu-id="73d52-211">是</span><span class="sxs-lookup"><span data-stu-id="73d52-211">Yes</span></span> |
+| <span data-ttu-id="73d52-212">您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？</span><span class="sxs-lookup"><span data-stu-id="73d52-212">Have you reviewed and complied with all applicable best practices outlined in the Microsoft identity platform integration checklist?</span></span>  | <span data-ttu-id="73d52-213">是</span><span class="sxs-lookup"><span data-stu-id="73d52-213">Yes</span></span> |
+| <span data-ttu-id="73d52-214">您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？</span><span class="sxs-lookup"><span data-stu-id="73d52-214">Does your app use MSAL (Microsoft Authentication Library) for authentication?</span></span> | <span data-ttu-id="73d52-215">否</span><span class="sxs-lookup"><span data-stu-id="73d52-215">No</span></span> |
+| <span data-ttu-id="73d52-216">您的應用程式是否支援條件式存取原則？</span><span class="sxs-lookup"><span data-stu-id="73d52-216">Does your app support Conditional Access policies?</span></span> | <span data-ttu-id="73d52-217">是</span><span class="sxs-lookup"><span data-stu-id="73d52-217">Yes</span></span> |
+| <span data-ttu-id="73d52-218">列出支援的原則類型</span><span class="sxs-lookup"><span data-stu-id="73d52-218">List the types of policies supported</span></span> | <span data-ttu-id="73d52-219">安全性預設</span><span class="sxs-lookup"><span data-stu-id="73d52-219">Security defaults</span></span> |
+| <span data-ttu-id="73d52-220">您的應用程式是否要求最小許可權許可權給您的案例？</span><span class="sxs-lookup"><span data-stu-id="73d52-220">Does your app request least privilege permissions for your scenario?</span></span> | <span data-ttu-id="73d52-221">是</span><span class="sxs-lookup"><span data-stu-id="73d52-221">Yes</span></span> |
+| <span data-ttu-id="73d52-222">您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？</span><span class="sxs-lookup"><span data-stu-id="73d52-222">Does your app's statically registered permissions accurately reflect the permissions your app will request dynamically and incrementally?</span></span> | <span data-ttu-id="73d52-223">否</span><span class="sxs-lookup"><span data-stu-id="73d52-223">No</span></span> |
+| <span data-ttu-id="73d52-224">您的應用程式是否支援多租賃？</span><span class="sxs-lookup"><span data-stu-id="73d52-224">Does your app support multi-tenancy?</span></span> | <span data-ttu-id="73d52-225">是</span><span class="sxs-lookup"><span data-stu-id="73d52-225">Yes</span></span> |
+| <span data-ttu-id="73d52-226">您的應用程式有機密用戶端嗎？</span><span class="sxs-lookup"><span data-stu-id="73d52-226">Does your app have a confidential client?</span></span> | <span data-ttu-id="73d52-227">是</span><span class="sxs-lookup"><span data-stu-id="73d52-227">Yes</span></span> |
+| <span data-ttu-id="73d52-228">您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？</span><span class="sxs-lookup"><span data-stu-id="73d52-228">Do you own all of the redirect Unified Resource Identifier (URI) registered for your app?</span></span> | <span data-ttu-id="73d52-229">是</span><span class="sxs-lookup"><span data-stu-id="73d52-229">Yes</span></span> |
+| <span data-ttu-id="73d52-230">您的應用程式，您避免使用什麼？</span><span class="sxs-lookup"><span data-stu-id="73d52-230">For your app, what do you avoid using?</span></span> | <span data-ttu-id="73d52-231">-萬用字元重新導向 URIs，</span><span class="sxs-lookup"><span data-stu-id="73d52-231">- Wildcard redirect URIs,</span></span><br/><span data-ttu-id="73d52-232">-OAuth2 隱含 Flow （除非 SPA 是必要的）</span><span class="sxs-lookup"><span data-stu-id="73d52-232">- OAuth2 Implicit Flow, unless required for a SPA</span></span><br/><span data-ttu-id="73d52-233">-Resource 物主密碼認證 (ROPC) 流程</span><span class="sxs-lookup"><span data-stu-id="73d52-233">- Resource Owner Password Credential (ROPC) flow</span></span> |
+| <span data-ttu-id="73d52-234">您的應用程式是否公開任何 web APIs？</span><span class="sxs-lookup"><span data-stu-id="73d52-234">Does your app expose any web APIs?</span></span> | <span data-ttu-id="73d52-235">否</span><span class="sxs-lookup"><span data-stu-id="73d52-235">No</span></span> |
+| <span data-ttu-id="73d52-236">您的應用程式是否使用預覽 APIs？</span><span class="sxs-lookup"><span data-stu-id="73d52-236">Does your app use preview APIs?</span></span> | <span data-ttu-id="73d52-237">否</span><span class="sxs-lookup"><span data-stu-id="73d52-237">No</span></span> |
+| <span data-ttu-id="73d52-238">您的應用程式使用的 APIs 是否已遭取代？</span><span class="sxs-lookup"><span data-stu-id="73d52-238">Does your app use deprecated APIs?</span></span> | <span data-ttu-id="73d52-239">否</span><span class="sxs-lookup"><span data-stu-id="73d52-239">No</span></span> |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
