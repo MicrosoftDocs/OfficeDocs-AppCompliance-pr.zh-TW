@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: iPlanner 報告工具的所有可用安全性和符合性資訊資訊 Office 365 Planner、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a577fcc75982703bfae0de740a7e69d9d13e509a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2b9797eb2b4ec271804711473a77f26a9cce4e13
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548763"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281145"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>Office 365 Planner 的 iPlanner 報告工具
 
@@ -34,9 +34,9 @@ ms.locfileid: "52548763"
 | ID | WA104380686 |
 | 支援 Office 365 用戶端 | Mac 上 Windows、Excel 網頁版、Excel 2016 或更新版本上的 Excel 2016 或更新版本 |
 | 合作夥伴公司名稱 | iGlobe |
-| 合作夥伴網站的 URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
-| 隱私權原則的 URL | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
-| 使用條款的 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836912/Product_42949680354/Asset_9d620695-979f-49e4-bc56-98259b0cdeb2/EULAPlanner.pdf) |
+| 合作夥伴網站的 URL | [https://iglobecrm.com/](https://iglobecrm.com/) |
+| 隱私權原則的 URL | [https://instassl.iglobecrm.com/legal-information](https://instassl.iglobecrm.com/legal-information) |
+| 使用條款的 URL | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

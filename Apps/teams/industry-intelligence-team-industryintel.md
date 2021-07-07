@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: IndustryIntel 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e2c1c35d0054df773b83fa2d31a95daceaee585
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a213e68c58f2f3aea6f9bc1e6c8568fcbdefc141
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553064"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281245"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -36,8 +36,8 @@ ms.locfileid: "52553064"
 | ID | WA200001907 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Industry Intelligence Team |
-| 合作夥伴網站的 URL | [https://www.industryintel.com/public:about-us/our-team](https://www.industryintel.com/public:about-us/our-team) |
-| 隱私權原則的 URL | [https://www.industryintel.com/public:legal/privacy-policy-m...](https://www.industryintel.com/public:legal/privacy-policy-msteams) |
+| 合作夥伴網站的 URL | [https://www.industryintel.com](https://www.industryintel.com) |
+| 隱私權原則的 URL | [https://www.industryintel.com/public:legal/privacy-policy](https://www.industryintel.com/public:legal/privacy-policy) |
 | 使用條款的 URL | [https://www.industryintel.com/public:legal/terms-of-use](https://www.industryintel.com/public:legal/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

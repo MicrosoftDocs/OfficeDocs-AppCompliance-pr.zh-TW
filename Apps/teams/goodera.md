@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Goodera 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 55b69d4abaedb8f838f201812e11db2cc9aac39f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46dc2de8dc444591a42a0a3e4ecaa1c31232ebc3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552144"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281866"
 ---
 # <a name="goodera"></a>Goodera
 
@@ -36,8 +36,7 @@ ms.locfileid: "52552144"
 | ID | WA200002136 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Goodera |
-| 合作夥伴網站的 URL | [https://about.goodera.com](https://about.goodera.com) |
-| Teams 應用程式資訊頁面的 URL | [不適用](N/A) |
+| 合作夥伴網站的 URL | [https://goodera.com](https://goodera.com) |
 | 隱私權原則的 URL | [https://about.goodera.com/privacy](https://about.goodera.com/privacy) |
 | 使用條款的 URL | [https://about.goodera.com/terms](https://about.goodera.com/terms) |
 

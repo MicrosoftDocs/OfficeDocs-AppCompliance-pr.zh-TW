@@ -2,23 +2,23 @@
 title: MyHub 的應用程式資訊，inc. AvePoint，inc.。
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/21/2020
+ms.date: 05/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MyHub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ccf5367ea692731bafcdc03d04ab4dad2e76c976
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: a45478d976bc03d682c1236d8f266bc7443973a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553384"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282016"
 ---
 # <a name="myhub"></a>MyHub
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開發人員上次更新日期：2020年12月21日</p>
+<p>開發人員上次更新：2021年5月25日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c3ff6344-f6f0-4bfa-8697-b9d47b32ca4b" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000726" target="_blank">在 AppSource 中查看</a>
@@ -36,8 +36,9 @@ AvePoint，inc. 提供給 Microsoft 的資訊：
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | AvePoint, Inc. |
 | 合作夥伴網站的 URL | [https://www.avepoint.com](https://www.avepoint.com) |
-| 隱私權原則的 URL | [https://www.avepoint.com/company/privacy-policy](https://www.avepoint.com/company/privacy-policy) |
-| 使用條款的 URL | [https://www.avepoint.com/company/terms-and-conditions/](https://www.avepoint.com/company/terms-and-conditions/) |
+| Teams 應用程式資訊頁面的 URL | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
+| 隱私權原則的 URL | [https://www.avepoint.com/privacy-policy/](https://www.avepoint.com/privacy-policy/) |
+| 使用條款的 URL | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,3 +114,28 @@ AvePoint，inc. 提供給 Microsoft 的資訊：
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+此資訊是由 AvePoint，inc. 提供。關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
+| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
+| 您的應用程式是否支援多租賃？ | 是 |
+| 您的應用程式有機密用戶端嗎？ | 是 |
+| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式是否公開任何 web APIs？ | 是 |
+| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
+| 您的應用程式是否使用預覽 APIs？ | 是 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

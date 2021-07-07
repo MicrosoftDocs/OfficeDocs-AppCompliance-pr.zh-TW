@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Live Chat 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9bc8ccb18fd8e43dd3d59f15fbc324f835e82d93
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 41df26af03dd56fb89ce316ecaa61d7af3ae7bf5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551483"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280925"
 ---
 # <a name="live-chat"></a>即時聊天
 
@@ -37,8 +37,8 @@ ms.locfileid: "52551483"
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Social Intents |
 | 合作夥伴網站的 URL | [https://www.socialintents.com](https://www.socialintents.com) |
-| 隱私權原則的 URL | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
-| 使用條款的 URL | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
+| 隱私權原則的 URL | []() |
+| 使用條款的 URL | []() |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

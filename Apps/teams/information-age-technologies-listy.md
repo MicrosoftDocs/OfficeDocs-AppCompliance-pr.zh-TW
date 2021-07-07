@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Listy 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5ab2349789fdb138bc9f18fd6f50d9877ec972d9
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bfa36c199e7839ce0756ecb5dfb3f5b923821405
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552074"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281836"
 ---
 # <a name="listy"></a>Listy
 
@@ -36,10 +36,10 @@ ms.locfileid: "52552074"
 | ID | WA200000798 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Information Age Technologies |
-| 合作夥伴網站的 URL | [https://www.iat21.com/listy](https://www.iat21.com/listy) |
+| 合作夥伴網站的 URL | [https://www.iat21.com](https://www.iat21.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.iat21.com/listy](https://www.iat21.com/listy) |
 | 隱私權原則的 URL | [https://www.iat21.com/listy-privacy-policy](https://www.iat21.com/listy-privacy-policy) |
-| 使用條款的 URL | [https://www.iat21.com/listy-terms-of-service](https://www.iat21.com/listy-terms-of-service) |
+| 使用條款的 URL | [https://www.iat21.com/listy-end-user-license-ag](https://www.iat21.com/listy-end-user-license-ag) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

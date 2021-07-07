@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如文字、資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d9e5cfd3b082692656c7bb9a67417564cf7ab57
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: f87ac4854d4301ea194d7b906f9b417e268a9df3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629656"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281425"
 ---
 # <a name="text"></a>文字
 
@@ -36,7 +36,7 @@ ms.locfileid: "52629656"
 | ID | WA200000383 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | 已核准的連絡人 |
-| 合作夥伴網站的 URL | [www.approvedcontact.com](www.approvedcontact.com) |
+| 合作夥伴網站的 URL | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | 隱私權原則的 URL | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
 | 使用條款的 URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 

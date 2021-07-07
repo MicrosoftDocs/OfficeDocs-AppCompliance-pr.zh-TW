@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho 活動工具的所有可用安全性和符合性資訊資訊，用於行銷自動化、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e67de0ca2871d5432b5a29ead52194225bc51c9a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e54e3313dcfa51542439775a0c3ca0cae38aca93
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553684"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281585"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>行銷自動化的 Zoho 活動工具
 
@@ -33,11 +33,11 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | 行銷自動化的 Zoho 活動工具 |
 | ID | WA104380835 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | Zoho Corporation Private Limited |
 | 合作夥伴網站的 URL | [https://www.zoho.com/](https://www.zoho.com/) |
-| 隱私權原則的 URL | [https://zoho.com/privacy.html](https://zoho.com/privacy.html) |
-| 使用條款的 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp; omkt = en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 隱私權原則的 URL | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
+| 使用條款的 URL | [https://www.zoho.com/campaigns/zc-terms.html](https://www.zoho.com/campaigns/zc-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

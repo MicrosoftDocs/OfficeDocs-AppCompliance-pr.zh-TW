@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Org@Work 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 68f59afdc79ae00f1643f9f2ce5650e06392d2a3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6791c124a7d18f6a6d0554857cad1f35b6fd7781
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551974"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281756"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -36,10 +36,10 @@ ms.locfileid: "52551974"
 | ID | WA200002461 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Lundano |
-| 合作夥伴網站的 URL | [https://www.lundano.com/orgatwork/](https://www.lundano.com/orgatwork/) |
+| 合作夥伴網站的 URL | [https://www.lundano.com/en/](https://www.lundano.com/en/) |
 | Teams 應用程式資訊頁面的 URL | [https://www.lundano.com/orgatwork/index.html#](https://www.lundano.com/orgatwork/index.html#) |
 | 隱私權原則的 URL | [https://cp.lundano.com/privacy_en.html](https://cp.lundano.com/privacy_en.html) |
-| 使用條款的 URL | [https://cp.lundano.com/terms.html](https://cp.lundano.com/terms.html) |
+| 使用條款的 URL | [https://cp.lundano.com/Terms_en.html](https://cp.lundano.com/Terms_en.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

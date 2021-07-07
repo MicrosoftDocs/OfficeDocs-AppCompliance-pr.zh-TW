@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: COCO 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a97f2af9e6cf88cf14794293a574d62b91f357e1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5b1c7194ed42779d966c4d7d4f519374bbb78bb1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552124"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281255"
 ---
 # <a name="coco"></a>COCO
 
@@ -35,7 +35,7 @@ ms.locfileid: "52552124"
 | ID | WA200001468 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Hexaware Technologies Ltd. |
-| 合作夥伴網站的 URL | [https://hexaware.com/](https://hexaware.com/) |
+| 合作夥伴網站的 URL | [https://hexaware.com](https://hexaware.com) |
 | 隱私權原則的 URL | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf) |
 | 使用條款的 URL | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf#page=6) |
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Karma 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9da5f26e68be07cc9817c50434e214de3f3784c4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ffdd34522178c481b84d0a5b102fab20f41ea3ed
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551633"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281035"
 ---
 # <a name="karma"></a>Karma
 
@@ -36,10 +36,10 @@ ms.locfileid: "52551633"
 | ID | WA104381640 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Sliday LTD |
-| 合作夥伴網站的 URL | [https://karmabot.chat/ms](https://karmabot.chat/ms) |
+| 合作夥伴網站的 URL | [https://sliday.com](https://sliday.com) |
 | Teams 應用程式資訊頁面的 URL | [https://karmabot.readme.io/](https://karmabot.readme.io/) |
-| 隱私權原則的 URL | [https://karmabot.readme.io/v3.0/docs/privacy-policy-for-mic...](https://karmabot.readme.io/v3.0/docs/privacy-policy-for-microsoft-teams) |
-| 使用條款的 URL | [https://karmabot.readme.io/docs/karma-end-user-license-agre...](https://karmabot.readme.io/docs/karma-end-user-license-agreement-eula) |
+| 隱私權原則的 URL | [https://karmabot.readme.io/docs/privacy-policy-for-microsof...](https://karmabot.readme.io/docs/privacy-policy-for-microsoft-teams) |
+| 使用條款的 URL | [https://karmabot.readme.io/docs/terms-and-conditions](https://karmabot.readme.io/docs/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

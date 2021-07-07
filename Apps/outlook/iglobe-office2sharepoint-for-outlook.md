@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Office2SharePoint Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: afeb917824671908eb95f02ab274d3430cae5275
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9787a4ca1e30a49826d11e5c867227cb45737eea
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553714"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281605"
 ---
 # <a name="office2sharepoint-for-outlook"></a>Outlook 的 Office2SharePoint
 
@@ -32,9 +32,9 @@ ms.locfileid: "52553714"
 |:----------------|:-------------|
 | 應用程式名稱 | Outlook 的 Office2SharePoint |
 | ID | WA104380689 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | iGlobe |
-| 合作夥伴網站的 URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| 合作夥伴網站的 URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | 隱私權原則的 URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
 | 使用條款的 URL | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
 

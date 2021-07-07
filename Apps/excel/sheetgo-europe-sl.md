@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cba1d32ef248cc8228a0e38e1dc953dd07f4e5ad
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9441bc0dcf4b2041b524db3715258caecfaa9aec
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548723"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281085"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -35,9 +35,9 @@ ms.locfileid: "52548723"
 | ID | WA200002128 |
 | 支援 Office 365 用戶端 | Excel 2016 或更新版本 Mac 上 Excel 2016 或更新版本 Windows Excel 網頁版 |
 | 合作夥伴公司名稱 | SHEETGO EUROPE SL |
-| 合作夥伴網站的 URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| 隱私權原則的 URL | [https://www.sheetgo.com/legal/privacy](https://www.sheetgo.com/legal/privacy) |
-| 使用條款的 URL | [https://www.sheetgo.com/legal/terms](https://www.sheetgo.com/legal/terms) |
+| 合作夥伴網站的 URL | [https://www.sheetgo.com/](https://www.sheetgo.com/) |
+| 隱私權原則的 URL | [https://www.sheetgo.com/legal/privacy/](https://www.sheetgo.com/legal/privacy/) |
+| 使用條款的 URL | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

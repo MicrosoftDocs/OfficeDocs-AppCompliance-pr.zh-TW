@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Excel 至 Word 檔自動化的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e3f7d7ec2b59ac21a44ca92737e9fbdba4cfdaaa
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8dc1ac8d012545326f0d3c4f96764d5a2ed391b7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553634"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281565"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel 對 Word 檔自動化
 
@@ -35,7 +35,7 @@ ms.locfileid: "52553634"
 | ID | WA104380955 |
 | 支援 Office 365 用戶端 | Excel 2016 或更新版本的 mac、Excel 2016 或更新版本上的 Windows、Word 2016 或更新版本 mac、Word 2016 或更新 mac、Windows 或更新 mac、PowerPoint 2016 或更新 PowerPoint 2016、Windows 或更新 Excel 網頁版 |
 | 合作夥伴公司名稱 | AnalysisPlace |
-| 合作夥伴網站的 URL | [https://analysisplace.com/](https://analysisplace.com/) |
+| 合作夥伴網站的 URL | [https://analysisplace.com](https://analysisplace.com) |
 | 隱私權原則的 URL | [https://analysisplace.com/Privacy](https://analysisplace.com/Privacy) |
 | 使用條款的 URL | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
 

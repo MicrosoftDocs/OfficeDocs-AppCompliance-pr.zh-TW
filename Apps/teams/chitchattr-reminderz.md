@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Reminderz 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e383a57baf5cec02de28ac288a5f157d9073d8b7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d2f5260016844e0c722bac6454ea6338788468b1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552304"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281976"
 ---
 # <a name="reminderz"></a>Reminderz
 
@@ -36,10 +36,10 @@ ms.locfileid: "52552304"
 | ID | WA200001976 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | ChitChattr |
-| 合作夥伴網站的 URL | [https://www.chitchattr.com?p=reminderz](https://www.chitchattr.com?p=reminderz) |
+| 合作夥伴網站的 URL | [https://www.chitchattr.com](https://www.chitchattr.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.chitchattr.com/reminderz/](https://www.chitchattr.com/reminderz/) |
 | 隱私權原則的 URL | [https://www.chitchattr.com/privacy?p=reminderz](https://www.chitchattr.com/privacy?p=reminderz) |
-| 使用條款的 URL | [https://www.chitchattr.com/termsofuse?p=reminderz](https://www.chitchattr.com/termsofuse?p=reminderz) |
+| 使用條款的 URL | [https://www.chitchattr.com/termsofuse](https://www.chitchattr.com/termsofuse) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

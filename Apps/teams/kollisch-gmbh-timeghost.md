@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: timeghost 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ac22c7368da817caf44157bad920221791989245
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1a6a6cda6c7f70fff9df1c5fa6dbfb009ea12ed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552034"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281786"
 ---
 # <a name="timeghost"></a>timeghost
 
@@ -36,7 +36,7 @@ ms.locfileid: "52552034"
 | ID | WA200001532 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | K&#246;llisch GmbH |
-| 合作夥伴網站的 URL | [https://timeghost.io/](https://timeghost.io/) |
+| 合作夥伴網站的 URL | [https://timeghost.io](https://timeghost.io) |
 | Teams 應用程式資訊頁面的 URL | [https://timeghost.io](https://timeghost.io) |
 | 隱私權原則的 URL | [https://timeghost.io/privacy-policy/](https://timeghost.io/privacy-policy/) |
 | 使用條款的 URL | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |

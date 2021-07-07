@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AVA 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6176bc86a6d382285623d3e3286852afd4a4ff96
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c55d372c0249302da425ea5b2483aba88f1a2e42
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552364"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281405"
 ---
 # <a name="ava"></a>AVA
 
@@ -36,9 +36,9 @@ AvePoint，Inc. 提供給 Microsoft 的資訊：
 | ID | WA104381883 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | AvePoint, Inc. |
-| 合作夥伴網站的 URL | [https://www.avepoint.com](https://www.avepoint.com) |
+| 合作夥伴網站的 URL | [https://www.avepoint.com/](https://www.avepoint.com/) |
 | Teams 應用程式資訊頁面的 URL | [https://www.avepoint.com/support/](https://www.avepoint.com/support/) |
-| 隱私權原則的 URL | [https://www.avepoint.com/privacy-policy](https://www.avepoint.com/privacy-policy) |
+| 隱私權原則的 URL | [https://www.avepoint.com/company/privacy-policy/](https://www.avepoint.com/company/privacy-policy/) |
 | 使用條款的 URL | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

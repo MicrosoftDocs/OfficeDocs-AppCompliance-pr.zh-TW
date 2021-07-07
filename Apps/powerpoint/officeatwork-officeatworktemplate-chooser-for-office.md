@@ -2,23 +2,23 @@
 title: Officeatwork 的應用程式資訊 |officeatwork Office 的範本選擇器
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊Office 的範本選擇器、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2328345bdcbd17b9b777e603e8ff36ee5b509176
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c9bc3e8e62056582d37c7b1f4125cf29e35e9df1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553574"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282347"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork |Office 的範本選擇器
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>上次於開發人員更新：2020年12月8日</p>
+<p>上次於開發人員的更新日期：2021年6月23日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380050" target="_blank">在 AppSource 中查看</a>
 
@@ -34,7 +34,7 @@ ms.locfileid: "52553574"
 | ID | WA104380050 |
 | 支援 Office 365 用戶端 | Excel 于 mac 上 iPad、Excel 2016 或更新版本、Excel 2013 或更新版本、Windows 或更新版本的 mac、Excel 網頁版、word 2013 或更新版本、iPad 或更新的 mac、Word 2016、Word 網頁版 2016 2013 （或更新） Windows，PowerPoint |
 | 合作夥伴公司名稱 | officeatwork |
-| 合作夥伴網站的 URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| 合作夥伴網站的 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 隱私權原則的 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 使用條款的 URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

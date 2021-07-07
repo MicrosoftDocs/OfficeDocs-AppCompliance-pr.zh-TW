@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Yeeflow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c8dc3fb5a23d480299aae331a9ccccae9641c66c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9b1292e935d526947d689c9c5de9638589270957
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553434"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281455"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -36,8 +36,8 @@ ms.locfileid: "52553434"
 | ID | WA200000089 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Akmii |
-| 合作夥伴網站的 URL | [https://www.yeeflow.com](https://www.yeeflow.com) |
-| Teams 應用程式資訊頁面的 URL | [www.yeeflow.com](www.yeeflow.com) |
+| 合作夥伴網站的 URL | [https://www.akmii.com](https://www.akmii.com) |
+| Teams 應用程式資訊頁面的 URL | [https://www.yeeflow.com](https://www.yeeflow.com) |
 | 隱私權原則的 URL | [https://www.yeeflow.com/privacy](https://www.yeeflow.com/privacy) |
 | 使用條款的 URL | [https://www.yeeflow.com/terms](https://www.yeeflow.com/terms) |
 

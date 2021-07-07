@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OnePlaceMail Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5094d1ad5e7b028ac115529de16ddb9cbef2086f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 97c9b74768b11e3c63a302566a20a2cb762275a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552494"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281705"
 ---
 # <a name="oneplacemail-for-outlook"></a>Outlook 的 OnePlaceMail
 
@@ -33,11 +33,11 @@ OnePlace 解決方案所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Outlook 的 OnePlaceMail |
 | ID | WA104380723 |
-| 支援 Office 365 用戶端 | Windows、Outlook 2016 或更新版本上的 Outlook 2013 或更新版本，Outlook on iOS，Outlook 于 Android，Outlook 網頁 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本 Windows、Outlook 2016 或更新版本的 Mac、Outlook on iOS、Outlook 在 Android 上 Outlook 網頁版 |
 | 合作夥伴公司名稱 | OnePlace 解決方案 |
-| 合作夥伴網站的 URL | [https://www.oneplacesolutions.com/](https://www.oneplacesolutions.com/) |
+| 合作夥伴網站的 URL | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
 | 隱私權原則的 URL | [https://www.oneplacesolutions.com/oneplacemailapp-privacy](https://www.oneplacesolutions.com/oneplacemailapp-privacy) |
-| 使用條款的 URL | [https://www.oneplacesolutions.com/oneplacemailapp-eula](https://www.oneplacesolutions.com/oneplacemailapp-eula) |
+| 使用條款的 URL | [https://www.oneplacesolutions.com/eula.html](https://www.oneplacesolutions.com/eula.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -86,7 +86,7 @@ OnePlace 解決方案所提供的資訊給 Microsoft：
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->EUII 和 OII 會出現在遙測中。 此資訊儲存在 Application Insights 中、靜態加密、在90天之後存取控制和刪除
+>EUII 和 OII 會出現在遙測中。 此資訊儲存在應用程式 Insights、靜態加密、90天后的存取控制和刪除
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

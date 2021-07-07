@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，如核准的連絡人行事曆、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6849ef81797483688f6e0fad69338b1a015748d0
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 9bb96c6c6ba40df3e3d4d64c1f0e4033d7425e88
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629645"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281645"
 ---
 # <a name="approved-contact-calendars"></a>核准的連絡人行事曆
 
@@ -33,9 +33,9 @@ ms.locfileid: "52629645"
 |:----------------|:-------------|
 | 應用程式名稱 | 核准的連絡人行事曆 |
 | ID | WA104380294 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | 已核准的連絡人 |
-| 合作夥伴網站的 URL | [www.approvedcontact.com](www.approvedcontact.com) |
+| 合作夥伴網站的 URL | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | 隱私權原則的 URL | [https://approvedcontact.com/Privacy%20Policy.pdf](https://approvedcontact.com/Privacy%20Policy.pdf) |
 | 使用條款的 URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 

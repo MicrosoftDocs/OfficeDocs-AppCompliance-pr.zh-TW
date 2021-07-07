@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jira 雲端的所有可用安全性和符合性資訊資訊 Excel，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cbed2eb7aada40d5631391a9549600a4af3edebf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 73212faa010d95233281a0cf7f120e9ee0fd1ffb
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549823"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281195"
 ---
 # <a name="jira-cloud-for-excel"></a>Jira Cloud for Excel
 
@@ -35,9 +35,9 @@ ms.locfileid: "52549823"
 | ID | WA200000556 |
 | 支援 Office 365 用戶端 | Excel 2016 或更新版本 Mac 上 Excel 2016 或更新版本 Windows Excel 網頁版 |
 | 合作夥伴公司名稱 | Atlassian.com |
-| 合作夥伴網站的 URL | [https://www.atlassian.com/](https://www.atlassian.com/) |
-| 隱私權原則的 URL | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
-| 使用條款的 URL | [https://www.microsoft.com/en-us/store/standard-application-...](https://www.microsoft.com/en-us/store/standard-application-license-terms) |
+| 合作夥伴網站的 URL | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| 隱私權原則的 URL | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
+| 使用條款的 URL | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

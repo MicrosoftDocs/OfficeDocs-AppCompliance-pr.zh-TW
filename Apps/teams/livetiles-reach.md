@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊可取得，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83df050a6f58bc1d0b7d49239b40ddf2ba80849a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 91729da78b1a031be38569bfd4e4168f2a96f83a
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551994"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281776"
 ---
 # <a name="reach"></a>達到
 
@@ -38,8 +38,8 @@ ms.locfileid: "52551994"
 | 合作夥伴公司名稱 | LiveTiles |
 | 合作夥伴網站的 URL | [https://livetilesglobal.com](https://livetilesglobal.com) |
 | Teams 應用程式資訊頁面的 URL | [https://livetilesglobal.com/products/livetiles-reach/](https://livetilesglobal.com/products/livetiles-reach/) |
-| 隱私權原則的 URL | [https://livetilesglobal.com/privacy-policy](https://livetilesglobal.com/privacy-policy) |
-| 使用條款的 URL | [https://livetilesglobal.com/eula](https://livetilesglobal.com/eula) |
+| 隱私權原則的 URL | [https://livetilesglobal.com/privacy-policy/](https://livetilesglobal.com/privacy-policy/) |
+| 使用條款的 URL | [https://livetilesglobal.com/eula/](https://livetilesglobal.com/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Q 的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3424ac372f46be0fc9834611fb1a0d57c69831a4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2bdf876ddb9ab17d9fa8616edda8b849e0d85df7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551903"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281746"
 ---
 # <a name="q"></a>Q
 
@@ -37,8 +37,8 @@ ms.locfileid: "52551903"
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | ModuleQ |
 | 合作夥伴網站的 URL | [https://moduleq.com](https://moduleq.com) |
-| 隱私權原則的 URL | [https://moduleq.com/privacy-policy/](https://moduleq.com/privacy-policy/) |
-| 使用條款的 URL | [https://moduleq.com/terms-of-service/](https://moduleq.com/terms-of-service/) |
+| 隱私權原則的 URL | [https://moduleq.com/privacy-policy](https://moduleq.com/privacy-policy) |
+| 使用條款的 URL | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

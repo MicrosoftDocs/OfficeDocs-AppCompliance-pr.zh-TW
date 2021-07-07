@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hoylu 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4b63b3bd9cfec20a665d7fd112d2db09c280b594
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b48adaf3c3816bea363b0fd8e6581f061a5eaed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553084"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281856"
 ---
 # <a name="hoylu"></a>Hoylu
 
@@ -37,8 +37,8 @@ ms.locfileid: "52553084"
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Hoylu |
 | 合作夥伴網站的 URL | [https://hoylu.com](https://hoylu.com) |
-| 隱私權原則的 URL | [https://hoylu.com/privacy-policy](https://hoylu.com/privacy-policy) |
-| 使用條款的 URL | [https://hoylu.com/terms-of-use](https://hoylu.com/terms-of-use) |
+| 隱私權原則的 URL | [https://www.hoylu.com/privacy-policy/](https://www.hoylu.com/privacy-policy/) |
+| 使用條款的 URL | [https://www.hoylu.com/terms-of-use/](https://www.hoylu.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

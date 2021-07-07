@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: monday.com 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 64fc8e948618b760a3f82ee9c1ac67a32de9afb6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1252ff537b354a1a8bc068e9c6ac6779c7af3fc4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552924"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281215"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -36,8 +36,8 @@ ms.locfileid: "52552924"
 | ID | WA200001798 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | monday.com |
-| 合作夥伴網站的 URL | [https://monday.com](https://monday.com) |
-| 隱私權原則的 URL | [https://monday.com/privacy](https://monday.com/privacy) |
+| 合作夥伴網站的 URL | [https://monday.com/](https://monday.com/) |
+| 隱私權原則的 URL | [https://monday.com/terms/privacy](https://monday.com/terms/privacy) |
 | 使用條款的 URL | [https://monday.com/terms/tos](https://monday.com/terms/tos) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -85,13 +85,13 @@ ms.locfileid: "52552924"
 >monday.com 服務主控于北弗吉尼亞州的 AWS 基礎結構，以及在不同地區建立的 DR 網站。 某些備份資料儲存在 GCP (US，多地區) 。 存取 monday.com 服務是由使用者組織的系統管理員所控制，且是透過使用下列功能來完成：
 - 使用者類型
 - 帳戶層級許可權
-- Workspaces
+- 工作區
 - 版塊類型
 - 董事會層級許可權
 - 欄層級許可權 monday.com 支援下列驗證方法：
 - Credentials
 - Pro 計畫) Google SSO (
-- Enterprise) 計畫的 Okta、OneLogin 和自訂 SAML 2.0 (，可透過簡訊或驗證器應用程式透過平臺的系統管理員面板，由帳戶管理員選擇啟用。
+- Okta、OneLogin 及 custom SAML 2.0 (針對 Enterprise 計畫) 2FA 透過 SMS 或驗證器應用程式，您可以透過平臺的系統管理員面板的帳戶管理員的選擇來啟用此功能。
 所有靜態資料都是使用 AES-256 加密。 所有在開啟的網路中傳輸的資料，都是以 TLS 1.3 (TLS 1.2，至少) 進行加密。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查

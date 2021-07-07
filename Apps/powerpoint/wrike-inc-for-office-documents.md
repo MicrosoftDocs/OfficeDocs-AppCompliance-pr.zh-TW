@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Wrike 的所有可用安全性和符合性資訊資訊，針對 Office 檔、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ce29d8d0e8923795e860ffb9013267a39889970e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 87656417cb587e3778ddf85f2c20766b3a43cf86
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553554"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282337"
 ---
 # <a name="wrike-for-office-documents"></a>Office 檔的 Wrike
 
@@ -34,9 +34,9 @@ Wrike Inc. 所提供的資訊給 Microsoft：
 | ID | WA104379841 |
 | 支援 Office 365 用戶端 | Excel 2016 或更新版本于 Windows、Word 2013 或更新版本上 Windows、PowerPoint 2013 或更新版本上 Windows、Excel 2016 或更新 mac、Excel 網頁版、Word 2016 或更新 mac 上 Word 網頁版 |
 | 合作夥伴公司名稱 | Wrike Inc. |
-| 合作夥伴網站的 URL | [https://wrike.com/](https://wrike.com/) |
-| 隱私權原則的 URL | [https://www.wrike.com/privacy](https://www.wrike.com/privacy) |
-| 使用條款的 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp; omkt = en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 合作夥伴網站的 URL | [https://www.wrike.com/](https://www.wrike.com/) |
+| 隱私權原則的 URL | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| 使用條款的 URL | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

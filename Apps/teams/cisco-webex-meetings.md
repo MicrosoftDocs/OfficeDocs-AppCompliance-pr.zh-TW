@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的 Cisco Webex 會議安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4911c948bd0f77dc1a5c858fca89337aeb3a1f5a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 34db97485d4c25655075a838adb5ec998ca324a5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553234"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281355"
 ---
 # <a name="cisco-webex-meetings"></a>Cisco Webex 會議
 
@@ -36,10 +36,10 @@ ms.locfileid: "52553234"
 | ID | WA104381435 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Cisco Webex 會議 |
-| 合作夥伴網站的 URL | [https://www.webex.com](https://www.webex.com) |
+| 合作夥伴網站的 URL | [https://www.cisco.com](https://www.cisco.com) |
 | Teams 應用程式資訊頁面的 URL | [https://collaborationhelp.cisco.com/](https://collaborationhelp.cisco.com/) |
-| 隱私權原則的 URL | [https://trustportal.cisco.com/c/dam/r/ctp/docs/privacydatas...](https://trustportal.cisco.com/c/dam/r/ctp/docs/privacydatasheet/collaboration/cisco-webex-meetings-privacy-data-sheet.pdf) |
-| 使用條款的 URL | [https://www.cisco.com/c/en/us/products/universal-cloud-agre...](https://www.cisco.com/c/en/us/products/universal-cloud-agreement.html) |
+| 隱私權原則的 URL | []() |
+| 使用條款的 URL | []() |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

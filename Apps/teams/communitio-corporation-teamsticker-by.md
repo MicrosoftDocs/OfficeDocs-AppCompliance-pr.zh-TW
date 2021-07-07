@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TeamSticker by Communitio 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 75509ae7266f44470530418c955ba70713126783
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 944fa2eaf8df347cf3ce1b96bad9cd8521dceed3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552254"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281936"
 ---
 # <a name="teamsticker-by-communitio"></a>Communitio 的 TeamSticker
 
@@ -36,7 +36,7 @@ Communitio Corporation 提供給 Microsoft 的資訊：
 | ID | WA200000894 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Communitio Corporation |
-| 合作夥伴網站的 URL | [https://www.teamsuite.biz/](https://www.teamsuite.biz/) |
+| 合作夥伴網站的 URL | [https://www.teamsuite.biz](https://www.teamsuite.biz) |
 | Teams 應用程式資訊頁面的 URL | [https://www.teamsuite.biz/feature/](https://www.teamsuite.biz/feature/) |
 | 隱私權原則的 URL | [https://www.teamsuite.biz/privacy/](https://www.teamsuite.biz/privacy/) |
 | 使用條款的 URL | [https://www.teamsuite.biz/terms/](https://www.teamsuite.biz/terms/) |

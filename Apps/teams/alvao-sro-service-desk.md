@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Alvao 服務台的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fd5a6939e93720fa6422cc61b9b7c785539ec24a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d5fe88303b18c41be50f5c108cd4c0b4bfb16314
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552404"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282066"
 ---
 # <a name="alvao-service-desk"></a>Alvao 服務台
 
@@ -36,7 +36,7 @@ ALVAO 所提供的資訊 s.r.o。 至 Microsoft：
 | ID | WA200002488 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | ALVAO s.r.o. |
-| 合作夥伴網站的 URL | [https://www.alvao.com/en/ ](https://www.alvao.com/en/ ) |
+| 合作夥伴網站的 URL | [https://www.alvao.com/en/](https://www.alvao.com/en/) |
 | Teams 應用程式資訊頁面的 URL | [https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alv...](https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alvao_teams_addin/default.aspx) |
 | 隱私權原則的 URL | [https://www.alvao.com/en/gdpr](https://www.alvao.com/en/gdpr) |
 | 使用條款的 URL | [https://www.alvao.com/en/storage/app/media/documents/licens...](https://www.alvao.com/en/storage/app/media/documents/license_SD_10.3_en.pdf) |

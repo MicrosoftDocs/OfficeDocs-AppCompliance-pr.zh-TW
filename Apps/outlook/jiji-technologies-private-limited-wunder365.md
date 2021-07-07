@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wunder365 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c4b1e022c3ed482c3020284f07a7d1f986d7cbb3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f5c07b646cd3d23d6a1fbda2c9bd5ef7b4973f32
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552514"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281715"
 ---
 # <a name="wunder365"></a>Wunder365
 
@@ -33,11 +33,11 @@ JiJi 技術所提供的資訊私人限制于 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Wunder365 |
 | ID | WA200000391 |
-| 支援 Office 365 用戶端 | Outlook 2016 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
+| 支援 Office 365 用戶端 | Windows、Outlook 2016 或更新版本的 Mac Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | JiJi 技術私人有限 |
-| 合作夥伴網站的 URL | [https://apps4.pro/](https://apps4.pro/) |
+| 合作夥伴網站的 URL | [https://www.jijitechnologies.com](https://www.jijitechnologies.com) |
 | 隱私權原則的 URL | [https://www.wunder365.com/outlook-addin-privacy-policy](https://www.wunder365.com/outlook-addin-privacy-policy) |
-| 使用條款的 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp; omkt = en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 使用條款的 URL | [https://www.wunder365.com/terms-of-service](https://www.wunder365.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

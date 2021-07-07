@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 Microsoft Office 365 的 iGlobe CRM Office 365 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b52fcc6ec5d5f5f36c11379c736e098048e58b6b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bdc9b8367c251e17fc055f0a3466e74b97215bbd
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553504"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281505"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-office-365"></a>iGlobe Microsoft Office 365 的 CRM Office 365
 
@@ -34,9 +34,9 @@ ms.locfileid: "52553504"
 | ID | WA104379222 |
 | 支援 Office 365 用戶端 | SharePoint 2013 或更新版本 |
 | 合作夥伴公司名稱 | iGlobe |
-| 合作夥伴網站的 URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| 合作夥伴網站的 URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | 隱私權原則的 URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
-| 使用條款的 URL | [https://www.iglobecrm.com/content/iglobe-crm-office-365-end...](https://www.iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
+| 使用條款的 URL | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

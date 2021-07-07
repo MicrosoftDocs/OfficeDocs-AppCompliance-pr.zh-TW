@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Salesforce 的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 29c00595a806c5144b34701ba54860353f9cafc0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b5999dd08ed27ce75bc958e431c0974e10830a3c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553704"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281695"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -33,11 +33,11 @@ ms.locfileid: "52553704"
 |:----------------|:-------------|
 | 應用程式名稱 | Salesforce |
 | ID | WA104379334 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | salesforce.com |
-| 合作夥伴網站的 URL | [https://www.salesforce.com/](https://www.salesforce.com/) |
-| 隱私權原則的 URL | [https://www.salesforce.com/company/privacy](https://www.salesforce.com/company/privacy) |
-| 使用條款的 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474843361/Product_42949677285/Asset_540860c0-685e-4047-9f3a-082a748e57a2/LIGHTNINGFOROUTLOOKOrderFormSu.doc) |
+| 合作夥伴網站的 URL | [https://www.salesforce.com](https://www.salesforce.com) |
+| 隱私權原則的 URL | [https://www.salesforce.com/company/privacy/](https://www.salesforce.com/company/privacy/) |
+| 使用條款的 URL | [https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC...](https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC&amp;p5=WA104379334&amp;cmu=en-US) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

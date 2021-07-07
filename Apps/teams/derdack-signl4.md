@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SIGNL4 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a619327000c93e3292e266c8b025034370a8b623
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 425c0738b5628f959ba81e5682c22afe6774cfba
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553204"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281325"
 ---
 # <a name="signl4"></a>SIGNL4
 
@@ -36,7 +36,7 @@ ms.locfileid: "52553204"
 | ID | WA200001239 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Derdack SIGNL4 |
-| 合作夥伴網站的 URL | [https://www.signl4.com](https://www.signl4.com) |
+| 合作夥伴網站的 URL | [https://www.derdack.com](https://www.derdack.com) |
 | 隱私權原則的 URL | [https://www.signl4.com/privacy-policy/](https://www.signl4.com/privacy-policy/) |
 | 使用條款的 URL | [https://www.signl4.com/terms_of_use/](https://www.signl4.com/terms_of_use/) |
 
@@ -63,7 +63,7 @@ ms.locfileid: "52553204"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Recurly、電子郵件地址、電子郵件地址是在使用此應用程式時，向客戶傳送帳單通知時所需的電子郵件地址。 Twilio、電話號碼、透過簡訊文字郵件傳送提醒的警示內容 |  | Azure 管理 API 會收集 Azure 監視器警示，因為系統會傳送這些警示的通知，所以發生收集。 |
+>| Recurly、電子郵件地址、電子郵件地址是在使用此應用程式時，向客戶傳送帳單通知時所需的電子郵件地址。 Twilio、電話號碼、透過 SMS 文字郵件傳送提醒的警示內容 |  | Azure 管理 API 會收集 Azure 監視器警示，因為系統會傳送這些警示的通知，所以發生收集。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 

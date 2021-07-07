@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于會議 i/o 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cc2d3c2845660ddda7b2d759d4d30cb4191286dd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f1ac0d98833813915b3485a7b5c00233f41ddee8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553214"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281335"
 ---
 # <a name="conferences-io"></a>會議 i/O
 
@@ -36,10 +36,10 @@ ms.locfileid: "52553214"
 | ID | WA200001867 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | 會議 i/O |
-| 合作夥伴網站的 URL | [https://teamsapp.conferences.io/](https://teamsapp.conferences.io/) |
+| 合作夥伴網站的 URL | [https://conferences.io](https://conferences.io) |
 | Teams 應用程式資訊頁面的 URL | [https://www.conferences.io/our-platform/features/](https://www.conferences.io/our-platform/features/) |
 | 隱私權原則的 URL | [https://teamsapp.conferences.io/privacy/](https://teamsapp.conferences.io/privacy/) |
-| 使用條款的 URL | [https://teamsapp.conferences.io/terms/](https://teamsapp.conferences.io/terms/) |
+| 使用條款的 URL | [https://teamsapp.conferences.io/eula/](https://teamsapp.conferences.io/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

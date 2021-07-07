@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus 的所有可用安全性和符合性資訊資訊，以及電子郵件、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dc342375eba7084f5afb31b0f879e46e959fa970
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 759c59f93daa664dcc6b5b0b230a4b0fedfbf140
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553654"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282387"
 ---
 # <a name="servicedesk-plus-for-email"></a>電子郵件的 ServiceDesk Plus
 
@@ -33,11 +33,11 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | 電子郵件的 ServiceDesk Plus |
 | ID | WA104381518 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | Zoho Corporation Private Limited |
-| 合作夥伴網站的 URL | [https://www.zoho.com/](https://www.zoho.com/) |
+| 合作夥伴網站的 URL | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
 | 隱私權原則的 URL | [https://www.manageengine.com/privacy.html](https://www.manageengine.com/privacy.html) |
-| 使用條款的 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp; omkt = en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 使用條款的 URL | [https://ondemand.manageengine.com/terms.html](https://ondemand.manageengine.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

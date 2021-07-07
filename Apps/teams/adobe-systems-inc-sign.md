@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用於 Adobe 符號的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7cb238a768ae020e13865748be5d0df96ebb35ca
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 59354070b773f5407929b81c14b12666362e7d52
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552424"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282086"
 ---
 # <a name="adobe-sign"></a>Adobe 標誌
 
@@ -38,7 +38,7 @@ Adobe Systems Inc. 所提供的資訊給 Microsoft：
 | 合作夥伴網站的 URL | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | Teams 應用程式資訊頁面的 URL | [https://helpx.adobe.com/sign/help/adobesign_microsoft_teams...](https://helpx.adobe.com/sign/help/adobesign_microsoft_teams.html) |
 | 隱私權原則的 URL | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
-| 使用條款的 URL | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
+| 使用條款的 URL | [https://www.adobe.com/legal/terms.html](https://www.adobe.com/legal/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

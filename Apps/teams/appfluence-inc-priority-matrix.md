@@ -2,23 +2,23 @@
 title: 依 Appfluence Inc. 的優先順序清單應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 在 CSA 星型登錄中，所有可用的安全性和合規性資訊，如優先順序矩陣、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 50814045f621d38df3a4a8ce65fb361d72a6f7a3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 93b64ae01c745f370af36bd6cb8a73787d39867a
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552394"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281435"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開發人員上次更新：2021年4月16日</p>
+<p>上次於開發人員的更新日期：2021年6月23日</p>
 
 * <a href="https://teams.microsoft.com/l/app/5be2b320-a5b7-4221-893c-dee506e4e365" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104382005" target="_blank">在 AppSource 中查看</a>
@@ -35,9 +35,9 @@ ms.locfileid: "52552394"
 | ID | WA104382005 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Appfluence Inc |
-| 合作夥伴網站的 URL | [https://appfluence.com](https://appfluence.com) |
+| 合作夥伴網站的 URL | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
 | Teams 應用程式資訊頁面的 URL | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
-| 隱私權原則的 URL | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
+| 隱私權原則的 URL | [https://appfluence.com/privacy/](https://appfluence.com/privacy/) |
 | 使用條款的 URL | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -126,7 +126,7 @@ Appfluence Inc. 已提供此資訊，說明此應用程式如何處理驗證、�
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
-| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
 | 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |

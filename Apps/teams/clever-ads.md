@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于聰明廣告的安全性和合規性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0b092ef8ab27bec0a2f5c3bf294b301a71d1649a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d0ef9f59476133e673a0bf9edf99e63cfc424559
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552274"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281946"
 ---
 # <a name="clever-ads"></a>Clever 廣告
 
@@ -36,9 +36,9 @@ Microsoft 的聰明廣告所提供的資訊：
 | ID | WA200001182 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Clever 廣告 |
-| 合作夥伴網站的 URL | [https://www.cleverads.com/](https://www.cleverads.com/) |
-| 隱私權原則的 URL | [https://www.cleverads.com/privacy-policy](https://www.cleverads.com/privacy-policy) |
-| 使用條款的 URL | [https://www.cleverads.com/terms-conditions](https://www.cleverads.com/terms-conditions) |
+| 合作夥伴網站的 URL | [https://cleverads.com](https://cleverads.com) |
+| 隱私權原則的 URL | [https://cleverads.com/privacy-policy](https://cleverads.com/privacy-policy) |
+| 使用條款的 URL | [https://cleverads.com/terms-conditions](https://cleverads.com/terms-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

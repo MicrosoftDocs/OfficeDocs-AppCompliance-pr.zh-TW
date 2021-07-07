@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和合規性資訊，用於融合的遠端、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 52707dd87b8fe63bb6b7d57cf7ce90ebe20caf60
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 67518ab9859fa9643eea4f6cc40d97dbd40a9109
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553034"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281806"
 ---
 # <a name="fusion-remote"></a>Fusion Remote
 
@@ -37,8 +37,8 @@ Jujo Inc. 所提供的資訊給 Microsoft：
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Jujo Inc. |
 | 合作夥伴網站的 URL | [https://www.jujotech.com](https://www.jujotech.com) |
-| 隱私權原則的 URL | [https://www.jujotech.com/privacy-policy](https://www.jujotech.com/privacy-policy) |
-| 使用條款的 URL | [https://www.jujotech.com/terms-of-use/](https://www.jujotech.com/terms-of-use/) |
+| 隱私權原則的 URL | [https://www.jujothech.com/privacy-policy](https://www.jujothech.com/privacy-policy) |
+| 使用條款的 URL | [https://www.jujotech.com/terms-of-use](https://www.jujotech.com/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

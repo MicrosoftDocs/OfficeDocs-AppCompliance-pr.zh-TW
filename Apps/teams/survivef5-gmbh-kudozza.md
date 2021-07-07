@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Kudozza 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c55726061f0663cf395ea5edb45adf96f35bce3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 85221e2c57cbe5954e3343d8a44cec704c71eda9
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553814"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280775"
 ---
 # <a name="kudozza"></a>Kudozza
 
@@ -36,10 +36,10 @@ ms.locfileid: "52553814"
 | ID | WA200002599 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | surviveF5 GmbH |
-| 合作夥伴網站的 URL | [https://www.kudozza.com](https://www.kudozza.com) |
+| 合作夥伴網站的 URL | [https://surviveF5.com](https://surviveF5.com) |
 | Teams 應用程式資訊頁面的 URL | [https://kudozza.com](https://kudozza.com) |
-| 隱私權原則的 URL | [https://www.kudozza.com/privacy](https://www.kudozza.com/privacy) |
-| 使用條款的 URL | [https://www.kudozza.com/terms](https://www.kudozza.com/terms) |
+| 隱私權原則的 URL | [https://kudozza.com/privacy](https://kudozza.com/privacy) |
+| 使用條款的 URL | [https://kudozza.com/terms](https://kudozza.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

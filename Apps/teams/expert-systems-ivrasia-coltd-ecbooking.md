@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ecBooking 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1cdd05e4acfb1c7720af1a2e22b2c6d29425ca60
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b1806ca26bb20d1f4f24d87d7b617ad9ff108397
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552174"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281876"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -36,7 +36,7 @@ ms.locfileid: "52552174"
 | ID | WA200002096 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Expert Systems IVR（亞洲） Co.Ltd。 |
-| 合作夥伴網站的 URL | [https://www.esi-asia.com/](https://www.esi-asia.com/) |
+| 合作夥伴網站的 URL | [https://www.esi-asia.com](https://www.esi-asia.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/) |
 | 隱私權原則的 URL | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1510822239639-efecac03-d43200b0-aa88) |
 | 使用條款的 URL | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1598241760681-29d114e0-5c2b) |

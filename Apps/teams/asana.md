@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Asana 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6c18bb20cdf753b1a5d998b3d7b7144f950f00c0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0f2e4ff08367c5b8694ca9b6f2cfce1a530a64c9
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553404"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282046"
 ---
 # <a name="asana"></a>Asana
 
@@ -36,7 +36,7 @@ ms.locfileid: "52553404"
 | ID | WA200001727 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Asana |
-| 合作夥伴網站的 URL | [https://asana.com/?noredirect&amp; utm_source &amp; = asana_inproduct](https://asana.com/?noredirect&amp;utm_source=asana_inproduct&amp;utm_medium=organic_inproduct&amp;utm_campaign=msft_teams_launch) |
+| 合作夥伴網站的 URL | [https://asana.com](https://asana.com) |
 | 隱私權原則的 URL | [https://asana.com/terms#privacy-policy](https://asana.com/terms#privacy-policy) |
 | 使用條款的 URL | [https://asana.com/terms#terms-of-service](https://asana.com/terms#terms-of-service) |
 

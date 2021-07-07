@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 Outlook 的 Adobe 簽署 Add-In 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 98180d11de4dcde3cc8820bddd46a9580a908cd6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 15b9a2929296a4be94c01162cb28f06ba5d9d1f1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552564"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281725"
 ---
 # <a name="adobe-sign-add-in-for-outlook"></a>Outlook 的 Adobe Sign Add-In
 
@@ -32,11 +32,11 @@ Adobe Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Outlook 的 Adobe Sign Add-In |
 | ID | WA104381158 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | Adobe Inc.。 |
-| 合作夥伴網站的 URL | [https://www.adobe.com/](https://www.adobe.com/) |
+| 合作夥伴網站的 URL | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | 隱私權原則的 URL | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
-| 使用條款的 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp; omkt = en](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en) |
+| 使用條款的 URL | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

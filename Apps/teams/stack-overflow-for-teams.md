@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，針對 Teams 的堆疊溢位，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 62f32ce131b2ebdf827d8e11e24873fc552577a7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: da3e4b0f9a5219bcf0d652938f24397c12b7bdb4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552744"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280855"
 ---
 # <a name="stack-overflow-for-teams"></a>Teams 的 Stack Overflow
 
@@ -36,9 +36,9 @@ ms.locfileid: "52552744"
 | ID | WA200000739 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Stack Overflow |
-| 合作夥伴網站的 URL | [https://stackoverflow.com](https://stackoverflow.com) |
+| 合作夥伴網站的 URL | [https://www.stackoverflow.com](https://www.stackoverflow.com) |
 | 隱私權原則的 URL | [https://stackoverflow.com/legal/privacy-policy](https://stackoverflow.com/legal/privacy-policy) |
-| 使用條款的 URL | [https://stackoverflow.com/legal/terms-of-service/public](https://stackoverflow.com/legal/terms-of-service/public) |
+| 使用條款的 URL | [https://stackoverflow.com/legal/terms-of-service/teams](https://stackoverflow.com/legal/terms-of-service/teams) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

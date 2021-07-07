@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: InStation 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 40c86e4284ed201fedf63bfe3bbd7570b61049b7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46b7c4131e1f3897036cf0b2180b2f99c2e6ff2c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552244"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282026"
 ---
 # <a name="instation"></a>InStation
 
@@ -36,7 +36,7 @@ Invillia 至 Microsoft 的開發人員提供的資訊：
 | ID | WA200001701 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Developers Invillia |
-| 合作夥伴網站的 URL | [https://instation.invillia.com/](https://instation.invillia.com/) |
+| 合作夥伴網站的 URL | [https://invillia.com/](https://invillia.com/) |
 | 隱私權原則的 URL | [https://instation.invillia.com/terms#privacy-policy](https://instation.invillia.com/terms#privacy-policy) |
 | 使用條款的 URL | [https://instation.invillia.com/terms#terms-of-use](https://instation.invillia.com/terms#terms-of-use) |
 

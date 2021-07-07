@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，專家的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 16abdcc7ab9b3da8cef55b17e5b63a3a7d916c51
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4577aabcc19f32941d3d9005ba7e9fe61e4675cc
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553134"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281265"
 ---
 # <a name="guru"></a>Guru
 
@@ -36,9 +36,9 @@ ms.locfileid: "52553134"
 | ID | WA200001719 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Guru Technologies |
-| 合作夥伴網站的 URL | [https://www.getguru.com/](https://www.getguru.com/) |
+| 合作夥伴網站的 URL | [https://www.getguru.com](https://www.getguru.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.getguru.com/integrations/microsoft-teams](https://www.getguru.com/integrations/microsoft-teams) |
-| 隱私權原則的 URL | [https://www.getguru.com/privacy](https://www.getguru.com/privacy) |
+| 隱私權原則的 URL | [https://www.getguru.com/privacy/](https://www.getguru.com/privacy/) |
 | 使用條款的 URL | [https://www.getguru.com/terms-of-service](https://www.getguru.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
