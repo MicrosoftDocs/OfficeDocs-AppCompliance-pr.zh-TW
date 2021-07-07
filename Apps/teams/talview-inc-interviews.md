@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Talview 採訪的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4f6b1b560d06f7d1d3728eabd646ded7d99874db
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a641b49729a43c8b12339f162eeee395183f5859
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552694"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282937"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -38,8 +38,8 @@ ms.locfileid: "52552694"
 | 合作夥伴公司名稱 | Talview Inc |
 | 合作夥伴網站的 URL | [https://talview.com](https://talview.com) |
 | Teams 應用程式資訊頁面的 URL | [https://info.talview.com/talview-partners-microsoft-teams](https://info.talview.com/talview-partners-microsoft-teams) |
-| 隱私權原則的 URL | [https://talview.com/privacy](https://talview.com/privacy) |
-| 使用條款的 URL | [https://talview.com/terms](https://talview.com/terms) |
+| 隱私權原則的 URL | [https://www.talview.com/privacy](https://www.talview.com/privacy) |
+| 使用條款的 URL | [https://www.talview.com/terms](https://www.talview.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: harmon.ie Office 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bae4b6d16c862819564ddb74682b3773d53a4336
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9c04ab6e1a50167fbf489191e5845f86cb09ee00
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550463"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283319"
 ---
 # <a name="harmonie-for-office"></a>Office 的 harmon.ie
 
@@ -35,9 +35,9 @@ Harmon.ie Corporation 提供給 Microsoft 的資訊：
 | ID | WA104381050 |
 | 支援 Office 365 用戶端 | Windows、Word 2016 或更新版本上的 PowerPoint 2016 或更新版本 Windows、Excel 網頁版、Word 網頁版、PowerPoint 網頁版、Word 2016 或更新 mac、PowerPoint 2016 或更新 mac |
 | 合作夥伴公司名稱 | harmon.ie Corporation |
-| 合作夥伴網站的 URL | [https://harmon.ie/](https://harmon.ie/) |
+| 合作夥伴網站的 URL | [https://harmon.ie](https://harmon.ie) |
 | 隱私權原則的 URL | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
-| 使用條款的 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836605/Product_42949673246/Asset_37060a29-311b-4239-be49-1758aebbeb1a/harmonieEULA.pdf) |
+| 使用條款的 URL | [https://harmon.ie/legal/eula](https://harmon.ie/legal/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

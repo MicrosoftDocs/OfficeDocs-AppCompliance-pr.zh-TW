@@ -1,44 +1,45 @@
 ---
-title: 透過 Witivio 學習的應用程式資訊
+title: 透過 smart 技術 Lumio 之應用程式的應用程式資訊 ULC
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/31/2020
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有可用的安全性和符合性資訊資訊，以瞭解資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 798bd76f786119863f9ff2046e72daa15bcb0696
+description: Lumio 的所有可用安全性和符合性資訊資訊，如智慧、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 50cde4ecae9abf39b199b381bcf8e5da33b345e6
 ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283347"
+ms.locfileid: "53283298"
 ---
-# <a name="learn"></a>了解
+# <a name="lumio-by-smart"></a>由 SMART Lumio
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2020年3月31日</p>
+<p>開發人員上次更新：2021年4月19日</p>
 
-* <a href="https://teams.microsoft.com/l/app/2d96b540-aa26-431b-bc31-222321c762e3" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001308" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/e0ffcbc7-f3f2-46b7-a189-afd01c545782" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001874" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 Witivio 提供給 Microsoft 的資訊：
+ULC 至 Microsoft 的智慧技術所提供的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 了解 |
-| ID | WA200001308 |
+| 應用程式名稱 | 由 SMART Lumio |
+| ID | WA200001874 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Witivio |
-| 合作夥伴網站的 URL | [https://www.witivio.com](https://www.witivio.com) |
-| 隱私權原則的 URL | [https://www.witivio.com/en/privacy](https://www.witivio.com/en/privacy) |
-| 使用條款的 URL | [https://witivio.com/en/terms-of-use](https://witivio.com/en/terms-of-use) |
+| 合作夥伴公司名稱 | SMART Technologies ULC |
+| 合作夥伴網站的 URL | [https://smarttech.com](https://smarttech.com) |
+| Teams 應用程式資訊頁面的 URL | [https://www.smarttech.com/smart-learning-suite/](https://www.smarttech.com/smart-learning-suite/) |
+| 隱私權原則的 URL | [https://www.smarttech.com/en/legal/privacy-policies](https://www.smarttech.com/en/legal/privacy-policies) |
+| 使用條款的 URL | [https://www.smarttech.com/legal/sls-terms](https://www.smarttech.com/legal/sls-terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +49,7 @@ ms.locfileid: "53283347"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 Witivio 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+這種資訊已由 SMART 技術 ULC 提供，此應用程式會如何收集和儲存組織資料，以及您的組織將會對應用程式收集的資料所做的控制。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -56,10 +57,8 @@ ms.locfileid: "53283347"
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 不適用 | 我們會收集授權的 UPN 和 AAD 識別碼。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| User.ReadBasic.All | 委託 | 不適用 | 我們會收集授權的 UPN 和 AAD 識別碼。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| openid | 委託 | 不適用 | 我們會收集授權的 UPN 和 AAD 識別碼。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| profile | 委託 | 不適用 | 我們會收集授權的 UPN 和 AAD 識別碼。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
+>| Directory.Read.All | 委託 | 資料用於驗證群組許可權未收集任何資料。  | 資料庫中沒有儲存目錄資料 | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
+>| Group.Read.All | 委託 | appart 的群組是用來確認其是否為學生或教師群組的一部分，以便決定功能。 未收集任何資料。  | 僅限儲存的資料是用戶端唯一識別碼 | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -72,30 +71,26 @@ ms.locfileid: "53283347"
 
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
->| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
->| 我們使用下列： 1) 授權 (授與對 bot 的存取權) ，2) 偵測 firstname，以提供友好 UX，3) 來管理 bot 之商務系統管理員的 chatlogs。 | N/A。 或 bot 只為個人 |  |
+>未存取 EUII。
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->Bot 的遙測包含 UPN 和 AAD 識別碼 fr 診斷。
-只有生產/執行系統管理員才能存取生產遙測。 記錄檔會儲存在90天內，而且可以在專屬入口網站 support.witivio.com 或透過電子郵件傳送至 dpo@witivio.com 時，加以刪除。
+>應用程式遙測或記錄中未出現 OII 或 EUII。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->Witivio 只會使用在北歐地區部署的 Azure 元件。 我們使用 application 真知灼見和 Cosmos DB 進行資料分析和儲存。
-Witivio 對所有使用者（包括系統管理員）使用 MFA。 系統管理員有 (工作站) 的使用者帳戶，以及存取 Azure ressources 的許可權帳戶。
+>我們支援在所有合作夥伴系統中遺忘的權利，包括記錄、審核和封存。 這是手動程式，在此程式中，該合作夥伴的系統管理員將會移除、編輯或封存資料。 
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
 參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
 
->是
+>否
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -105,11 +100,24 @@ Witivio 對所有使用者（包括系統管理員）使用 MFA。 系統管理�
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35854' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37582' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35854" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37582" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+此資訊是由 SMART 技術 ULC 提供，此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Klaxoon 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 127b45d805b02136ba99f56aecfc583f30bdda25
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3b4dee1e024940df3d9c81bdb2b2345a8421c9db
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553014"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283007"
 ---
 # <a name="klaxoon"></a>Klaxoon𶠁
 
@@ -37,8 +37,8 @@ ms.locfileid: "52553014"
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Klaxoon𶠁 |
 | 合作夥伴網站的 URL | [https://klaxoon.com](https://klaxoon.com) |
-| 隱私權原則的 URL | [https://klaxoon.com/privacy](https://klaxoon.com/privacy) |
-| 使用條款的 URL | [https://klaxoon.com/static/terms.pdf](https://klaxoon.com/static/terms.pdf) |
+| 隱私權原則的 URL | [https://klaxoon.com/privacy-policy](https://klaxoon.com/privacy-policy) |
+| 使用條款的 URL | [https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06...](https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06814d1c3354495b2.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

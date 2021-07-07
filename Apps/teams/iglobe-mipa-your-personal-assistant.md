@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 MIPA 的安全性和符合性資訊資訊-您的個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c6e09d38057c2a84196982a94ea8f938b295fbe
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1f203cb6c99584fb8633fcfaafe9155a97d300fe
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552084"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283027"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - 您的個人助理
 
@@ -35,7 +35,7 @@ ms.locfileid: "52552084"
 | ID | WA200000148 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | iGlobe |
-| 合作夥伴網站的 URL | [https://mipa.iglobe.dk/](https://mipa.iglobe.dk/) |
+| 合作夥伴網站的 URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Teams 應用程式資訊頁面的 URL | [https://mipa.iglobe.dk/Support](https://mipa.iglobe.dk/Support) |
 | 隱私權原則的 URL | [https://instassl.iglobecrm.com/legal-information](https://instassl.iglobecrm.com/legal-information) |
 | 使用條款的 URL | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |

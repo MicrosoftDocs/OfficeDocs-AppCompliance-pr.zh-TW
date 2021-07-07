@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用的 Adobe 符號安全性和符合性資訊資訊，針對 Word 及 PowerPoint，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: aa9b4a19f83574d7d9428bbf979ac7ee1375227c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0c5ed86f2de8925a87b726db9c2a9946721e06c7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552664"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283327"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word 和 PowerPoint
 
@@ -34,9 +34,9 @@ Adobe Inc. 所提供的資訊給 Microsoft：
 | ID | WA104381155 |
 | 支援 Office 365 用戶端 | Word 2016 或更新版本的 mac、PowerPoint 2013 service pack 1 或更新版本中 Windows、Word 2013 service pack 1 或更新版本中 Windows、Word 網頁版、PowerPoint 網頁版、PowerPoint 2016 或更新 mac |
 | 合作夥伴公司名稱 | Adobe Inc.。 |
-| 合作夥伴網站的 URL | [https://www.adobe.com/](https://www.adobe.com/) |
-| 隱私權原則的 URL | [https://www.adobe.com/privacy/policies-business/esign.html](https://www.adobe.com/privacy/policies-business/esign.html) |
-| 使用條款的 URL | [https://support.office.com/client/61994a3b-2c87-41c4-a88d-a...](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d?omkt=en) |
+| 合作夥伴網站的 URL | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
+| 隱私權原則的 URL | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
+| 使用條款的 URL | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Trivie 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 92da7dff6c2e344dc6f51c6ed386dd841139f44d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3130bccb3e639100603e9790e247a8ca0f151102
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551143"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283369"
 ---
 # <a name="trivie"></a>Trivie
 
@@ -36,10 +36,10 @@ Trivie，Inc. 提供給 Microsoft 的資訊：
 | ID | WA200002718 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Trivie, Inc. |
-| 合作夥伴網站的 URL | [https://www.trivie.com](https://www.trivie.com) |
+| 合作夥伴網站的 URL | [https://trivie.com](https://trivie.com) |
 | Teams 應用程式資訊頁面的 URL | [https://trivie.com](https://trivie.com) |
-| 隱私權原則的 URL | [https://www.trivie.com/privacy-policy](https://www.trivie.com/privacy-policy) |
-| 使用條款的 URL | [https://www.trivie.com/terms-of-service](https://www.trivie.com/terms-of-service) |
+| 隱私權原則的 URL | [https://trivie.com/privacy-policy](https://trivie.com/privacy-policy) |
+| 使用條款的 URL | [https://trivie.com/terms-of-service](https://trivie.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

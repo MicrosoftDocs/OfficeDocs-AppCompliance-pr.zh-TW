@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMeister 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a37e6c35b7a557ee146ad91e65d8f453dd94377e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bc3c15dabdcf5b01503d835f8cc45dccf8909539
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551914"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282967"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -39,7 +39,7 @@ ms.locfileid: "52551914"
 | 合作夥伴網站的 URL | [https://www.mindmeister.com](https://www.mindmeister.com) |
 | Teams 應用程式資訊頁面的 URL | [https://support.mindmeister.com/](https://support.mindmeister.com/) |
 | 隱私權原則的 URL | [https://www.mindmeister.com/privacy](https://www.mindmeister.com/privacy) |
-| 使用條款的 URL | [https://www.mindmeister.com/legal](https://www.mindmeister.com/legal) |
+| 使用條款的 URL | [https://www.mindmeister.com/terms](https://www.mindmeister.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

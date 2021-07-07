@@ -2,23 +2,23 @@
 title: 優先順序清單的應用程式資訊-依 Appfluence Inc. 將電子郵件變成任務
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有可用的安全性和符合性資訊的優先順序清單-將電子郵件變成任務、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9843ece5a330f4a8b8adb6f1388a4a26e12dbe21
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 45ce05ada25cde937488b7372262dbb63c90f66c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553754"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282917"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>優先順序清單-將電子郵件變成任務
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開發人員上次更新：2021年4月16日</p>
+<p>上次於開發人員的更新日期：2021年6月23日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381735" target="_blank">在 AppSource 中查看</a>
 
@@ -32,10 +32,10 @@ ms.locfileid: "52553754"
 |:----------------|:-------------|
 | 應用程式名稱 | 優先順序清單-將電子郵件變成任務 |
 | ID | WA104381735 |
-| 支援 Office 365 用戶端 | Windows、Outlook 2016 或更新版本上的 Outlook 2016 或更新版本，Outlook 在 iOS 上，Outlook 于 Android，Outlook 網頁 |
+| 支援 Office 365 用戶端 | Windows、Outlook 2016 或更新版本上的 Outlook 2016 或更新版本，Outlook 在 iOS 上，Outlook 于 Android，Outlook 網頁版 |
 | 合作夥伴公司名稱 | Appfluence Inc |
-| 合作夥伴網站的 URL | [https://appfluence.com/](https://appfluence.com/) |
-| 隱私權原則的 URL | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
+| 合作夥伴網站的 URL | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
+| 隱私權原則的 URL | [https://appfluence.com/privacy/](https://appfluence.com/privacy/) |
 | 使用條款的 URL | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -117,7 +117,7 @@ Appfluence Inc. 已提供此資訊，說明此應用程式如何處理驗證、�
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
-| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
 | 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |

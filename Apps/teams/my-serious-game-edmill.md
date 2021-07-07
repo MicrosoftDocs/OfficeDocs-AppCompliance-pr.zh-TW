@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: EdMill 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0fe3cef0358d5dca0e78888be9f6f57a53e87bd4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2e0737b48d027b51d9dc44f57b9d9cc3a11610bd
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552914"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282947"
 ---
 # <a name="edmill"></a>EdMill
 
@@ -36,10 +36,10 @@ ms.locfileid: "52552914"
 | ID | WA200002622 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | My-Serious-Game |
-| 合作夥伴網站的 URL | [https://www.edmill.com/](https://www.edmill.com/) |
+| 合作夥伴網站的 URL | [https://www.my-serious-game.com](https://www.my-serious-game.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.edmill.com](https://www.edmill.com) |
 | 隱私權原則的 URL | [https://app.edmill.com/privacy-policy](https://app.edmill.com/privacy-policy) |
-| 使用條款的 URL | [https://www.edmill.com/cgu/](https://www.edmill.com/cgu/) |
+| 使用條款的 URL | [https://app.edmill.com/static/cgv.pdf](https://app.edmill.com/static/cgv.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

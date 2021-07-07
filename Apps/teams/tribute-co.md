@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tribute 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57c0c47bd47a23efb9cf93247988b3a374690ede
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 589dcefe68d389ecfc2a4ba3f51998878358c58f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551173"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283377"
 ---
 # <a name="tribute"></a>Tribute
 
@@ -38,7 +38,7 @@ Tribute 共同提供給 Microsoft 的資訊：
 | 合作夥伴公司名稱 | Tribute Co. |
 | 合作夥伴網站的 URL | [https://www.tributementorship.com](https://www.tributementorship.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
-| 隱私權原則的 URL | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
+| 隱私權原則的 URL | [https://www.tributementorship.com/privacy ](https://www.tributementorship.com/privacy ) |
 | 使用條款的 URL | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

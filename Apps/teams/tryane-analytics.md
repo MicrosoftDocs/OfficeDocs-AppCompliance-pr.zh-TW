@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tryane Analytics 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 265fa798414c907f25690252e1714bebfdbdde1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d5b5119f0c9897b6d59163ad03580744a7f822f0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551103"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283569"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -36,9 +36,9 @@ ms.locfileid: "52551103"
 | ID | WA200001827 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Tryane |
-| 合作夥伴網站的 URL | [https://tryane.com/en/produit/tat/](https://tryane.com/en/produit/tat/) |
-| 隱私權原則的 URL | [https://tryane.com/tryane-analytics/privacy_policy.html](https://tryane.com/tryane-analytics/privacy_policy.html) |
-| 使用條款的 URL | [https://tryane.com/tryane-analytics/terms_of_use.html](https://tryane.com/tryane-analytics/terms_of_use.html) |
+| 合作夥伴網站的 URL | [https://www.tryane.com](https://www.tryane.com) |
+| 隱私權原則的 URL | [https://analytics.tryane.com/docs/en/privacy_policy.html](https://analytics.tryane.com/docs/en/privacy_policy.html) |
+| 使用條款的 URL | [https://analytics.tryane.com/docs/en/terms_of_use.html](https://analytics.tryane.com/docs/en/terms_of_use.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hibob 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f2eae876022c6213b5f39532f44de4c127c3655e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6b35068bec11d40cf7cf1c21a77f12f526bc35ce
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553094"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283037"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -36,9 +36,9 @@ Hibob Inc. 所提供的資訊給 Microsoft：
 | ID | WA200000765 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Hibob Inc. |
-| 合作夥伴網站的 URL | [https://www.hibob.com/](https://www.hibob.com/) |
-| 隱私權原則的 URL | [https://www.hibob.com/privacy-policy](https://www.hibob.com/privacy-policy) |
-| 使用條款的 URL | [https://www.hibob.com/terms-and-conditions](https://www.hibob.com/terms-and-conditions) |
+| 合作夥伴網站的 URL | [https://www.hibob.com](https://www.hibob.com) |
+| 隱私權原則的 URL | [https://www.hibob.com/privacy-policy/](https://www.hibob.com/privacy-policy/) |
+| 使用條款的 URL | [https://www.hibob.com/terms-and-conditions/](https://www.hibob.com/terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,17 +2,17 @@
 title: Microsoft Outlook 的應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/21/2021
+ms.date: 07/02/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: bf0efa79460f5c5d794f1b300af9ff6af98dd2b7
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 00e8b55b4cb0767405adc0bab02a084256df0418
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629625"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53265769"
 ---
 # <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook 的應用程式安全性和合規性
 
@@ -24,6 +24,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Altru 影片](./altru-videos.md) | Altru | **✓** |  |
 | [核准的連絡人行事曆](./approved-contact-calendars.md) | 已核准的連絡人 | **✓** |  |
 | [Outlook 的 Asana](./asana-for-outlook.md) | Asana | **✓** |  |
+| [CI-簽名](./ci-solution-gmbh-signature.md) | ci 解決方案 GmbH | **✓** |  |
 | [Outlook 的 harmon.ie](./harmonie-corporation-for-outlook.md) | harmon.ie Corporation | **✓** |  |
 | [Zoho 發票的發票和時間追蹤](./zoho-corporation-private-limited-invoice-and-time-tracking.md) | Zoho Corporation Private Limited | **✓** |  |
 | [iPlanner Office 365 Planner 增益集 Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

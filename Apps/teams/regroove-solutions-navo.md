@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Navo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ef2c71df0559a5a3db4612df5acf86835efe1a71
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 11346ff15831615ac6b617d8d14f83f38c7de0a5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553934"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283107"
 ---
 # <a name="navo"></a>Navo
 
@@ -36,7 +36,7 @@ Regroove 解決方案所提供的資訊給 Microsoft：
 | ID | WA200001047 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Regroove Solutions |
-| 合作夥伴網站的 URL | [https://getnavo.com](https://getnavo.com) |
+| 合作夥伴網站的 URL | [https://regroove.ca ; https://getnavo.com](https://regroove.ca ; https://getnavo.com) |
 | 隱私權原則的 URL | [https://getnavo.com/privacy-policy/](https://getnavo.com/privacy-policy/) |
 | 使用條款的 URL | [https://getnavo.com/terms-of-service/](https://getnavo.com/terms-of-service/) |
 
@@ -79,13 +79,13 @@ Regroove 解決方案所提供的資訊給 Microsoft：
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->是的，在 Application Insights 中，我們會將使用者驗證識別碼和使用者帳戶識別碼 (租用識別碼) 中。
+>是的，在應用程式 Insights 中，我們會將使用者驗證識別碼和使用者帳戶識別碼 (租用識別碼) 中。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->所有資料都是以您自己的 (，而不是透過類似或 Application Insights) 等服務儲存在 Azure Cosmos 資料庫中。 所有系統管理員都使用2FA，且存取權僅限於我們員工的子集。
+>所有的資料都是以「類似」或「應用程式」 Insights 等服務儲存 (，) 儲存在 Azure Cosmos 資料庫中。 所有系統管理員都使用2FA，且存取權僅限於我們員工的子集。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 

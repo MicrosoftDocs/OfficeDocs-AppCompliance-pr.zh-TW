@@ -2,24 +2,24 @@
 title: 使用 Jira 向前移動工作所需的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 06/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，可在 Jira 中向前移動工作、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5ca2ec25650abba3f68a2ec543434c56d3c3d27
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2f0f51e841a3b22c1fe1670defe99948cc99f5a3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852038"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282957"
 ---
-# <a name="move-work-forward-with-jira"></a>使用 Jira 向前移動工作
+# <a name="move-work-forward-with-jira"></a>使用 Jira 推展工作進度
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新：2021年5月5日</p>
+<p>上次於開發人員的更新日期：2021年6月10日</p>
 
 * <a href="https://teams.microsoft.com/l/app/79ca2e8f-dd2c-40d5-897e-1b22d41038fe" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002855" target="_blank">在 AppSource 中查看</a>
@@ -32,10 +32,10 @@ ms.locfileid: "52852038"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 使用 Jira 向前移動工作 |
+| 應用程式名稱 | 使用 Jira 推展工作進度 |
 | ID | WA200002855 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 向前移動工作 |
+| 合作夥伴公司名稱 | 推展工作進度 |
 | 合作夥伴網站的 URL | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
 | 隱私權原則的 URL | [https://www.moveworkforward.com/privacy-policy](https://www.moveworkforward.com/privacy-policy) |
@@ -55,7 +55,7 @@ ms.locfileid: "52852038"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| 通道。建立 | 委託 | 用於建立問題討論通道。 | 新建立之通道的 web url 會儲存在 Jira 中，以供快速存取 Microsoft Teams 討論通道。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
 >| ReadBasic | 委託 | 通道名稱和 id 是用來將 Jira 中的通知傳送至 Microsoft Teams。 | 通道識別碼及名稱是儲存來設定從 Jira 到 Microsoft Teams 的通知。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |

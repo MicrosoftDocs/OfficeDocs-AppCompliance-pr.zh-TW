@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LuckyDraw 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5ba1afff33ce27c6f520b34f73423c734c8859ec
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 24990484921465f2ad6a761efd6b3f3686344cc7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551263"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283397"
 ---
 # <a name="luckydraw"></a>LuckyDraw
 
@@ -36,7 +36,7 @@ ms.locfileid: "52551263"
 | ID | WA200000091 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Tony Xia |
-| 合作夥伴網站的 URL | [https://luckydraw.teetee365.com](https://luckydraw.teetee365.com) |
+| 合作夥伴網站的 URL | [https://luckydraw.teetee365.com/](https://luckydraw.teetee365.com/) |
 | Teams 應用程式資訊頁面的 URL | [https://luckydraw4web4prd.z7.web.core.windows.net/](https://luckydraw4web4prd.z7.web.core.windows.net/) |
 | 隱私權原則的 URL | [https://luckydraw.teetee365.com/privacy](https://luckydraw.teetee365.com/privacy) |
 | 使用條款的 URL | [https://luckydraw.teetee365.com/terms](https://luckydraw.teetee365.com/terms) |
@@ -77,7 +77,7 @@ ms.locfileid: "52551263"
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->在某些情況下會記錄 EUII。 例如，使用者開始幸運的平局活動。 應用程式使用的 Azure Application Insights 的資料保留是預設的90天。
+>在某些情況下會記錄 EUII。 例如，使用者開始幸運的平局活動。 應用程式使用的 Azure 應用程式 Insights，其資料保留值為預設的90天。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

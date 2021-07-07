@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Asana Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cd3d403d7b25c1ad5dda60dff8d93c18dfe59c30
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 631e8ea5e7265566b1c8332987ea31f9d5ec41bc
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553744"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282907"
 ---
 # <a name="asana-for-outlook"></a>Outlook 的 Asana
 
@@ -33,11 +33,11 @@ ms.locfileid: "52553744"
 |:----------------|:-------------|
 | 應用程式名稱 | Outlook 的 Asana |
 | ID | WA104381833 |
-| 支援 Office 365 用戶端 | Outlook 2016 或更新版本的 Mac 上的 Windows、Outlook 2016 或更新版本 Outlook 網頁上的 |
+| 支援 Office 365 用戶端 | Windows、Outlook 2016 或更新版本的 Mac Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | Asana |
-| 合作夥伴網站的 URL | [https://asana.com/](https://asana.com/) |
+| 合作夥伴網站的 URL | [https://asana.com](https://asana.com) |
 | 隱私權原則的 URL | [https://asana.com/terms#privacy-policy](https://asana.com/terms#privacy-policy) |
-| 使用條款的 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp; omkt = en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 使用條款的 URL | [https://asana.com/terms#terms-of-service](https://asana.com/terms#terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

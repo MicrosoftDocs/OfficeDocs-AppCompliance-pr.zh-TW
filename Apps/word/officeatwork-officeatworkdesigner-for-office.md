@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊Office 的設計者，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2df5ab4f69bd416e1c671818abda805b3e1350d3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 75a181280e13843471a66597f992c536c61534f8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552624"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283457"
 ---
 # <a name="officeatwork--designer-for-office"></a>officeatwork |Office 的設計工具
 
@@ -34,7 +34,7 @@ ms.locfileid: "52552624"
 | ID | WA104380518 |
 | 支援 Office 365 用戶端 | Word 2016 或更新版本的 Mac、Word 網頁版、Word 2016 或更新版本 Windows 上的 Word iPad |
 | 合作夥伴公司名稱 | officeatwork |
-| 合作夥伴網站的 URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| 合作夥伴網站的 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 隱私權原則的 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 使用條款的 URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，套件通告程式、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 32a5d38cf65162adfcf236d955d881b77cba0ec7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 76f042a43f4a14b7ee1de71a9bb70a5e646413d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552814"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283127"
 ---
 # <a name="package-notifier"></a>Package 通知程式
 
@@ -36,8 +36,7 @@ QBURST 技術 PVT 有限公司提供給 Microsoft 的資訊：
 | ID | WA200002737 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | QBURST TECHNOLOGIES PVT LTD |
-| 合作夥伴網站的 URL | [https://package-notifier.qburst.in](https://package-notifier.qburst.in) |
-| Teams 應用程式資訊頁面的 URL | [不適用](N/A) |
+| 合作夥伴網站的 URL | [https://www.qburst.in](https://www.qburst.in) |
 | 隱私權原則的 URL | [https://package-notifier.qburst.in/privacy-policy.html](https://package-notifier.qburst.in/privacy-policy.html) |
 | 使用條款的 URL | [https://package-notifier.qburst.in/terms-and-conditions.html](https://package-notifier.qburst.in/terms-and-conditions.html) |
 

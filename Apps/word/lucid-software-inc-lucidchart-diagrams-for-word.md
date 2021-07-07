@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lucidchart 圖表的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4e7e4bd31854f3861d60e8c740c39a11edc5bb5f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 460fc988ffcbd1da237838616910f6c5b6383ee5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552634"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283467"
 ---
 # <a name="lucidchart-diagrams-for-word"></a>Word 的 Lucidchart 圖表
 
@@ -35,7 +35,7 @@ Lucid 軟體 Inc. 所提供的資訊給 Microsoft：
 | ID | WA104380118 |
 | 支援 Office 365 用戶端 | Word 2016 或更新版本的 Mac、Word 2013 或更新版本 Windows，Word 網頁版 |
 | 合作夥伴公司名稱 | Lucid 軟體 Inc。 |
-| 合作夥伴網站的 URL | [https://www.lucidchart.com/](https://www.lucidchart.com/) |
+| 合作夥伴網站的 URL | [https://www.lucidchart.com](https://www.lucidchart.com) |
 | 隱私權原則的 URL | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
 | 使用條款的 URL | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 

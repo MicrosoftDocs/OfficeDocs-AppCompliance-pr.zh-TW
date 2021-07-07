@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sailpoint 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: befd216c19352c4b812703fe7d59d2c3fd3fd7d7
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: bcde5fdd363b217adabcdfd91074dedfcbe73b88
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52790032"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283077"
 ---
 # <a name="sailpoint"></a>Sailpoint
 
@@ -35,8 +35,8 @@ SailPoint 技術（Inc.）所提供的資訊給 Microsoft：
 | 應用程式名稱 | Sailpoint |
 | ID | WA200002761 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | SailPoint 技術，Inc.。 |
-| 合作夥伴網站的 URL | [sailpoint.com](sailpoint.com) |
+| 合作夥伴公司名稱 | SailPoint Technologies， Inc. |
+| 合作夥伴網站的 URL | [https://sailpoint.com](https://sailpoint.com) |
 | 隱私權原則的 URL | [https://www.sailpoint.com/legal/privacy/](https://www.sailpoint.com/legal/privacy/) |
 | 使用條款的 URL | [https://www.sailpoint.com/legal/customer-agreements/](https://www.sailpoint.com/legal/customer-agreements/) |
 
