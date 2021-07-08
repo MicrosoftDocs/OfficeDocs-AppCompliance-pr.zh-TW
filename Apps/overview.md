@@ -7,12 +7,12 @@ keywords: Microsoft 365 m365 應用程式發行者證明憑證
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: fd06ecd028876a862fa3938253817fae3ff0fea0
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: c644414281f46696ff49f3b9eb1341f02e96f0ba
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053437"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315113"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 應用程式合規性程式
 
@@ -36,7 +36,7 @@ Microsoft 365 應用程式合規性程式透過三層漸進式方法來實現應
 
 [發行者證明](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-attestation-guide)為開發人員提供一個地方，讓他們分享有關其應用程式服務的一般資訊、資料處理及安全性和合規性資訊。 這減少了 IT 管理員直接與應用程式發行者合作的需求。 可以在同一個地方以一致的格式找到所有完成發行者證明的應用程式，還有做出明智決定所需的所有資訊。 目標是使其更容易並加快應用程式採用的流程，同時確保客戶在他們的租用戶中使用的應用程式符合其組織標準。
 
-發行者證明適用於與以下 Microsoft 平台整合的應用程式：
+發行者證明適用於 WebApps，以及與下列 Microsoft 產品整合的所有應用程式:
 -   Teams
 -   Word
 -   Excel
@@ -45,7 +45,6 @@ Microsoft 365 應用程式合規性程式透過三層漸進式方法來實現應
 - SharePoint
 - Project
 - OneNote
-- Web App
 
 > [!IMPORTANT]
 > Microsoft 不會驗證提供的資訊。開發人員僅會確認證明文件和相應應用程式效能資料的真實性、準確性和完整性。 

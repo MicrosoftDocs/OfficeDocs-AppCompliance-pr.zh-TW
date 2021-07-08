@@ -6,12 +6,12 @@ description: Publisher 認證計畫的詳細資訊
 keywords: 應用程式認證憑證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4d5284beb199cc1c5a77bd6091bbc04428b545bd
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: abedb09bc280c0b643f037324178aa854f2f117f
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053427"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315103"
 ---
 # <a name="complete-publisher-attestation"></a>完成 Publisher 證明
 
@@ -19,6 +19,16 @@ Publisher證明是一個自願的計畫，您可以在其中完成應用程式�
 
 > [!IMPORTANT]
 > Microsoft 不會驗證所提供的資訊。 開發人員完全負責自我評估中提供的資訊。 
+
+**Publisher認證適用于 WebApps，以及與下列 Microsoft 產品整合的所有應用程式：**
+- Teams
+- Word
+- Excel
+- PowerPoint 
+- Outlook
+- SharePoint
+- Project
+- OneNote
 
 
 ## <a name="program-benefits"></a>方案優點
@@ -28,17 +38,7 @@ Publisher證明是一個自願的計畫，您可以在其中完成應用程式�
 - 存放區中其他應用程式的區別。 
 - 從 AppSource 中的專案，連結至您的 [檔] 頁面，位於 Teams 系統管理中心和 Microsoft 系統管理中心。 
 - 資格以開始 Microsoft 365 憑證。
-
-## <a name="publisher-attestation-applies-to-apps-that-integrate-with"></a>Publisher認證適用于與整合的應用程式：
-- Teams
-- Word
-- Excel
-- PowerPoint 
-- Outlook
-- SharePoint
-- Project
-- OneNote
-- Web 應用程式
+ 
 
 ## <a name="publisher-attestation-process"></a>Publisher證明處理常式
 

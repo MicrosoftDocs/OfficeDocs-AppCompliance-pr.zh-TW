@@ -6,12 +6,12 @@ description: Microsoft 365認證詳細資料一覽表
 keywords: 應用程式認證證明 Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4c4f5b3ab20038eb1d21e9bf24d60d64fa6a02d9
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: e5696890f532589ae4fbec08aaf9f5be7b2e4590
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053457"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315093"
 ---
 # <a name="complete-microsoft-365-certification"></a>完成 Microsoft 365 認證
 
@@ -34,6 +34,9 @@ Microsoft 365 認證需要評估您的安全性和合規性程式及程式。 �
 1. 流覽至 [合作夥伴中心]，並複查您已完成的[Publisher 證明]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation)檔。 如有必要，您可以編輯和更新您的回應;不過，如果您這麼做，您將需要重新提交證明檔以供核准。 如果您提交的時間超過三個月，我們將會要求您重新提交 Publisher 認證，以供複查和驗證。 
 1. 請仔細閱讀[Microsoft 365 的認證提交指南](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)，以瞭解您將需要的專案。 確定您能夠履行 Microsoft 365 認證提交指南中所指定的[控制需求]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria)。
 1. 在 [合作夥伴中心] 中，按一下 [開始認證]。 這會讓您進入初始檔提交入口網站。 提交您的 [初始檔提交](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission)。 這可協助我們根據您的應用程式的設計方式及處理客戶資料的方式，判斷評估的範圍。 請經常檢查此頁面，查看是否已接受您的提交。
+
+>[!NOTE]
+>針對所有 office 應用程式，您可以參考《 [Office app 使用者指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 對於所有 WebApps，您可以參照我們的 [SaaS App 使用者指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)。
 
 ### <a name="assessment"></a>評估
 1. 您的初始檔提交一經接受，您的應用程式所需的安全性控制組將會自動顯示在入口網站中。 接著，您必須為每個控制項提交證據，以示範該控制項已就地。 請記住，您會在提交所有的證據時，提供 **60 天** 的時間。 分析員會檢查您的證據，並核准該控制項或要求新的或其他的證據。 請經常檢查此頁面，查看是否已接受您的證據。
