@@ -2,17 +2,17 @@
 title: Microsoft Teams App 安全性與合規性 - 所有 Apps
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 52d1f9ed3b066d4df0fa51d230b7967ea3d81bb3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3aff0e5fd1a550d3b0a786711bb1e82ff895a5cd
+ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283247"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339783"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Microsoft Teams App 安全性與合規性
 
@@ -56,6 +56,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | ci solution GmbH | **✓** |  |
 | [Cisco Webex 會議](./cisco-webex-meetings.md) | Cisco Webex 會議 | **✓** |  |
 | [Clever 廣告](./clever-ads.md) | Clever 廣告 | **✓** |  |
+| [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Cloverpop](./cloverpop.md) | Cloverpop | **✓** |  |
 | [COCO](./hexaware-technologies-ltd-coco.md) | Hexaware Technologies Ltd. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Complish](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |

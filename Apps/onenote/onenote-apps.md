@@ -2,17 +2,17 @@
 title: Microsoft OneNote應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft OneNote 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 164a506a9d202a1c6af917e0bdc3575b807ce3ad
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 0303adc7cf8b30f5e0445f2e1ce4592beb777d77
+ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281655"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53341149"
 ---
 # <a name="microsoft-onenote-app-security-and-compliance"></a>Microsoft OneNote應用程式安全性和合規性
 
@@ -21,4 +21,5 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |
 | [Office 的 Wunder365](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi 技術私人有限 | **✓** |  |

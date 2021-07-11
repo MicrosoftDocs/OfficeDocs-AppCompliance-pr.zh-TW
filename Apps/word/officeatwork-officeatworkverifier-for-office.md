@@ -2,23 +2,23 @@
 title: Officeatwork 的應用程式資訊 |officeatwork Office 的驗證程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊驗證程式的 Office，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d81238e4adfaf59a4a0d2e4c12e1a12dbc620377
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1b6a88ced5c394cc5ccbb801463edd418fae24e0
+ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283257"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53366185"
 ---
 # <a name="officeatwork--verifier-for-office"></a>officeatwork |Office 的驗證程式
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>上次於開發人員更新：2020年12月8日</p>
+<p>上次於開發人員的更新日期：2021年6月23日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200000133" target="_blank">在 AppSource 中查看</a>
 

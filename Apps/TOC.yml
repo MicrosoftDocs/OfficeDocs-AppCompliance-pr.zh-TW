@@ -126,6 +126,8 @@
           href: powerpoint/iglobe-office2sharepoint-for-office.md
         - name: officeatwork |Office 的內容選擇器
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |Office 的投影片選擇
+          href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
         - name: officeatwork |Office 的範本選擇器
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: SlideHub
@@ -223,12 +225,14 @@
           href: teams/biz-effective-centrical.md
         - name: ChurnZero
           href: teams/churnzero.md
-        - name: CI Office 的精簡功能
+        - name: CI-Out-of-Office Lite
           href: teams/ci-solution-gmbh-out-of-office-lite.md
         - name: Cisco Webex 會議
           href: teams/cisco-webex-meetings.md
         - name: Clever 廣告
           href: teams/clever-ads.md
+        - name: ClipTraining
+          href: teams/cliptraining.md
         - name: Cloverpop
           href: teams/cloverpop.md
         - name: COCO
@@ -237,7 +241,7 @@
           href: teams/cauzey-pty-ltd-complish.md
         - name: 會議 i/O
           href: teams/conferences-io.md
-        - name: 連線 +
+        - name: Connect+
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
@@ -349,7 +353,7 @@
           href: teams/lucid-software-lucidspark.md
         - name: LuckyDraw
           href: teams/tony-xia-luckydraw.md
-        - name: 由 SMART Lumio
+        - name: SMART 的 Lumio
           href: teams/smart-technologies-ulc-lumio-by.md
         - name: MailClark
           href: teams/mailclark.md
@@ -527,7 +531,7 @@
           href: teams/talview-inc-interviews.md
         - name: TaskList
           href: teams/limestat-inc-tasklist.md
-        - name: TeaMe 健康情況檢查 Bot
+        - name: TeaMe Health Check Bot
           href: teams/missing-teame-health-check-bot.md
         - name: TeamGether
           href: teams/effency-teamgether.md
@@ -635,6 +639,8 @@
           href: saas/officeatwork-designer.md
         - name: iGlobe Microsoft 365 的 CRM Office 365
           href: saas/iglobe-crm-office-365-for-microsoft.md
+        - name: 影像選擇器
+          href: saas/officeatwork-image-chooser.md
         - name: iPlanner Pro Office 365
           href: saas/iglobe-iplanner-pro-office-365.md
         - name: LMS365

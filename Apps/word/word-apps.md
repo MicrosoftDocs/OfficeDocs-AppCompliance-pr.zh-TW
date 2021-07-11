@@ -2,17 +2,17 @@
 title: Microsoft Word應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 50576f1b6eb0dd7d2d1f15545275e434d2d276db
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3658bee662951c7bb59ffe6f22558aece932841a
+ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283427"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53341189"
 ---
 # <a name="microsoft-word-app-security-and-compliance"></a>Microsoft Word應用程式安全性和合規性
 
@@ -27,6 +27,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的設計者 () 。 officeatwork-officeatworkdesigner-for-office.md | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |
 | [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的上載程式 (./officeatwork-officeatworkuploader-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的驗證程式 (。/officeatwork-officeatworkverifier-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
