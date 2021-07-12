@@ -43,6 +43,8 @@
           href: excel/iglobe-office2sharepoint-for-office.md
         - name: officeatwork |Office 的內容選擇器
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |Office 的圖像選擇器
+          href: excel/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork |Office 的範本選擇器
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: QuickCells 圖形
@@ -60,6 +62,8 @@
       items:
         - name: officeatwork |Office 的內容選擇器
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |Office 的圖像選擇器
+          href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
         - name: Office 的 Wunder365
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
     - name: Microsoft Outlook 應用程式
@@ -126,6 +130,8 @@
           href: powerpoint/iglobe-office2sharepoint-for-office.md
         - name: officeatwork |Office 的內容選擇器
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |Office 的圖像選擇器
+          href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork |Office 的投影片選擇
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
         - name: officeatwork |Office 的範本選擇器
@@ -616,6 +622,8 @@
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: officeatwork |Office 的設計工具
           href: word/officeatwork-officeatworkdesigner-for-office.md
+        - name: officeatwork |Office 的圖像選擇器
+          href: word/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork |Office 的範本選擇器
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: officeatwork |Office 的上載程式
@@ -653,6 +661,8 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
+        - name: 投影片選擇
+          href: saas/officeatwork-slide-chooser.md
         - name: 範本選擇程式
           href: saas/officeatwork-template-chooser.md
         - name: 範本選擇器瀏覽器
