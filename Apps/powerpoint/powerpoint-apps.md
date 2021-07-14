@@ -1,20 +1,20 @@
 ---
-title: Microsoft PowerPoint 的應用程式安全性和合規性-所有應用程式
+title: Microsoft PowerPoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/14/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft PowerPoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: ceb3e1a04b3e9dad963f86a09f41e8405357c945
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: 38dd48a4754c1ef71ecbe544b8d4e0f049398d9e
+ms.sourcegitcommit: 0098942ce316ab984e09fd9d2063cbc516c8bfb5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341179"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "53422704"
 ---
-# <a name="microsoft-powerpoint-app-security-and-compliance"></a>Microsoft PowerPoint 的應用程式安全性和合規性
+# <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint 應用程式安全性與合規性
 
 microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關 Microsoft PowerPoint 應用程式及其所使用增益集的決策。 此資訊會納入 [Microsoft 雲端 App 安全性](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 應用程式目錄 ，以及開發人員提交其應用程式時所提供的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
@@ -30,4 +30,3 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [officeatwork | 投影片選擇 Office] (。/officeatwork-officeatworkslide-chooser-for-office.md)  | officeatwork | **✓** |  |
 | [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SlideHub](./nomorehours-slidehub.md) | nomorehours | **✓** |  |
-| [Office 檔的 Wrike](./wrike-inc-for-office-documents.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
