@@ -2,24 +2,24 @@
 title: Q 的應用程式資訊 ModuleQ
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/17/2020
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Q 的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2bdf876ddb9ab17d9fa8616edda8b849e0d85df7
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 3444110a1d98a1a9a1157c21e76774373782b8c2
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281746"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456581"
 ---
 # <a name="q"></a>Q
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2020年3月17日</p>
+<p>上次於開發人員的更新日期：2021年7月8日</p>
 
 * <a href="https://teams.microsoft.com/l/app/72bb25c7-3644-4318-8249-a08e5493a520" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381433" target="_blank">在 AppSource 中查看</a>
@@ -37,7 +37,8 @@ ms.locfileid: "53281746"
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | ModuleQ |
 | 合作夥伴網站的 URL | [https://moduleq.com](https://moduleq.com) |
-| 隱私權原則的 URL | [https://moduleq.com/privacy-policy](https://moduleq.com/privacy-policy) |
+| Teams 應用程式資訊頁面的 URL | [https://moduleq.com/product](https://moduleq.com/product) |
+| 隱私權原則的 URL | [https://moduleq.com/privacy-policy/](https://moduleq.com/privacy-policy/) |
 | 使用條款的 URL | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -110,3 +111,29 @@ ms.locfileid: "53281746"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+ModuleQ 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
+| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
+| 您的應用程式是否支援多租賃？ | 是 |
+| 您的應用程式有機密用戶端嗎？ | 否 |
+| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/><br/> |
+| 您的應用程式是否公開任何 web APIs？ | 是 |
+| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

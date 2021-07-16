@@ -2,24 +2,24 @@
 title: 以平方方式連線的版塊應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/16/2021
+ms.date: 07/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有適用于主機板連線的安全性和合規性資訊資訊，以及其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3b7e2eb64055713e06f927882aa7bbf56cf62991
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7c67ece1e55b265152c8a7664b8f714926d9caff
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281892"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456597"
 ---
 # <a name="board-connect"></a>版面連結
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新：2021年2月16日</p>
+<p>開發人員上次更新：2021年7月5日</p>
 
 * <a href="https://teams.microsoft.com/l/app/e8f06a4e-cefe-4b1e-a24b-c97bea471130" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001955" target="_blank">在 AppSource 中查看</a>
