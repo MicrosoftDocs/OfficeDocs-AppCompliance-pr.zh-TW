@@ -6,12 +6,12 @@ description: Publisher 認證計畫的詳細資訊
 keywords: 應用程式認證憑證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: abedb09bc280c0b643f037324178aa854f2f117f
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 1d3652bb2f0eab3f1f533ce4acf3d13104843eea
+ms.sourcegitcommit: 98b9f17063c7ada0890b37af405990ad5eedd0b9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315103"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53466023"
 ---
 # <a name="complete-publisher-attestation"></a>完成 Publisher 證明
 
@@ -20,7 +20,7 @@ Publisher證明是一個自願的計畫，您可以在其中完成應用程式�
 > [!IMPORTANT]
 > Microsoft 不會驗證所提供的資訊。 開發人員完全負責自我評估中提供的資訊。 
 
-**Publisher認證適用于 WebApps，以及與下列 Microsoft 產品整合的所有應用程式：**
+**Publisher認證會套用至 Web 應用程式 (SaaS 透過合作夥伴中心的商業市場發佈的應用程式) ，以及與下列 Microsoft 產品整合的所有應用程式：**
 - Teams
 - Word
 - Excel
@@ -36,13 +36,13 @@ Publisher證明是一個自願的計畫，您可以在其中完成應用程式�
 - 加速企業組織的安全性與規範內部考核時程表。
 - 增加透明度。
 - 存放區中其他應用程式的區別。 
-- 從 AppSource 中的專案，連結至您的 [檔] 頁面，位於 Teams 系統管理中心和 Microsoft 系統管理中心。 
+- 從 AppSource、Teams 系統管理中心、Microsoft 系統管理中心及 Teams 存放區中的專案，連結至 [檔] 頁面。 
 - 資格以開始 Microsoft 365 憑證。
  
 
 ## <a name="publisher-attestation-process"></a>Publisher證明處理常式
 
-1. **請** 參與-Publisher 證明現在已在夥伴中心內整合。 您可以在夥伴中心內的方便使用問卷中完成證明。 如需逐步程式，請參閱我們的 [使用者指南](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) 。
+1. **請** 參與-Publisher 證明現在已在 [夥伴中心](https://partner.microsoft.com)內整合。 您可以在夥伴中心內的方便使用問卷中完成證明。 如需逐步程式，請參閱我們的[Office 存放區](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)和[商業市場](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)使用者指南。
 
 2. 等候 **評審意見反應和結果**：在一致性檢查檢查期間，如果分析員發現封鎖問題（如回應資料不足），系統就會聯繫您尋求進一步資訊。 分析員會維護一份應用程式活動記錄檔，詳述評審結果和您在整個程式中追蹤追蹤的報送。 一旦確定您的證明報告已完成且您可以接受回應，您的提交將會受到核准。 您的核准狀態會從提交時一年內有效。
 
