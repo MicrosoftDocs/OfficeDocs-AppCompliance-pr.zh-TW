@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Bonusly 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 15448c84e8702cef69ed94ff69dba5343b7e2443
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 254237e2b21f4805eb059be373b184672cf7f853
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553294"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522049"
 ---
 # <a name="bonusly"></a>額外獎勵
 
@@ -69,7 +69,7 @@ ms.locfileid: "52553294"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 我們會存取使用者電子郵件，以找出系統中相關聯的使用者。 | 使用者電子郵件會儲存在我們的系統中，但不會從 Teams 進入系統。 |  |
 
 

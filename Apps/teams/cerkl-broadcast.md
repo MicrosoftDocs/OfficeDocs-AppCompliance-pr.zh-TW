@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于廣播的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8037cdbb77a41979e369ec79decbaac8e6c6cae5
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: ab386fe99e96bbe2dae26d2045c8d46447d35fd5
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852069"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522036"
 ---
 # <a name="broadcast"></a>廣播
 
@@ -55,9 +55,9 @@ ms.locfileid: "52852069"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 會收集使用者的電子郵件並加以使用，以查看使用者目前是否在我們的系統中，以及是否已由組織新增。 | 應用程式不會儲存從 Microsoft Graph API 中檢索的任何資料。 | 74ef25ab-3685-446c-aa43-4e9cc251ed62 |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 會收集使用者的電子郵件並加以使用，以查看使用者目前是否在我們的系統中，以及是否已由組織新增。 | 應用程式不會儲存從 Microsoft Graph API 中檢索的任何資料。 | [74ef25ab-3685-446c-aa43-4e9cc251ed62](https://docs.microsoft.com/microsoft-365-app-certification/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的幻燈選擇功能安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2f0ce4658affc712691c0a90327cbe6301995849
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: d9cb99daeedbe4060e43eff715b0e9b82617f20e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341214"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522266"
 ---
 # <a name="slide-chooser"></a>投影片選擇
 
@@ -53,24 +53,24 @@ ms.locfileid: "53341214"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 委託 | 不儲存任何資料。 | 「我的我的最愛」：能夠在 OneDrive 的使用者中讀取及寫入資料。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| Files.ReadWrite.All | 委託 | 不儲存任何資料。 | OneDrive：能夠在使用者 OneDrive 中讀取及寫入資料。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| Group.ReadWrite.All | 委託 | 不儲存任何資料。 | Teams：能夠讀取及寫入群組中的資料。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| GroupMember Read。 All | 委託 | 不儲存任何資料。 | SharePoint線上-安全性群組支援：允許此應用程式列出群組、讀取基本群組內容，以及讀取已登入使用者可存取的所有群組的成員資格。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| Sites.Read.All | 委託 | 不儲存任何資料。 | SharePoint線上：啟用從 SharePoint 線上讀取資料。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| User.Read | 委託 | 不儲存任何資料。 | 共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| User.Read.All | 委託 | 不儲存任何資料。 | Teams：找出使用者所屬的群組。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 委託 | 不儲存任何資料。 | 「我的我的最愛」：能夠在 OneDrive 的使用者中讀取及寫入資料。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| Files.ReadWrite.All | 委託 | 不儲存任何資料。 | OneDrive：能夠在使用者 OneDrive 中讀取及寫入資料。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| Group.ReadWrite.All | 委託 | 不儲存任何資料。 | Teams：能夠讀取及寫入群組中的資料。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| GroupMember Read。 All | 委託 | 不儲存任何資料。 | SharePoint線上-安全性群組支援：允許此應用程式列出群組、讀取基本群組內容，以及讀取已登入使用者可存取的所有群組的成員資格。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| Sites.Read.All | 委託 | 不儲存任何資料。 | SharePoint線上：啟用從 SharePoint 線上讀取資料。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| User.Read | 委託 | 不儲存任何資料。 | 共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| User.Read.All | 委託 | 不儲存任何資料。 | Teams：找出使用者所屬的群組。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePointREST APIs | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

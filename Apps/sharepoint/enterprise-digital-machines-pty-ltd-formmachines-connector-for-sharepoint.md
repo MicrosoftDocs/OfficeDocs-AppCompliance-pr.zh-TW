@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: FormMachines 連接器的所有可用安全性和符合性資訊資訊 SharePoint，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f550b89335a7ce75d23d01728478e121f10c6fd3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 56c08c242cb3822ebaea854026fb3f758768b7bf
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282483"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522221"
 ---
 # <a name="formmachines-connector-for-sharepoint"></a>SharePoint 的 FormMachines 連接器
 
@@ -54,8 +54,8 @@ ms.locfileid: "53282483"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 |  (登入、電子郵件、Azure Guid、displayName、first_login_date_time)  | 允許使用者登入並提供其 UPN 的應用程式存取權以啟用無訊息登入，讓我們能夠唯一識別每個使用者 | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 |  (登入、電子郵件、Azure Guid、displayName、first_login_date_time)  | 允許使用者登入並提供其 UPN 的應用程式存取權以啟用無訊息登入，讓我們能夠唯一識別每個使用者 | [8c87660f-d36f-41f6-b0ae-025253f380aa](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c87660f-d36f-41f6-b0ae-025253f380aa) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

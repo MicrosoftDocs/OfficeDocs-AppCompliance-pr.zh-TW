@@ -2,24 +2,24 @@
 title: AskR.ai 的應用程式資訊（按 askR.ai）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/15/2020
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: askR.ai 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e88abce5e865bdd3a09d4593b882070c013bbc93
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8ecda13d28bf8ca0647e42272008619e50aec89d
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281415"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522136"
 ---
 # <a name="askrai"></a>askR.ai
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2020月15日</p>
+<p>開發人員上次更新日期：2021年7月22日</p>
 
 * <a href="https://teams.microsoft.com/l/app/1f36eaf6-30a3-4488-a73f-4754b91e865d" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001583" target="_blank">在 AppSource 中查看</a>
@@ -122,6 +122,7 @@ AskR.ai 此資訊的提供方式是關於此應用程式如何處理驗證、授
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 是 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/> |
 | 您的應用程式是否公開任何 web APIs？ | 否 |
 | 您的應用程式是否使用預覽 APIs？ | 否 |
 | 您的應用程式使用的 APIs 是否已遭取代？ | 否 |

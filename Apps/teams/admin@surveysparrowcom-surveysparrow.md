@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SurveySparrow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ecf3c017f507dc0198042d45c11a393c1f1a2e8b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f27230d2cd0535b5828bff6eaa4e58eb03bf29e4
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552434"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522156"
 ---
 # <a name="surveysparrow"></a>SurveySparrow
 
@@ -69,7 +69,7 @@ ms.locfileid: "52552434"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 我們存取 PII 以取得電子郵件識別碼，以確認使用者在 SurveySparrow 中具有帳戶。 | 否 |  |
 
 
