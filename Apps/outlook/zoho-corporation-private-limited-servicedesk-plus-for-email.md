@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus 的所有可用安全性和符合性資訊資訊，以及電子郵件、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 759c59f93daa664dcc6b5b0b230a4b0fedfbf140
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 39ee4450c2545d1cc891464d7946cde4c4c3b53a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282387"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527859"
 ---
 # <a name="servicedesk-plus-for-email"></a>電子郵件的 ServiceDesk Plus
 
@@ -54,16 +54,16 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 應用程式 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 已讀取。選取 | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | 委託 | 使用者的電子郵件識別碼。 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無提示登入。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | 應用程式 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 委託 | 電子郵件識別碼、名稱、員工識別碼、職稱、電話、行動、網站、部門、地區設定、使用者的設定檔照片。 | 可讓您從 Azure Active Directory 匯入使用者的基本資訊。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 電子郵件 | 委託 | 使用者的電子郵件識別碼。 | View user 的電子郵件地址。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | 委託 |  | View user 的基本設定檔。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 應用程式 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 已讀取。選取 | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | 委託 | 使用者的電子郵件識別碼。 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無提示登入。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read.All | 應用程式 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 委託 | 電子郵件識別碼、名稱、員工識別碼、職稱、電話、行動、網站、部門、地區設定、使用者的設定檔照片。 | 可讓您從 Azure Active Directory 匯入使用者的基本資訊。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 電子郵件 | 委託 | 使用者的電子郵件識別碼。 | View user 的電子郵件地址。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | 委託 |  | View user 的基本設定檔。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

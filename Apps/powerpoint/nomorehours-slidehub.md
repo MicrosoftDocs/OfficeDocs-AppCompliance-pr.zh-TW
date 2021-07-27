@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SlideHub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 39e3c631cdcd79de9eab484749f45354b87ca0cf
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7eca7f35cb46db8450f6805c9e8a4c2503934dd6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282659"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527809"
 ---
 # <a name="slidehub"></a>SlideHub
 
@@ -54,8 +54,8 @@ ms.locfileid: "53282659"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 應用程式 | 電子郵件和名稱。 電子郵件會做為應用程式中的使用者名稱。 收集電子郵件可協助您更快速地註冊和登入應用程式。 名稱是用於註冊事件的情況。 | 電子郵件是用來啟用透過 Office 365 登入，並在某些情況下，註冊屬於組織的一部分，而這些使用者已已代表其所接受的條款。 | 33ccef75-8248-44e8-88d3-24526ca9c2d3 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 應用程式 | 電子郵件和名稱。 電子郵件會做為應用程式中的使用者名稱。 收集電子郵件可協助您更快速地註冊和登入應用程式。 名稱是用於註冊事件的情況。 | 電子郵件是用來啟用透過 Office 365 登入，並在某些情況下，註冊屬於組織的一部分，而這些使用者已已代表其所接受的條款。 | [33ccef75-8248-44e8-88d3-24526ca9c2d3](https://docs.microsoft.com/microsoft-365-app-certification/azure/33ccef75-8248-44e8-88d3-24526ca9c2d3) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

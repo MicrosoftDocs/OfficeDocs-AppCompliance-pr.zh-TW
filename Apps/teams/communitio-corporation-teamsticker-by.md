@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TeamSticker by Communitio 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 944fa2eaf8df347cf3ce1b96bad9cd8521dceed3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 871c410b520fc7b8697942a4921104329a239338
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281936"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521856"
 ---
 # <a name="teamsticker-by-communitio"></a>Communitio 的 TeamSticker
 
@@ -56,21 +56,21 @@ Communitio Corporation 已提供此資訊，讓您瞭解此應用程式如何收
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 聊天室 ReadWrite | 應用程式 |  因為應用程式會發佈到聊天。 | 應用程式不會儲存任何資料。 | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| Group.ReadWrite.All | 包括 | 應用程式收集群組識別碼和群組名稱。 | 應用程式會儲存群組識別碼和名稱一對。 | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| User.Read | 委託 | 應用程式會收集使用者的設定檔影像。 | 應用程式會儲存使用者的設定檔影像以顯示使用者圖示。 | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| User.Read.All | 包括 | Application 會收集使用者的 objectId/電子郵件/名稱，以尋找要傳送卡片的使用者。 | 在此情況下，應用程式不會儲存任何資料。 | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| offline_access | 委託 | Application 收集使用者的 api token 以使用 User。 Read/User. All in background。 | 應用程式會將使用者的 api 權杖儲存為使用使用者。讀取/使用者。讀取。所有的背景。 | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| openid | 委託 | 未收集任何資料。 | 應用程式會使用此許可權，透過 openid 登入。 | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| profile | 委託 | 應用程式會收集使用者的 objectId/電子郵件/名稱。 | 應用程式會儲存使用者的 objectId/電子郵件/名稱。 | bceca1f0-723f-44d0-b732-b3506c0a641d |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 聊天室 ReadWrite | 應用程式 |  因為應用程式會發佈到聊天。 | 應用程式不會儲存任何資料。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| Group.ReadWrite.All | 包括 | 應用程式收集群組識別碼和群組名稱。 | 應用程式會儲存群組識別碼和名稱一對。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| User.Read | 委託 | 應用程式會收集使用者的設定檔影像。 | 應用程式會儲存使用者的設定檔影像以顯示使用者圖示。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| User.Read.All | 包括 | Application 會收集使用者的 objectId/電子郵件/名稱，以尋找要傳送卡片的使用者。 | 在此情況下，應用程式不會儲存任何資料。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| offline_access | 委託 | Application 收集使用者的 api token 以使用 User。 Read/User. All in background。 | 應用程式會將使用者的 api 權杖儲存為使用使用者。讀取/使用者。讀取。所有的背景。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| openid | 委託 | 未收集任何資料。 | 應用程式會使用此許可權，透過 openid 登入。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| profile | 委託 | 應用程式會收集使用者的 objectId/電子郵件/名稱。 | 應用程式會儲存使用者的 objectId/電子郵件/名稱。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >|  Bot 架構 REST API | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -84,7 +84,7 @@ Communitio Corporation 已提供此資訊，讓您瞭解此應用程式如何收
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 因為具有使用者的許可權。請參閱 All。 | 否 |  |
 
 

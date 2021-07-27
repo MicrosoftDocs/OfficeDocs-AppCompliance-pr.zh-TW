@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊可取得，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 91729da78b1a031be38569bfd4e4168f2a96f83a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d188c61f6f87dbe528219d82f1b58477b184da8a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281776"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521460"
 ---
 # <a name="reach"></a>達到
 
@@ -56,12 +56,12 @@ ms.locfileid: "53281776"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsActivity 傳送 | 應用程式 | 無 | 無 | a7c1920d-3ac0-42db-9757-078a2b321fd8  |
->| User.Read | 委託 | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | d492530a-8cff-481c-90da-9c3c3f1be7da |
->| User.ReadBasic.All | 委託 | 使用者 DisplayName，使用者電子郵件地址，UPN，使用者部門，使用者職稱，使用者行動電話號碼，使用者商務電話號碼，使用者 Office 位置。 必要以允許使用者在應用程式 (中搜尋其他使用者) ，並查看其他使用者的基本設定檔和連絡人資訊。  | 無 | d492530a-8cff-481c-90da-9c3c3f1be7da |
->| Directory.Read.All | 應用程式 | 群組成員資格，目錄中的 AD 群組。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。 | 使用者的群組成員資格。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。  | d492530a-8cff-481c-90da-9c3c3f1be7da  |
->| User.Read.All | 應用程式 | 從使用者設定檔中檢索的資料，取決於應用程式中指定的物件目標功能設定。 需要讓應用程式在未登入的使用者中讀取使用者設定檔。 應用程式中的資訊設定目標功能需要讀取設定檔資料，因此會根據特定的配置檔案屬性值，向特定使用者顯示資訊。  | 無 | d492530a-8cff-481c-90da-9c3c3f1be7da  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsActivity 傳送 | 應用程式 | 無 | 無 | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8 ) |
+>| User.Read | 委託 | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
+>| User.ReadBasic.All | 委託 | 使用者 DisplayName，使用者電子郵件地址，UPN，使用者部門，使用者職稱，使用者行動電話號碼，使用者商務電話號碼，使用者 Office 位置。 必要以允許使用者在應用程式 (中搜尋其他使用者) ，並查看其他使用者的基本設定檔和連絡人資訊。  | 無 | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
+>| Directory.Read.All | 應用程式 | 群組成員資格，目錄中的 AD 群組。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。 | 使用者的群組成員資格。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |
+>| User.Read.All | 應用程式 | 從使用者設定檔中檢索的資料，取決於應用程式中指定的物件目標功能設定。 需要讓應用程式在未登入的使用者中讀取使用者設定檔。 應用程式中的資訊設定目標功能需要讀取設定檔資料，因此會根據特定的配置檔案屬性值，向特定使用者顯示資訊。  | 無 | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -69,7 +69,7 @@ ms.locfileid: "53281776"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| SendGrid, OneSignal | 電子郵件地址、顯示名稱 | 透過電子郵件和行動推播通知傳送通知給使用者 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

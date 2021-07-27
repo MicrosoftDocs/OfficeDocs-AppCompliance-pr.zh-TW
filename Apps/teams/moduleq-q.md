@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Q 的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3444110a1d98a1a9a1157c21e76774373782b8c2
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: a1a9995b6b723d7ed712f9a0fdbe9315ee53c7f0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456581"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521296"
 ---
 # <a name="q"></a>Q
 
@@ -56,12 +56,12 @@ ms.locfileid: "53456581"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 應用程式 | 儲存會議資料，但不包括郵件內文和任何附件 | 允許應用程式讀取使用者的行事曆事件，以便智慧瞭解使用者的業務優先順序。 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Group.Read.All | 委託 | 無 | 允許此應用程式在小組中互動以共用內容。 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Mail.Read | 應用程式 | 儲存電子郵件資料，但不包括郵件內文和任何附件 | 允許應用程式讀取使用者的郵件，以便智慧瞭解使用者的業務優先順序 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read | 委託 | 使用者電子郵件和驗證權杖 | 允許使用者使用 ModuleQ 帳戶登入及連結其 Office 365 帳戶 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read.All | 委託 | 無 | 允許此應用程式取得使用者所屬的 Teams 清單。 僅用於共用  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 應用程式 | 儲存會議資料，但不包括郵件內文和任何附件 | 允許應用程式讀取使用者的行事曆事件，以便智慧瞭解使用者的業務優先順序。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Group.Read.All | 委託 | 無 | 允許此應用程式在小組中互動以共用內容。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Mail.Read | 應用程式 | 儲存電子郵件資料，但不包括郵件內文和任何附件 | 允許應用程式讀取使用者的郵件，以便智慧瞭解使用者的業務優先順序 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| User.Read | 委託 | 使用者電子郵件和驗證權杖 | 允許使用者使用 ModuleQ 帳戶登入及連結其 Office 365 帳戶 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| User.Read.All | 委託 | 無 | 允許此應用程式取得使用者所屬的 Teams 清單。 僅用於共用  | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

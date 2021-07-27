@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，可在 Jira 中向前移動工作、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2f0f51e841a3b22c1fe1670defe99948cc99f5a3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7120519c2ecb0643465760677b2bef895b1e2f4d
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282957"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521273"
 ---
 # <a name="move-work-forward-with-jira"></a>使用 Jira 推展工作進度
 
@@ -56,13 +56,13 @@ ms.locfileid: "53282957"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 通道。建立 | 委託 | 用於建立問題討論通道。 | 新建立之通道的 web url 會儲存在 Jira 中，以供快速存取 Microsoft Teams 討論通道。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| ReadBasic | 委託 | 通道名稱和 id 是用來將 Jira 中的通知傳送至 Microsoft Teams。 | 通道識別碼及名稱是儲存來設定從 Jira 到 Microsoft Teams 的通知。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| ReadBasic | 委託 | 使用此許可權可讓使用者在 Jira 中選取這其中一個加入的團隊。 | 要在 Jira 的 [設定畫面] 中顯示的團隊識別碼和名稱。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| TeamsAppInstallation.ReadForTeam | 委託 | Teams 小組中的應用程式閱讀已安裝。 設定傳送至 Microsoft Teams 時，應用程式可以使用已安裝的 Bot 傳送至 Teams。 | 無 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| User.Read | 委託 | 可讓使用者建立與同事的討論通道，並在通道郵件中提及 @-提及 | 無 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| 電子郵件 | 委託 | 電子郵件是用來比對 Atlassian 和 Microsoft 使用者 | 不會儲存電子郵件。 僅在對應程式期間使用。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 通道。建立 | 委託 | 用於建立問題討論通道。 | 新建立之通道的 web url 會儲存在 Jira 中，以供快速存取 Microsoft Teams 討論通道。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| ReadBasic | 委託 | 通道名稱和 id 是用來將 Jira 中的通知傳送至 Microsoft Teams。 | 通道識別碼及名稱是儲存來設定從 Jira 到 Microsoft Teams 的通知。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| ReadBasic | 委託 | 使用此許可權可讓使用者在 Jira 中選取這其中一個加入的團隊。 | 要在 Jira 的 [設定畫面] 中顯示的團隊識別碼和名稱。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| TeamsAppInstallation.ReadForTeam | 委託 | Teams 小組中的應用程式閱讀已安裝。 設定傳送至 Microsoft Teams 時，應用程式可以使用已安裝的 Bot 傳送至 Teams。 | 無 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| User.Read | 委託 | 可讓使用者建立與同事的討論通道，並在通道郵件中提及 @-提及 | 無 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| 電子郵件 | 委託 | 電子郵件是用來比對 Atlassian 和 Microsoft 使用者 | 不會儲存電子郵件。 僅在對應程式期間使用。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -76,7 +76,7 @@ ms.locfileid: "53282957"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 安裝應用程式時以名稱 Greet 使用者。 符合 Microsoft Teams 和 Atlassian 使用者。 | 否 |  |
 
 

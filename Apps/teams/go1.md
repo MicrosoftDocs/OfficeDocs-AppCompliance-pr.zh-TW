@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Go1 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 39501f6cb09502287dcff26acab4d8720b5fb6a0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d6fa3c9d0ecf710724379da869fba4b0cec23f6a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281275"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521666"
 ---
 # <a name="go1"></a>Go1
 
@@ -55,10 +55,10 @@ ms.locfileid: "53281275"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 應用程式 | 應用程式不會儲存檔資料 | 允許使用者上傳和共用 onedrive 中的檔案 | c859de61-8a6b-42e6-ba88-f639df33bc72 |
->| Group.ReadWrite.All | 應用程式 | 為支援應用程式管理學習環境所儲存的 Teams 和通道名稱及唯一識別碼 | 允許應用程式在 Teams 環境中動態設定 Teams 及通道，以支援結構化的教學 | c859de61-8a6b-42e6-ba88-f639df33bc72 |
->| User.Read.All | 應用程式 | 儲存的使用者名稱和電子郵件和 UPN，可提供直接的個人 learner 經驗 | 允許使用簽署和支援在小組成員之間共用學習資源 | c859de61-8a6b-42e6-ba88-f639df33bc72 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 應用程式 | 應用程式不會儲存檔資料 | 允許使用者上傳和共用 onedrive 中的檔案 | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
+>| Group.ReadWrite.All | 應用程式 | 為支援應用程式管理學習環境所儲存的 Teams 和通道名稱及唯一識別碼 | 允許應用程式在 Teams 環境中動態設定 Teams 及通道，以支援結構化的教學 | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
+>| User.Read.All | 應用程式 | 儲存的使用者名稱和電子郵件和 UPN，可提供直接的個人 learner 經驗 | 允許使用簽署和支援在小組成員之間共用學習資源 | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -66,7 +66,7 @@ ms.locfileid: "53281275"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 當播放課程內容時，使用者的名字和姓氏可以與 GO1's 內容提供者共用。 這只是在內容提供者要求提供 personalised 學習體驗的位置共用。 |  | 不適用 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

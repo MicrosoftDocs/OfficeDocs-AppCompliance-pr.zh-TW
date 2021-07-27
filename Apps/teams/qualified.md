@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊，如有資格，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6b4f5f034fbdca44cd71c74b0530cfd15664a1c8
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: d47e6f2919fb97eb1c9a162f2ade8c1a1bf485a8
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852057"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521130"
 ---
-# <a name="qualified"></a>合格
+# <a name="qualified"></a>符合資格
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "52852057"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 合格 |
+| 應用程式名稱 | 符合資格 |
 | ID | WA200002720 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 合格 |
+| 合作夥伴公司名稱 | 符合資格 |
 | 合作夥伴網站的 URL | [https://www.qualified.com](https://www.qualified.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.qualified.com/university-guide/microsoft-teams-...](https://www.qualified.com/university-guide/microsoft-teams-integration) |
 | 隱私權原則的 URL | [https://www.qualified.com/legal/privacy](https://www.qualified.com/legal/privacy) |
@@ -55,17 +55,17 @@ ms.locfileid: "52852057"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadBasic | 應用程式 | 允許我們選取要通知的通道 | 電子郵件地址、租使用者識別碼、oauth 重新整理權杖 | 2c951ed5-c5c6-493f-9b02-4b42e3ba536c |
->| ReadBasic | 應用程式 | 可讓我們尋找所有小組的所有管道，以允許我們選取要通知的頻道 | 電子郵件地址、租使用者識別碼、oauth 重新整理權杖 | 2c951ed5-c5c6-493f-9b02-4b42e3ba536c |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadBasic | 應用程式 | 允許我們選取要通知的通道 | 電子郵件地址、租使用者識別碼、oauth 重新整理權杖 | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
+>| ReadBasic | 應用程式 | 可讓我們尋找所有小組的所有管道，以允許我們選取要通知的頻道 | 電子郵件地址、租使用者識別碼、oauth 重新整理權杖 | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Bot 框架 API | 是 | 租使用者識別碼、小組識別碼、通道識別碼 | 租使用者 ID: 以判斷 bot 架構 api 呼叫 service_url;小組識別碼的 + 通道識別碼：若要判斷已經新增 bot 的團隊/通道 | 租使用者識別碼、小組識別碼、通道識別碼 | 租使用者 ID: 以判斷 bot 架構 api 呼叫 service_url;小組識別碼的 + 通道識別碼：若要判斷已經新增 bot 的團隊/通道 |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -73,7 +73,7 @@ ms.locfileid: "52852057"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Heroku、Sentry、Papertrail | 名稱、電子郵件地址、IP | 這些系統會裝載和監視我們的生產服務 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

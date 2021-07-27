@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和合規性資訊，用於融合的遠端、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 67518ab9859fa9643eea4f6cc40d97dbd40a9109
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b920e0fa93512c7cc9429b02dcecd9c0e3fe27b6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281806"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521494"
 ---
 # <a name="fusion-remote"></a>Fusion Remote
 
@@ -55,21 +55,21 @@ Jujo Inc. 所提供的資訊給 Microsoft：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.Read | 委託 | 讀取使用者檔 | 讀取使用者檔 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.Read.All | 委託 | 讀取使用者可以存取的所有檔案 | 讀取使用者可以存取的所有檔案 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| 已讀取。選取 | 委託 | 讀取使用者選取的檔案 | 讀取使用者選取的檔案 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite | 委託 | 擁有使用者檔案的完整存取權 | 擁有使用者檔案的完整存取權 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite.All | 委託 | 具有使用者可以存取的所有檔案的完整存取權 | 具有使用者可以存取的所有檔案的完整存取權 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| ReadWrite。 AppFolder | 委託 | 可以完全存取應用程式的資料夾 (預覽)  | 可以完全存取應用程式的資料夾 (預覽)  | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| ReadWrite。選取 | 委託 | 讀取及寫入使用者選取的檔案 | 讀取及寫入使用者選取的檔案 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.Read | 委託 | 登入並讀取使用者設定檔 | 登入並讀取使用者設定檔 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.Read.All | 委託 | 讀取所有使用者的完整設定檔 | 讀取所有使用者的完整設定檔 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadBasic.All | 委託 | 讀取所有使用者的基本設定檔 | 讀取所有使用者的基本設定檔 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadWrite | 委託 | 使用者設定檔的讀取和寫入權限 | 使用者設定檔的讀取和寫入權限 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadWrite.All | 委託 | 讀取和寫入所有使用者的完整設定檔 | 讀取和寫入所有使用者的完整設定檔 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| offline_access | 委託 | 維護您有權存取資料的存取權限 | 維護您有權存取資料的存取權限 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| openid | 委託 | 在中簽署使用者 | 在中簽署使用者 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | 委託 | 讀取使用者檔 | 讀取使用者檔 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.Read.All | 委託 | 讀取使用者可以存取的所有檔案 | 讀取使用者可以存取的所有檔案 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| 已讀取。選取 | 委託 | 讀取使用者選取的檔案 | 讀取使用者選取的檔案 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite | 委託 | 擁有使用者檔案的完整存取權 | 擁有使用者檔案的完整存取權 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite.All | 委託 | 具有使用者可以存取的所有檔案的完整存取權 | 具有使用者可以存取的所有檔案的完整存取權 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| ReadWrite。 AppFolder | 委託 | 可以完全存取應用程式的資料夾 (預覽)  | 可以完全存取應用程式的資料夾 (預覽)  | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| ReadWrite。選取 | 委託 | 讀取及寫入使用者選取的檔案 | 讀取及寫入使用者選取的檔案 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | 登入並讀取使用者設定檔 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.Read.All | 委託 | 讀取所有使用者的完整設定檔 | 讀取所有使用者的完整設定檔 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadBasic.All | 委託 | 讀取所有使用者的基本設定檔 | 讀取所有使用者的基本設定檔 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadWrite | 委託 | 使用者設定檔的讀取和寫入權限 | 使用者設定檔的讀取和寫入權限 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadWrite.All | 委託 | 讀取和寫入所有使用者的完整設定檔 | 讀取和寫入所有使用者的完整設定檔 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| offline_access | 委託 | 維護您有權存取資料的存取權限 | 維護您有權存取資料的存取權限 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| openid | 委託 | 在中簽署使用者 | 在中簽署使用者 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -83,7 +83,7 @@ Jujo Inc. 所提供的資訊給 Microsoft：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 會議名單 | 未儲存在 DB 中的資料 |  |
 
 

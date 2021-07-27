@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如電子郵件 TeamMate、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 21c17ca6e6ac518063e9ba097b17422907e7189e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5d84cc70ee039a4b2973fb5ec9bfd9f20a9a179
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553104"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521656"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
@@ -56,13 +56,13 @@ ms.locfileid: "52553104"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 聊天室讀取 | 委託 | TeamMate 若要取得特定交談的聊天成員，以便在交談聊天成員的 SharePoint/One 磁片中共用檔案 | 無 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| Files.ReadWrite.All | 委託 | TeamMate 以 &amp; 在 SharePoint/Teams/OneDrive 中儲存電子郵件附件所需 | 無 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| 郵件。 ReadWrite | 委託 | TeamMate 以顯示使用者的電子郵件，並回復儲存至 Teams 的電子郵件 | 無 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| 個人讀取 | 委託 | TeamMate 以搜尋人員的電子郵件，以及建議您經常聯繫的人員時，必須使用此方法。 | 無 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| User.Read | 委託 | 允許使用者利用其帳戶登入 TeamMate，並允許 TeamMate 查看基本的使用者設定檔資訊 | 無 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| User.ReadBasic.All | 委託 | TeamMate 以解析聊天室成員電子郵件地址所需的電子郵件地址，使其共用檔案 OneDrive 與其一起儲存  | 無 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 聊天室讀取 | 委託 | TeamMate 若要取得特定交談的聊天成員，以便在交談聊天成員的 SharePoint/One 磁片中共用檔案 | 無 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Files.ReadWrite.All | 委託 | TeamMate 以 &amp; 在 SharePoint/Teams/OneDrive 中儲存電子郵件附件所需 | 無 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| 郵件。 ReadWrite | 委託 | TeamMate 以顯示使用者的電子郵件，並回復儲存至 Teams 的電子郵件 | 無 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| 個人讀取 | 委託 | TeamMate 以搜尋人員的電子郵件，以及建議您經常聯繫的人員時，必須使用此方法。 | 無 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.Read | 委託 | 允許使用者利用其帳戶登入 TeamMate，並允許 TeamMate 查看基本的使用者設定檔資訊 | 無 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.ReadBasic.All | 委託 | TeamMate 以解析聊天室成員電子郵件地址所需的電子郵件地址，使其共用檔案 OneDrive 與其一起儲存  | 無 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

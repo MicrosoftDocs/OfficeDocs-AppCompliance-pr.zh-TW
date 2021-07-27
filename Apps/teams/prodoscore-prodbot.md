@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ProdBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8cf445d1b1f7ef72300017ce095d0dec0e038f41
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46b5682dc3b3c5052c5b3912125d2caebcb9f662
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551823"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521126"
 ---
 # <a name="prodbot"></a>ProdBot
 
@@ -63,7 +63,7 @@ ms.locfileid: "52551823"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Google Cloud Platform | 網域名稱 | 在應用程式中註冊使用組織的功能變數名稱，以唯一識別組織。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

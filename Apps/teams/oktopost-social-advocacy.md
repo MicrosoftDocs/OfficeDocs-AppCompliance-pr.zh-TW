@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于社交倡議的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e38ae1ab7bfe01792293819ef6bc57a13ba101d3
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: 376dae946bfd5bf8fafcf10d33f2e7ae4e20a706
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987767"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521241"
 ---
-# <a name="social-advocacy"></a>社交倡議
+# <a name="social-advocacy"></a>Social Advocacy
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "52987767"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 社交倡議 |
+| 應用程式名稱 | Social Advocacy |
 | ID | WA200002598 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Oktopost |
@@ -69,7 +69,7 @@ ms.locfileid: "52987767"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| PII 用於驗證和授權的目的。 | Name、email、session data (IP、location)  | PII 用於驗證、授權和記錄目的。 |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 MIPA 的安全性和符合性資訊資訊-您的個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1f203cb6c99584fb8633fcfaafe9155a97d300fe
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1cdc2ef1a79ac303722820e241e07b7e98d92cb7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283027"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521586"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - 您的個人助理
 
@@ -55,32 +55,32 @@ ms.locfileid: "53283027"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 閱讀和更新日曆 entires | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 閱讀和更新日曆 entires | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 任務、讀取使用者最近及共用的檔案。 以檢查使用者是否有同意，以及具有使用 API 的存取權。 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 整合至 iGlobe CRM Office 365 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新已標記的郵件 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| MailboxSettings ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 閱讀和更新 entires、讀取和更新已標記的郵件、讀取和更新 Outlook To Do entires | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| User.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies、讀取、更新、建立 Panner 任務 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies、讀取、更新、建立 Panner 任務 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| User.ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| 電子郵件 | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式讀取您的使用者的主要電子郵件地址 ( 以取得 SSO) 。 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| offline_access | 委託 | 不會儲存應用程式資料庫中的資料。 | 讓應用程式可以查看和更新您可存取的資料，即使使用者目前並未使用此應用程式也是一樣。 這不會讓應用程式 ( SSO) 的任何額外許可權。 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| openid | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許使用者利用其工作或學校帳戶登入應用程式，並可讓應用程式查看基本的使用者設定檔資訊 (，以供 SSO) 使用。 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
->| profile | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies、讀取、更新、建立 Panner 任務 | e854ea05-68ab-4204-babe-db4a784fb4d16 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 閱讀和更新日曆 entires | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 閱讀和更新日曆 entires | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 任務、讀取使用者最近及共用的檔案。 以檢查使用者是否有同意，以及具有使用 API 的存取權。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 整合至 iGlobe CRM Office 365 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新已標記的郵件 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| MailboxSettings ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 閱讀和更新 entires、讀取和更新已標記的郵件、讀取和更新 Outlook To Do entires | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| User.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies、讀取、更新、建立 Panner 任務 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies、讀取、更新、建立 Panner 任務 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| User.ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| 電子郵件 | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式讀取您的使用者的主要電子郵件地址 ( 以取得 SSO) 。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| offline_access | 委託 | 不會儲存應用程式資料庫中的資料。 | 讓應用程式可以查看和更新您可存取的資料，即使使用者目前並未使用此應用程式也是一樣。 這不會讓應用程式 ( SSO) 的任何額外許可權。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| openid | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許使用者利用其工作或學校帳戶登入應用程式，並可讓應用程式查看基本的使用者設定檔資訊 (，以供 SSO) 使用。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| profile | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies、讀取、更新、建立 Panner 任務 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange-行事曆 ReadWrite 所有 | 否 |  |  |  |  |
 >| Exchange-EWS。AccessAsUser。 All | 否 |  |  |  |  |
 >| Exchange-郵件讀取 | 否 |  |  |  |  |

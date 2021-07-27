@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MeisterTask 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f8a266078aad721307165b64150c5a9241bf4f35
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: dafbebb8b0bed7d06a3850a26ab205db0517ae5f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552944"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521264"
 ---
 # <a name="meistertask"></a>MeisterTask
 
@@ -56,8 +56,8 @@ ms.locfileid: "52552944"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | ID、displayName、電子郵件地址。 | 進行驗證及註冊。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | ID、displayName、電子郵件地址。 | 進行驗證及註冊。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

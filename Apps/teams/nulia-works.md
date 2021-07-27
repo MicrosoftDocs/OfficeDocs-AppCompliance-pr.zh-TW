@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Nulia Works 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4471074b2e15b41894f709cb2a25dee1d0dc5187
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4d176b18a8089d9107f30b7581bcca69daf0871e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552894"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521306"
 ---
 # <a name="nulia-works"></a>Nulia Works
 
@@ -56,18 +56,18 @@ ms.locfileid: "52552894"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者擁有的行事曆事件數目。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| 連絡人。已讀取 | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者已建立的連絡人數目。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| Files.Read.All | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者與電腦同步處理的檔數目。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| Group.Read.All | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們從群組中取得使用者所屬的 Teams 數目。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| Mail.Read | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者已建立的自訂郵件資料夾數目。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| MailboxSettings 讀取 | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們會看到使用者是否有外出回復集。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| 閱讀附注。 | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者共用的筆記本數目。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| Reports。已讀取。所有 | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們會從使用者報告一天所傳送的 Teams 郵件數目。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| Sites.Read.All | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者已建立的網站集合數目。 該值會影響其技能的進度。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| User.Read | 應用程式 | 我們會顯示使用者的顯示名稱、部門和設定檔圖片。 | 我們在資料庫中儲存顯示名稱和部門，因此不需要每次都命中 Graph。 我們不會儲存設定檔圖片。 | 我們為每位客戶建立新的應用程式識別碼。 例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046 |
->| 已讀取組織。全部 | 應用程式 | 我們會收集租使用者的名稱和 Yammer 基底 URL。 當使用者 &quot; &quot; 在與 Yammer 活動相關的應用程式中，按一下 [Try It] 按鈕時，我們會使用此功能來啟動 Yammer。 | 我們儲存在 blob 儲存中收集的所有資料。 例如，我們使用此功能，當使用者按一下 &quot; &quot; 與 Yammer 活動相關的應用程式中的 [嘗試 It] 按鈕時，就會開始 Yammer。 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者擁有的行事曆事件數目。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| 連絡人。已讀取 | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者已建立的連絡人數目。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| Files.Read.All | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者與電腦同步處理的檔數目。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| Group.Read.All | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們從群組中取得使用者所屬的 Teams 數目。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| Mail.Read | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者已建立的自訂郵件資料夾數目。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| MailboxSettings 讀取 | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們會看到使用者是否有外出回復集。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| 閱讀附注。 | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者共用的筆記本數目。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| Reports。已讀取。所有 | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們會從使用者報告一天所傳送的 Teams 郵件數目。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| Sites.Read.All | 應用程式 | 我們使用收集的資料來評分使用者對技能和成果的進度。 我們收集跨越多個 O365 工作負載的流量計數。 | 我們儲存在 blob 儲存中收集的所有資料。 我們使用此資料來排名使用者的技能和結果進度。 例如，我們計算使用者已建立的網站集合數目。 該值會影響其技能的進度。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| User.Read | 應用程式 | 我們會顯示使用者的顯示名稱、部門和設定檔圖片。 | 我們在資料庫中儲存顯示名稱和部門，因此不需要每次都命中 Graph。 我們不會儲存設定檔圖片。 | [我們為每位客戶建立新的應用程式識別碼。例如，我們的 Nulia 租使用者使用的是 application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
+>| 已讀取組織。全部 | 應用程式 | 我們會收集租使用者的名稱和 Yammer 基底 URL。 當使用者 &quot; &quot; 在與 Yammer 活動相關的應用程式中，按一下 [Try It] 按鈕時，我們會使用此功能來啟動 Yammer。 | 我們儲存在 blob 儲存中收集的所有資料。 例如，我們使用此功能，當使用者按一下 &quot; &quot; 與 Yammer 活動相關的應用程式中的 [嘗試 It] 按鈕時，就會開始 Yammer。 | [我們使用收集的資料來評分使用者對技能和成果的進度。我們收集跨越多個 O365 工作負載的流量計數。](https://docs.microsoft.com/microsoft-365-app-certification/azure/We use the data collected to score user progress on skills and Outcomes. We collect usage counts across multiple O365 workloads.) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

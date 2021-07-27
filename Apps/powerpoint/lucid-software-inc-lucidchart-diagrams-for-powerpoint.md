@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lucidchart 圖表 PowerPoint 的所有可用安全性和符合性資訊資訊，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7fcf941323e998bd2e4ffba59f60410e745a1613
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5e6a461c8793c04463f765ff66dd97f66efa783e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282357"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527819"
 ---
 # <a name="lucidchart-diagrams-for-powerpoint"></a>PowerPoint 的 Lucidchart 圖表
 
@@ -54,17 +54,17 @@ Lucid 軟體 Inc. 會提供此資訊，讓您瞭解此應用程式如何收集�
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 電子郵件 | 委託 | 名稱和電子郵件地址。 | 電子郵件、openid 和設定檔許可權可讓 Lucidchart 為使用者產生 openid token，並取得使用者的足夠基本資訊，以便在必要時為其註冊 Lucidchart 帳戶。 為了確認從 Microsoft 傳回的資料，我們要求您取得公開金鑰以取得其回應的簽署者。 在 SSO 流程中，不會從 Microsoft 接收或傳送其他任何資料。 |  |
->| openid | 委託 | 名稱和電子郵件地址。 | 電子郵件、openid 和設定檔許可權可讓 Lucidchart 為使用者產生 openid token，並取得使用者的足夠基本資訊，以便在必要時為其註冊 Lucidchart 帳戶。 為了確認從 Microsoft 傳回的資料，我們要求您取得公開金鑰以取得其回應的簽署者。 在 SSO 流程中，不會從 Microsoft 接收或傳送其他任何資料。 |  |
->| profile | 委託 | 名稱和電子郵件地址。 | 電子郵件、openid 和設定檔許可權可讓 Lucidchart 為使用者產生 openid token，並取得使用者的足夠基本資訊，以便在必要時為其註冊 Lucidchart 帳戶。 為了確認從 Microsoft 傳回的資料，我們要求您取得公開金鑰以取得其回應的簽署者。 在 SSO 流程中，不會從 Microsoft 接收或傳送其他任何資料。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 電子郵件 | 委託 | 名稱和電子郵件地址。 | 電子郵件、openid 和設定檔許可權可讓 Lucidchart 為使用者產生 openid token，並取得使用者的足夠基本資訊，以便在必要時為其註冊 Lucidchart 帳戶。 為了確認從 Microsoft 傳回的資料，我們要求您取得公開金鑰以取得其回應的簽署者。 在 SSO 流程中，不會從 Microsoft 接收或傳送其他任何資料。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| openid | 委託 | 名稱和電子郵件地址。 | 電子郵件、openid 和設定檔許可權可讓 Lucidchart 為使用者產生 openid token，並取得使用者的足夠基本資訊，以便在必要時為其註冊 Lucidchart 帳戶。 為了確認從 Microsoft 傳回的資料，我們要求您取得公開金鑰以取得其回應的簽署者。 在 SSO 流程中，不會從 Microsoft 接收或傳送其他任何資料。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 委託 | 名稱和電子郵件地址。 | 電子郵件、openid 和設定檔許可權可讓 Lucidchart 為使用者產生 openid token，並取得使用者的足夠基本資訊，以便在必要時為其註冊 Lucidchart 帳戶。 為了確認從 Microsoft 傳回的資料，我們要求您取得公開金鑰以取得其回應的簽署者。 在 SSO 流程中，不會從 Microsoft 接收或傳送其他任何資料。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| 適用於 Office 的 JavaScript API | 是 | 我們使用 Office OneDrive javascript SDK 來開啟使用 OneDrive 的 OneDrive 檔案選擇器。 () 。 我們不會產生任何存取權杖，也不會對 OneDrive APIs 自身進行任何要求。OneDrive 檔選擇器 SDK 為我們做。 我們只會看到使用者選擇的檔案名。 |  | 如果使用者使用 OneDrive 檔選擇器選取檔案，我們會儲存檔案名。 |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -72,7 +72,7 @@ Lucid 軟體 Inc. 會提供此資訊，讓您瞭解此應用程式如何收集�
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Lucidchart 資料會儲存在 AWS 中。 |  | 我們不會使用任何 Microsoft APIs。 我們使用 openID 取得基本的使用者資料，以執行 SSO。 我們會使用其檔案選擇器 API，但不會讓我們透過您的瀏覽器提交給我們的使用者檔案的存取權。 |
 
 

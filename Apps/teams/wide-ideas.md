@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊都是廣泛的創意、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 05daba10da032e947976d99411e0e70982e17f00
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1e73a7aebbaaffa12572717f7a4a9968fd5667f7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279047"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528059"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -55,10 +55,10 @@ ms.locfileid: "53279047"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 應用程式 | 我們儲存群組識別碼，以及哪些使用者屬於哪些群組 | 允許此應用程式讀取客戶組織目錄中的資料，例如使用者和群組。  | 77baef51-6387-4aff-9b3f-23e4654c30cd |
->| Group.ReadWrite.All | 應用程式 | 我們會儲存與群組相關聯的通道識別碼。 | 可讓使用者從客戶入口網站的 Microsoft Teams 內建立小組、頻道和索引標籤。 這也可讓使用者將 Microsoft Teams 中的現有團隊同步處理至客戶入口網站。 | 77baef51-6387-4aff-9b3f-23e4654c30cd |
->| User.Read | 委託 | 儲存名稱 &amp; 電子郵件 | 允許使用者登入並授與 Microsoft Graph 的存取權 | 77baef51-6387-4aff-9b3f-23e4654c30cd |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 應用程式 | 我們儲存群組識別碼，以及哪些使用者屬於哪些群組 | 允許此應用程式讀取客戶組織目錄中的資料，例如使用者和群組。  | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| Group.ReadWrite.All | 應用程式 | 我們會儲存與群組相關聯的通道識別碼。 | 可讓使用者從客戶入口網站的 Microsoft Teams 內建立小組、頻道和索引標籤。 這也可讓使用者將 Microsoft Teams 中的現有團隊同步處理至客戶入口網站。 | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| User.Read | 委託 | 儲存名稱 &amp; 電子郵件 | 允許使用者登入並授與 Microsoft Graph 的存取權 | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -66,7 +66,7 @@ ms.locfileid: "53279047"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Mailjet 電子郵件通知使用的電子郵件。 |  | 不適用 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
@@ -74,7 +74,7 @@ ms.locfileid: "53279047"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 若要在後端建立使用者，並授與存取連結至小組之內容的許可權。 | 儲存： Name-To 顯示使用者的名稱，電子郵件地址-識別使用者 |  |
 
 

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有可供 CI Office 的安全性和符合性資訊資訊。 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊，都是針對 CI 外 Lite。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 87a4d77deaac6281018befe1fc2de44f0fe20c35
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: de7d350bf6eda53a782872b3c4965235cfeca799
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275281"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521956"
 ---
-# <a name="ci-out-of-office-lite"></a>CI Office 的精簡功能
+# <a name="ci-out-of-office-lite"></a>CI-Out-of-Office Lite
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Ci 解決方案 GmbH 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | CI Office 的精簡功能 |
+| 應用程式名稱 | CI-Out-of-Office Lite |
 | ID | WA200002748 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | ci 解決方案 GmbH |
+| 合作夥伴公司名稱 | ci solution GmbH |
 | 合作夥伴網站的 URL | [https://www.ci-solution.com](https://www.ci-solution.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.ci-solution.com/support/en/ci-oof-lite/](https://www.ci-solution.com/support/en/ci-oof-lite/) |
 | 隱私權原則的 URL | [https://www.ci-solution.com/kontakt/datenschutz.html](https://www.ci-solution.com/kontakt/datenschutz.html) |
@@ -56,8 +56,8 @@ Ci 解決方案 GmbH 提供給 Microsoft 的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 電子郵件 | 委託 | View 使用者的電子郵件地址 | Es werden keine Daten gespeichert。 | fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 電子郵件 | 委託 | View 使用者的電子郵件地址 | Es werden keine Daten gespeichert。 | [fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

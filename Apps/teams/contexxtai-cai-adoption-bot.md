@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: C.AI 採用 Bot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d5e1ad704a7b72a8d3717b7aa1b3d60b23099998
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 5bb11c96f750701128470f3e1c61ea0f5d476233
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851593"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521836"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
@@ -55,15 +55,15 @@ ms.locfileid: "52851593"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 應用程式 | 使用者的可用性可在適當的時間傳送秘訣，而不是在焦點時間內傳送範例（範例） | 匿名使用者的可用性可以在正確的時間傳送秘訣，而不是在焦點時間內傳送範例（範例） | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| ChannelMessage Read。 All | 應用程式 | Microsoft Teams 通道中繼資料，例如，每個通道的私人或或或或或多個會話，以分析 Teams 使用狀況 | 匿名 Microsoft Teams 通道中繼資料，例如，每個通道的私密或非會話數目，以分析 Teams 使用狀況 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| 已閱讀的聊天室。所有 | 應用程式 | Microsoft Teams 聊天中繼資料，例如郵件已贊或有多少群組和1:1 聊天是用來分析 Teams 的使用方式 | 匿名 Microsoft Teams 聊天中繼資料，類似于郵件已贊或有多少群組和1:1 聊天以分析 Teams 使用狀況 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Directory.Read.All | 應用程式 | 使用者物件識別碼，可將秘訣傳送至 specifi 的使用者稍後。 | 雜湊 (匿名) 物件識別碼使用者的識別碼，可將秘訣傳送給 specifi 使用者。 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Group.Read.All | 應用程式 | Microsoft Teams 中繼資料，類似 Teams 的數量和分析 Teams 使用的通道 | Microsoft Teams 中繼資料，類似 Teams 的數量和分析 Teams 使用的通道 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Mail.Read | 應用程式 | Microsoft Exchange 中繼資料，例如電子郵件和群組與1:1 電子郵件的數量，以分析 Exchange (與 Teams) 的使用狀況。 | 匿名 Microsoft Exchange 中繼資料，例如電子郵件和群組的數量與1:1 的電子郵件，用來分析 Exchange (與 Teams) 的使用狀況。 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| User.Read.All | 應用程式 | Microsoft Teams 聊天和交談的中繼資料，類似于提及使用者分析 Teams 使用狀況的方式 | 匿名 Microsoft Teams 聊天和交談中繼資料，類似于已提及使用者分析 Teams 使用狀況的方式 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 應用程式 | 使用者的可用性可在適當的時間傳送秘訣，而不是在焦點時間內傳送範例（範例） | 匿名使用者的可用性可以在正確的時間傳送秘訣，而不是在焦點時間內傳送範例（範例） | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| ChannelMessage Read。 All | 應用程式 | Microsoft Teams 通道中繼資料，例如，每個通道的私人或或或或或多個會話，以分析 Teams 使用狀況 | 匿名 Microsoft Teams 通道中繼資料，例如，每個通道的私密或非會話數目，以分析 Teams 使用狀況 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| 已閱讀的聊天室。所有 | 應用程式 | Microsoft Teams 聊天中繼資料，例如郵件已贊或有多少群組和1:1 聊天是用來分析 Teams 的使用方式 | 匿名 Microsoft Teams 聊天中繼資料，類似于郵件已贊或有多少群組和1:1 聊天以分析 Teams 使用狀況 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Directory.Read.All | 應用程式 | 使用者物件識別碼，可將秘訣傳送至 specifi 的使用者稍後。 | 雜湊 (匿名) 物件識別碼使用者的識別碼，可將秘訣傳送給 specifi 使用者。 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Group.Read.All | 應用程式 | Microsoft Teams 中繼資料，類似 Teams 的數量和分析 Teams 使用的通道 | Microsoft Teams 中繼資料，類似 Teams 的數量和分析 Teams 使用的通道 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Mail.Read | 應用程式 | Microsoft Exchange 中繼資料，例如電子郵件和群組與1:1 電子郵件的數量，以分析 Exchange (與 Teams) 的使用狀況。 | 匿名 Microsoft Exchange 中繼資料，例如電子郵件和群組的數量與1:1 的電子郵件，用來分析 Exchange (與 Teams) 的使用狀況。 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| User.Read.All | 應用程式 | Microsoft Teams 聊天和交談的中繼資料，類似于提及使用者分析 Teams 使用狀況的方式 | 匿名 Microsoft Teams 聊天和交談中繼資料，類似于已提及使用者分析 Teams 使用狀況的方式 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -77,7 +77,7 @@ ms.locfileid: "52851593"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 在 Bot 架構中，使用者識別碼會自動傳輸，以與使用者通訊。 來自 C.AI 採用分析的其他流量資料是用來 individualize 使用者的學習體驗，因此，只為使用者（可能不會知道這些秘訣）傳送適當且有用的秘訣。 | 否 |  |
 
 

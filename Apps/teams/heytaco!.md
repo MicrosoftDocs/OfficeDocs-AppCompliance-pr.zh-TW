@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HeyTaco！的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 66739977ba4aa3eef7456d4ec60530f94065a2b9
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7b4641b33166043dd311bdd89568c9eaea4b87a1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553124"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521636"
 ---
 # <a name="heytaco"></a>HeyTaco！
 
@@ -55,10 +55,10 @@ HeyTaco 所提供的資訊！ 至 Microsoft：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 電子郵件 | 委託 | 用來比對使用者的資料傳輸從時差到 MS Teams | 用來比對使用者從時差到 MS 小組的資料傳輸 | be8d11cf-265a-4974-9912-4ff28c29fc21 |
->| openid | 委託 | 用於簽署人員加入 HeyTaco！ | 用於簽署人員加入 HeyTaco！ | be8d11cf-265a-4974-9912-4ff28c29fc21 |
->| profile | 委託 | 用於捕獲使用者名稱、設定檔影像、時區偏移量、租使用者識別碼及小組識別碼 | 用於捕獲使用者名稱、頭像、時區偏移量、租使用者識別碼及小組識別碼 | be8d11cf-265a-4974-9912-4ff28c29fc21 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 電子郵件 | 委託 | 用來比對使用者的資料傳輸從時差到 MS Teams | 用來比對使用者從時差到 MS 小組的資料傳輸 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| openid | 委託 | 用於簽署人員加入 HeyTaco！ | 用於簽署人員加入 HeyTaco！ | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| profile | 委託 | 用於捕獲使用者名稱、設定檔影像、時區偏移量、租使用者識別碼及小組識別碼 | 用於捕獲使用者名稱、頭像、時區偏移量、租使用者識別碼及小組識別碼 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -72,7 +72,7 @@ HeyTaco 所提供的資訊！ 至 Microsoft：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 告訴使用者他們收到的是 taco，以及其來源。 | 從一個平臺 tacos 至另一個平臺的電子郵件地址 () 名稱 (供使用者) 設定檔影像 (，以在 leaderboard) 時區 (上顯示使用者設定檔影像) ，以根據租使用者匯總資料的承租人 (小組識別碼) 來聚合資料 (  |  |
 
 

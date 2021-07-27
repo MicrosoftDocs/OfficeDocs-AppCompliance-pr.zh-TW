@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Navo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 11346ff15831615ac6b617d8d14f83f38c7de0a5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e17eac9ef2db9418a38900d0de84ce62fad71097
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283107"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521206"
 ---
 # <a name="navo"></a>Navo
 
@@ -55,9 +55,9 @@ Regroove 解決方案所提供的資訊給 Microsoft：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 應用程式 | 我們會儲存使用者計數，並在每個計費週期中查詢一次。 我們也會使用租用識別碼做為組織的識別碼。 | 允許我們計算租用中的使用者數目，供計費之用。 它也可讓我們查詢使用者所在的群組，如此才能使用安全性調整來保護特定資料。 我們也會查詢組織的租賃識別碼。 | 75ce4e02-e37b-479c-81c7-438348a2a251 |
->| User.Read | 委託 | 未儲存資料 | 登入並讀取使用者設定檔 | 75ce4e02-e37b-479c-81c7-438348a2a251 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 應用程式 | 我們會儲存使用者計數，並在每個計費週期中查詢一次。 我們也會使用租用識別碼做為組織的識別碼。 | 允許我們計算租用中的使用者數目，供計費之用。 它也可讓我們查詢使用者所在的群組，如此才能使用安全性調整來保護特定資料。 我們也會查詢組織的租賃識別碼。 | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
+>| User.Read | 委託 | 未儲存資料 | 登入並讀取使用者設定檔 | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -65,7 +65,7 @@ Regroove 解決方案所提供的資訊給 Microsoft：
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 我們會將租用識別碼和使用者計數儲存在帶中。 |  | User.Read | 委託 | 登入和讀取使用者設定檔-沒有儲存資料 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

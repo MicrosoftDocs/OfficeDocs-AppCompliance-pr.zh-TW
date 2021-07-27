@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊連線 +、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 831f29b4b5a7f15dbaf9f7672d0dece4fc50c645
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: 573f6bbf833f08720b6ace0fe6d1f0b92bcc4a53
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275264"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521151"
 ---
-# <a name="connect"></a>連線 +
+# <a name="connect"></a>Connect+
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "53275264"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 連線 + |
+| 應用程式名稱 | Connect+ |
 | ID | WA200002611 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 獎勵閘道 |
+| 合作夥伴公司名稱 | Reward Gateway |
 | 合作夥伴網站的 URL | [https://www.rewardgateway.com](https://www.rewardgateway.com) |
 | Teams 應用程式資訊頁面的 URL | [https://success.rewardgateway.com/hc/en-us/articles/3600158...](https://success.rewardgateway.com/hc/en-us/articles/360015834078-Installing-the-MS-Teams-Integration) |
 | 隱私權原則的 URL | [https://policies.rewardgateway.net/ms-teams-connect-plus/pr...](https://policies.rewardgateway.net/ms-teams-connect-plus/privacy-policy/) |
@@ -56,8 +56,8 @@ ms.locfileid: "53275264"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog Read。 All | 委託 | 不收集任何資料 | 我們儲存每個使用者的 aadObjectId，以追蹤他們至少登入至應用程式一次 | 5e4dadf5-9f90-449b-9e39-934fd10b7c23 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog Read。 All | 委託 | 不收集任何資料 | 我們儲存每個使用者的 aadObjectId，以追蹤他們至少登入至應用程式一次 | [5e4dadf5-9f90-449b-9e39-934fd10b7c23](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

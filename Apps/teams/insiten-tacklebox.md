@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TackleBox 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3ca294c588f6447c5e54c53cf1dec33b1e849a47
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: bf5841d5b51470b6aaab29f303b1ee1c5c5a0141
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281826"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521457"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -56,12 +56,12 @@ ms.locfileid: "53281826"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 委託 | 允許使用者流覽其 OneDrive 磁片磁碟機、資料夾及檔案;將檔案連結到 TackleBox;讀取 Excel 檔案，以自動解壓縮圖表、圖表、表格、列印範圍及命名範圍;使用下列 Excel 視覺效果建立及更新 PowerPoint 檔案 | 磁片磁碟機識別碼、資料夾識別碼、檔案識別碼、View 連結、建立者、建立日期、修改者、修改日期、版本識別碼、檔案名 | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| Sites.Read.All | 委託 | 允許使用者流覽及連結位於私人 Teams 通道的 Excel 檔案 | 無 | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| User.Read | 委託 | 允許此應用程式讀取已登入使用者的設定檔，並檢索其電子郵件地址以取得通知 | 電子郵件 | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| openid | 委託 | 允許使用者使用 Microsoft 365 帳戶登入我們的應用程式 | 使用者的租使用者識別碼及物件識別碼 | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| profile | 委託 | 允許應用程式顯示使用者的基本設定檔 (名稱、使用者名稱) 以 faciliate 共同作業 | UPN、名字、姓氏 | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 委託 | 允許使用者流覽其 OneDrive 磁片磁碟機、資料夾及檔案;將檔案連結到 TackleBox;讀取 Excel 檔案，以自動解壓縮圖表、圖表、表格、列印範圍及命名範圍;使用下列 Excel 視覺效果建立及更新 PowerPoint 檔案 | 磁片磁碟機識別碼、資料夾識別碼、檔案識別碼、View 連結、建立者、建立日期、修改者、修改日期、版本識別碼、檔案名 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| Sites.Read.All | 委託 | 允許使用者流覽及連結位於私人 Teams 通道的 Excel 檔案 | 無 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| User.Read | 委託 | 允許此應用程式讀取已登入使用者的設定檔，並檢索其電子郵件地址以取得通知 | 電子郵件 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| openid | 委託 | 允許使用者使用 Microsoft 365 帳戶登入我們的應用程式 | 使用者的租使用者識別碼及物件識別碼 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| profile | 委託 | 允許應用程式顯示使用者的基本設定檔 (名稱、使用者名稱) 以 faciliate 共同作業 | UPN、名字、姓氏 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

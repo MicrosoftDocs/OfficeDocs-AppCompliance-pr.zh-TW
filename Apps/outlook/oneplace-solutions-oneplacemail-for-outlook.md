@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OnePlaceMail Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 97c9b74768b11e3c63a302566a20a2cb762275a0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 18dc1ab4ba71102564c1c85f7ed3846d9f4f1700
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281705"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527929"
 ---
 # <a name="oneplacemail-for-outlook"></a>Outlook 的 OnePlaceMail
 
@@ -54,22 +54,22 @@ OnePlace 解決方案所提供的資訊給 Microsoft：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 委託 | 需要判斷目前的使用者是否為成員 Teams。 | 無 | 44a72516-136f-4a55-ae26-ef09977230be |
->| ReadWrite 共用 | 委託 | 需要存取郵件屬性以設定 SharePoint 欄，並將轉接至訊息項目上 SharePoint 類別 | 無 | 44a72516-136f-4a55-ae26-ef09977230be |
->| MailboxSettings ReadWrite | 委託 | 未收集或使用此資料，這是用來將類別新增至使用者信箱中的主要類別清單 | 無 | 44a72516-136f-4a55-ae26-ef09977230be |
->| Sites.ReadWrite.All | 委託 | 需要在應用程式上傳至 SharePoint 的專案上設定屬性。 | 無 | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.Read | 委託 | Microsoft Graph 驗證所需的。 | 下列資料是由應用程式儲存于資料庫中，並用於訂閱和使用者授權追蹤：使用者識別碼、電子郵件、名字、姓氏。 | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | 委託 | 需要在 [人員選擇] 欄位中顯示使用者設定檔影像。 | 無 | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | 委託 | 需要在 [人員選擇] 欄位中顯示使用者設定檔影像。 | 無 | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadWrite.All | 委託 | 需要判斷使用者 Office 365 租用中是否啟用 Teams 服務。 | 無 | 44a72516-136f-4a55-ae26-ef09977230be |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 委託 | 需要判斷目前的使用者是否為成員 Teams。 | 無 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| ReadWrite 共用 | 委託 | 需要存取郵件屬性以設定 SharePoint 欄，並將轉接至訊息項目上 SharePoint 類別 | 無 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| MailboxSettings ReadWrite | 委託 | 未收集或使用此資料，這是用來將類別新增至使用者信箱中的主要類別清單 | 無 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Sites.ReadWrite.All | 委託 | 需要在應用程式上傳至 SharePoint 的專案上設定屬性。 | 無 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.Read | 委託 | Microsoft Graph 驗證所需的。 | 下列資料是由應用程式儲存于資料庫中，並用於訂閱和使用者授權追蹤：使用者識別碼、電子郵件、名字、姓氏。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadBasic.All | 委託 | 需要在 [人員選擇] 欄位中顯示使用者設定檔影像。 | 無 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadBasic.All | 委託 | 需要在 [人員選擇] 欄位中顯示使用者設定檔影像。 | 無 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadWrite.All | 委託 | 需要判斷使用者 Office 365 租用中是否啟用 Teams 服務。 | 無 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint | 是 | SharePointURLs、文件庫/清單/資料夾名稱 | 所存取的 organisational 資訊是用來協助將電子郵件和附件從 Exchange SharePoint 中儲存的程式。 這項額外的資料不會儲存在 rest 上，而且會在傳輸中加密。 此資料的範例包括 SharePoint 欄值，例如：選擇欄值、分類值、內容類型名稱、資料夾名稱、網站名稱。  | 當應用程式未儲存或收集此資料時，它可能會出現在遙測/記錄中，但會在90天內保留。 | 未儲存資料 |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -77,7 +77,7 @@ OnePlace 解決方案所提供的資訊給 Microsoft：
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Chargify 服務用於訂閱管理和計費。 在應用程式中 (免費) 訂閱建立使用者的名字、姓氏、使用者的電子郵件地址會與 Chargify 共用。 對於支援多個授權使用者的已購買訂閱 () 個別使用者詳細資料不會與 Chargify 服務共用。 | 電子郵件地址 | 能夠將訂閱生命週期事件傳遞給使用者 |
 
 

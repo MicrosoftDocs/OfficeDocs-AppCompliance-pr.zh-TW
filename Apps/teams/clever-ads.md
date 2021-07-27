@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于聰明廣告的安全性和合規性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d0ef9f59476133e673a0bf9edf99e63cfc424559
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7880682782fe62fad68426bb59b74e3997bb7f64
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281946"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521876"
 ---
 # <a name="clever-ads"></a>Clever 廣告
 
@@ -55,8 +55,8 @@ Microsoft 的聰明廣告所提供的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | Read：我們儲存 UPN，AzureObjectId 來識別使用者。 | 使用者. 已讀取，允許使用者登入我們的應用程式儀表板。 我們使用 UPN，AzureObjectId 為使用者簽署。 | ac2b56c0-f2a5-4e90-b618-882f8d3596f0 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | Read：我們儲存 UPN，AzureObjectId 來識別使用者。 | 使用者. 已讀取，允許使用者登入我們的應用程式儀表板。 我們使用 UPN，AzureObjectId 為使用者簽署。 | [ac2b56c0-f2a5-4e90-b618-882f8d3596f0](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac2b56c0-f2a5-4e90-b618-882f8d3596f0) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -70,7 +70,7 @@ Microsoft 的聰明廣告所提供的資訊：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 應用程式會存取名單，以識別使用者是否屬於該小組，或是不將使用者排程的郵件傳送給他們的小組。 | 我們會儲存使用者識別碼、azureObjectId、UPN、tenantId、conversationId 和 serviceUrl，以在存取 [儀表板] 索引標籤時，將郵件傳送給使用者或小組並識別他。 |  |
 
 

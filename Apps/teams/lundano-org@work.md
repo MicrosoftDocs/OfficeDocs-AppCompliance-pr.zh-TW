@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Org@Work 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6791c124a7d18f6a6d0554857cad1f35b6fd7781
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2c1cfec539c8db4ddd597b8125079521d40615c4
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281756"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521406"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -56,12 +56,12 @@ ms.locfileid: "53281756"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | aa1c54a1-f482-424d-9389-dbd131233483 |
->| 電子郵件 | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | aa1c54a1-f482-424d-9389-dbd131233483 |
->| offline_access | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | aa1c54a1-f482-424d-9389-dbd131233483 |
->| openid | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | aa1c54a1-f482-424d-9389-dbd131233483 |
->| profile | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | aa1c54a1-f482-424d-9389-dbd131233483 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| 電子郵件 | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| offline_access | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| openid | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| profile | 委託 | 我們正在儲存資料。 我們只是使用資料登入使用者 Org@work | 無 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -75,7 +75,7 @@ ms.locfileid: "53281756"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Bot 推入必須提及員工的名稱，以供其規劃管理員確認 | 員工的 &amp; 姓氏、電子郵件地址、工作地點和組織 | Org@Work 規劃管理員完成程式工作流程需要這些相關的相關 &amp; |
 
 

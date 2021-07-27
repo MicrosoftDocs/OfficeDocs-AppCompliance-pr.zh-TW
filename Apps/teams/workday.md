@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Workday 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f85cc0ccc778f7ed3440e85795574faad3868d24
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 71a16c42f8676ac12ed4de34ccbdf010de009453
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279005"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528039"
 ---
 # <a name="workday"></a>Workday
 
@@ -56,9 +56,9 @@ ms.locfileid: "53279005"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsAppInstallation ReadWriteForUser 所有 | 應用程式 | 取得應用程式識別碼、為使用者安裝應用程式、從 AAD 取得 Teams 授權詳細資料 | 我們不會儲存與此功能相關的資料。  這可讓我們為使用者安裝應用程式。 | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
->| User.Read.All | 應用程式 | 找回使用者 AAID 以傳送使用者訊息。 | 只是 AAID 和 Teams AAID  | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsAppInstallation ReadWriteForUser 所有 | 應用程式 | 取得應用程式識別碼、為使用者安裝應用程式、從 AAD 取得 Teams 授權詳細資料 | 我們不會儲存與此功能相關的資料。  這可讓我們為使用者安裝應用程式。 | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
+>| User.Read.All | 應用程式 | 找回使用者 AAID 以傳送使用者訊息。 | 只是 AAID 和 Teams AAID  | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -66,7 +66,7 @@ ms.locfileid: "53279005"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 組織資料是在 Workday 服務和 Microsoft 之間共用。 請參閱您與 Workday 簽訂的合約條款，以取得其他詳細資料。 | 組織資料是在 Workday 服務和 Microsoft 之間共用。 請參閱您與 Workday 簽訂的合約條款，以取得其他詳細資料。 | 不適用 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
@@ -74,7 +74,7 @@ ms.locfileid: "53279005"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 名單資料可用於個人化使用者與 Workday 應用程式的互動。 | 否 |  |
 
 

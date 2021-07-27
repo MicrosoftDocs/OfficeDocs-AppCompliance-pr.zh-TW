@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Woobot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: db31998a57de8faf11ebd7fff774842629654651
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a90381852e60e09402b766607413154b8da11704
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550823"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528049"
 ---
 # <a name="woobot"></a>Woobot
 
@@ -69,7 +69,7 @@ ms.locfileid: "52550823"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 若要將 Salesforce 使用者對應至 Teams 使用者，我們需要一個小組使用者 IDs 清單。 我們也會儲存小組和通道名稱，讓使用者可以將通知傳送給這些小組。 此外，我們還會儲存哪些小組使用者 IDs 已由應用程式 welcomed，而且沒有這些使用者加入小組，如此一來，當新的使用者加入小組時，woobot 可以親自為使用者加入。 我們也會儲存小組和通道名稱，讓使用者可以將通知傳送給這些小組。 |  使用者識別碼、小組識別碼及小組名稱、通道識別碼及通道名稱，以及哪些使用者是 Teams 的成員。 |  |
 
 

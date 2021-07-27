@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: atSpoke 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b3e3027c83c78373347a972124853add6214ee8d
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2d72ea33577e386c61be6bcd09feeba813e9e1f5
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283387"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528099"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -55,10 +55,10 @@ Townsend 大街 Labs，Inc. 所提供的資訊給 Microsoft：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 委託 | atSpoke 儲存 Microsoft 群組識別碼 | 允許在 atSpoke 和 Microsoft Teams 之間讀取及寫入群組資訊的功能。  | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
->| User.ReadWrite.All | 委託 | atSpoke 儲存使用者的電子郵件和使用者識別碼 | 允許在 atSpoke 與 Microsoft Teams 之間讀取及寫入使用者資訊的功能。 | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
->| offline_access | 委託 | atSpoke 未儲存任何資料。 | 這種功能用於背景同步處理。 | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 委託 | atSpoke 儲存 Microsoft 群組識別碼 | 允許在 atSpoke 和 Microsoft Teams 之間讀取及寫入群組資訊的功能。  | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
+>| User.ReadWrite.All | 委託 | atSpoke 儲存使用者的電子郵件和使用者識別碼 | 允許在 atSpoke 與 Microsoft Teams 之間讀取及寫入使用者資訊的功能。 | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
+>| offline_access | 委託 | atSpoke 未儲存任何資料。 | 這種功能用於背景同步處理。 | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -66,7 +66,7 @@ Townsend 大街 Labs，Inc. 所提供的資訊給 Microsoft：
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 是的，我們使用協力廠商服務以取得運作效率。 Google，Inc.：儲存在邏輯磁片區、本機 Google 雲端網路中的儲存區備份、服務和 API 記錄檔或應用程式記錄檔中的資料。 記錄的事務性事件可以包含使用者識別碼 (s) 、連絡人資訊和客戶內容。 MongoDB，Inc.：儲存在雲端架構資料庫集合中的資料。 -包含使用者所要求之要求的客戶內容，回應使用者新增的要求和使用者新增的知識文章。 -使用者識別碼 (用來建立分支使用者帳戶) 的名稱、電子郵件、頭像和電話號碼。 Mailgun 技術，Inc.：使用者識別碼和聯繫資訊，用以傳送電子郵件通訊 (例如 name 和 email) 。 Twilio，Inc.：使用者電話號碼和客戶內容：透過 Twilio&#8217;s 服務（如文字、郵件內文、語音和影片媒體、影像及聲音）的使用方式來交換內容。 Mixpanel，Inc.：已傳輸的個人資料包括郵件內容中包含的名稱、電子郵件、IP 位址和個人資料。 Cloudinary，Inc.：由使用者提交的檔案型客戶內容。 Elasticsearch，Inc.：記錄的應用程式事務性事件可能包含來自客戶內容的截斷文字。 縫合，Inc.：連絡人資訊、使用資訊、訂閱者授權使用者的非傳統識別碼，以及訂閱者或其授權使用者提交至平臺的任何其他個人資料。 Mode Analytics，Inc.： User 識別碼 (s) 資訊，以提供每位使用者的 Analytics。 DataDog：已記錄應用程式的事務性事件可能包含來自客戶內容的截斷文字;記錄保留為14天。 Fullstory，Inc.：在 web 使用者介面上進行的動作錄製;包括分支的使用者帳戶，以供識別之用。 |  | 我們正在使用 Bot 架構 REST API。 我們使用此 API 來傳送和接收郵件至 askSpoke bot 服務。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
@@ -74,7 +74,7 @@ Townsend 大街 Labs，Inc. 所提供的資訊給 Microsoft：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 它可讓 atSpoke 同步處理使用者 Microsoft Teams 以建立使用者及定義許可權。 | atSpoke 只會儲存電子郵件，讓 Microsoft Teams 使用者能夠以有效的使用者身分登入 atSpoke。 |  |
 
 

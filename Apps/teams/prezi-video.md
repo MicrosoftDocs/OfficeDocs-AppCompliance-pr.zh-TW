@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Prezi 影片的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8bd0c290442e01f6f7a07f39bc38f2f7ece2123b
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8e7e9c70ee848fd284e3297a915ec9847d3ef1ee
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283137"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521244"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -62,7 +62,7 @@ ms.locfileid: "53283137"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 如需詳細資訊，請造訪 https://prezi.com/privacy-policy/ |  | 您可以使用下列 APIs/SDK 進行整合，以及使用1。 Botbuilder-SDK (python) ：使用此 SDK，我們會將 API 所參照的 Azure Active Directory 物件識別碼儲存 (aad_object_id) 。 我們需要此資訊才能將 Microsoft Teams 使用者對應至 prezi.com 上建立的任何 Prezi 影片相關內容。  2. Botbuilder-js (javascript) ：不使用此 SDK 收集 Microsoft Teams 特定資料。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
@@ -70,7 +70,7 @@ ms.locfileid: "53283137"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Bot 不會存取提及的名單資訊。 | Bot 不會存取提及的名單資訊。 |  |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: InStation 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 46b7c4131e1f3897036cf0b2180b2f99c2e6ff2c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1db56e204dc2fd83916a9ec6f2b20a13e02ed357
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282026"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521806"
 ---
 # <a name="instation"></a>InStation
 
@@ -55,17 +55,17 @@ Invillia 至 Microsoft 的開發人員提供的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| OnlineMeetings Read。 All | 委託 | 儲存區：識別碼、join_url、join_web_url 及 chat_id。 允許應用程式建立會議 | 儲存區：識別碼、join_url、join_web_url 及 chat_id。 允許應用程式建立會議 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| OnlineMeetings ReadWrite。 | 委託 | 儲存區：識別碼、join_url、join_web_url 及 chat_id。 允許應用程式建立會議 | 儲存區：識別碼、join_url、join_web_url 及 chat_id。 允許應用程式建立會議 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| 顯示狀態。讀取 | 委託 | 允許此應用程式在第一步登入組織 | 活動和可用性。 允許此應用程式捕獲使用者狀態; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| 目前狀態為 [已讀取]。 | 委託 | 允許此應用程式在第一步登入組織， | 活動和可用性。 允許此應用程式捕獲使用者狀態; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| User.Read | 委託 | 儲存：識別碼、郵件、顯示名稱、姓和圖片。 允許此應用程式搜尋使用者資料; | 儲存：識別碼、郵件、顯示名稱、姓和圖片。 允許此應用程式搜尋使用者資料; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| User.Read.All | 委託 | 儲存：識別碼、郵件、顯示名稱、姓和圖片。 允許此應用程式搜尋使用者資料; | 儲存：識別碼、郵件、顯示名稱、姓和圖片。 允許此應用程式搜尋使用者資料; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| 電子郵件 | 委託 | 允許此應用程式在第一次登入時，對系統管理員&#180;基本資訊進行記錄 | 允許此應用程式在第一次登入時，對系統管理員&#180;基本資訊進行記錄 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| offline_access | 委託 | 儲存區： token 和重新整理權杖。 允許此應用程式在 MS token 上執行重新整理 | 儲存區： token 和重新整理權杖。 允許此應用程式在 MS token 上執行重新整理 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| openid | 委託 | 允許此應用程式在第一步登入組織 | 允許此應用程式在第一步登入組織 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| profile | 委託 | 允許此應用程式在第一次登入時，捕獲管理員&#180;基本資訊; | 允許此應用程式在第一次登入時，捕獲管理員&#180;基本資訊; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| OnlineMeetings Read。 All | 委託 | 儲存區：識別碼、join_url、join_web_url 及 chat_id。 允許應用程式建立會議 | 儲存區：識別碼、join_url、join_web_url 及 chat_id。 允許應用程式建立會議 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| OnlineMeetings ReadWrite。 | 委託 | 儲存區：識別碼、join_url、join_web_url 及 chat_id。 允許應用程式建立會議 | 儲存區：識別碼、join_url、join_web_url 及 chat_id。 允許應用程式建立會議 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| 顯示狀態。讀取 | 委託 | 允許此應用程式在第一步登入組織 | 活動和可用性。 允許此應用程式捕獲使用者狀態; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| 目前狀態為 [已讀取]。 | 委託 | 允許此應用程式在第一步登入組織， | 活動和可用性。 允許此應用程式捕獲使用者狀態; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| User.Read | 委託 | 儲存：識別碼、郵件、顯示名稱、姓和圖片。 允許此應用程式搜尋使用者資料; | 儲存：識別碼、郵件、顯示名稱、姓和圖片。 允許此應用程式搜尋使用者資料; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| User.Read.All | 委託 | 儲存：識別碼、郵件、顯示名稱、姓和圖片。 允許此應用程式搜尋使用者資料; | 儲存：識別碼、郵件、顯示名稱、姓和圖片。 允許此應用程式搜尋使用者資料; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| 電子郵件 | 委託 | 允許此應用程式在第一次登入時，對系統管理員&#180;基本資訊進行記錄 | 允許此應用程式在第一次登入時，對系統管理員&#180;基本資訊進行記錄 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| offline_access | 委託 | 儲存區： token 和重新整理權杖。 允許此應用程式在 MS token 上執行重新整理 | 儲存區： token 和重新整理權杖。 允許此應用程式在 MS token 上執行重新整理 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| openid | 委託 | 允許此應用程式在第一步登入組織 | 允許此應用程式在第一步登入組織 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| profile | 委託 | 允許此應用程式在第一次登入時，捕獲管理員&#180;基本資訊; | 允許此應用程式在第一次登入時，捕獲管理員&#180;基本資訊; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

@@ -1,20 +1,20 @@
 ---
-title: Microsoft Teams App 安全性與合規性 - 所有 Apps
+title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 3aff0e5fd1a550d3b0a786711bb1e82ff895a5cd
-ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
+ms.openlocfilehash: e69279442c6edf7d53ff05120691eaf9975fd259
+ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339783"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53547861"
 ---
-# <a name="microsoft-teams-app-security-and-compliance"></a>Microsoft Teams App 安全性與合規性
+# <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
 Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加速做出有關 Microsoft Teams 應用程式和所使用之附加元件決策所需的資訊。 此資訊會納入 [Microsoft 雲端 App 安全性](https://www.microsoft.com/zh-TW/enterprise-mobility-security/cloud-app-security) 應用程式目錄 ，以及開發人員提交其應用程式時所提供的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
@@ -28,6 +28,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [敏捷任務面板](./agile-is-task-board.md) | Agile-IS | **✓** |  |
 | [Alvao 服務台](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [ApproveSimple](./capriza-inc-approvesimple.md) | Capriza， Inc | **✓** |  |
+| [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [askR.ai](./askrai.md) | askR.ai | **✓** |  |
 | [組件](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
@@ -59,6 +60,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Cloverpop](./cloverpop.md) | Cloverpop | **✓** |  |
 | [COCO](./hexaware-technologies-ltd-coco.md) | Hexaware Technologies Ltd. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [CodeStream](./codestream.md) | CodeStream | **✓** |  |
 | [Complish](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [會議 i/O](./conferences-io.md) | 會議 i/O | **✓** |  |
 | [Connect+](./reward-gateway-connectplus.md) | Reward Gateway | **✓** |  |
@@ -85,6 +87,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Freehand](./invisionapp-inc-freehand.md) | InVisionApp Inc. | **✓** |  |
 | [Freshdesk](./freshworks-inc-freshdesk.md) | Freshworks INC | **✓** |  |
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  |
+| [GitHub](./microsoft-corporation-github.md) | Microsoft Corporation | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
 | [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [Google Analytics 深入解析](./freevolut-ltd-google-analytics-insights.md) | Freevolut LTD | **✓** |  |
@@ -133,6 +136,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [Navo](./regroove-solutions-navo.md) | Regroove Solutions | **✓** |  |
 | [netDocShare](./kl-software-technologies-netdocshare.md) | KL Software Technologies | **✓** |  |
+| [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [現在虛擬代理程式](./servicenow-now-virtual-agent.md) | ServiceNow | **✓** |  |
 | [Nugget](./panviva-nugget.md) | Panviva | **✓** |  |
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  |
@@ -231,7 +235,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
 | [Workboard](./workboard.md) | Workboard | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Workday](./workday.md) | Workday | **✓** |  |
-| [Wrike](./wrike-inc.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365](./jiji-technologies-pvt-ltd-wunder365.md) | JiJi Technologies Pvt Ltd | **✓** |  |
 | [Yeeflow](./akmii-yeeflow.md) | Akmii | **✓** |  |
 | [Zoho CRM](./zoho-corporation-pvt-ltd-crm.md) | Zoho Corporation Pvt Ltd | **✓** |  |

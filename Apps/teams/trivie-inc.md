@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Trivie 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3130bccb3e639100603e9790e247a8ca0f151102
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: bca1ad16887845cabb03642b6e456491271df206
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283369"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528089"
 ---
 # <a name="trivie"></a>Trivie
 
@@ -63,7 +63,7 @@ Trivie，Inc. 已提供此資訊。關於此應用程式如何收集和儲存組
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS、MailGun、OneSignal | 公司名稱 | 法律基礎：合法的興趣/合約 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

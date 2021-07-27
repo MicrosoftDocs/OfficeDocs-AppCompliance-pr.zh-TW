@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Qubie 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cc884ffa130d572003051bc3516f9a51785948ad
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d0873a510d894772d494487c293551e12dceb929
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282477"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528119"
 ---
 # <a name="qubie"></a>Qubie
 
@@ -69,7 +69,7 @@ ms.locfileid: "53282477"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 當您刪除小組聊天中的批註時顯示名稱，並回應導致錯誤的使用者或傳送問題的使用者。 回應檔案為 bug 的使用者，或有問題的使用者。 顯示小組效能問題時顯示，讓使用者知道問題的內容。 顯示報表及圖形時顯示小組名稱。 | 顯示名稱、電子郵件地址、小組名稱  |  |
 
 

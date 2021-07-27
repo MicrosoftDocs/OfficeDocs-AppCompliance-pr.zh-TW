@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ScrumGenius 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fb8b30ddc27b512a5731ef3ec42cb76ed097c56c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: be8873fecd5dc50ab4db6def68c7c25f73e677fd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283047"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521036"
 ---
 # <a name="scrumgenius"></a>ScrumGenius
 
@@ -55,9 +55,9 @@ ms.locfileid: "53283047"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 委託 | 在使用者的行事曆中設定的假期日期。 | 讓使用者能夠與 ScrumGenius 同步處理其假期。 |  |
->| User.Read | 委託 | 使用者的名稱和電子郵件地址。 | 允許使用者以 Microsoft 登入的方式登入。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 委託 | 在使用者的行事曆中設定的假期日期。 | 讓使用者能夠與 ScrumGenius 同步處理其假期。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委託 | 使用者的名稱和電子郵件地址。 | 允許使用者以 Microsoft 登入的方式登入。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -71,7 +71,7 @@ ms.locfileid: "53283047"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 我們存取小組名單，所以當小組管理員安裝 scrumgenius 時，我們可以與 scrumgenius 同步處理團隊名單的其餘部分，讓我們能夠將其與我們的平臺進行同步處理，讓他們能夠設定 standup 報告，並指派應該取得報告的小組成員。 | 名字、姓氏、顯示名稱、電子郵件地址 |  |
 
 

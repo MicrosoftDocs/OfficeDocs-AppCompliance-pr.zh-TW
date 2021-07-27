@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于發票和時間追蹤的安全性和符合性資訊資訊 Zoho 發票、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0a3e8afb7be998c2fba33e7c4320956cbd990ef3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3879f8b00191c9dbd9f712e685430d0360bb74fb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281575"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527869"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Zoho 發票的發票和時間追蹤
 
@@ -54,15 +54,15 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 連絡人。已讀取 | 委託 |  |  允許使用者與 Zoho 發票同步處理 Office365 連絡人。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Read | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 傳送郵件 | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Export。所有 | 委託 |  | 允許使用者匯出所有使用者相關資訊。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | 委託 |  | 允許使用者登入和讀取使用者設定檔。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 委託 |  | 允許使用者將 Office365 使用者匯入 Zoho。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 電子郵件 | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 連絡人。已讀取 | 委託 |  |  允許使用者與 Zoho 發票同步處理 Office365 連絡人。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Mail.Read | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 傳送郵件 | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Export。所有 | 委託 |  | 允許使用者匯出所有使用者相關資訊。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read.All | 委託 |  | 允許使用者登入和讀取使用者設定檔。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 委託 |  | 允許使用者將 Office365 使用者匯入 Zoho。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 電子郵件 | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

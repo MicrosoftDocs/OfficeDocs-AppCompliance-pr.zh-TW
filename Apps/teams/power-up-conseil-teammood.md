@@ -2,24 +2,24 @@
 title: 透過通電 Conseil 的 TeamMood 應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/05/2021
+ms.date: 06/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TeamMood 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83135e227edd83a4bf807f7a1c7d27cd094d3b4c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e64ee816ff86bfacca7e479d8d36a95272bd2e44
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551833"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521272"
 ---
 # <a name="teammood"></a>TeamMood
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年1月5日</p>
+<p>上次於開發人員的更新日期：2021年6月30日</p>
 
 * <a href="https://teams.microsoft.com/l/app/670cd639-d430-4972-87b5-4c2eb18af991" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002451" target="_blank">在 AppSource 中查看</a>
@@ -63,7 +63,7 @@ ms.locfileid: "52551833"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS | 公司電子郵件地址，firstname，lastname | 電子郵件地址以管理 TeamMood 上的帳戶。 Firstnames 和 lastnames，以自訂與使用者的通訊。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

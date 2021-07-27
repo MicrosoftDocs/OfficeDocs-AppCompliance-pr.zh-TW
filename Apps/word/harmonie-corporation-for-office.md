@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: harmon.ie Office 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9c04ab6e1a50167fbf489191e5845f86cb09ee00
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: c5a4cc10fdb936e6e0a9c04cc492cd301a374cd8
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283319"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527999"
 ---
 # <a name="harmonie-for-office"></a>Office 的 harmon.ie
 
@@ -54,11 +54,11 @@ Harmon.ie Corporation 已提供此資訊，讓您瞭解此應用程式如何收�
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 委託 | harmon.ie 為允許使用者登入並取得使用者角色的 Outlook 所需 | 無 | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Files.ReadWrite.All | 委託 | harmon.ie Outlook 以允許其從 Outlook 傳送電子郵件 &amp; 附件，並將其儲存至 SharePoint | 無 | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| 郵件。 ReadWrite | 委託 | harmon.ie Outlook 以允許其從 Outlook 傳送電子郵件 &amp; 附件，並將其儲存至 SharePoint | 無 | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| User.Read | 委託 | harmon.ie Outlook 解析使用者設定檔圖片所需 | 無 | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 委託 | harmon.ie 為允許使用者登入並取得使用者角色的 Outlook 所需 | 無 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| Files.ReadWrite.All | 委託 | harmon.ie Outlook 以允許其從 Outlook 傳送電子郵件 &amp; 附件，並將其儲存至 SharePoint | 無 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| 郵件。 ReadWrite | 委託 | harmon.ie Outlook 以允許其從 Outlook 傳送電子郵件 &amp; 附件，並將其儲存至 SharePoint | 無 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| User.Read | 委託 | harmon.ie Outlook 解析使用者設定檔圖片所需 | 無 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

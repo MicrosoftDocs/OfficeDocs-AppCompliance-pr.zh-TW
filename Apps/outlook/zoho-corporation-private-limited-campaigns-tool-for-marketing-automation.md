@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho 活動工具的所有可用安全性和符合性資訊資訊，用於行銷自動化、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e54e3313dcfa51542439775a0c3ca0cae38aca93
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b6b0137447f5de7d7ef2394c32eb6996772852ad
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281585"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527889"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>行銷自動化的 Zoho 活動工具
 
@@ -54,16 +54,16 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 委託 | [行事曆] 識別碼會儲存為從 Zoho 活動建立該行事曆中的事件。 | 允許使用者匯入 Office365 行事曆事件至 Zoho 活動。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| ReadWrite 的行事曆 | 委託 |  | 可讓使用者將 Zoho 的促銷事件新增至 Office365 行事曆。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 連絡人。已讀取 | 委託 |  以儲存連絡人資訊。 | 可讓使用者將 Office365 連絡人匯入 Zoho 活動。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 連絡人。 ReadWrite | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 電子郵件 | 委託 | 會儲存電子郵件以供使用者識別。 |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 委託 | [行事曆] 識別碼會儲存為從 Zoho 活動建立該行事曆中的事件。 | 允許使用者匯入 Office365 行事曆事件至 Zoho 活動。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| ReadWrite 的行事曆 | 委託 |  | 可讓使用者將 Zoho 的促銷事件新增至 Office365 行事曆。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 連絡人。已讀取 | 委託 |  以儲存連絡人資訊。 | 可讓使用者將 Office365 連絡人匯入 Zoho 活動。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 連絡人。 ReadWrite | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 電子郵件 | 委託 | 會儲存電子郵件以供使用者識別。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

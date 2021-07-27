@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Highspot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: edf40b51503f3de332205180d3d4ded47ab5523f
-ms.sourcegitcommit: 1b9ad544fd91bb0fb25e467baf2d368a812dc476
+ms.openlocfilehash: bbf47f6b42e1f77fefed8de24ce23858e5cb52fd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52927262"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521596"
 ---
 # <a name="highspot"></a>Highspot
 
@@ -62,7 +62,7 @@ ms.locfileid: "52927262"
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Microsoft 團隊 API | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -70,7 +70,7 @@ ms.locfileid: "52927262"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| https://engage.highspot.com/viewer/5e0f9071628ba277fd1c3dc5?iid=5e1fb2a5b7b7391d951d4c86 | https://engage.highspot.com/viewer/5e0f9071628ba277fd1c3dc5?iid=5e1fb2a5b7b7391d951d4c86 | https://engage.highspot.com/viewer/5e0f9071628ba277fd1c3dc5?iid=5e1fb2a5b7b7391d951d4c86 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
@@ -78,7 +78,7 @@ ms.locfileid: "52927262"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 若為歡迎訊息，使用使用者名稱。 | 否 |  |
 
 

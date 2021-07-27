@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Datto Workplace 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f9fef03b74c027e2c0cb38383ca25ba10f536402
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: 4ef677fa279ae9caed2b559ef587b3da7d8b5ab7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987749"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521846"
 ---
-# <a name="datto-workplace"></a>Datto 工作場所
+# <a name="datto-workplace"></a>Datto Workplace
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Datto，Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Datto 工作場所 |
+| 應用程式名稱 | Datto Workplace |
 | ID | WA200001987 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Datto，Inc.。 |
+| 合作夥伴公司名稱 | Datto, Inc. |
 | 合作夥伴網站的 URL | [https://datto.com](https://datto.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.datto.com/products/workplace](https://www.datto.com/products/workplace) |
 | 隱私權原則的 URL | [https://us.workplace.datto.com/partner/at/eula/ps_enOnly_20...](https://us.workplace.datto.com/partner/at/eula/ps_enOnly_2018_05_18.html) |
@@ -69,7 +69,7 @@ Datto，Inc. 已提供此資訊。關於此應用程式如何收集和儲存組�
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 需要存取檔 | 使用者識別碼、電子郵件地址 | 檔案存取、驗證 |
 
 
