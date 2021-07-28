@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7061510a0fb54a3e46e9ca80032a93e97a0e5868
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: a91a3ac8e1d7ead5a469a88787b4b5809d48615a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281055"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524726"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -62,7 +62,7 @@ SHEETGO 歐 SL 會提供此資訊，此應用程式會如何收集和儲存組�
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| MongoDB：記錄系統和使用者資料以供運作、Google BigQuery：記錄系統記錄使用量、Google Firestore：維護和協調我們 microservices 狀態的系統（帶區：付款系統） |  | 這些應用程式不會使用其他 Microsoft APIs |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SecretaryBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bff3e6ebffc94861dc4112375ac943124b4fe386
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8d7e2fce37cf43fe52cb050e85aa9e4fd5e00802
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551883"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525447"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 
@@ -56,15 +56,15 @@ ms.locfileid: "52551883"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 已讀取行事曆。共用 | 委託 |  | 提取使用者及其同事的閒置時間資訊。 |  |
->| ReadWrite 的行事曆 | 委託 |  | 傳送會議要求，而不是使用者。 |  |
->| MailboxSettings 讀取 | 委託 | 儲存語言以顯示正確的 langage。 將時區儲存為可正確地呼叫 MS Graph calendar API | 提取使用者的語言和時區設定。 |  |
->| 個人讀取 | 委託 |  | 嘗試尋找與使用者有牢固關係的同事。 |  |
->| User.Read | 委託 | 儲存使用者分析的使用者名稱、城市、國家及語言。 儲存電子郵件以與客戶聯繫。 我們從未使用過的電子郵件地址，但可用於支援。 | 嘗試尋找使用者的國家及慣用語言。 用於 MailboxSettings 備份。請參閱。 |  |
->| 電子郵件 | 委託 | 請參閱上述內容。 | 儲存電子郵件。 |  |
->| openid | 委託 |  | OpenID 驗證。 |  |
->| profile | 委託 | 儲存 OID 以在 MS identity system 中識別使用者的唯一識別碼。 | 取得使用者名稱及 OID。 嘗試使用 OID 在未來 Outlook 增益集。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 已讀取行事曆。共用 | 委託 |  | 提取使用者及其同事的閒置時間資訊。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| ReadWrite 的行事曆 | 委託 |  | 傳送會議要求，而不是使用者。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| MailboxSettings 讀取 | 委託 | 儲存語言以顯示正確的 langage。 將時區儲存為可正確地呼叫 MS Graph calendar API | 提取使用者的語言和時區設定。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 個人讀取 | 委託 |  | 嘗試尋找與使用者有牢固關係的同事。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委託 | 儲存使用者分析的使用者名稱、城市、國家及語言。 儲存電子郵件以與客戶聯繫。 我們從未使用過的電子郵件地址，但可用於支援。 | 嘗試尋找使用者的國家及慣用語言。 用於 MailboxSettings 備份。請參閱。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 電子郵件 | 委託 | 請參閱上述內容。 | 儲存電子郵件。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| openid | 委託 |  | OpenID 驗證。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 委託 | 儲存 OID 以在 MS identity system 中識別使用者的唯一識別碼。 | 取得使用者名稱及 OID。 嘗試使用 OID 在未來 Outlook 增益集。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -78,7 +78,7 @@ ms.locfileid: "52551883"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 使用此 infromation 排程小組會議 | 否 |  |
 
 

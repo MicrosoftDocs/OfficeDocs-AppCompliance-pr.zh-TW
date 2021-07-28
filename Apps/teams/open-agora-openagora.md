@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OpenAgora 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e078e126a4d155fedc2cda86e12ff1341722962c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c1538e5ad361469b5c8b3c07a085ed91d45a70dd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551863"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525407"
 ---
 # <a name="openagora"></a>OpenAgora
 
@@ -56,8 +56,8 @@ ms.locfileid: "52551863"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 使用者&#8217;s Azure Active Directory 識別碼。 | 使用者識別碼，以確保使用者只能看到和管理其所看到的資料。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 使用者&#8217;s Azure Active Directory 識別碼。 | 使用者識別碼，以確保使用者只能看到和管理其所看到的資料。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -71,7 +71,7 @@ ms.locfileid: "52551863"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| **Name** -用於顯示 voter 的名稱。 **電子郵件**-用於識別小組和聊天中的使用者;用為 voter 的唯一識別碼;用於在 Teams 內應答使用者的 feedbacks。 不會傳送未經傳遞的電子郵件給使用者。 | 名字和姓氏、顯示名稱、電子郵件地址 |  |
 
 

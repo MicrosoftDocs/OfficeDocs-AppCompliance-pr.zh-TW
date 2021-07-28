@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AtBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3f56d0b3eb19f5bed8f7092507c8605af936b911
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 94cc732dc5f6cf6416fd1b386271b3694d6f3698
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552134"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525617"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -56,15 +56,15 @@ ms.locfileid: "52552134"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 應用程式 | AAD 群組名稱、AAD 群組 GUID、UPN | 列舉 AAD 群組，以允許 bot 技能的安全性調整。 列舉使用者能夠套用授權。 列舉要新增為系統管理員/參與者的使用者 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| Directory.Read.All | 委託 | AAD 群組名稱、AAD 群組 GUID、UPN | 列舉 AAD 群組，以允許 bot 技能的安全性調整。 列舉使用者能夠套用授權。 列舉要新增為系統管理員/參與者的使用者 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| 個人讀取 | 委託 | 否 | 從 Flow 列舉「取得人員」動作中的人員。  允許 bot 從 Microsoft Graph 中的/People 端點中取得人員。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| User.Read | 委託 | 租使用者識別碼（UPN） | 讓我們能夠存取使用者&#8217;s 租使用者識別碼和 UPN，以允許我們將所建立的流量/邏輯應用程式，與建立它們的使用者關聯。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| 電子郵件 | 委託 | 否 | 讓我們能夠存取使用者的電子郵件地址。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| offline_access | 委託 | 存取/重新整理權杖。 | 允許我們使用重新整理權杖，讓使用者保持登入。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| openid | 委託 | 否 | 允許使用者登入。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| profile | 委託 | UPN | 存取使用者的 UPN。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 應用程式 | AAD 群組名稱、AAD 群組 GUID、UPN | 列舉 AAD 群組，以允許 bot 技能的安全性調整。 列舉使用者能夠套用授權。 列舉要新增為系統管理員/參與者的使用者 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | 委託 | AAD 群組名稱、AAD 群組 GUID、UPN | 列舉 AAD 群組，以允許 bot 技能的安全性調整。 列舉使用者能夠套用授權。 列舉要新增為系統管理員/參與者的使用者 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| 個人讀取 | 委託 | 否 | 從 Flow 列舉「取得人員」動作中的人員。  允許 bot 從 Microsoft Graph 中的/People 端點中取得人員。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| User.Read | 委託 | 租使用者識別碼（UPN） | 讓我們能夠存取使用者&#8217;s 租使用者識別碼和 UPN，以允許我們將所建立的流量/邏輯應用程式，與建立它們的使用者關聯。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| 電子郵件 | 委託 | 否 | 讓我們能夠存取使用者的電子郵件地址。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| offline_access | 委託 | 存取/重新整理權杖。 | 允許我們使用重新整理權杖，讓使用者保持登入。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| openid | 委託 | 否 | 允許使用者登入。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| profile | 委託 | UPN | 存取使用者的 UPN。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -78,7 +78,7 @@ ms.locfileid: "52552134"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 在 bot 產生的聊天訊息中建立提及 | 否 |  |
 
 
@@ -86,7 +86,7 @@ ms.locfileid: "52552134"
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->租使用者識別碼，使用 Application Insights 的 UPN，我們的記錄會持續達90天，然後才會自動封存。 (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
+>租使用者識別碼（UPN）使用應用程式 Insights，我們的記錄會在過去90天后自動封存。 (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 

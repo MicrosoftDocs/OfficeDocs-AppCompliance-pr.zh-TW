@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Saberr 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ccaa5375c606778ce1869ed9fae7998f4d3dc3f7
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 4445df9966efc07b0aa2e80b4ec7c061b451e343
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283087"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524766"
 ---
 # <a name="saberr"></a>Saberr
 
@@ -56,15 +56,15 @@ ms.locfileid: "53283087"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | Email、first name 和 last name。 用於在我們的 API 中建立帳戶。 | Email、first name 和 last name。 用於在我們的 API 中建立帳戶。 | 9de91aee-708c-4d9f-958b-109fdb79d993 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | Email、first name 和 last name。 用於在我們的 API 中建立帳戶。 | Email、first name 和 last name。 用於在我們的 API 中建立帳戶。 | [9de91aee-708c-4d9f-958b-109fdb79d993](https://docs.microsoft.com/microsoft-365-app-certification/azure/9de91aee-708c-4d9f-958b-109fdb79d993) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Microsoft BOT API | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -72,7 +72,7 @@ ms.locfileid: "53283087"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS、時差、Pipedrive、Google、Mailchimp、Intercom、Cronofy | 公司名稱、使用者名稱、使用者電子郵件地址 | 使用者必須與其組織相關聯，才能使用會議等功能。 我們只會傳輸 EUII/OII 所需的服務，以建立這些內部應用程式組織，並使用這些應用程式進行簽約。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
@@ -80,7 +80,7 @@ ms.locfileid: "53283087"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 我們需要在 API 中建立帳戶的電子郵件、名字和姓氏 | 電子郵件、名字、姓氏 | 在我們的 API 中建立帳戶的必要條件 |
 
 

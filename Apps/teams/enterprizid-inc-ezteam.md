@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ezTeam 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: da54d5a540fd43c2bdc25a6f4e31ba88520ecbc3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6c4ad813b21963005857c69a05727ca261a73f9c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553174"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525657"
 ---
 # <a name="ezteam"></a>ezTeam
 
@@ -56,31 +56,31 @@ EnterprizID Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog Read。 All | 委託 | 可在 Teams 使用的應用程式清單，讓我們可以在 Teams 要求建立程式上顯示它 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Application。 Read。 All | 委託 | 允許此應用程式代表已登入的使用者讀取應用程式和服務主體。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.AccessAsUser.All | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.Read.All | 委託 | 允許此應用程式讀取組織目錄中的資料，例如使用者、群組和應用程式。 | Teams擁有權和成員資格資訊  | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.Read.All | 應用程式 | 允許此應用程式讀取組織目錄中的資料，例如使用者、群組和應用程式，而無需登入的使用者。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.ReadWrite.All | 委託 | 允許此應用程式讀取及寫入您組織的目錄中的資料，例如使用者和群組 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.ReadWrite.All | 應用程式 | 允許此應用程式讀取及寫入您組織的目錄中的資料，例如使用者和群組，而不需要登入的使用者。 不允許刪除使用者或群組。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Files.Read.All | 應用程式 | 允許此應用程式在未登入的使用者中讀取所有網站集合中的所有檔案。 | 使用者管理下的資料量（GB） | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group。建立 | 應用程式 | 允許此應用程式建立沒有登入使用者的群組。 | 新的群組屬性詳細資料。 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.Read.All | 委託 | 允許應用程式列出群組，並代表登入的使用者讀取其屬性及所有群組成員資格。 用於判斷我的 Teams  | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.Read.All | 應用程式 | 允許此應用程式讀取群組屬性和成員資格，並讀取所有群組的行事曆和交談，而不需要登入的使用者。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.ReadWrite.All | 委託 | 允許此應用程式代表登入的使用者建立群組，以及讀取所有群組屬性和成員資格。  | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.ReadWrite.All | 應用程式 | 允許此應用程式建立群組、讀取所有群組屬性和成員資格、更新群組屬性和成員資格，以及刪除群組。 也可讓應用程式讀取及寫入群組行事曆中和交談。  | 小組的最後一個活動。 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| GroupMember Read。 All | 應用程式 | 允許應用程式讀取所有群組的成員資格和基本群組內容，而無需登入的使用者。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| GroupMember ReadWrite。 | 應用程式 | 允許此應用程式列出群組、讀取基本屬性、讀取和更新此應用程式沒有登入使用者存取權的群組成員資格。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| 已讀取的人員。所有 | 應用程式 | 允許此應用程式讀取任何使用者的相關人員得分清單，而不需要登入的使用者。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Reports。已讀取。所有 | 委託 | 允許應用程式代表已登入的使用者讀取所有服務使用方式報告。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Reports。已讀取。所有 | 應用程式 | 允許應用程式讀取所有未登入使用者的服務使用方式報告。 | 每個群組的最後一個使用者活動 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Sites.ReadWrite.All | 應用程式 | 允許此應用程式在未登入使用者的情況下，建立、讀取、更新及刪除所有網站集合中的檔和清單專案。 | 依每個使用者大小的前10個網站 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| User.Read.All | 應用程式 | 允許應用程式讀取使用者設定檔，而無需登入的使用者。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| offline_access | 委託 | 讓應用程式可以查看和更新您可存取的資料，即使使用者目前並未使用此應用程式也是一樣。  | Bot 通知 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| openid | 委託 | 允許使用者利用其工作或學校帳戶登入應用程式，並讓應用程式可以查看基本的使用者設定檔資訊。 | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| profile | 委託 | 讓應用程式可以查看您的使用者基本設定檔 (名稱、圖片、使用者名稱)  | 不適用 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog Read。 All | 委託 | 可在 Teams 使用的應用程式清單，讓我們可以在 Teams 要求建立程式上顯示它 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Application。 Read。 All | 委託 | 允許此應用程式代表已登入的使用者讀取應用程式和服務主體。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.AccessAsUser.All | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.Read.All | 委託 | 允許此應用程式讀取組織目錄中的資料，例如使用者、群組和應用程式。 | Teams擁有權和成員資格資訊  | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.Read.All | 應用程式 | 允許此應用程式讀取組織目錄中的資料，例如使用者、群組和應用程式，而無需登入的使用者。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.ReadWrite.All | 委託 | 允許此應用程式讀取及寫入您組織的目錄中的資料，例如使用者和群組 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.ReadWrite.All | 應用程式 | 允許此應用程式讀取及寫入您組織的目錄中的資料，例如使用者和群組，而不需要登入的使用者。 不允許刪除使用者或群組。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Files.Read.All | 應用程式 | 允許此應用程式在未登入的使用者中讀取所有網站集合中的所有檔案。 | 使用者管理下的資料量（GB） | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group。建立 | 應用程式 | 允許此應用程式建立沒有登入使用者的群組。 | 新的群組屬性詳細資料。 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.Read.All | 委託 | 允許應用程式列出群組，並代表登入的使用者讀取其屬性及所有群組成員資格。 用於判斷我的 Teams  | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.Read.All | 應用程式 | 允許此應用程式讀取群組屬性和成員資格，並讀取所有群組的行事曆和交談，而不需要登入的使用者。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.ReadWrite.All | 委託 | 允許此應用程式代表登入的使用者建立群組，以及讀取所有群組屬性和成員資格。  | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.ReadWrite.All | 應用程式 | 允許此應用程式建立群組、讀取所有群組屬性和成員資格、更新群組屬性和成員資格，以及刪除群組。 也可讓應用程式讀取及寫入群組行事曆中和交談。  | 小組的最後一個活動。 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| GroupMember Read。 All | 應用程式 | 允許應用程式讀取所有群組的成員資格和基本群組內容，而無需登入的使用者。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| GroupMember ReadWrite。 | 應用程式 | 允許此應用程式列出群組、讀取基本屬性、讀取和更新此應用程式沒有登入使用者存取權的群組成員資格。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| 已讀取的人員。所有 | 應用程式 | 允許此應用程式讀取任何使用者的相關人員得分清單，而不需要登入的使用者。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Reports。已讀取。所有 | 委託 | 允許應用程式代表已登入的使用者讀取所有服務使用方式報告。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Reports。已讀取。所有 | 應用程式 | 允許應用程式讀取所有未登入使用者的服務使用方式報告。 | 每個群組的最後一個使用者活動 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Sites.ReadWrite.All | 應用程式 | 允許此應用程式在未登入使用者的情況下，建立、讀取、更新及刪除所有網站集合中的檔和清單專案。 | 依每個使用者大小的前10個網站 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| User.Read.All | 應用程式 | 允許應用程式讀取使用者設定檔，而無需登入的使用者。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| offline_access | 委託 | 讓應用程式可以查看和更新您可存取的資料，即使使用者目前並未使用此應用程式也是一樣。  | Bot 通知 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| openid | 委託 | 允許使用者利用其工作或學校帳戶登入應用程式，並讓應用程式可以查看基本的使用者設定檔資訊。 | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| profile | 委託 | 讓應用程式可以查看您的使用者基本設定檔 (名稱、圖片、使用者名稱)  | 不適用 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -94,7 +94,7 @@ EnterprizID Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 歡迎訊息、核准和證明處理常式通知 | 我們確實會儲存識別碼的顯示名稱  | 我們的工具可讓使用者建立不同服務專案的要求，並儲存申請者的顯示名稱。 要求會跟隨核准工作流程，而且我們需要核准者顯示名稱，才能在要求詳細資料中顯示。 此外，在小組認證程式的成員中，我們會列出成員的顯示名稱。 |
 
 

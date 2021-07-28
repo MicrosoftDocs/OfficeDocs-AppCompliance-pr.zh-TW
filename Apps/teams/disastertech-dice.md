@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: DisasterTech 骰子的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c9aceaf48c36012ad8c6eb062c1161746d55da6a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d8eec2ad9c7047a33dae446943c3ab2d934cc78c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281918"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525707"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -55,12 +55,12 @@ ms.locfileid: "53281918"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 儲存以用於建立存取權的使用者電子郵件地址，以及用以識別使用者名稱的使用者名稱 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無訊息登入，以及 Teams 登入，也可以建立使用者名稱和電子郵件地址。 | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| 電子郵件 | 委託 | 無 | Teams 單一 Sign-On 是必要的 | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| offline_access | 委託 | 無 | Teams 單一 Sign-On 是必要的 | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| openid | 委託 | 無 | Teams 單一 Sign-On 是必要的 | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| profile | 委託 | 無 | Teams 單一 Sign-On 是必要的。 | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 儲存以用於建立存取權的使用者電子郵件地址，以及用以識別使用者名稱的使用者名稱 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無訊息登入，以及 Teams 登入，也可以建立使用者名稱和電子郵件地址。 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| 電子郵件 | 委託 | 無 | Teams 單一 Sign-On 是必要的 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| offline_access | 委託 | 無 | Teams 單一 Sign-On 是必要的 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| openid | 委託 | 無 | Teams 單一 Sign-On 是必要的 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| profile | 委託 | 無 | Teams 單一 Sign-On 是必要的。 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: RingCentral 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2035f615146f8809d6113192d796d2760d87f50e
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: bb0787720195363368e3d822e45f173acee67870
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987754"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525397"
 ---
 # <a name="ringcentral"></a>RingCentral
 
@@ -35,7 +35,7 @@ RingCentral，Inc. 提供給 Microsoft 的資訊：
 | 應用程式名稱 | RingCentral |
 | ID | WA200000135 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | RingCentral，Inc.。 |
+| 合作夥伴公司名稱 | RingCentral, Inc. |
 | 合作夥伴網站的 URL | [https://www.ringcentral.com](https://www.ringcentral.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.ringcentral.com/apps/ringcentral-for-microsoft-...](https://www.ringcentral.com/apps/ringcentral-for-microsoft-teams) |
 | 隱私權原則的 URL | [https://www.ringcentral.com/legal/privacy-notice.html](https://www.ringcentral.com/legal/privacy-notice.html) |
@@ -55,12 +55,12 @@ RingCentral，Inc. 已提供此資訊。關於此應用程式如何收集和儲�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 |  允許應用程式透過他們的行事曆傳送會議邀請事件 | 無 |  0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| offline_access | 委託 |  允許應用程式取得並更新 oauth 權杖 |  存取 MS Graph API 的存取權杖和重新整理權杖 |  0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| User.Read | 委託 |  允許此應用程式讀取使用者&#8217;基本設定檔 (電子郵件、名稱) ，以便在我們的結束中執行連絡人相符。 並可讓使用者使用 RingCentral 帳戶登入並連結其 O365 帳戶 |  電子郵件、名字、姓氏 | 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| User.Read.All | 委託 | 允許應用程式使用電話號碼讀取使用者的完整設定檔，以便撥打我們的服務電話。 | 無 | 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 |  允許應用程式透過他們的行事曆傳送會議邀請事件 | 無 | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| offline_access | 委託 |  允許應用程式取得並更新 oauth 權杖 |  存取 MS Graph API 的存取權杖和重新整理權杖 | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read | 委託 |  允許此應用程式讀取使用者&#8217;基本設定檔 (電子郵件、名稱) ，以便在我們的結束中執行連絡人相符。 並可讓使用者使用 RingCentral 帳戶登入並連結其 O365 帳戶 |  電子郵件、名字、姓氏 | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read.All | 委託 | 允許應用程式使用電話號碼讀取使用者的完整設定檔，以便撥打我們的服務電話。 | 無 | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMeister 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bc3c15dabdcf5b01503d835f8cc45dccf8909539
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 75177ef60be80889a14c75fbb76bc1d4aaa9aa49
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282967"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525477"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -56,8 +56,8 @@ ms.locfileid: "53282967"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | AAD 識別碼、租使用者識別碼、電子郵件、displayName-用以識別應用程式內的每一位使用者，以及可以連結 MindMeister 特定資料與 Microsoft 使用者 (（即哪些對應屬於哪個使用者) ）。 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無訊息登入。 | d312ff80-0c2b-42ad-887b-c6392bcf6353 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | AAD 識別碼、租使用者識別碼、電子郵件、displayName-用以識別應用程式內的每一位使用者，以及可以連結 MindMeister 特定資料與 Microsoft 使用者 (（即哪些對應屬於哪個使用者) ）。 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無訊息登入。 | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -71,7 +71,7 @@ ms.locfileid: "53282967"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 識別 MindMeister 中已有連結的 Teams 使用者，並通知他們已安裝 bot。 | 我們不會儲存任何小組名單的資料 |  |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMup 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0bf09c9e6a144fb4415879577af4debcc5fc6713
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 070845caad3e4cb5ccc63b028f248e9c1724ce0b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283057"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524776"
 ---
 # <a name="mindmup"></a>MindMup
 
@@ -62,7 +62,7 @@ ms.locfileid: "53283057"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS 用於保留基本使用者設定檔資訊的儲存系統，支援共用檔，並安全地存取 MindMup 上的使用者檔 |  | 不適用 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

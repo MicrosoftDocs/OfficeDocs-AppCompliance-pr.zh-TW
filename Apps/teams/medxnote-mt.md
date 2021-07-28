@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Medxnote MT 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ee4a304ac2844bff1fcec309fe0c96edba04208f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5eff51e5045f299ad8fe9e8335b3c5dac41af919
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282977"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525487"
 ---
 # <a name="medxnote-mt"></a>Medxnote MT
 
@@ -55,9 +55,9 @@ ms.locfileid: "53282977"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read.All | 應用程式 | 我們正在快取名稱和電子郵件，用在醫院端以檢查使用者的許可權 | 傳送郵件時，會新增名稱和電子郵件地址，我們會在伺服器端快取此資料，也就是用於醫院側面的選用許可權檢查。 | fc70bbbe-91c4-4d8f-a9c9-a022068d5752 |
->| openid | 委託 | 我們是用來登入任務模組中使用者的快取會話識別碼、使用者識別碼、持有者權杖和電子郵件。 | 使用它來登入任務模組中的使用者，我們會儲存會話識別碼、userid、email、載荷權杖。 | fc70bbbe-91c4-4d8f-a9c9-a022068d5752 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read.All | 應用程式 | 我們正在快取名稱和電子郵件，用在醫院端以檢查使用者的許可權 | 傳送郵件時，會新增名稱和電子郵件地址，我們會在伺服器端快取此資料，也就是用於醫院側面的選用許可權檢查。 | [fc70bbbe-91c4-4d8f-a9c9-a022068d5752](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752) |
+>| openid | 委託 | 我們是用來登入任務模組中使用者的快取會話識別碼、使用者識別碼、持有者權杖和電子郵件。 | 使用它來登入任務模組中的使用者，我們會儲存會話識別碼、userid、email、載荷權杖。 | [fc70bbbe-91c4-4d8f-a9c9-a022068d5752](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

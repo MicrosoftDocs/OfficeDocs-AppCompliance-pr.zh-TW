@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindManager 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 69efbc45560d3271f03f8af8e9cfeb1aa7c89e5d
-ms.sourcegitcommit: 41be194e2be4de3cdb686daee7a8f6e4d1fc765a
+ms.openlocfilehash: 7a431ae7736e2efa22a2d75ff3a1cfc2e1e2234f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52904539"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525737"
 ---
 # <a name="mindmanager"></a>MindManager
 
@@ -54,14 +54,14 @@ ms.locfileid: "52904539"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage 傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | 檔案中繼資料，檔內容-檔案瀏覽器的使用者可以流覽其檔案，以開啟 MindManager ( mmap) 檔案。 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| [交談]。傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | 檔案中繼資料，檔內容-檔案瀏覽器的使用者可以流覽其檔案，以開啟 MindManager ( mmap) 檔案。 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Files.ReadWrite | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | -設定檔資料：識別使用者並顯示其設定檔內容：在共同編輯會話期間 (即時協同編輯 MindManager mmap 檔案)  | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Sites.ReadWrite.All | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | 檔案內容：在共同編輯會話期間 (MindManager mmap 檔案上的即時共同作業編輯)  | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| User.Read | 委託 | 設定檔資料：識別使用者並顯示其設定檔 | 設定檔資料：識別使用者並顯示其設定檔 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| offline_access | 委託 | 這樣一來，我們便可在需要時，將檔案重新儲存回其原始的位置以供使用者日後使用。 | 檔案內容：在共同編輯會話期間 (MindManager mmap 檔案上的即時共同作業編輯)  | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage 傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | 檔案中繼資料，檔內容-檔案瀏覽器的使用者可以流覽其檔案，以開啟 MindManager ( mmap) 檔案。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| [交談]。傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | 檔案中繼資料，檔內容-檔案瀏覽器的使用者可以流覽其檔案，以開啟 MindManager ( mmap) 檔案。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Files.ReadWrite | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | -設定檔資料：識別使用者並顯示其設定檔內容：在共同編輯會話期間 (即時協同編輯 MindManager mmap 檔案)  | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Sites.ReadWrite.All | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | 檔案內容：在共同編輯會話期間 (MindManager mmap 檔案上的即時共同作業編輯)  | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| User.Read | 委託 | 設定檔資料：識別使用者並顯示其設定檔 | 設定檔資料：識別使用者並顯示其設定檔 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| offline_access | 委託 | 這樣一來，我們便可在需要時，將檔案重新儲存回其原始的位置以供使用者日後使用。 | 檔案內容：在共同編輯會話期間 (MindManager mmap 檔案上的即時共同作業編輯)  | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -69,7 +69,7 @@ ms.locfileid: "52904539"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Amazon Web Services | 組織名稱、組織網域 | 組織需要在應用程式基礎結構內設定帳戶，以在 Teams 中使用應用程式 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

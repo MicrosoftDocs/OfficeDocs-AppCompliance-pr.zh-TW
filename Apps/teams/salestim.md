@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: SalesTim 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ada23e0899e67432b0718ec34f32c236e8768a18
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b15cf2f87b6707b6fa82dfc3968444d7cad85e8a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283067"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524756"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -54,14 +54,14 @@ ms.locfileid: "53283067"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog ReadWrite。 | 委託 | 不 | 允許此應用程式在公司應用程式目錄中安裝及更新其自有的套件。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Directory.AccessAsUser.All | 委託 | 我們&#8217;將部分使用者 IDs 只儲存，而不是設定檔資料。 | 可讓使用者選取應用程式中不同位置的其他使用者，例如在工作流程中選取 [核准者]。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Group.ReadWrite.All | 委託 | 我們&#8217;只會&#8217;儲存群組/小組 IDs，我們不會儲存任何群組/小組內容。 | 允許此應用程式建立群組，代表登入的使用者讀取所有群組屬性和成員資格。 此外，允許群組擁有者管理其群組，並允許群組成員更新群組內容。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| 傳送郵件 | 委託 | 我們&#8217;將此動作的中繼資料儲存在一起，例如通知日期、收件者 (ID 只) 、要求識別碼。 | 允許此應用程式在核准工作流程中傳送通知電子郵件。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Sites.ReadWrite.All | 委託 | 我們正在使用一些 azure 服務來儲存資料，尤其是 azure 上的 Redis，以及 Cosmos DB | 可讓應用程式在小組布建過程中，管理與小組相關的磁片磁碟機 (檔案和資料夾) 。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| User.Read.All | 委託 | 我們&#8217;將部分使用者 IDs 只儲存，而不是設定檔資料。 | 允許此應用程式讀取所有使用者的完整配置檔案屬性、報告及管理員。 在目標物件處理過程中尤其使用它，以根據目前的使用者設定檔來篩選部分內容。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| offlineaccess | 委託 | 否 | 允許應用程式以使用者身分執行某些背景作業和動作。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog ReadWrite。 | 委託 | 不 | 允許此應用程式在公司應用程式目錄中安裝及更新其自有的套件。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Directory.AccessAsUser.All | 委託 | 我們&#8217;將部分使用者 IDs 只儲存，而不是設定檔資料。 | 可讓使用者選取應用程式中不同位置的其他使用者，例如在工作流程中選取 [核准者]。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Group.ReadWrite.All | 委託 | 我們&#8217;只會&#8217;儲存群組/小組 IDs，我們不會儲存任何群組/小組內容。 | 允許此應用程式建立群組，代表登入的使用者讀取所有群組屬性和成員資格。 此外，允許群組擁有者管理其群組，並允許群組成員更新群組內容。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| 傳送郵件 | 委託 | 我們&#8217;將此動作的中繼資料儲存在一起，例如通知日期、收件者 (ID 只) 、要求識別碼。 | 允許此應用程式在核准工作流程中傳送通知電子郵件。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Sites.ReadWrite.All | 委託 | 我們正在使用一些 azure 服務來儲存資料，尤其是 azure 上的 Redis，以及 Cosmos DB | 可讓應用程式在小組布建過程中，管理與小組相關的磁片磁碟機 (檔案和資料夾) 。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| User.Read.All | 委託 | 我們&#8217;將部分使用者 IDs 只儲存，而不是設定檔資料。 | 允許此應用程式讀取所有使用者的完整配置檔案屬性、報告及管理員。 在目標物件處理過程中尤其使用它，以根據目前的使用者設定檔來篩選部分內容。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| offlineaccess | 委託 | 否 | 允許應用程式以使用者身分執行某些背景作業和動作。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -69,7 +69,7 @@ ms.locfileid: "53283067"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 我們正在使用 Intercom 作為主要支援應用程式。 Intercom 可能包含一些基本的使用者設定檔資訊，如下所述： https://developers.salestim.com/platform/datamanagement.html#support-data |  | 我們正在使用 GitHub APIs 自動從我們的實際執行環境產生問題。 我們也會將部分技術記錄儲存在 GitHub (，如下所述： https://developers.salestim.com/platform/datamanagement.html#error-reporting-data) 。 這些問題和記錄可能包含一些基本的使用者設定檔資訊。 每個15days 都會自動刪除這些問題和記錄。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

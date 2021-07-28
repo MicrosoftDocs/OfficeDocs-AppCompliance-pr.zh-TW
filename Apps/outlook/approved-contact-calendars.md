@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，如核准的連絡人行事曆、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9bb96c6c6ba40df3e3d4d64c1f0e4033d7425e88
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 49aac5c5b6544d9324243d704cfaad6dc7bd8732
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281645"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526489"
 ---
 # <a name="approved-contact-calendars"></a>核准的連絡人行事曆
 
@@ -54,13 +54,13 @@ ms.locfileid: "53281645"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 | 在行事曆 BOT 中，我們會儲存使用者空閒/忙碌時間，以找出多個人的閒置時間。  | 我們讀取及比較空閒/忙碌時間及排程會議。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| 連絡人。已讀取 | 委託 | 是的，我們會儲存連絡人資訊。 | 匯入及同步處理連絡人。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.Read | 委託 | 是 | 基本設定檔資訊。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.ReadBasic.All | 委託 | 否 | 用於查看共同工作者的設定檔，以及比較閒置時間和排程會議室。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| offline_access | 委託 | 是的，離線使用者的空閒/忙碌時間。 | 當使用者未使用網站時，請致電 Graph。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| openid | 委託 | 否 | Office 365Sso。 | adef9811-448f-4dd5-88d9-68734050fe58 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 在行事曆 BOT 中，我們會儲存使用者空閒/忙碌時間，以找出多個人的閒置時間。  | 我們讀取及比較空閒/忙碌時間及排程會議。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| 連絡人。已讀取 | 委託 | 是的，我們會儲存連絡人資訊。 | 匯入及同步處理連絡人。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| User.Read | 委託 | 是 | 基本設定檔資訊。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| User.ReadBasic.All | 委託 | 否 | 用於查看共同工作者的設定檔，以及比較閒置時間和排程會議室。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| offline_access | 委託 | 是的，離線使用者的空閒/忙碌時間。 | 當使用者未使用網站時，請致電 Graph。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| openid | 委託 | 否 | Office 365Sso。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

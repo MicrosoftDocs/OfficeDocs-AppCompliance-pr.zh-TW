@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: COCO 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5b1c7194ed42779d966c4d7d4f519374bbb78bb1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8a25a95b277f41f30477182c9eec0b3b25b9351e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281255"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525607"
 ---
 # <a name="coco"></a>COCO
 
@@ -54,14 +54,14 @@ ms.locfileid: "53281255"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 委託 | 無 | 登入使用者的存取目錄 | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.Read.All | 應用程式 | 無 | 讀取目錄資料 | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.ReadWrite.All | 委託 | 無 | 讀取和寫入目錄資料 | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read | 委託 | 無 | 登入並讀取使用者設定檔 | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read.All | 應用程式 | 無 | 讀取所有使用者的完整設定檔 | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.ReadWrite.All | 委託 | 無 | 讀取和寫入所有使用者的完整設定檔 | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| openid | 委託 | 無 | 在中簽署使用者 | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 委託 | 無 | 登入使用者的存取目錄 | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.Read.All | 應用程式 | 無 | 讀取目錄資料 | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.ReadWrite.All | 委託 | 無 | 讀取和寫入目錄資料 | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.Read | 委託 | 無 | 登入並讀取使用者設定檔 | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.Read.All | 應用程式 | 無 | 讀取所有使用者的完整設定檔 | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.ReadWrite.All | 委託 | 無 | 讀取和寫入所有使用者的完整設定檔 | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| openid | 委託 | 無 | 在中簽署使用者 | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -75,7 +75,7 @@ ms.locfileid: "53281255"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 維護會話資料 | 名稱、電子郵件識別碼 |  |
 
 

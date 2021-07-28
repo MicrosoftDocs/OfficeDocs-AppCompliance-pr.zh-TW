@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: IndustryIntel 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a213e68c58f2f3aea6f9bc1e6c8568fcbdefc141
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 71102c3a8720b8aa7c6d8cf3b9e329328e532d7d
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281245"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525577"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -68,7 +68,7 @@ ms.locfileid: "53281245"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 驗證使用者是否有權存取業界智慧型網路。 如果使用者已成功驗證，使用者可以使用 Bot 和郵件擴充功能的完整功能。 | 我們只會儲存用於對應識別碼 w/工業智慧/內部使用者識別碼的小組成員識別碼。 |  |
 
 

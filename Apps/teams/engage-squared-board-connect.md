@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有適用于主機板連線的安全性和合規性資訊資訊，以及其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c67ece1e55b265152c8a7664b8f714926d9caff
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: c04b8be94b4d9a6367c8baa2b3370d82c2bdff5c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456597"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525667"
 ---
 # <a name="board-connect"></a>版面連結
 
@@ -56,13 +56,13 @@ ms.locfileid: "53456597"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 | 若要讓應用程式更新使用者行事曆，以反映透過應用程式提交的其董事會會議出席回應回應。 | Azure 資料表存放區中不會儲存任何資料 | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| Group.ReadWrite.All | 委託 | 若要允許此應用程式建立、更新和刪除群組行事曆事件。 | 我們會儲存群組的識別碼，以及租使用者識別碼，以供您在授權的觀點內加以儲存和使用，讓我們能夠驗證該組織是否授權使用連線。 我們也會使用此方法，追蹤在租使用者中有多少應用程式已與我們的授權模式一起內嵌。 | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| 管理的網站。所有 | 委託 | 若要允許此應用程式建立清單和文件庫，管理清單專案並管理小組網站集合上的檔。 | 無 | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| User.Read | 委託 | 允許使用者登入應用程式，並讓應用程式讀取目前登入使用者的設定檔。 | 未將此端點中的資料儲存在 azure 資料表存放區中 | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| User.ReadBasic.All | 委託 | 若要讓應用程式代表登入的使用者讀取其他使用者的基本配置檔案屬性集合，以便在應用程式中顯示。 這包括顯示名稱、名字和姓氏、電子郵件地址及照片。 | 無，資料不會儲存在 azure 資料表存放區中 | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| offline_access | 委託 | 若要讓應用程式取得重新整理權杖，可在目前的更新權杖到期時，用來取得新的訪問權杖。 | 無，資料不會儲存在 azure 資料表存放區中 | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 若要讓應用程式更新使用者行事曆，以反映透過應用程式提交的其董事會會議出席回應回應。 | Azure 資料表存放區中不會儲存任何資料 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| Group.ReadWrite.All | 委託 | 若要允許此應用程式建立、更新和刪除群組行事曆事件。 | 我們會儲存群組的識別碼，以及租使用者識別碼，以供您在授權的觀點內加以儲存和使用，讓我們能夠驗證該組織是否授權使用連線。 我們也會使用此方法，追蹤在租使用者中有多少應用程式已與我們的授權模式一起內嵌。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| 管理的網站。所有 | 委託 | 若要允許此應用程式建立清單和文件庫，管理清單專案並管理小組網站集合上的檔。 | 無 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| User.Read | 委託 | 允許使用者登入應用程式，並讓應用程式讀取目前登入使用者的設定檔。 | 未將此端點中的資料儲存在 azure 資料表存放區中 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| User.ReadBasic.All | 委託 | 若要讓應用程式代表登入的使用者讀取其他使用者的基本配置檔案屬性集合，以便在應用程式中顯示。 這包括顯示名稱、名字和姓氏、電子郵件地址及照片。 | 無，資料不會儲存在 azure 資料表存放區中 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| offline_access | 委託 | 若要讓應用程式取得重新整理權杖，可在目前的更新權杖到期時，用來取得新的訪問權杖。 | 無，資料不會儲存在 azure 資料表存放區中 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

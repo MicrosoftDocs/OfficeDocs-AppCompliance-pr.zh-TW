@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Evocom 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1a3be83c266ee993ad377a2489a85248bdafab67
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d83f806bcca3b0012dbe062763ec8118281cb995
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281285"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525647"
 ---
 # <a name="evocom"></a>Evocom
 
@@ -56,9 +56,9 @@ Evocom Informationssysteme GmbH 所提供的資訊給 Microsoft：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 名稱、電子郵件地址、圖片、識別碼。 效能 | 名稱、電子郵件地址、圖片、識別碼。 效能 | 3e745135-a761-48a7-ab54-5c0277b2e642 |
->| User.ReadBasic.All | 委託 | 名稱、電子郵件地址、圖片、識別碼。 效能 | 名稱、電子郵件地址、圖片、識別碼。 效能 | 3e745135-a761-48a7-ab54-5c0277b2e642 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 名稱、電子郵件地址、圖片、識別碼。 效能 | 名稱、電子郵件地址、圖片、識別碼。 效能 | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
+>| User.ReadBasic.All | 委託 | 名稱、電子郵件地址、圖片、識別碼。 效能 | 名稱、電子郵件地址、圖片、識別碼。 效能 | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -72,7 +72,7 @@ Evocom Informationssysteme GmbH 所提供的資訊給 Microsoft：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 個人化。 個人通知，電子郵件訊息。 | 名稱、電子郵件地址、圖片、識別碼 | 性能。 |
 
 

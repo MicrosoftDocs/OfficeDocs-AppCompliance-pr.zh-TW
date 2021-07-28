@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Office2SharePoint Office 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85198f216bb99ab5d172886d7852878d0cf61be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ccf31f36f748348a01a798c3222c3fcdd6cb4606
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281135"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526559"
 ---
 # <a name="office2sharepoint-for-office"></a>Office 的 Office2SharePoint
 
@@ -53,24 +53,24 @@ ms.locfileid: "53281135"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以取得使用者群組網站。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 可存取選取的郵件/s 並取得附件。 從 [郵件] 或 [從 SharePoint 或群組] 網站新增至郵件。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 可存取選取的郵件/s 並取得附件。 從 [郵件] 或 [從 SharePoint 或群組] 網站新增至郵件。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| 管理的網站。所有 | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許應用程式代表登入的使用者在所有網站集合中建立或刪除文件庫和清單。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得使用者 SharePoint 網站。 從選取的郵件中取得檔案並儲存附件。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得使用者 SharePoint 網站、OneDrive 和群組網站。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以取得使用者群組網站。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 可存取選取的郵件/s 並取得附件。 從 [郵件] 或 [從 SharePoint 或群組] 網站新增至郵件。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 可存取選取的郵件/s 並取得附件。 從 [郵件] 或 [從 SharePoint 或群組] 網站新增至郵件。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| 管理的網站。所有 | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許應用程式代表登入的使用者在所有網站集合中建立或刪除文件庫和清單。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得使用者 SharePoint 網站。 從選取的郵件中取得檔案並儲存附件。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得使用者 SharePoint 網站、OneDrive 和群組網站。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange-EWS。AccessAsUser。 All | 否 |  |  |  |  |
 >| Exchange 電子郵件。 ReadWrite | 否 |  |  |  |  |
 >| Exchange-MailboxSettings ReadWrite | 否 |  |  |  |  |

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Lumio 的所有可用安全性和符合性資訊資訊，如智慧、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 50cde4ecae9abf39b199b381bcf8e5da33b345e6
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7f97e53eb5b4c27aa8bf2be4c97760f8a536cd06
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283298"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53520986"
 ---
-# <a name="lumio-by-smart"></a>由 SMART Lumio
+# <a name="lumio-by-smart"></a>SMART 的 Lumio
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ULC 至 Microsoft 的智慧技術所提供的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 由 SMART Lumio |
+| 應用程式名稱 | SMART 的 Lumio |
 | ID | WA200001874 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | SMART Technologies ULC |
@@ -56,9 +56,9 @@ ULC 至 Microsoft 的智慧技術所提供的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 委託 | 資料用於驗證群組許可權未收集任何資料。  | 資料庫中沒有儲存目錄資料 | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
->| Group.Read.All | 委託 | appart 的群組是用來確認其是否為學生或教師群組的一部分，以便決定功能。 未收集任何資料。  | 僅限儲存的資料是用戶端唯一識別碼 | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 委託 | 資料用於驗證群組許可權未收集任何資料。  | 資料庫中沒有儲存目錄資料 | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
+>| Group.Read.All | 委託 | appart 的群組是用來確認其是否為學生或教師群組的一部分，以便決定功能。 未收集任何資料。  | 僅限儲存的資料是用戶端唯一識別碼 | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

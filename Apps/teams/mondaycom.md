@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: monday.com 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1252ff537b354a1a8bc068e9c6ac6779c7af3fc4
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7d929b4d9c66aea657d2beb64fa77f31921f59ac
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281215"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525457"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -62,7 +62,7 @@ ms.locfileid: "53281215"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| monday.com 會使用下列子處理器，以取得其服務的效能： &#160;https://monday.com/terms/subprocessors |  | monday.com 未使用 APIs。 我們會使用下列 Microsoft framework 來取得服務 (的效能，如上述回應所述) ： &#8216;botbuilder&#8217; &#8216;botframework-連接器&#8217; &#8216; @micorosft/teams-js&#8217; |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
