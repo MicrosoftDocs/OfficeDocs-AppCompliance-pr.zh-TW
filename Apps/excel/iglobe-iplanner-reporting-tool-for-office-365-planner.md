@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: iPlanner 報告工具的所有可用安全性和符合性資訊資訊 Office 365 Planner、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2b9797eb2b4ec271804711473a77f26a9cce4e13
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3591c67721188d8dc70bf4f2cf0e34bdb9ffc506
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281145"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526049"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>Office 365 Planner 的 iPlanner 報告工具
 
@@ -53,18 +53,18 @@ ms.locfileid: "53281145"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 在任務到期日的使用者&#8217;的行事曆中建立行事曆專案。 |  |
->| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以檢查使用者是否有同意，以及具有使用 API 的存取權。 |  |
->| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 工作 Outlook To Do，已標記的電子郵件並進行更新。 以建立新的 Planner 任務。 |  |
->| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以附件方式存取檔案，並將檔案上傳至任務。 |  |
->| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以取得計畫清單並更新任務。 |  |
->| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新桶和泳道線。 |  |
->| Mail.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 工作 Outlook To Do、已標記的電子郵件並加以更新，可供使用者讀取。 若要建立新的 Planner 任務 |  |
->| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 以顯示郵件及傳送郵件。 |  |
->| ReadWrite。 | 委託 | 不會儲存應用程式資料庫中的資料。 | 從選取的郵件中取得郵件主體。 允許此應用程式從選取的電子郵件中取得資訊，讓您可以將描述欄位複製到工作描述中，並允許將附件從郵件或郵件本身儲存至任務。 傳送通知。 |  |
->| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得登入使用者 Outlook To Do 並更新使用者。請參閱，以取得 planner 工作 Outlook To Do、已標記的電子郵件並加以更新。 以建立新的 Planner 任務。 |  |
->| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 登入並讀取使用者設定檔 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 在任務到期日的使用者&#8217;的行事曆中建立行事曆專案。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以檢查使用者是否有同意，以及具有使用 API 的存取權。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 工作 Outlook To Do，已標記的電子郵件並進行更新。 以建立新的 Planner 任務。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以附件方式存取檔案，並將檔案上傳至任務。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以取得計畫清單並更新任務。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新桶和泳道線。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 工作 Outlook To Do、已標記的電子郵件並加以更新，可供使用者讀取。 若要建立新的 Planner 任務 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 以顯示郵件及傳送郵件。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| ReadWrite。 | 委託 | 不會儲存應用程式資料庫中的資料。 | 從選取的郵件中取得郵件主體。 允許此應用程式從選取的電子郵件中取得資訊，讓您可以將描述欄位複製到工作描述中，並允許將附件從郵件或郵件本身儲存至任務。 傳送通知。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得登入使用者 Outlook To Do 並更新使用者。請參閱，以取得 planner 工作 Outlook To Do、已標記的電子郵件並加以更新。 以建立新的 Planner 任務。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 登入並讀取使用者設定檔 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

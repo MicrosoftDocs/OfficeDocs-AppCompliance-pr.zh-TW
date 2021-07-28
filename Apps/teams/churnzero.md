@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ChurnZero 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0e92bdd9440e20ebf30cece47ee17e675b35656
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 18ebf804bfc99fe0d31043aee77fa856f42dda7a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852063"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525797"
 ---
 # <a name="churnzero"></a>ChurnZero
 
@@ -54,9 +54,9 @@ ms.locfileid: "52852063"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 要與 ChurnZero 使用者關聯之委派使用者的 Azure 物件識別碼，以便在未來的 bot 會話期間識別及授權該使用者。 | 要與 ChurnZero 使用者關聯之委派使用者的 Azure 物件識別碼，以便在未來的 bot 會話期間識別及授權該使用者。 | c2e66b59-725d-4c56-8a0e-ee2587031d9f |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 要與 ChurnZero 使用者關聯之委派使用者的 Azure 物件識別碼，以便在未來的 bot 會話期間識別及授權該使用者。 | 要與 ChurnZero 使用者關聯之委派使用者的 Azure 物件識別碼，以便在未來的 bot 會話期間識別及授權該使用者。 | [c2e66b59-725d-4c56-8a0e-ee2587031d9f](https://docs.microsoft.com/microsoft-365-app-certification/azure/c2e66b59-725d-4c56-8a0e-ee2587031d9f) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -70,7 +70,7 @@ ms.locfileid: "52852063"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 允許我們的用戶端以名稱識別其連絡人，並在執行正常商務作業時將電子郵件傳送給他們。 ChurnZero 是該資料的處理器，而非收集器。 | 我們用戶端已提供的名字、姓氏、連絡人電子郵件地址。 | 允許我們的用戶端以名稱識別其連絡人，並在執行正常商務作業時將電子郵件傳送給他們。 ChurnZero 是該資料的處理器，而非收集器。 |
 
 

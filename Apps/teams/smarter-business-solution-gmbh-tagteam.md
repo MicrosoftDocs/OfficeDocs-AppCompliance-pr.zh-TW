@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TagTeam 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b4e3fcf89e816c115887fa5bd0df38cc95d4ae2f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: cd1411cff3f80788bc9a5677f595caad620484e1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53280945"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528309"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -56,11 +56,11 @@ GmbH 此應用程式如何收集和儲存組織資料，以及您的組織將會
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage Read。 All | 委託 | 我們不會收集此僅限資料的使用，以顯示已標記的交談。 我們很樂意將它變更為搜尋 API，但 Graph API 目前不支援此功能。  | 無 | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| User.Read | 委託 | 在我們的索引標籤上顯示 User-Information (例如名稱)  | 無 | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| User.ReadBasic.All | 委託 | 在索引標籤上顯示 User-Avatars | 無 | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| openid | 委託 | 僅用於登入-沒有儲存資料 | 無 | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage Read。 All | 委託 | 我們不會收集此僅限資料的使用，以顯示已標記的交談。 我們很樂意將它變更為搜尋 API，但 Graph API 目前不支援此功能。  | 無 | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| User.Read | 委託 | 在我們的索引標籤上顯示 User-Information (例如名稱)  | 無 | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| User.ReadBasic.All | 委託 | 在索引標籤上顯示 User-Avatars | 無 | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| openid | 委託 | 僅用於登入-沒有儲存資料 | 無 | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

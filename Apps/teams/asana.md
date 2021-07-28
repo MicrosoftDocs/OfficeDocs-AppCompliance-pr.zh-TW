@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Asana 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0f2e4ff08367c5b8694ca9b6f2cfce1a530a64c9
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 14ec3eee9b8ae673565ef91a017019d23d524619
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282046"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525877"
 ---
 # <a name="asana"></a>Asana
 
@@ -62,7 +62,7 @@ ms.locfileid: "53282046"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 當使用者要求時，增益集會將基本電子郵件資訊傳送 (寄件者、recepient、主旨、內文) 和附件到 Asana。 |  | Email-在工作窗格中顯示目前開啟的電子郵件。 -讀取目前開啟的電子郵件附件，以上傳至 Asana 的工作。 -這讓使用者能夠在 Asana 中使用電子郵件的資訊快速進行工作。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

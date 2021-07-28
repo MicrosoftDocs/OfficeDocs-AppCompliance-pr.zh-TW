@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Beesy 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e9d982e61f2afeda47bcfdab51c549346fc5fe60
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ff8d420d7ea17219b2c94e9e9ac6bf4b8fa4efcb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281395"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525857"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -55,8 +55,8 @@ ms.locfileid: "53281395"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 我們只會儲存 UPN 識別碼，以與要求透過 AAD 權杖要求的帳戶，以檢查系統中是否有帳戶。 | 允許使用者登入，並提供應用程式存取其 UPN 以啟用無訊息登入 | d27f56ed-ddc7-4cf8-86ac-721b76c7d287 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 我們只會儲存 UPN 識別碼，以與要求透過 AAD 權杖要求的帳戶，以檢查系統中是否有帳戶。 | 允許使用者登入，並提供應用程式存取其 UPN 以啟用無訊息登入 | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -70,7 +70,7 @@ ms.locfileid: "53281395"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 我們存取此資料以提供 bot 的內容，以直接將動作記錄到人員聊天 (我們的 bot 是虛擬的小幫手) 。 | 沒有直接從名單中儲存的資料，我們會比較團隊成員與已整合的人員，以 beesy.me 服務資料，只要符合。 |  |
 
 

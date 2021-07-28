@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ClipTraining 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9eb5383b9bd372e1f46af30b838160bca88e308b
-ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
+ms.openlocfilehash: 5d59d4cbd2d28f1c906e541e7ffc78311c12ffb6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339809"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525767"
 ---
 # <a name="cliptraining"></a>ClipTraining
 
@@ -56,11 +56,11 @@ ms.locfileid: "53339809"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 電子郵件 | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | af089bb5-48be-413d-ad34-53c32799da7d |
->| offline_access | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | af089bb5-48be-413d-ad34-53c32799da7d |
->| openid | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | af089bb5-48be-413d-ad34-53c32799da7d |
->| profile | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | af089bb5-48be-413d-ad34-53c32799da7d |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 電子郵件 | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| offline_access | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| openid | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| profile | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -68,7 +68,7 @@ ms.locfileid: "53339809"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 非 Microsoft 主機服務，非 Microsoft CRM | 名字、姓氏、電子郵件地址 | 商務用的必要條件 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取

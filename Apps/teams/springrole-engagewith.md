@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: EngageWith 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bc9d21c1c39cb3a5919024bccd077a1e31469bf2
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9cd618fb9ee580936f33beed27dfc2a39934d1f0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279115"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528249"
 ---
 # <a name="engagewith"></a>EngageWith
 
@@ -63,7 +63,7 @@ ms.locfileid: "53279115"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS、Mailchimp、Stripe。 客戶名稱、電子郵件、IP、付款資訊。 我們會使用這些協力廠商，為我們的客戶提供最佳的客戶體驗 | 名稱、電子郵件 | 此增益集未使用額外的 APIs |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
@@ -71,7 +71,7 @@ ms.locfileid: "53279115"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 這種資料是用來顯示和儲存其獎勵積分 &amp; 兌換歷程記錄。 同時 utilised 應用程式的主要功能，以將 Kudos 和 Shoutout 授與對等專案 | 名稱、電子郵件、生日和工作周年紀念日。 | 這種資料是用來顯示和儲存其獎勵積分 &amp; 兌換歷程記錄 |
 
 

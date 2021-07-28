@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: RememberThis 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cebe00c603a83f524ef9307cd9753fc3442ea69c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a1804f11eaf52e9715b3b50ba558561794fc8b26
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551283"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527559"
 ---
 # <a name="rememberthis"></a>RememberThis
 
@@ -69,7 +69,7 @@ ms.locfileid: "52551283"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 在指定的時間提醒使用者 | Yes-ConversationID、ActivityID、ServiceURL、DateTime 提醒。 這不是 PII 或 OII 的任何資料。 |  |
 
 

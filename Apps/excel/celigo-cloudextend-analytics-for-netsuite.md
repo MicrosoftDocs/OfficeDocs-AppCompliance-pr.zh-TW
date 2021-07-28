@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 NetSuite 的 CloudExtend Analytics 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2393250c620e3e543eae1d25e1cf0bcf0dd2f7cc
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: 489f4f04afc52476b34a98ecd808c035ff47a676
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987678"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526079"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>NetSuite 的 CloudExtend 分析
 
@@ -53,10 +53,10 @@ ms.locfileid: "52987678"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 包括 | 讀取使用者有權存取的網站集合，以取得透過網站共用之活頁簿的相關資訊 | 儲存 siteid 以離線存取活頁簿。 | 7040f194-bf08-400e-acb1-69df7939416a |
->| Files.ReadWrite.All | 包括 | 讀取活頁簿內容，例如表格和工作表，並且能夠將內容寫入這些表格 | 活頁簿的詳細資料，例如 web url、活頁簿識別碼及活頁簿的位置以供離線存取 | 7040f194-bf08-400e-acb1-69df7939416a |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 包括 | 讀取使用者有權存取的網站集合，以取得透過網站共用之活頁簿的相關資訊 | 儲存 siteid 以離線存取活頁簿。 | [7040f194-bf08-400e-acb1-69df7939416a](https://docs.microsoft.com/microsoft-365-app-certification/azure/7040f194-bf08-400e-acb1-69df7939416a) |
+>| Files.ReadWrite.All | 包括 | 讀取活頁簿內容，例如表格和工作表，並且能夠將內容寫入這些表格 | 活頁簿的詳細資料，例如 web url、活頁簿識別碼及活頁簿的位置以供離線存取 | [7040f194-bf08-400e-acb1-69df7939416a](https://docs.microsoft.com/microsoft-365-app-certification/azure/7040f194-bf08-400e-acb1-69df7939416a) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -64,7 +64,7 @@ ms.locfileid: "52987678"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Chargebee、NetSuite、Salesforce、Intercom、LogRocket、Amazon AWS | 組織名稱、NetSuite 帳戶號碼、組織電子郵件地址的網域、計費連絡人資訊 | 授權布建、驗證和帳單客戶支援、疑難排解及帳戶管理 |
 
 

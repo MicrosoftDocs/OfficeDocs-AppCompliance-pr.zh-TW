@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: PlayQuiz-Aprende Juega 的所有可用安全性和符合性資訊資訊， &amp; 其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 76593cbcaa9d4284fab7b90e887090254d4ca414
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2d538edf2b96311ea7f2611a33d2362786453ee3
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852060"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528139"
 ---
-# <a name="playquiz---aprende-amp-juega"></a>PlayQuiz-Aprende &amp; Juega
+# <a name="playquiz---aprende-amp-juega"></a>PlayQuiz - Aprende &amp; Juega
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "52852060"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | PlayQuiz-Aprende &amp; Juega |
+| 應用程式名稱 | PlayQuiz - Aprende &amp; Juega |
 | ID | WA200002820 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | TeamsChamp |
@@ -55,12 +55,12 @@ ms.locfileid: "52852060"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委託 | 使用者的名稱、電子郵件和設定檔圖片 | 電子郵件，用於進入應用程式，以及在應用程式中顯示其名稱 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| User.ReadBasic.All | 委託 | 名稱、電子郵件和設定檔圖片 | 不儲存該資料，唯讀取以在 leaderboad (應用程式中顯示它)  | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| openid | 委託 | view user 的基本設定檔 | 電子郵件，用於在應用程式中進行用，並在應用程式中顯示名稱 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| profile | 委託 | 讀取使用者基本設定檔 | 電子郵件，用於在應用程式中進行用，並在應用程式中顯示名稱 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 使用者的名稱、電子郵件和設定檔圖片 | 電子郵件，用於進入應用程式，以及在應用程式中顯示其名稱 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| User.ReadBasic.All | 委託 | 名稱、電子郵件和設定檔圖片 | 不儲存該資料，唯讀取以在 leaderboad (應用程式中顯示它)  | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| openid | 委託 | view user 的基本設定檔 | 電子郵件，用於在應用程式中進行用，並在應用程式中顯示名稱 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| profile | 委託 | 讀取使用者基本設定檔 | 電子郵件，用於在應用程式中進行用，並在應用程式中顯示名稱 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

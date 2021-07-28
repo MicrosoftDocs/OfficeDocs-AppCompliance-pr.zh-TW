@@ -6,23 +6,24 @@ description: Microsoft 365認證詳細資料
 keywords: 應用程式證明 microsoft 365 認證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4322695ea694e30d42925e8316c848b867394f3b
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 64e4d36f58c36447c3af48cfde22de6ecc722998
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315073"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526089"
 ---
 # <a name="what-is-microsoft-365-certification"></a>何謂 Microsoft 365 認證？
 
 Microsoft 365認證可保證當您使用協力廠商應用程式時，資料和隱私權已適當地受到保護和保護。 認證會確認應用程式符合[Microsoft 365 憑證提交指南](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)中所述的準則。 透過驗證的應用程式會指派 Microsoft 365 認證。
 應用程式認證是透過一套應用程式的安全性和合規性框架、程式及程式的綜合評估中心審查及核准，取得。 雖然參與是選用的，但接收憑證是一種 steadfast 的方式，可讓您的應用程式和操作程式已經經歷密集的安全性檢查。
 
-Microsoft 365認證適用于與下列 Microsoft 產品整合的 WebApps 和所有應用程式：
+Microsoft 365認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業性 marketplace 發佈的應用程式。 SaaS 應用程式目前處於私人預覽中，如果您有興趣參加，請填寫此 [表單](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 認證也包含整合下列 Microsoft 產品的所有應用程式：
+
 - Teams
 - Word
 - Excel
-- PowerPoint
+- PowerPoint 
 - Outlook
 - SharePoint
 - Project

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: MyHub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a45478d976bc03d682c1236d8f266bc7443973a0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ffca0a4df366662e86001bb3d685986d877e8cca
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282016"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527629"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -55,15 +55,15 @@ AvePoint，inc. 提供給 Microsoft 的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | 讀取目錄資料 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Group.ReadWrite.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | 讀取和寫入所有群組 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| 傳送郵件 | 委託 | 從資料處理的觀點來儲存應用程式設定資料 | 以使用者的身分傳送郵件 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Reports。已讀取。所有 | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | 讀取所有使用方式報告 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| FullControl 所有 | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | 具有所有網站集合的完全控制許可權 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Sites.Read.All | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | 讀取所有網站集合中的專案  | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Sites.ReadWrite.All | 委託 | 從資料處理的觀點來儲存應用程式設定資料 | 編輯或刪除所有網站集合中的專案 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| User.Read.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | &#8217; 完整設定檔讀取所有使用者 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | 讀取目錄資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | 讀取和寫入所有群組 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| 傳送郵件 | 委託 | 從資料處理的觀點來儲存應用程式設定資料 | 以使用者的身分傳送郵件 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Reports。已讀取。所有 | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | 讀取所有使用方式報告 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| FullControl 所有 | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | 具有所有網站集合的完全控制許可權 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.Read.All | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | 讀取所有網站集合中的專案  | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.ReadWrite.All | 委託 | 從資料處理的觀點來儲存應用程式設定資料 | 編輯或刪除所有網站集合中的專案 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | &#8217; 完整設定檔讀取所有使用者 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

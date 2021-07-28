@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wunder365 Office 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85e7b014e9bbc5754016bd83a7734ff2481aa8dc
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ab9ea33824f66afecc8af8df74754fc7f2dd6d43
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281685"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526039"
 ---
 # <a name="wunder365-for-office"></a>Office 的 Wunder365
 
@@ -54,12 +54,12 @@ JiJi 技術所提供的資訊私人限制于 Microsoft：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 委託 | 未儲存任何資料。 | 若要取得取得/更新 Planner 的工作，請在小組通道中發佈任務更新 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| 傳送郵件 | 委託 | 未儲存任何資料。 | 允許應用程式傳送電子郵件通知給使用者 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| offline_access | 委託 | 未儲存任何資料。 | 讓使用者保持登入。 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| openid | 委託 | 未儲存任何資料。 | 允許使用者以 organisational 帳戶登入 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| profile | 委託 | UPN，使用者識別碼，電子郵件識別碼，授權驗證的租使用者識別碼，免費授權。 | 允許使用者以 organisational 帳戶登入 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 委託 | 未儲存任何資料。 | 若要取得取得/更新 Planner 的工作，請在小組通道中發佈任務更新 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| 傳送郵件 | 委託 | 未儲存任何資料。 | 允許應用程式傳送電子郵件通知給使用者 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| offline_access | 委託 | 未儲存任何資料。 | 讓使用者保持登入。 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| openid | 委託 | 未儲存任何資料。 | 允許使用者以 organisational 帳戶登入 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| profile | 委託 | UPN，使用者識別碼，電子郵件識別碼，授權驗證的租使用者識別碼，免費授權。 | 允許使用者以 organisational 帳戶登入 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

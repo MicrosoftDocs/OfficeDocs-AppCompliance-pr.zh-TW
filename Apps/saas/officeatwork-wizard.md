@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，如嚮導、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 47f0098ae7490d2f464571297777dd7ad9bf3a6a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: f6ad1cd59c37f9ad6db12177fc347acb917f3ecc
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282485"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525947"
 ---
 # <a name="wizard"></a>Wizard
 
@@ -53,25 +53,25 @@ ms.locfileid: "53282485"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 連絡人。已讀取 | 委託 | 不儲存任何資料。 | 連絡人：啟用已登入使用者的所有連絡人的讀取。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read | 委託 | 不儲存任何資料。 | OneDrive- (內容) ：以啟用已登入使用者的檔案的讀取權。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read.All | 委託 | 不儲存任何資料。 | Teams- (內容) ：以啟用讀取已登入使用者的所有檔案。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Group.Read.All | 委託 | 不儲存任何資料。 | Office 365Users-限制為群組：啟用已登入使用者的所有群組。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Sites.Read.All | 委託 | 不儲存任何資料。 | SharePoint線上：啟用從 SharePoint 線上讀取資料。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read | 委託 | 不儲存任何資料。 | 共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read.All | 委託 | 不儲存任何資料。 | Office 365Users-All 屬性：允許讀取所有使用者的所有屬性。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.ReadBasic.All | 委託 | 不儲存任何資料。 | Office 365使用者-基本屬性：啟用所有使用者的基本屬性讀取 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 連絡人。已讀取 | 委託 | 不儲存任何資料。 | 連絡人：啟用已登入使用者的所有連絡人的讀取。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read | 委託 | 不儲存任何資料。 | OneDrive- (內容) ：以啟用已登入使用者的檔案的讀取權。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read.All | 委託 | 不儲存任何資料。 | Teams- (內容) ：以啟用讀取已登入使用者的所有檔案。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Group.Read.All | 委託 | 不儲存任何資料。 | Office 365Users-限制為群組：啟用已登入使用者的所有群組。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Sites.Read.All | 委託 | 不儲存任何資料。 | SharePoint線上：啟用從 SharePoint 線上讀取資料。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read | 委託 | 不儲存任何資料。 | 共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read.All | 委託 | 不儲存任何資料。 | Office 365Users-All 屬性：允許讀取所有使用者的所有屬性。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.ReadBasic.All | 委託 | 不儲存任何資料。 | Office 365使用者-基本屬性：啟用所有使用者的基本屬性讀取 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePointREST APIs | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

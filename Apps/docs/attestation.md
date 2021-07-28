@@ -6,12 +6,12 @@ description: Publisher 認證計畫的詳細資訊
 keywords: 應用程式認證憑證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1d3652bb2f0eab3f1f533ce4acf3d13104843eea
-ms.sourcegitcommit: 98b9f17063c7ada0890b37af405990ad5eedd0b9
+ms.openlocfilehash: 285fb4c74f2f5bdda3defee92dafa22f07d94314
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53466023"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526109"
 ---
 # <a name="complete-publisher-attestation"></a>完成 Publisher 證明
 
@@ -20,7 +20,7 @@ Publisher證明是一個自願的計畫，您可以在其中完成應用程式�
 > [!IMPORTANT]
 > Microsoft 不會驗證所提供的資訊。 開發人員完全負責自我評估中提供的資訊。 
 
-**Publisher認證會套用至 Web 應用程式 (SaaS 透過合作夥伴中心的商業市場發佈的應用程式) ，以及與下列 Microsoft 產品整合的所有應用程式：**
+Publisher認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業 marketplace 發佈的應用程式。 SaaS 應用程式目前處於私人預覽中，如果您有興趣參加，請填寫此 [表單](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 認證也包含整合下列 Microsoft 產品的所有應用程式：
 - Teams
 - Word
 - Excel

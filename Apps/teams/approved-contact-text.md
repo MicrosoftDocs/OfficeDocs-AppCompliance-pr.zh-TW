@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如文字、資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f87ac4854d4301ea194d7b906f9b417e268a9df3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: fec1cbe4c30ef87592503e6e00ad1063cf953e05
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281425"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525887"
 ---
 # <a name="text"></a>文字
 
@@ -55,12 +55,12 @@ ms.locfileid: "53281425"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 委託 | 針對文字 BOT，我們會捕獲小組識別碼，以便為輸入文字郵件建立未來的通道。 | 允許我們為使用者建立 Teams 通道。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| 電子郵件 | 委託 | 電子郵件地址 | 取得使用者的連絡人資訊。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| offline_access | 委託 | 重新整理權杖會儲存在我們的資料庫中。 | 用於將重新整理權杖保存到我們的資料庫中 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| openid | 委託 | 登入認證 | 允許使用者登入。 可將文字送出 Teams 通道 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| profile | 委託 | 電子郵件地址 | 取得使用者的連絡人資訊。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 委託 | 針對文字 BOT，我們會捕獲小組識別碼，以便為輸入文字郵件建立未來的通道。 | 允許我們為使用者建立 Teams 通道。 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| 電子郵件 | 委託 | 電子郵件地址 | 取得使用者的連絡人資訊。 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| offline_access | 委託 | 重新整理權杖會儲存在我們的資料庫中。 | 用於將重新整理權杖保存到我們的資料庫中 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| openid | 委託 | 登入認證 | 允許使用者登入。 可將文字送出 Teams 通道 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| profile | 委託 | 電子郵件地址 | 取得使用者的連絡人資訊。 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -74,7 +74,7 @@ ms.locfileid: "53281425"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 用於將重新整理權杖保存到我們的資料庫中 | 我們儲存電子郵件地址。 | 用於將重新整理權杖保存到我們的資料庫中 |
 
 

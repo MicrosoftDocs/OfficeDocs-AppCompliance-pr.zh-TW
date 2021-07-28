@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho 書桌的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fd057117b21f9e99476356f1157301c19393a23d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8e76f0cce92e7aa5bac28df505613ec461a3fc06
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550643"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528349"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -56,14 +56,14 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.Read | 委託 |  | 讀取使用者檔案。 |  |
->| Files.Read.All | 委託 |  | 讀取使用者可以存取的所有檔案。 |  |
->| User.Read | 委託 |  | 登入和讀取使用者設定檔。 |  |
->| User.ReadBasic.All | 委託 |  | 讀取所有使用者的基本設定檔。 |  |
->| 電子郵件 | 委託 |  | View user 的電子郵件地址。 |  |
->| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 |  |
->| profile | 委託 |  | View user 的基本設定檔。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | 委託 |  | 讀取使用者檔案。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.Read.All | 委託 |  | 讀取使用者可以存取的所有檔案。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委託 |  | 登入和讀取使用者設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.ReadBasic.All | 委託 |  | 讀取所有使用者的基本設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 電子郵件 | 委託 |  | View user 的電子郵件地址。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 委託 |  | View user 的基本設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

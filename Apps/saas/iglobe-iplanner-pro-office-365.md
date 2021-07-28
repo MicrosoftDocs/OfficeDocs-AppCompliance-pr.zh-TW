@@ -1,19 +1,19 @@
 ---
-title: iPlanner Pro Office 365 的應用程式資訊由 iGlobe
+title: IPlanner Pro Office 365 的應用程式資訊（按 iGlobe）
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: iPlanner Pro Office 365 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有適用于 iPlanner Pro Office 365 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 41852c52286f1bbc9b3e8f7a2c8ea348b1e86bc6
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 614bdfc648f2f16d8c96c3ad699c5a022690c0d0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282642"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527719"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -50,39 +50,39 @@ ms.locfileid: "53282642"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何 [Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference) 。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 在任務到期日的使用者行事曆中建立約會 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Files.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 以附件方式存取檔案並將檔案上傳至任務 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 從選取的郵件中取得郵件主體。 允許此應用程式從選取的電子郵件中取得資訊，讓您可以將描述欄位複製到工作描述中，並允許將附件從郵件或郵件本身儲存至任務。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得 planner 工作並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| profile | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 在任務到期日的使用者行事曆中建立約會 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 以附件方式存取檔案並將檔案上傳至任務 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 從選取的郵件中取得郵件主體。 允許此應用程式從選取的電子郵件中取得資訊，讓您可以將描述欄位複製到工作描述中，並允許將附件從郵件或郵件本身儲存至任務。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得 planner 工作並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| profile | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
-以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
+在 Microsoft 365 上建的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft APIs，以收集或處理組織的身分識別資訊 (OII) 。 列出此應用程式所使用之 Microsoft Graph 以外的任何 Microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange-EWS。AccessAsUser。 All | 否 |  |  |  |  |
->| Exchange-Mail。 Read。 All | 否 |  |  |  |  |
+>| Exchange-Mail-Read。 All | 否 |  |  |  |  |
 >| SharePoint-AllSites。管理 | 否 |  |  |  |  |
 >| SharePoint-AllSites。讀取 | 否 |  |  |  |  |
 >| SharePoint-AllSites。寫入 | 否 |  |  |  |  |
 >| SharePoint-MyFiles。讀取 | 否 |  |  |  |  |
 >| SharePoint-MyFiles。寫入 | 否 |  |  |  |  |
 
-#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->不會使用非 Microsoft 服務。
+>不使用非 Microsoft 服務。
 
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 Microsoft Office 365 的 iGlobe CRM Office 365 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bdc9b8367c251e17fc055f0a3466e74b97215bbd
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 99dc4a9418362f16ed95303c139133991b8102eb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281505"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527689"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-office-365"></a>iGlobe Microsoft Office 365 的 CRM Office 365
 
@@ -53,27 +53,27 @@ ms.locfileid: "53281505"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 從 canlendar 中的 dreating 會議報表至 iGlobe 時，可以存取使用者行事曆 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| 連絡人。 ReadWrite | 委託 |  Directory.AccessAsUser.All | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Directory.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案和資料儲存至 SharePoint 清單。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 整合至 iGlobe CRM Office 365 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | Svae eamil 至 iGlobe CRM，並從 iGlobe 取得 informatiopn 至新的電子 amil | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| 管理的網站。所有 | 委託 | 不會儲存應用程式資料庫中的資料。 | 在 iGlobe CRM 中建立、編輯和刪除專案與清單 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Sites.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 在 iGlobe CRM 中讀取專案 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Sites.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 |  在 iGlobe CRM 中編輯和刪除專案與清單 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 從 iGlobe CRM 建立 planner 任務 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 speficic 使用者 iGlobe CRM 的資訊 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 從 canlendar 中的 dreating 會議報表至 iGlobe 時，可以存取使用者行事曆 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 連絡人。 ReadWrite | 委託 |  Directory.AccessAsUser.All | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案和資料儲存至 SharePoint 清單。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 整合至 iGlobe CRM Office 365 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | Svae eamil 至 iGlobe CRM，並從 iGlobe 取得 informatiopn 至新的電子 amil | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 管理的網站。所有 | 委託 | 不會儲存應用程式資料庫中的資料。 | 在 iGlobe CRM 中建立、編輯和刪除專案與清單 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 在 iGlobe CRM 中讀取專案 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 |  在 iGlobe CRM 中編輯和刪除專案與清單 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 從 iGlobe CRM 建立 planner 任務 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 speficic 使用者 iGlobe CRM 的資訊 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
 以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange-行事曆 ReadWrite 所有 | 否 |  |  |  |  |
 >| Exchange-Mail。 Read。 All | 否 |  |  |  |  |
 >| Exchange-連絡人。讀取 | 否 |  |  |  |  |

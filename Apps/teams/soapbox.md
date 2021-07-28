@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Soapbox 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e2b43df38aac6307c36c4a2cc8d00fe1c3fb629
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 89151d495479f3390aa179f810325ab56f77337a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552774"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528279"
 ---
 # <a name="soapbox"></a>Soapbox
 
@@ -56,10 +56,10 @@ ms.locfileid: "52552774"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 | Sync token。 | 需要行事曆存取才能將 SoapBox 會議同步處理至行事曆事件 |  |
->| User.Read | 委託 | 名稱、電子郵件、Microsoft 使用者識別碼。 | 名稱和電子郵件是用來建立 SoapBox 使用者。 |  |
->| offline_access | 委託 |  | 需要離線存取行事曆才能讓 SoapBox 通知時間與同步處理的行事曆事件相關。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | Sync token。 | 需要行事曆存取才能將 SoapBox 會議同步處理至行事曆事件 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委託 | 名稱、電子郵件、Microsoft 使用者識別碼。 | 名稱和電子郵件是用來建立 SoapBox 使用者。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | 委託 |  | 需要離線存取行事曆才能讓 SoapBox 通知時間與同步處理的行事曆事件相關。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -73,7 +73,7 @@ ms.locfileid: "52552774"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 應用程式會存取小組名單和聊天名單我們使用此功能，在 SoapBox 中使用小組/聊天成員建立小組通道 | [名稱]、[電子郵件]、[Microsoft 使用者識別碼]，以改善 Microsoft 團隊使用者應用程式的外觀與風格，並確保每位使用者都能完全參與會議軟體。 |  |
 
 

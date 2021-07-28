@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Talla 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 18fe09766a0ab7becef2d4630fc458e97576d7d1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 38945ddbcda225652973de5a292c1f56575c3f6e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553804"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528169"
 ---
 # <a name="talla"></a>Talla
 
@@ -69,7 +69,7 @@ Talla Inc. 所提供的資訊給 Microsoft：
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Talla 會儲存 Microsoft 使用者識別碼、使用者電子郵件地址、名字和姓氏及顯示名稱。 這些是用來 indenify 使用者並與使用者通訊。  | Talla 會儲存使用者設定檔，其中包括： Microsoft user ID、first 和 last name、顯示名稱和電子郵件地址在其資料庫中。 |  |
 
 

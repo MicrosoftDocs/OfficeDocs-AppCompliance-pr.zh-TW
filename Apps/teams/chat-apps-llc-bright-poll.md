@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊都是用於明亮輪詢、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4dc8177da248fffd18ab6a4667cb6f94ea8db07c
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: af6e29845108dee6504e87864c80b5ef5a11aa16
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852037"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525827"
 ---
-# <a name="bright-poll"></a>明亮投票
+# <a name="bright-poll"></a>亮色投票
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "52852037"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 明亮投票 |
+| 應用程式名稱 | 亮色投票 |
 | ID | WA200002562 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 聊天室應用程式，LLC |
+| 合作夥伴公司名稱 | 聊天應用程式，LLC |
 | 合作夥伴網站的 URL | [https://brightpoll.app](https://brightpoll.app) |
 | 隱私權原則的 URL | [https://www.brightpoll.app/privacy](https://www.brightpoll.app/privacy) |
 | 使用條款的 URL | [https://brightpoll.app/terms/](https://brightpoll.app/terms/) |
@@ -68,7 +68,7 @@ ms.locfileid: "52852037"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 必須儲存使用者的名稱、唯一的 IDs 和電子郵件地址，才可提供及支援輪詢功能。 | 小組和使用者唯一的 IDs、名稱和電子郵件地址。 | 必須有唯一的 IDs、名稱和電子郵件地址，才能讓應用程式的功能及支援應用程式。 |
 
 

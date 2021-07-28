@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho 衝刺（sprint）登錄中所有可用的安全性和符合性資訊，針對衝刺（其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊）。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fc19b083312c4c8222b894ae6bb35b0bbdd5314e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: cdc296898d2e9f6d18f01d9742ce8d0ca29c807b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552674"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527509"
 ---
 # <a name="zoho-sprints"></a>Zoho Sprints
 
@@ -55,15 +55,15 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ReadWrite 的行事曆 | 委託 | 已儲存 alendar 資料夾識別碼，以將連絡人從 Zoho 衝刺同步處理至 Microsoft &amp; （反之亦然）。 |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 連絡人。 ReadWrite | 委託 | [連絡人] 資料夾識別碼會儲存，以同步處理連絡人。 |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.All | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 已讀取。選取 | 委託 | 儲存 UserPrincipalName 以供使用者識別。 | 讀取使用者選取的檔案 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | 委託 |  | 登入並讀取使用者設定檔 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 委託 |  | 允許使用者將 Office365 使用者匯入 Zoho 衝刺（Sprint）。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 電子郵件 | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | 委託 |  | 維護您有權存取資料的存取權限 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 已儲存 alendar 資料夾識別碼，以將連絡人從 Zoho 衝刺同步處理至 Microsoft &amp; （反之亦然）。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 連絡人。 ReadWrite | 委託 | [連絡人] 資料夾識別碼會儲存，以同步處理連絡人。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.All | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 已讀取。選取 | 委託 | 儲存 UserPrincipalName 以供使用者識別。 | 讀取使用者選取的檔案 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | 委託 |  | 登入並讀取使用者設定檔 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 委託 |  | 允許使用者將 Office365 使用者匯入 Zoho 衝刺（Sprint）。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 電子郵件 | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | 委託 |  | 維護您有權存取資料的存取權限 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

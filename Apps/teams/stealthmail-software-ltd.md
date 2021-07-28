@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: StealthMail 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4855cb478e8ba2e53b793a1d61f477de88b74058
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 322cdc906ab0cd2ae8980d1412bb4dd9c897a5f6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552734"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528219"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -56,14 +56,14 @@ ms.locfileid: "52552734"
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage Read。 All | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| ChannelMessage 傳送 | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| 聊天室 ReadWrite | 委託 | 應用程式會將郵件傳送到與所建立安全電子郵件上的參考聊天 | Nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| GroupMember Read。 All | 委託 | 應用程式取得通道成員，以進行安全的電子郵件 | Nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| User.Read.All | 委託 | 應用程式取得聊天成員的安全電子郵件 | Nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| User.ReadBasic.All | 委託 | 應用程式取得聊天成員的安全電子郵件 | Nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| 電子郵件 | 委託 | 驗證使用者 | 資料庫中沒有任何儲存區 | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage Read。 All | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| ChannelMessage 傳送 | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| 聊天室 ReadWrite | 委託 | 應用程式會將郵件傳送到與所建立安全電子郵件上的參考聊天 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| GroupMember Read。 All | 委託 | 應用程式取得通道成員，以進行安全的電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| User.Read.All | 委託 | 應用程式取得聊天成員的安全電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| User.ReadBasic.All | 委託 | 應用程式取得聊天成員的安全電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| 電子郵件 | 委託 | 驗證使用者 | 資料庫中沒有任何儲存區 | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

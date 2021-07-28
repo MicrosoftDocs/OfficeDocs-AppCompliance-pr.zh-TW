@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Brightidea 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8648dbe30e43ca31964493d797cb3629234fa671
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: cdeb4cfb6fdcdc8008f9280c59d3ae358c8ce725
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281385"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525847"
 ---
 # <a name="brightidea"></a>Brightidea
 
@@ -62,7 +62,7 @@ ms.locfileid: "53281385"
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Amazon Web Services | 電子郵件地址/網域 | 若要比對 Brightidea 帳戶 Teams 的構思提交者，請：我們的使用者資料庫在 AWS |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
@@ -70,7 +70,7 @@ ms.locfileid: "53281385"
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 若要將 Teams 中的構思提交者與 Brightidea 帳戶進行相符 | 否 |  |
 
 

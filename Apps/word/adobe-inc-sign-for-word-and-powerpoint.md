@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用的 Adobe 符號安全性和符合性資訊資訊，針對 Word 及 PowerPoint，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0c5ed86f2de8925a87b726db9c2a9946721e06c7
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 81a0012ebbc0e77af0fee9fa73a22f187972d13c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283327"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527499"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word 和 PowerPoint
 
@@ -53,12 +53,12 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 郵件。 ReadWrite | 委託 | 若要將附加的檔、寄件者和收件者電子郵件，以及郵件內容從電子郵件寫入為 Adobe sign，以進行簽章簽名。 這是為了儲存使用者時間，以 Adobe 符號重新輸入這些欄位。 在簽署合約後，我們會自動撰寫新的電子郵件，讓使用者傳送電子郵件通知給收件者交易已完成。 | Adobe 簽署會將附件儲存為臨時檔案，其到期期限為24小時。 | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
->| 個人讀取 | 委託 | 若要在 [傳送以供簽章經驗] 中自動填滿電子郵件地址 &quot; &quot; ，請輸入一些初始字母，不需要使用者輸入整個電子郵件。 | Adobe 簽署只會將收件者的電子郵件和 displayName 儲存在協定中。 | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
->| User.Read | 委託 | 若要讀取使用者的設定檔並比對其設定檔 (基本上，他們的電子郵件和 userId) 到資料庫，讓他們可以使用 Adobe Sign。 | 若要讀取使用者的設定檔並比對其設定檔 (基本上，他們的電子郵件和 userId) 到資料庫，讓他們可以使用 Adobe Sign。 | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
->| offline_access | 委託 | 若要在目前的憑證到期時重新整理存取權杖。 例如，當使用者在 [ &quot; 傳送簽名 &quot; ] 視窗中並保持停用狀態的時間過長時，當使用者使用中時，我們需要重新整理新的權杖。 | 若要在目前的憑證到期時重新整理存取權杖。 例如，當使用者在 [ &quot; 傳送簽名 &quot; ] 視窗中並保持停用狀態的時間過長時，當使用者使用中時，我們需要重新整理新的權杖。 | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
->| openid | 委託 | 電子郵件和 UserId。 若要為使用者簽署，以確保其同意使用 Adobe Sign app 的許可權。  | Email 是 Adobe Sign 中使用者的唯一識別碼。 我們會儲存電子郵件識別碼，以便將該使用者的所有活動對應至其 Adobe 簽署記錄。  | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 郵件。 ReadWrite | 委託 | 若要將附加的檔、寄件者和收件者電子郵件，以及郵件內容從電子郵件寫入為 Adobe sign，以進行簽章簽名。 這是為了儲存使用者時間，以 Adobe 符號重新輸入這些欄位。 在簽署合約後，我們會自動撰寫新的電子郵件，讓使用者傳送電子郵件通知給收件者交易已完成。 | Adobe 簽署會將附件儲存為臨時檔案，其到期期限為24小時。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| 個人讀取 | 委託 | 若要在 [傳送以供簽章經驗] 中自動填滿電子郵件地址 &quot; &quot; ，請輸入一些初始字母，不需要使用者輸入整個電子郵件。 | Adobe 簽署只會將收件者的電子郵件和 displayName 儲存在協定中。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| User.Read | 委託 | 若要讀取使用者的設定檔並比對其設定檔 (基本上，他們的電子郵件和 userId) 到資料庫，讓他們可以使用 Adobe Sign。 | 若要讀取使用者的設定檔並比對其設定檔 (基本上，他們的電子郵件和 userId) 到資料庫，讓他們可以使用 Adobe Sign。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| offline_access | 委託 | 若要在目前的憑證到期時重新整理存取權杖。 例如，當使用者在 [ &quot; 傳送簽名 &quot; ] 視窗中並保持停用狀態的時間過長時，當使用者使用中時，我們需要重新整理新的權杖。 | 若要在目前的憑證到期時重新整理存取權杖。 例如，當使用者在 [ &quot; 傳送簽名 &quot; ] 視窗中並保持停用狀態的時間過長時，當使用者使用中時，我們需要重新整理新的權杖。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| openid | 委託 | 電子郵件和 UserId。 若要為使用者簽署，以確保其同意使用 Adobe Sign app 的許可權。  | Email 是 Adobe Sign 中使用者的唯一識別碼。 我們會儲存電子郵件識別碼，以便將該使用者的所有活動對應至其 Adobe 簽署記錄。  | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
