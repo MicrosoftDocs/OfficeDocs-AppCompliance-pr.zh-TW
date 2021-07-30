@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/15/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: f54a599b7f74c565b64528e1d9b0d176e9748410
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: 1c270d05dad7fe1cd00b141ed20436ff61792131
+ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456611"
+ms.lasthandoff: 07/27/2021
+ms.locfileid: "53609813"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -20,6 +20,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [365-QA](./advantive-365-qa.md) | Advantive | **✓** |  |
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
 | [ADI](./akari-solutions-limited-adi.md) | Akari Solutions Limited | **✓** |  |
@@ -37,6 +38,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [AttendanceBot](./anaek-attendancebot.md) | Anaek | **✓** |  |
 | [AVA](./avepoint-inc-ava.md) | AvePoint, Inc. | **✓** |  |
 | [Axelleron](./axelleron.md) | Axelleron | **✓** |  |
+| [Beagle](./decision-point-beagle.md) | Decision Point | **✓** |  |
 | [Beekast](./beekast.md) | Beekast | **✓** |  |
 | [Beesy](./beesapps-beesy.md) | BeesApps | **✓** |  |
 | [Berrycast](./technologies-openmind-inc-les-berrycast.md) | Technologies Openmind Inc, Les | **✓** |  |
@@ -47,6 +49,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [亮色投票](./chat-apps-llc-bright-poll.md) | 聊天應用程式，LLC | **✓** |  |
 | [Brightidea](./brightidea.md) | Brightidea | **✓** |  |
 | [廣播](./cerkl-broadcast.md) | Cerkl | **✓** |  |
+| [Brochesia](./brochesia.md) | Brochesia | **✓** |  |
 | [佈告欄 - NextSet](./nextsetinc-bulletin-board-nextset.md) | NextSet,Inc. | **✓** |  |
 | [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** |  |
 | [行事曆 BOT](./approved-contact-calendar-bot.md) | 已核准的連絡人 | **✓** |  |
@@ -61,10 +64,13 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Cloverpop](./cloverpop.md) | Cloverpop | **✓** |  |
 | [COCO](./hexaware-technologies-ltd-coco.md) | Hexaware Technologies Ltd. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [CodeStream](./codestream.md) | CodeStream | **✓** |  |
+| [CoffeePals](./carnduff-co-coffeepals.md) | Carnduff Co | **✓** |  |
+| [Collection Pot](./gifted-to-you-limited-collection-pot.md) | Gifted to You Limited | **✓** |  |
 | [Complish](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [會議 i/O](./conferences-io.md) | 會議 i/O | **✓** |  |
 | [Connect+](./reward-gateway-connectplus.md) | Reward Gateway | **✓** |  |
 | [連絡人中心](./landis-technologies-llc-contact-center.md) | Landis Technologies LLC | **✓** |  |
+| [Cuckoo Workout](./cuckoo-networks-oy-workout.md) | Cuckoo Networks Oy | **✓** |  |
 | [Datto Workplace](./datto-inc-workplace.md) | Datto, Inc. | **✓** |  |
 | [DBit](./diamondsoft-solutions-llc-dbit.md) | Diamondsoft Solutions，LLC | **✓** |  |
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  |
@@ -76,13 +82,16 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
+| [Employee Training Management](./sharepointsapiens-employee-training-management.md) | SharePoint|Sapiens | **✓** |  |
 | [Empuls](./empuls.md) | Empuls | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
 | [eTeamer](./missing-eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
+| [事件管理](./sharepointsapiens-event-management.md) | SharePoint|Sapiens | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Evocom](./evocom-informationssysteme-gmbh.md) | Evocom Informationssysteme GmbH | **✓** |  |
 | [ezTeam](./enterprizid-inc-ezteam.md) | EnterprizID Inc | **✓** |  |
 | [Fellow](./fellow-insights-inc.md) | Fellow Insights Inc | **✓** |  |
+| [ForceManager CRM](./tritium-software-sl-forcemanager-crm.md) | Tritium Software SL | **✓** |  |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | 企業數位電腦 | **✓** |  |
 | [Freehand](./invisionapp-inc-freehand.md) | InVisionApp Inc. | **✓** |  |
 | [Freshdesk](./freshworks-inc-freshdesk.md) | Freshworks INC | **✓** |  |
@@ -136,6 +145,8 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [Navo](./regroove-solutions-navo.md) | Regroove Solutions | **✓** |  |
 | [netDocShare](./kl-software-technologies-netdocshare.md) | KL Software Technologies | **✓** |  |
+| [NewCOS](./newtech-newcos.md) | Newtech | **✓** |  |
+| [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [現在虛擬代理程式](./servicenow-now-virtual-agent.md) | ServiceNow | **✓** |  |
 | [Nugget](./panviva-nugget.md) | Panviva | **✓** |  |
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  |
@@ -150,6 +161,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Planyway 小組行事曆](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  |
 | [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprende-and-juega.md) | TeamsChamp | **✓** |  |
 | [Polly](./polly.md) | Polly | **✓** |  |
+| [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [Prezi Video](./prezi-video.md) | Prezi | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ProdBot](./prodoscore-prodbot.md) | Prodoscore | **✓** |  |
@@ -160,11 +172,13 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Qubie](./tivian-qubie.md) | Tivian | **✓** |  |
 | [Quicklinks](./chitchattr-quicklinks.md) | ChitChattr | **✓** |  |
 | [達到](./livetiles-reach.md) | LiveTiles | **✓** |  |
+| [即時翻譯工具](./fairuse-real-time-translator.md) | Fairuse | **✓** |  |
 | [RememberThis](./tom-morgan-rememberthis.md) | Tom Morgan | **✓** |  |
 | [提醒](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
 | [Reminderz](./chitchattr-reminderz.md) | ChitChattr | **✓** |  |
 | [Retro](./baltic-amadeus-retro.md) | Baltic Amadeus | **✓** |  |
 | [RingCentral](./ringcentral-inc.md) | RingCentral, Inc. | **✓** |  |
+| [RowShare](./rowshare.md) | RowShare | **✓** |  |
 | [RSpace](./researchspace-rspace.md) | ResearchSpace | **✓** |  |
 | [Saberr](./saberr.md) | Saberr | **✓** |  |
 | [Sailpoint](./sailpoint-technologies-inc.md) | SailPoint Technologies， Inc. | **✓** |  |
@@ -177,6 +191,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Sentry](./sentry.md) | Sentry | **✓** |  |
 | [ServiceDesk Plus Cloud](./zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
+| [SHL](./shl.md) | SHL | **✓** |  |
 | [Shortlinks](./chitchattr-shortlinks.md) | ChitChattr | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps， Inc. | **✓** |  |
@@ -195,11 +210,13 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Social Advocacy](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Spinify](./spinify.md) | Spinify | **✓** |  |
 | [Teams 的 Stack Overflow](./stack-overflow-for-teams.md) | Stack Overflow | **✓** |  |
+| [StaffCircle](./staffcircle.md) | StaffCircle | **✓** |  |
 | [Standup Alice](./bao-le-duc-standup-alice.md) | Bao Le Duc | **✓** |  |
 | [StarLeaf](./starleaf.md) | StarLeaf | **✓** |  |
 | [StealthMail](./stealthmail-software-ltd.md) | Stealthmail Software Ltd | **✓** |  |
 | [Streem](./streem.md) | Streem | **✓** |  |
 | [Studi.ly](./inlogic-office-store-studily.md) | inLogic-Office Store | **✓** |  |
+| [SuitePro-G](./iqar-suitepro-g.md) | IQar | **✓** |  |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  |
 | [SurveySparrow](./admin@surveysparrowcom-surveysparrow.md) | admin@surveysparrow.com | **✓** |  |
 | [Sympli](./sympli-llc.md) | Sympli，LLC | **✓** |  |
@@ -231,6 +248,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [VisualSP](./visualsp.md) | VisualSP | **✓** |  |
 | [Webex Call](./cisco-webex-call.md) | Cisco | **✓** |  |
 | [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
+| [Wisembly](./wisembly.md) | Wisembly | **✓** |  |
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
 | [Workboard](./workboard.md) | Workboard | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Workday](./workday.md) | Workday | **✓** |  |
