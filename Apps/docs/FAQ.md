@@ -1,19 +1,19 @@
 ---
-title: 發行者證明常見問題
+title: Publisher證明常見問題
 author: LGerrard
 ms.author: Legerrar
-description: 發行者證明常見問題
+description: Publisher證明常見問題
 keywords: 應用程式認證憑證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1606195453c232f06fe58a6518e289c13907ed15
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 44898296bede4b34837ee18726164a636cc05824aa1710f273a4cc822b448953
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52070973"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54747693"
 ---
-# <a name="publisher-attestation-faq"></a>發行者證明常見問題
+# <a name="publisher-attestation-faq"></a>Publisher證明常見問題
 
 |問題                                       |展開定義                          |
 |----------------------------------------       |---------------------------------------------|
@@ -21,35 +21,35 @@ ms.locfileid: "52070973"
 |何謂公司網站 URL？   |公司或應用程式的首頁 URL|
 |應用程式的資訊頁面 URL 為何？ |頁面的 URL，它會概括顯示應用程式的詳細資訊。 使用者可以在何處瞭解應用程式的詳細資訊？ 如果您沒有此頁面，請標示 N/A。 |
 |應用程式類別？ |根據與其相關的欄位，對應用程式進行分類 |
-|您要如何在 500 charaters 中描述應用程式的核心服務 (s) （或更少）？|在應用程式系列中，以500個字元或更少的所有整合描述應用程式。 前。 如果您有小組和 Outlook 整合不提供小組應用程式的特定描述，請提供適用于這兩個應用程式的描述。 如果公司對任何平臺 ex 都有一個以上的整合，這一點應該是非常一般的描述，而不是工作量特有的。 時差，Outlook，小組，Web App，行動應用程式。 |
+|您要如何在 500 charaters 中描述應用程式的核心服務 (s) （或更少）？|在應用程式系列中，以500個字元或更少的所有整合描述應用程式。 例如： 如果您有 Teams，且 Outlook 整合沒有提供 Teams 應用程式的特定描述，請提供適用于這兩個應用程式的描述。 如果公司對任何平臺 ex 都有一個以上的整合，這一點應該是非常一般的描述，而不是工作量特有的。 寬限時間、Outlook、Teams、Web 應用程式、行動應用程式。 |
 |開發人員所在公司的總部是哪一個國家？|這是必要的，因為它與不同國家/地區的資料處理做法和法規相關。 |
 |您的公司成立于哪一年？|如果您未合併，請標示為 N/A。|
 |應用程式使用的唯一網域為何？|提供者的識別碼，可定義網際網路中的系統管理自治、授權或控制領域。 回應應包含網址。 如果有多個，請以逗號分隔。|
 |用於登入的 URL 為何？|提供登入頁面，其中可能包含彈出的 URL （如果適用的話）。 可讓訂戶登入至應用程式的唯一 URL。 如果您沒有此項，請標示 "N/A。|
-|主控雲端服務提供者的名稱為何？|範例包括： Microsoft Azure，Amazon AWS，Google .。。這也可以包含您公司的獨特解決方案。 |
-|App 是否使用 Microsoft Graph 許可權？ |Azure AD 為您的應用程式指派唯一的應用程式或用戶端識別碼。 入口網站會開啟應用程式的 [一覽] 頁面。 若要將功能新增至應用程式，您可以選取其他設定選項，包括署名、憑證和密碼、API 許可權等等。 連結至頁面。|
+|主控雲端服務提供者的名稱為何？|範例包括： Microsoft Azure、Amazon AWS、Google .。。這也可以包含您公司的獨特解決方案。 |
+|app 是否使用 Microsoft Graph 許可權？ |Azure AD 為您的應用程式指派唯一的應用程式或用戶端識別碼。 入口網站會開啟應用程式的 [一覽] 頁面。 若要將功能新增至應用程式，您可以選取其他設定選項，包括署名、憑證和密碼、API 許可權等等。 連結至頁面。|
 |Microsoft Graph 許可權|以下是可接受的許可權清單。 https://docs.microsoft.com/graph/permissions-reference#directory-permissions |
 |此應用程式所使用的 Azure 應用程式 IDs 為何？|Azure AD 為您的應用程式指派唯一的應用程式或用戶端識別碼。 入口網站 https://portal.azure.com/ 會開啟應用程式的 [一覽] 頁面。 若要將功能新增至應用程式，您可以選取其他設定選項，包括署名、憑證和密碼、API 許可權等等。 |
-|許可權類型為何？|「已登入使用者的應用程式會使用委派的許可權。 針對這些應用程式，使用者或系統管理員 consents 至應用程式要求的許可權，而應用程式可以在呼叫 Microsoft Graph 時充當登入使用者。 有些委派的許可權可能是由非系統管理使用者所擁有，但是某些具有較高許可權的許可權需要管理員同意。                                在未登入使用者存在的情況下，應用程式會使用應用程式許可權。例如，以背景服務或守護程式形式執行的應用程式。 只有系統管理員可以同意應用程式許可權。                                                                           https://docs.microsoft.com/graph/auth/auth-concepts#microsoft-graph-permissions"|
+|許可權類型為何？|「已登入使用者的應用程式會使用委派的許可權。 在這些應用程式中，使用者或系統管理員 consents 至應用程式要求的許可權，且應用程式可以在呼叫 Microsoft Graph 時，當作登入的使用者。 有些委派的許可權可能是由非系統管理使用者所擁有，但是某些具有較高許可權的許可權需要管理員同意。                                在未登入使用者存在的情況下，應用程式會使用應用程式許可權。例如，以背景服務或守護程式形式執行的應用程式。 只有系統管理員可以同意應用程式許可權。                                                                           https://docs.microsoft.com/graph/auth/auth-concepts#microsoft-graph-permissions"|
 |收集或使用的資料為何？  新增論證，以收集或使用資料。|範例可在 [檔] 頁面上， https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps 按一下 [應用程式]，再按一下 [資料處理]，即可看到其他理由的範例。 |
-|應用程式儲存在其資料庫中的資料為何？  新增論證，以儲存資料，包括適用的案例和範例。 |是否為具有 bot 功能之小組應用程式的認證？ https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots|
-|Bot 是否可以存取個人身分識別資訊 (PII) ？|PII 是可用於識別特定人員的任何資料。 前。 名稱、電子郵件地址。|
+|應用程式儲存在其資料庫中的資料為何？  新增論證，以儲存資料，包括適用的案例和範例。 |是否為具有 bot 功能之 Teams 應用程式的認證？https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots|
+|Bot 是否可以存取個人身分識別資訊 (PII) ？|PII 是可用於識別特定人員的任何資料。 例如： 名稱、電子郵件地址。|
 |新增存取 PII 的理由。|範例可在 [檔] 頁面上， https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps 按一下 [應用程式]，再按一下 [資料處理]，即可看到其他 justificationsin 透過 bot 進行資料存取的範例。|
-|儲存哪個 PII？|個人身分識別資訊 (PII) 是可以用來識別特定人員的任何資料。 前。 名稱、電子郵件地址。|
+|儲存哪個 PII？|個人身分識別資訊 (PII) 是可以用來識別特定人員的任何資料。 例如： 名稱、電子郵件地址。|
 |為儲存 PII 新增調整。|為何需要儲存個人身分識別資訊？ |
-|列出 (OII 的任何組織識別資訊) 應用程式會透過這些 APIs 收集。 |OII 是可用於識別組織/承租人的任何資料。 前。 在電子郵件地址 (joe@contoso.com) 中的承租人識別碼或 IP 位址、承租人使用狀況資料、租使用者功能變數名稱。|
-|應用程式儲存區的 OII 類型為何？|Organiaztional 身分識別資訊 (OII) 是可以用來識別組織/租使用者的任何資料。 前。 在電子郵件地址 (joe@contoso.com) 中的承租人識別碼或 IP 位址、承租人使用狀況資料、租使用者功能變數名稱。|
+|列出 (OII 的任何組織識別資訊) 應用程式會透過這些 APIs 收集。 |OII 是可用於識別組織/承租人的任何資料。 例如： 在電子郵件地址 (joe@contoso.com) 中的承租人識別碼或 IP 位址、承租人使用狀況資料、租使用者功能變數名稱。|
+|應用程式儲存區的 OII 類型為何？|Organiaztional 身分識別資訊 (OII) 是可以用來識別組織/租使用者的任何資料。 例如： 在電子郵件地址 (joe@contoso.com) 中的承租人識別碼或 IP 位址、承租人使用狀況資料、租使用者功能變數名稱。|
 |新增 OII 的調整。|需要儲存組織識別資訊的原因為何？ |
-|您可以使用非 Microsoft 服務來傳輸或共用使用者的身分識別資訊 (EUII) 還是 OII？|EUII 是可用於識別客戶資料的任何資料。 前。 員工的使用者名稱或識別碼、人員的位置資訊、使用者特定的 IP 位址。 |
-|列出您將 OII 轉接至的所有非 Microsoft 服務。|前。 Google Cloud，AWS|
-|說明組織管理員如何在合作夥伴系統中控制其資訊？|前。 加密，2FA|
-|使用者是否可以分類應用程式中的資料？ |前。 限制、機密、內部、公開 |
+|您是以非 Microsoft 服務的方式 (EUII) 或 OII 來傳輸或共用使用者身分識別資訊嗎？|EUII 是可用於識別客戶資料的任何資料。 例如： 員工的使用者名稱或識別碼、人員的位置資訊、使用者特定的 IP 位址。 |
+|列出您將 OII 轉接至的所有非 Microsoft 服務。|例如： Google Cloud，AWS|
+|說明組織管理員如何在合作夥伴系統中控制其資訊？|例如： 加密，2FA|
+|使用者是否可以分類應用程式中的資料？ |例如： 限制、機密、內部、公開 |
 |多重要素驗證|Multi-Factor 驗證 (MFA) 是一種安全性系統，可驗證使用者的身分識別，其方式是需要多個認證。 除了只要求使用者名稱和密碼以外，MFA 還需要其他的認證，例如使用者的 smartphone 中的程式碼、安全性問題的答案、指紋或面部識別。|
 |是否限制特定的 IP 位址？|IP 限制設定可用來限制或授與可存取服務內特定資源的 ip 限制。 針對支援 IP 限制的應用程式，組織管理員可以限制組織中的任何使用者可用來透過使用者介面或 APIs 來存取系統的 IP 位址。 |
 |每個使用者帳戶的核查追蹤|審核追蹤是一筆電子記錄，可在年代上記錄事件或程式，以提供支援、檔及歷史記錄，以用於驗證安全性和動作，或緩解挑戰。 使用者審計記錄會包含使用者活動的相關資訊，例如登入嘗試、存取檔案等等。|
 |應用程式中的系統管理員審核追蹤| 系統管理員審核記錄會包含系統管理員活動，例如授與新的許可權、變更設定、API 通話等。|
 |應用程式中的資料審計追蹤|資料審計追蹤會包含在資料庫變更的活動中，例如上次修改屬性的時間、記錄的先前值及修改者等。|
-|您的應用程式是否有密碼原則？ |前。 最小密碼長度、字元組合、不允許重複使用舊密碼、不允許使用個人 informantion (例如名稱、電子郵件等 ) 、在特定時段後進行 enforace 密碼更新|
+|您的應用程式是否有密碼原則？ |例如： 最小密碼長度、字元組合、不允許重複使用舊密碼、不允許使用個人 informantion (例如名稱、電子郵件等 ) 、在特定時段後進行 enforace 密碼更新|
 |支援安全性斷言標記語言 (SAML) standard 用於交換驗證？|安全性聲明標記語言-SAML-是一種開啟的標準，可在雙方之間（特別是在身分識別提供者和服務提供者之間）交換驗證和授權資料。|
 |您是否執行滲透測試以偵測和評估應用程式及其相關服務的網路弱點？|滲透測試（也稱為「畫筆測試」）是測試電腦系統、網路或 web 應用程式，以找出攻擊者可能會利用之安全性弱點的作法。|
 |應用程式是否符合金融行業規章機關 (FINRA) ？ FINRA 是由美國國會所授權的非盈利性組織所組成的標準集，可控制並強制增強投資者保護和市場誠信。|如果您未與金融行業的客戶合作或不確定，請將此標為 N/A。 |
@@ -87,7 +87,7 @@ ms.locfileid: "52070973"
 
 ## <a name="learn-more"></a>深入了解
 
-* [Microsoft 365 應用程式規範計畫概述](~/overview.md)  
-* [完成發行者驗證](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
-* [何謂發行者認證？](~/docs/enterprise-app-attestation-guide.md)  
+* [Microsoft 365應用程式規範計畫概述](~/overview.md)  
+* [完成 Publisher 驗證](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
+* [何謂 Publisher 認證？](~/docs/enterprise-app-attestation-guide.md)  
 * [完成 Microsoft 365 認證](~/docs/certification.md)

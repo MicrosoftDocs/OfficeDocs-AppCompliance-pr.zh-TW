@@ -2,17 +2,17 @@
 title: Microsoft Word應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/22/2021
+ms.date: 08/04/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 2c09482ad400f5af899f1b61d87968b0ba311a07
-ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
+ms.openlocfilehash: 2ebfb70a47886b0d05c7d3c54e1e7624f65385f8ec575db816e76d4050c13390
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53547811"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54748033"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word應用程式安全性和合規性
 
@@ -32,5 +32,6 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [officeatwork | Office] 的上載程式 (./officeatwork-officeatworkuploader-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的驗證程式 (。/officeatwork-officeatworkverifier-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] ( 的嚮導)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [SmartCite 論文](./digital-science-smartcite-for-papers.md) | 數位科學 | **✓** |  |
 | [Office 的 Wunder365](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi 技術私人有限 | **✓** |  |
 | [xLaw-知識管理系統](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |
