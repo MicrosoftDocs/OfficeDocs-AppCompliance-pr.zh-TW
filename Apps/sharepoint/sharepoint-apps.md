@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 147de4919d6286d69ac0e428b1899514fd979c9d
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.openlocfilehash: f1cd651728f42db27b312ce27aa9b1213ae649f1f977461222edb138038a8957
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609803"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54803019"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -21,10 +21,11 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [線上 SharePoint 的敏捷工作面板](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
+| [ArcGIS 地圖](./esri-inc-arcgis-maps.md) | Esri，Inc.。 | **✓** |  |
 | [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** |  |
 | [SharePoint 的 Gaggle](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net，Inc.。 | **✓** |  |
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe Microsoft Office 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect 電子郵件分析器](./konnect-email-parser.md) | Konnect 電子郵件 | **✓** |  |
 | [officeatwork | SharePoint] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-sharepoint.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Power BI協作](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
