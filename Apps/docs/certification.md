@@ -6,12 +6,12 @@ description: Microsoft 365認證詳細資料一覽表
 keywords: 應用程式認證證明 Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: e5696890f532589ae4fbec08aaf9f5be7b2e4590
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: bb6434cf94db1b7af437b3317397c0ba26a4c52df23e5837d9bcab1e98ff7a47
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315093"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54750463"
 ---
 # <a name="complete-microsoft-365-certification"></a>完成 Microsoft 365 認證
 
@@ -30,7 +30,7 @@ Microsoft 365 認證需要評估您的安全性和合規性程式及程式。 �
 
 開始憑證過程之前，您必須已完成 Publisher 認證。 批准發行者證明後，您將會收到一封電子郵件，邀請您加入 Microsoft 365 認證。
 
-### <a name="preparation"></a>製備
+### <a name="preparation"></a>準備
 1. 流覽至 [合作夥伴中心]，並複查您已完成的[Publisher 證明]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation)檔。 如有必要，您可以編輯和更新您的回應;不過，如果您這麼做，您將需要重新提交證明檔以供核准。 如果您提交的時間超過三個月，我們將會要求您重新提交 Publisher 認證，以供複查和驗證。 
 1. 請仔細閱讀[Microsoft 365 的認證提交指南](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)，以瞭解您將需要的專案。 確定您能夠履行 Microsoft 365 認證提交指南中所指定的[控制需求]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria)。
 1. 在 [合作夥伴中心] 中，按一下 [開始認證]。 這會讓您進入初始檔提交入口網站。 提交您的 [初始檔提交](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission)。 這可協助我們根據您的應用程式的設計方式及處理客戶資料的方式，判斷評估的範圍。 請經常檢查此頁面，查看是否已接受您的提交。

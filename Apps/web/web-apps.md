@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 Web 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 3446acbd1f5908aa6d8e94278b74a51dfc4a5ea9
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: c9aa27bbf2532f19d59b93782887767bd88cc79b03163f063f4bc422712e8b80
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275268"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54751283"
 ---
 # <a name="web-app-security-and-compliance"></a>Web 應用程式安全性和合規性
 

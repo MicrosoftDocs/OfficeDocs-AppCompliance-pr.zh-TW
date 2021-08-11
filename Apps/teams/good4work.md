@@ -1,43 +1,45 @@
 ---
-title: 所有藍色解決方案 ngDesk 的應用程式資訊
+title: Good4work 的應用程式資訊（按 Good4work）
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 06/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: ngDesk 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: Good4work 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0d3f507338a8ef504df171542d0fa8c25c37efc
+ms.openlocfilehash: 3d6854fcf2b53d1eb7baefb2f64d258365d5bdaf
 ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 08/05/2021
-ms.locfileid: "53772110"
+ms.locfileid: "53774929"
 ---
-# <a name="ngdesk"></a>ngDesk
+# <a name="good4work"></a>Good4work
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次開發人員的更新日期：2021年7月28日</p>
+<p>上次於開發人員的更新日期：2021年6月15日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002505" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/d1493af7-8634-4b6a-8cbe-eeb23c6724f4" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002962" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-所有藍色解決方案提供給 Microsoft 的資訊：
+由 Good4work 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | ngDesk |
-| ID | WA200002505 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
-| 合作夥伴公司名稱 | 所有藍色解決方案 |
-| 合作夥伴網站的 URL | [https://ngdesk.com](https://ngdesk.com) |
-| 隱私權原則的 URL | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
-| 使用條款的 URL | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
+| 應用程式名稱 | Good4work |
+| ID | WA200002962 |
+| 支援 Office 365 用戶端 | Microsoft Teams |
+| 合作夥伴公司名稱 | Good4work |
+| 合作夥伴網站的 URL | [https://good4work.com/#product](https://good4work.com/#product) |
+| Teams 應用程式資訊頁面的 URL | [https://good4work.com/support/](https://good4work.com/support/) |
+| 隱私權原則的 URL | [https://good4work.com/privacy-policy/](https://good4work.com/privacy-policy/) |
+| 使用條款的 URL | [https://good4work.com/good4work-terms/](https://good4work.com/good4work-terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +49,7 @@ ms.locfileid: "53772110"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-關於此應用程式如何收集和儲存組織資料，以及您的組織將會透過應用程式收集之資料的控制項，都提供此資訊。
+此資訊是由 Good4work 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -62,6 +64,11 @@ ms.locfileid: "53772110"
 
 >不會使用非 Microsoft 服務。
 
+#### <a name="data-access-via-bots"></a>透過 bot 的資料存取
+
+如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
+
+>未存取 EUII。
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -74,13 +81,13 @@ ms.locfileid: "53772110"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->我們不會將資料傳送至其他合作夥伴系統
+>使用者資料可透過系統管理員入口網站存取 (Django 儀表板) ，且僅限後端 developper 與 CEO 的存取權
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
 參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
 
->否
+>是
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -90,9 +97,9 @@ ms.locfileid: "53772110"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42196' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42196" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -102,7 +109,7 @@ ms.locfileid: "53772110"
 
 ### <a name="identity-information"></a>身分識別資訊
 
-有關此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則的所有藍色解決方案，都提供此資訊。
+Good4work 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|

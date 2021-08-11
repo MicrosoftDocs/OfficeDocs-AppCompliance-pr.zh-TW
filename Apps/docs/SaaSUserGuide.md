@@ -6,16 +6,16 @@ description: Microsoft 365 應用程式規範方案的 ISV 使用者指南 SaaS
 keywords: Microsoft 365 應用程式規範方案的 ISV 使用者指南 SaaS
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b3b8c37a1babf2f941f5764fddd30523319d9a34
-ms.sourcegitcommit: f6f3551bf1c00013efb6313ca3dc280de697137d
+ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53202754"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801325"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Microsoft 365 應用程式規範計畫的協力廠商使用者指南-SaaS
 
-|階段|職稱|
+|階段|標題|
 |---|---|
 |階段1| 發行者證明|
 |階段2| Microsoft 365 憑證|
@@ -83,7 +83,7 @@ ms.locfileid: "53202754"
         
 ![Publisher已拒絕證明](../media/UserGuidePhotos/09.png)
 
-B。  Publisher證明核准
+B.  Publisher證明核准
 - 核准後，合作夥伴可以：
      - 更新並重新提交證明
      - View 已完成 Publisher 證明

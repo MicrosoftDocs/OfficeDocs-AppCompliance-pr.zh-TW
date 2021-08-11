@@ -6,12 +6,12 @@ description: Microsoft 365認證提交指南精細查看
 keywords: 應用程式認證團隊 Microsoft 365 安全性符合性 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: dd3a61b6b9768c278cd7d48dd88847ea9ee56421
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 31c974a20e17daa0436826432429bd664a9a1f59dee6b351b587ae0b30cc6bac
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315123"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54750535"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認證提交指南
 
@@ -54,7 +54,7 @@ Microsoft 365 應用程式相容性計畫的一部分，當您將協力廠商開
 >* Office增益集 (Word、Excel、PowerPoint、Outlook、Project、OneNote) 
 >* WebApps
 
-## <a name="prerequisites"></a>必要條件
+## <a name="prerequisites"></a>先決條件
 
 ### <a name="publisher-attestation"></a>發行者證明
 
@@ -105,8 +105,8 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 
 |人口大小              | 範例                  |
 |---------------------------- |-------------------------|
-|<5|1 |
-|>5 & <10|2 |
+|<5|1|
+|>5 & <10|第|
 |>9 & <25|3 |
 |>24|4 |
 
@@ -121,7 +121,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 
 開始憑證過程之前，您必須已完成 Publisher 認證。 批准發行者證明後，您將會收到一封電子郵件，邀請您加入 Microsoft 365 認證。
 
-### <a name="preparation"></a>製備
+### <a name="preparation"></a>準備
 1. 流覽至 [合作夥伴中心]，並複查您已完成的[Publisher 證明]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation)檔。 如有必要，您可以編輯和更新您的回應;不過，如果您這麼做，您將需要重新提交證明檔以供核准。 如果您提交的時間超過三個月，我們將會要求您重新提交 Publisher 認證，以供複查和驗證。 
 1. 請仔細閱讀[Microsoft 365 的認證提交指南](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)，以瞭解您將需要的專案。 確定您能夠履行 Microsoft 365 認證提交指南中所指定的[控制需求]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria)。
 1. 在 [合作夥伴中心] 中，按一下 [開始認證]。 這會讓您進入初始檔提交入口網站。 提交您的 [初始檔提交](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission)。 這可協助我們根據您的應用程式的設計方式及處理客戶資料的方式，判斷評估的範圍。 請經常檢查此頁面，查看是否已接受您的提交。
