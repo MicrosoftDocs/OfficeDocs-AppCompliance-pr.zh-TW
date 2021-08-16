@@ -1,45 +1,45 @@
 ---
-title: 透過社交手段進行即時聊天的應用程式資訊
+title: Egnyte 的應用程式資訊（按 Egnyte）
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 Live Chat 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: Egnyte 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 52b8aa65ce11acbe157d61bd46a6f0fee67f9bc6
+ms.openlocfilehash: 9c9ff10261730b8b1cc56cbb7aa23d55d5da8383
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243544"
+ms.locfileid: "58241269"
 ---
-# <a name="live-chat"></a>即時聊天
+# <a name="egnyte"></a>Egnyte
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年8月9日</p>
+<p>開發人員上次更新日期：2021年7月21日</p>
 
-* <a href="https://teams.microsoft.com/l/app/a55635a5-8def-48e7-bcff-230cd43d3405" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000440" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/28b871ff-85bf-48a5-9bee-364f2b74d104" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381174" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由社交意向提供給 Microsoft 的資訊：
+由 Egnyte 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 即時聊天 |
-| ID | WA200000440 |
+| 應用程式名稱 | Egnyte |
+| ID | WA104381174 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Social Intents |
-| 合作夥伴網站的 URL | [https://www.socialintents.com](https://www.socialintents.com) |
-| Teams 應用程式資訊頁面的 URL | [https://www.socialintents.com/teams-live-chat.jsp](https://www.socialintents.com/teams-live-chat.jsp) |
-| 隱私權原則的 URL | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
-| 使用條款的 URL | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
+| 合作夥伴公司名稱 | Egnyte |
+| 合作夥伴網站的 URL | [https://www.egnyte.com](https://www.egnyte.com) |
+| Teams 應用程式資訊頁面的 URL | [https://helpdesk.egnyte.com/hc/en-us/articles/115000999611-...](https://helpdesk.egnyte.com/hc/en-us/articles/115000999611-Egnyte-for-Microsoft-Teams) |
+| 隱私權原則的 URL | [https://www.egnyte.com/corp/privacy_policy.html](https://www.egnyte.com/corp/privacy_policy.html) |
+| 使用條款的 URL | [https://www.egnyte.com/terms-and-conditions/01-2020](https://www.egnyte.com/terms-and-conditions/01-2020) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ ms.locfileid: "58243544"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊已透過社交技巧提供，以瞭解此應用程式如何收集及儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊是由 Egnyte 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -70,20 +70,20 @@ ms.locfileid: "58243544"
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 當小組成員按一下 [加入聊天] 時，我們會使用 members 電子郵件來識別哪一個代理設定檔接受聊天。 | 小組成員的電子郵件和接受 live chat 的名稱會儲存在聊天記錄資料庫中。 | 資訊可供客戶使用，並可供客戶在其聊天預先銷售問題設定中完整地加以停用。 |
+>| Egnyte 應用程式的無縫體驗 Microsoft Teams 原生整合 | 否 |  |
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->電子郵件和名稱可能會顯示每小時移除/刪除的每日記錄。
+>應用程式遙測或記錄中未出現 OII 或 EUII。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->資料儲存在安全的 RDS 實例中，由 IP 和2FA 所限制。
+>刪除、保留、審核、封存、使用者原則
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -99,9 +99,9 @@ ms.locfileid: "58243544"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35754' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/15585' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35754" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/15585" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,7 +111,7 @@ ms.locfileid: "58243544"
 
 ### <a name="identity-information"></a>身分識別資訊
 
-有關此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則的社交技巧，請提供此資訊。
+Egnyte 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|

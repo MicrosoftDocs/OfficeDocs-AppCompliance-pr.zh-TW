@@ -2,24 +2,24 @@
 title: 電子郵件 TeamMate 的應用程式資訊 harmon.ie
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如電子郵件 TeamMate、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5d84cc70ee039a4b2973fb5ec9bfd9f20a9a179
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 1aecf8fedde78acae86eb654f066bb443ff387ed
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521656"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58239768"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年1月4日</p>
+<p>開發人員上次更新日期：2021年8月10日</p>
 
 * <a href="https://teams.microsoft.com/l/app/3ae27f31-ceea-4d13-a212-cdc9d786eae1" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002338" target="_blank">在 AppSource 中查看</a>
@@ -37,7 +37,7 @@ ms.locfileid: "53521656"
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | harmon.ie |
 | 合作夥伴網站的 URL | [https://harmon.ie](https://harmon.ie) |
-| Teams 應用程式資訊頁面的 URL | [https://emailteammate.com](https://emailteammate.com) |
+| Teams 應用程式資訊頁面的 URL | [https://harmon.ie](https://harmon.ie) |
 | 隱私權原則的 URL | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
 | 使用條款的 URL | [https://harmon.ie/legal/teammate-eula](https://harmon.ie/legal/teammate-eula) |
 

@@ -2,24 +2,24 @@
 title: SIGNL4 的應用程式資訊（按 Derdack SIGNL4）
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 08/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SIGNL4 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0e42f0d40c157819076af93cbd076c04e9326345
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 4cf1eae6ef533a1e744ca3c2968764fed0227d00
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525727"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58243524"
 ---
 # <a name="signl4"></a>SIGNL4
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2020年8月6日</p>
+<p>開發人員上次更新日期：2021年8月6日</p>
 
 * <a href="https://teams.microsoft.com/l/app/bd19c878-00b7-47cd-9b65-74a2def84427" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001239" target="_blank">在 AppSource 中查看</a>
@@ -37,6 +37,7 @@ ms.locfileid: "53525727"
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Derdack SIGNL4 |
 | 合作夥伴網站的 URL | [https://www.derdack.com](https://www.derdack.com) |
+| Teams 應用程式資訊頁面的 URL | [https://www.signl4.com](https://www.signl4.com) |
 | 隱私權原則的 URL | [https://www.signl4.com/privacy-policy/](https://www.signl4.com/privacy-policy/) |
 | 使用條款的 URL | [https://www.signl4.com/terms_of_use/](https://www.signl4.com/terms_of_use/) |
 
@@ -63,7 +64,7 @@ ms.locfileid: "53525727"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Recurly、電子郵件地址、電子郵件地址是在使用此應用程式時，向客戶傳送帳單通知時所需的電子郵件地址。 Twilio、電話號碼、透過 SMS 文字郵件傳送提醒的警示內容 |  | Azure 管理 API 會收集 Azure 監視器警示，因為系統會傳送這些警示的通知，所以發生收集。 |
+>| Recurly, Twilio | Recurly、電子郵件地址、電子郵件地址是在使用此應用程式時，向客戶傳送帳單通知時所需的電子郵件地址。 Twilio、電話號碼、透過 SMS 文字郵件傳送提醒的警示內容 | Azure 管理 API 會收集 Azure 監視器警示，因為系統會傳送這些警示的通知，所以發生收集。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -107,3 +108,29 @@ ms.locfileid: "53525727"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+此資訊是由 Derdack SIGNL4 提供，此應用程式會如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
+| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
+| 您的應用程式是否支援多租賃？ | 是 |
+| 您的應用程式有機密用戶端嗎？ | 是 |
+| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/><br/> |
+| 您的應用程式是否公開任何 web APIs？ | 是 |
+| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 是 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

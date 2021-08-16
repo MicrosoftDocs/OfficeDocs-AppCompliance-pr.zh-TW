@@ -2,24 +2,24 @@
 title: Standup Alice 的應用程式資訊，由 Bao Le Duc
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Standup Alice 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 150d837b130b6ad2e75ddc0f8da82a1b90c2621f
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 5d1d075f16fed6e0a0029e3c90050068ca5bf9b5
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525867"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58243530"
 ---
 # <a name="standup-alice"></a>Standup Alice
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2019年12月16日</p>
+<p>開發人員上次更新日期：2021年8月10日</p>
 
 * <a href="https://teams.microsoft.com/l/app/724b774e-aa53-4d2d-885b-6008c114cb37" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000758" target="_blank">在 AppSource 中查看</a>
@@ -37,6 +37,7 @@ Bao Le Duc 所提供的資訊給 Microsoft：
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Bao Le Duc |
 | 合作夥伴網站的 URL | [https://www.standupalice.com](https://www.standupalice.com) |
+| Teams 應用程式資訊頁面的 URL | [https://www.standupalice.com](https://www.standupalice.com) |
 | 隱私權原則的 URL | [https://www.standupalice.com/privacy](https://www.standupalice.com/privacy) |
 | 使用條款的 URL | [https://www.standupalice.com/terms](https://www.standupalice.com/terms) |
 
@@ -63,7 +64,7 @@ Bao Le Duc 所提供的資訊給 Microsoft：
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Google Cloud-我們主控 Google Cloud 上的 bot |  | 不適用 |
+>| Google Cloud-我們主控 Google Cloud 上的 bot | Microsoft Teams 的 TeamId | 我們需要 TeamId 來識別哪個 Microsoft Teams &quot; 小組 &quot; 是 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -71,14 +72,14 @@ Bao Le Duc 所提供的資訊給 Microsoft：
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 我們使用顯示名稱來顯示 web 應用程式和 standup 報告，使其有意義。 我們可能會與 Teams 系統管理員交流免費試用版、付款金額。 | 顯示名稱和電子郵件地址。 |  |
+>| 我們使用顯示名稱來顯示 web 應用程式和 standup 報告，使其有意義。 我們可能會與 Teams 系統管理員交流免費試用版、付款金額。 | 顯示名稱和電子郵件地址。 | 我們使用顯示名稱和電子郵件地址來建立每日 standup 報告。  |
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->否，我們不會記錄這些類型的資料
+>應用程式遙測或記錄中未出現 OII 或 EUII。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
@@ -108,3 +109,16 @@ Bao Le Duc 所提供的資訊給 Microsoft：
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+此資訊已由 Bao Le Duc 提供，此應用程式會如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
