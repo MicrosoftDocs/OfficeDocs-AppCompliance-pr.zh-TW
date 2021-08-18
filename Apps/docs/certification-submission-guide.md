@@ -6,12 +6,12 @@ description: Microsoft 365認證提交指南精細查看
 keywords: 應用程式認證團隊 Microsoft 365 安全性符合性 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 31c974a20e17daa0436826432429bd664a9a1f59dee6b351b587ae0b30cc6bac
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
+ms.sourcegitcommit: f33609288c6c59af423367dce2eac3e261c1d297
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750535"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58373777"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認證提交指南
 
@@ -54,7 +54,7 @@ Microsoft 365 應用程式相容性計畫的一部分，當您將協力廠商開
 >* Office增益集 (Word、Excel、PowerPoint、Outlook、Project、OneNote) 
 >* WebApps
 
-## <a name="prerequisites"></a>先決條件
+## <a name="prerequisites"></a>必要條件
 
 ### <a name="publisher-attestation"></a>發行者證明
 
@@ -105,7 +105,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 
 |人口大小              | 範例                  |
 |---------------------------- |-------------------------|
-|<5|1|
+|<5|1 |
 |>5 & <10|第|
 |>9 & <25|3 |
 |>24|4 |
@@ -115,11 +115,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 
 ## <a name="certification-process"></a>認證程式
 
-開始認證程式之前，您必須成功 scompleted Publisher 認證。 您可以使用證明回應來支援 Microsoft 365 的憑證程式，並依下列方式繼續：
-
-## <a name="certification-process"></a>認證程式
-
-開始憑證過程之前，您必須已完成 Publisher 認證。 批准發行者證明後，您將會收到一封電子郵件，邀請您加入 Microsoft 365 認證。
+開始認證程式之前，您需要成功完成 Publisher 認證。 完成後，您的 Microsoft 365 認證程式將會繼續進行，如下所示：
 
 ### <a name="preparation"></a>準備
 1. 流覽至 [合作夥伴中心]，並複查您已完成的[Publisher 證明]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation)檔。 如有必要，您可以編輯和更新您的回應;不過，如果您這麼做，您將需要重新提交證明檔以供核准。 如果您提交的時間超過三個月，我們將會要求您重新提交 Publisher 認證，以供複查和驗證。 
@@ -303,7 +299,7 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 
 這個網域會以安全性最佳作法衡量應用程式的支援基礎結構和部署程式的對齊方式。
 
-### <a name="controls"></a>控制措施
+### <a name="controls"></a>控制項
 
 |**控制系列**| **Controls**|
 | ------------------------|------------------------------ |
@@ -383,7 +379,7 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 
 您的應用程式會在其中檢索及儲存 M365 資料，您必須依照 [**附錄 B**](#appendix-a)中所定義的規格來執行資料儲存加密配置。
 
-### <a name="controls"></a>控制措施
+### <a name="controls"></a>控制項
 
 |**控制系列**| **Controls** |
 | -----------------------|-------------------------------- |
@@ -1018,7 +1014,7 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 
 * 授權資訊存取是用來尋找發證憑證授權憑證的服務位置描述項。
 
-### <a name="crl"></a>Crl
+### <a name="crl"></a>CRL
 
 [* 憑證吊銷清單] 提供一種方法，可讓安全通訊端層 (SSL) 端點，以確認從遠端主機收到的憑證是有效且可靠的。
 
@@ -1033,7 +1029,7 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 * 中型 (4.0-6.9) 
 * 低 (0.0-3.9) 
 
-### <a name="dmz"></a>Dmz
+### <a name="dmz"></a>DMZ
 
 * 「網路隔離區域」是一種實體或邏輯的內部網路，可直接與外部或非 propriety 網路互動，同時保持主機內部、私人網路的獨立和獨立。
 
@@ -1049,7 +1045,7 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 
 * HTTP Strict Transport Security 利用 HTTP 回應標頭指示網頁瀏覽器僅透過 HTTPS 存取內容。  這是為了防範降級攻擊和 cookie 劫持所設計。
 
-### <a name="iec"></a>Iec
+### <a name="iec"></a>IEC
 
 * 國際 Electrotechnical 傭金。
 
@@ -1069,7 +1065,7 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 
 *本機檔包含* 可讓攻擊者透過網頁瀏覽器在伺服器上包含檔案。
 
-### <a name="nist"></a>Nist
+### <a name="nist"></a>NIST
 
 *國家安全局* 的國家標準 (NIST) 中，美國 Commerce 的非規章機關為我們提供的私營部門組織提供指導，以評估和核准其阻止、偵測及回應網路攻擊的能力。
 
@@ -1099,7 +1095,7 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 
 *滲透測試* 是一種測試 web 應用程式的方法，它會類比惡意攻擊，以找出攻擊者可能會利用的安全性弱點。
 
-### <a name="saml"></a>Saml
+### <a name="saml"></a>SAML
 
 *安全性聲明標記語言* 是一種開放的標準，用來交換使用者、身分識別提供者和服務提供者之間的驗證和授權資料。
 
@@ -1125,7 +1121,7 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 
 *服務組織控制 2*：由五個信任服務原則組成的技術審核程式，可確保服務提供者安全地管理組織之用戶端的資料與隱私權。
 
-### <a name="ssl"></a>Ssl
+### <a name="ssl"></a>SSL
 
 *安全通訊端層*。
 
