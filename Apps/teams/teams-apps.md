@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/04/2021
+ms.date: 08/11/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 294453e0e22c2deb750a50a63467c7f35fa2bf4b
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.openlocfilehash: 58c02130452a392b93669144ccdde9aa04733111
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53772270"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58241244"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -43,9 +43,11 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Beekast](./beekast.md) | Beekast | **✓** |  |
 | [Beesy](./beesapps-beesy.md) | BeesApps | **✓** |  |
 | [Berrycast](./technologies-openmind-inc-les-berrycast.md) | Technologies Openmind Inc, Les | **✓** |  |
+| [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [版面連結](./engage-squared-board-connect.md) | 使用方形 | **✓** |  |
 | [額外獎勵](./bonusly.md) | 額外獎勵 | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
+| [BravoNow](./spadeworx-software-services-bravonow.md) | SpadeWorx Software Services | **✓** |  |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  |
 | [亮色投票](./chat-apps-llc-bright-poll.md) | 聊天應用程式，LLC | **✓** |  |
 | [Brightidea](./brightidea.md) | Brightidea | **✓** |  |
@@ -57,6 +59,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [CalendarHero](./calendarhero-inc.md) | CalendarHero Inc | **✓** |  |
 | [CatchEm](./chimu-software-catchem.md) | Chimu Software | **✓** |  |
 | [中心式](./biz-effective-centrical.md) | Biz-Effective | **✓** |  |
+| [Chronus](./chronus.md) | Chronus | **✓** |  |
 | [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | ci solution GmbH | **✓** |  |
 | [Cisco Webex 會議](./cisco-webex-meetings.md) | Cisco Webex 會議 | **✓** |  |
@@ -81,6 +84,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [簡單專案](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR（亞洲） Co.Ltd。 | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
+| [Egnyte](./egnyte.md) | Egnyte | **✓** |  |
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
 | [Employee Training Management](./sharepointsapiens-employee-training-management.md) | SharePoint|Sapiens | **✓** |  |
@@ -99,11 +103,13 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  |
 | [GitHub](./microsoft-corporation-github.md) | Microsoft Corporation | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
+| [Goalhub](./momentum-cloud-pty-ltd-goalhub.md) | Momentum Cloud Pty Ltd | **✓** |  |
 | [Good4work](./good4work.md) | Good4work | **✓** |  |
 | [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [Google Analytics 深入解析](./freevolut-ltd-google-analytics-insights.md) | Freevolut LTD | **✓** |  |
 | [GoToConnect](./logmein-inc-gotoconnect.md) | LogMeIn Inc. | **✓** |  |
 | [Guru](./guru-technologies.md) | Guru Technologies | **✓** |  |
+| [Health Hero](./health-hero.md) | Health Hero | **✓** |  |
 | [HeyTaco！](./heytaco!.md) | HeyTaco！ | **✓** |  |
 | [hi Digital Coach](./digital-attitude-srl-hi-coach.md) | Digital Attitude Srl | **✓** |  |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  |
@@ -133,6 +139,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [LuckyDraw](./tony-xia-luckydraw.md) | Tony Xia | **✓** |  |
 | [SMART 的 Lumio](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
 | [MailClark](./mailclark.md) | MailClark | **✓** |  |
+| [Marvel](./marvel.md) | Marvel | **✓** |  |
 | [Medxnote MT](./medxnote-mt.md) | Medxnote | **✓** |  |
 | [MeisterTask](./meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
@@ -193,6 +200,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [SecretaryBot](./mysecretary-secretarybot.md) | MySecretary | **✓** |  |
 | [SelfDrvn](./selfdrvn.md) | SelfDrvn | **✓** |  |
 | [Sensei Labs Conductor](./sensei-labs-inc-conductor.md) | Sensei Labs Inc. | **✓** |  |
+| [Senso](./senso.md) | Senso | **✓** |  |
 | [Sentry](./sentry.md) | Sentry | **✓** |  |
 | [ServiceDesk Plus Cloud](./zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
@@ -217,6 +225,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Teams 的 Stack Overflow](./stack-overflow-for-teams.md) | Stack Overflow | **✓** |  |
 | [StaffCircle](./staffcircle.md) | StaffCircle | **✓** |  |
 | [Standup Alice](./bao-le-duc-standup-alice.md) | Bao Le Duc | **✓** |  |
+| [Standuply](./standuply-inc.md) | Standuply Inc. | **✓** |  |
 | [StarLeaf](./starleaf.md) | StarLeaf | **✓** |  |
 | [StealthMail](./stealthmail-software-ltd.md) | Stealthmail Software Ltd | **✓** |  |
 | [Streem](./streem.md) | Streem | **✓** |  |
@@ -251,6 +260,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [假期追蹤程式](./vacation-tracker.md) | 假期追蹤程式 | **✓** |  |
 | [Viima](./viima-solutions-oy.md) | Viima Solutions Oy | **✓** |  |
 | [VisualSP](./visualsp.md) | VisualSP | **✓** |  |
+| [Vonage Business Communications](./vonage-business-communications.md) | Vonage | **✓** |  |
 | [Webex Call](./cisco-webex-call.md) | Cisco | **✓** |  |
 | [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
 | [Wired2Perform](./wired2perform.md) | Wired2Perform | **✓** |  |

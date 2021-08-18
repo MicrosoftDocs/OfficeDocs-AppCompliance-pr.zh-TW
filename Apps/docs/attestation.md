@@ -6,12 +6,12 @@ description: Publisher 認證計畫的詳細資訊
 keywords: 應用程式認證憑證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1566ae1d56f6313d7055f122a8444de43ef60d9a73dc9e02e9cb2b1b86ae5a7c
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: ad059066c4685cf72e5d0b76b10b5d9ca22b6df9
+ms.sourcegitcommit: dc086ac579e488a38bad3dad10037d43af7efd55
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801269"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58385869"
 ---
 # <a name="complete-publisher-attestation"></a>完成 Publisher 證明
 
@@ -32,12 +32,12 @@ Publisher認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業
 
 
 ## <a name="program-benefits"></a>方案優點
-- 節省時間。 將您的客戶指向 [檔] 頁面，可在其中找到您對應用程式常見問題的回應。 
-- 加速企業組織的安全性與規範內部考核時程表。
-- 增加透明度。
-- 存放區中其他應用程式的區別。 
+- 節省時間。 將您的客戶指向您的 [檔] 頁面，可在其中找到您對應用程式常見問題的回應。
+- 加速企業組織的安全性與規範內部考核時程表
+- 增加透明度
+- 存放區中其他應用程式的區別 
 - 從 AppSource、Teams 系統管理中心、Microsoft 系統管理中心及 Teams 存放區中的專案，連結至 [檔] 頁面。 
-- 資格以開始 Microsoft 365 憑證。
+- 開始 Microsoft 365 認證的資格
  
 
 ## <a name="publisher-attestation-process"></a>Publisher證明處理常式
