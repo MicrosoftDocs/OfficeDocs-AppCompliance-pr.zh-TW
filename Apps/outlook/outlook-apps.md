@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/14/2021
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: bb4239929cb153ccc62221c7a44db6921743080b
-ms.sourcegitcommit: bdc1c8f8fdd6592cfbb59c8a7cf38477bca26e2a
+ms.openlocfilehash: fa24ddc3a0dd384f5ab6b4835ffd23e7981f0b14
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58377527"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672840"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -36,7 +36,9 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Outlook 的 Office2SharePoint](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Outlook] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-outlook.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Outlook 的 OnePlaceMail](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 解決方案 | **✓** |  |
+| [Outlook 的推廣銷售專案](./outreach-sales-engagement-for-outlook.md) | 外 展 | **✓** |  |
 | [優先順序清單-將電子郵件變成任務](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [量子工作場所](./quantum-workplace.md) | 量子工作場所 | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [電子郵件的 ServiceDesk Plus](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Outlook 的 StarLeaf 增益集](./starleaf-add-in-for-outlook.md) | StarLeaf | **✓** |  |

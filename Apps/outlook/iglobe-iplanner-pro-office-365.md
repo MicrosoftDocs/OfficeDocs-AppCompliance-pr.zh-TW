@@ -2,23 +2,23 @@
 title: iPlanner Pro Office 365 的應用程式資訊由 iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/05/2020
+ms.date: 08/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: iPlanner Pro Office 365 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57eac5e73a8f1e292bbddeaa7a029f368ac4ac52
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 40865f86cdb5c2a726c26357abb9d582030a9892
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526469"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672750"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開發人員上次更新：2020年11月5日</p>
+<p>開發人員上次更新日期：2021年8月12日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380464" target="_blank">在 AppSource 中查看</a>
 
@@ -52,7 +52,7 @@ ms.locfileid: "53526469"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 >| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 在任務到期日的使用者行事曆中建立約會 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
@@ -62,7 +62,7 @@ ms.locfileid: "53526469"
 >| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 |  若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 >| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 >| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 |  檢查許可權並取得 planner 工作並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| profile | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| 設定檔 | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 

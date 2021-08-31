@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用的 Adobe 符號安全性和符合性資訊資訊，針對 Word 及 PowerPoint，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 81a0012ebbc0e77af0fee9fa73a22f187972d13c
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: ca8f1f0aba2f18c81c76cb50d8d76cb2e86efa84
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527849"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672210"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word 和 PowerPoint
 
@@ -32,7 +32,7 @@ Adobe Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Adobe Sign for Word 和 PowerPoint |
 | ID | WA104381155 |
-| 支援 Office 365 用戶端 | Word 2016 或更新版本的 mac、PowerPoint 2013 service pack 1 或更新版本中 Windows、Word 2013 service pack 1 或更新版本中 Windows、Word 網頁版、PowerPoint 網頁版、PowerPoint 2016 或更新 mac |
+| 支援 Office 365 用戶端 | Word 2016 或更新版本的 mac、Word 網頁版、Word 2013 Service pack 1 或更新版本中 Windows、PowerPoint 2016 或更新版本的 mac、PowerPoint 網頁版、PowerPoint 2013 Service Pack 1 或更新版本 Windows |
 | 合作夥伴公司名稱 | Adobe Inc.。 |
 | 合作夥伴網站的 URL | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | 隱私權原則的 URL | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
@@ -52,7 +52,7 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 郵件。 ReadWrite | 委託 | 若要將附加的檔、寄件者和收件者電子郵件，以及郵件內容從電子郵件寫入為 Adobe sign，以進行簽章簽名。 這是為了儲存使用者時間，以 Adobe 符號重新輸入這些欄位。 在簽署合約後，我們會自動撰寫新的電子郵件，讓使用者傳送電子郵件通知給收件者交易已完成。 | Adobe 簽署會將附件儲存為臨時檔案，其到期期限為24小時。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
 >| 個人讀取 | 委託 | 若要在 [傳送以供簽章經驗] 中自動填滿電子郵件地址 &quot; &quot; ，請輸入一些初始字母，不需要使用者輸入整個電子郵件。 | Adobe 簽署只會將收件者的電子郵件和 displayName 儲存在協定中。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
