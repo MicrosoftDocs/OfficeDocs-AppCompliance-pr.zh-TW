@@ -311,7 +311,7 @@
           href: teams/conferences-io.md
         - name: Confluence 雲端
           href: teams/atlassian-confluence-cloud.md
-        - name: Connect+
+        - name: 連線 +
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
@@ -445,6 +445,8 @@
           href: teams/hunchbuzz.md
         - name: Hyperproof
           href: teams/hyperproof.md
+        - name: 在發生危機時
+          href: teams/rockdove-solutions-inc-in-case-of-crisis.md
         - name: IndustryIntel
           href: teams/industry-intelligence-team-industryintel.md
         - name: InStation
@@ -529,6 +531,8 @@
           href: teams/fest-technologies-llc-monitask.md
         - name: 使用 Jira 推展工作進度
           href: teams/move-work-forward-with-jira.md
+        - name: 多個核准程式 LTAPPs
+          href: teams/ltapps-software-coltd-multi-approval-process.md
         - name: MURAL
           href: teams/mural.md
         - name: Mybys
@@ -553,6 +557,8 @@
           href: teams/newtech-newcos.md
         - name: ngDesk
           href: teams/all-blue-solutions-ngdesk.md
+        - name: NickNack
+          href: teams/nicknack-ltd.md
         - name: 現在虛擬代理程式
           href: teams/servicenow-now-virtual-agent.md
         - name: Nugget
@@ -649,6 +655,8 @@
           href: teams/researchspace-rspace.md
         - name: Saberr
           href: teams/saberr.md
+        - name: 保管庫空間
+          href: teams/ecare-vault-inc-safe-spaces.md
         - name: Sailpoint
           href: teams/sailpoint-technologies-inc.md
         - name: SalesTim
@@ -845,10 +853,14 @@
           href: teams/workplacebuddy.md
         - name: Wunder365
           href: teams/jiji-technologies-pvt-ltd-wunder365.md
+        - name: X0PA 聊天室
+          href: teams/x0pa-ai-singapore-room.md
         - name: YAROOMS
           href: teams/yarooms.md
         - name: Yeeflow
           href: teams/akmii-yeeflow.md
+        - name: Zignals
+          href: teams/alight-zignals.md
         - name: Zoho CRM
           href: teams/zoho-corporation-pvt-ltd-crm.md
         - name: Zoho Desk
