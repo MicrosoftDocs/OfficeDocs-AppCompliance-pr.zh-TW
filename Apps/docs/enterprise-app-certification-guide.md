@@ -6,16 +6,16 @@ description: Microsoft 365認證詳細資料
 keywords: 應用程式證明 microsoft 365 認證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 51f85b71a04cb64159b228cdb881345fecaad36c
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.openlocfilehash: 49bb08fa252a3907df67766dce39ef810381be27
+ms.sourcegitcommit: 44c92cbf86ee358e4fcdf2a51dae5be001345029
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58241823"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862036"
 ---
 # <a name="what-is-microsoft-365-certification"></a>何謂 Microsoft 365 認證？
 
-Microsoft 365 憑證是專為向客戶示範對業界標準架構經之應用程式的認證，且已具備強大的安全性和合規性作法，可保護客戶資料。 
+Microsoft 365 憑證是設計用來向客戶示範，其應用程式已針對來自主要工業標準框架的控制項進行經，而且該強安全性和合規性作法已具備，可保護客戶資料。 
 
 >[!VIDEO https://www.youtube.com/embed/Aff_35f10B8]
 
@@ -67,7 +67,7 @@ Microsoft 365 憑證標誌會顯示已針對 Microsoft 所提出的控制，meti
 下列語句必須伴隨標誌：「具有 Microsoft 365 憑證標誌的應用程式表示此應用程式已取得 Microsoft 365 認證。 除了應用程式安全性之外，此程式還會回顧應用程式發行者所採用的做法和程式。 當客戶資料受到應用程式發行者的控制，您可以完全放心，Microsoft 已驗證應用程式是否會以安全且安全的方式來處理。
 
 
-### <a name="learn-more"></a>深入了解
+### <a name="learn-more"></a>深入瞭解
 * [Microsoft 365應用程式規範計畫概述](~/overview.md)  
 * [完成 Microsoft 365 認證](~/docs/certification.md)  
 * [何謂 Publisher 驗證？](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
