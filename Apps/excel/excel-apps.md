@@ -2,17 +2,17 @@
 title: Microsoft Excel應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/02/2021
+ms.date: 09/03/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: db1cee3dbc08e6bcbf3e4ece40f4ee916e058f2d
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.openlocfilehash: 0c99801d2d15ea126075c75cab2fec13d981b1b8
+ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873038"
+ms.locfileid: "58885543"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel應用程式安全性和合規性
 

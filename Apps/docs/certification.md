@@ -6,12 +6,12 @@ description: Microsoft 365認證詳細資料一覽表
 keywords: 應用程式認證證明 Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: bb6434cf94db1b7af437b3317397c0ba26a4c52df23e5837d9bcab1e98ff7a47
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 7d6c72f39a07fa11bfe87a9da6d94178fd7992b3
+ms.sourcegitcommit: a2851b8a32c181843617568ab5f8b5de741547cf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750463"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58885981"
 ---
 # <a name="complete-microsoft-365-certification"></a>完成 Microsoft 365 認證
 
@@ -26,6 +26,8 @@ Microsoft 365 認證需要評估您的安全性和合規性程式及程式。 �
 > [!IMPORTANT]
 > 加入 Microsoft 365 的憑證計畫後，您就會同意這些補充條款，並遵循任何適用于您參與 microsoft Corporation 之 Microsoft 365 認證計畫的隨附檔， ( "Microsoft"、"我們"、"us" 或 "我們" ) 。 您表示並保證我們具有授權，可代表您自己、公司和（或）其他實體接受這些 Microsoft 365 憑證補充條款。 我們隨時可能會變更、修改或終止這些補充字詞。 在任何變更或修正之後，您繼續參與 Microsoft 365 認證計畫，表示您同意新的增補條款。 如果您不同意新的附加條款，或是我們終止這些補充條款，您必須停止參與 Microsoft 365 認證計畫。
 
+>所有的證據（包括但不限於檔、螢幕擷取畫面及影像）都會保留在安全的存放庫中（從提交的憑證提交時開始，18個月）。 18個月後會清除所有證據
+
 ## <a name="certification-process"></a>認證程式
 
 開始憑證過程之前，您必須已完成 Publisher 認證。 批准發行者證明後，您將會收到一封電子郵件，邀請您加入 Microsoft 365 認證。
@@ -38,7 +40,7 @@ Microsoft 365 認證需要評估您的安全性和合規性程式及程式。 �
 >[!NOTE]
 >針對所有 office 應用程式，您可以參考《 [Office app 使用者指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 對於所有 WebApps，您可以參照我們的 [SaaS App 使用者指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)。
 
-### <a name="assessment"></a>評估
+### <a name="assessment"></a>評定
 1. 您的初始檔提交一經接受，您的應用程式所需的安全性控制組將會自動顯示在入口網站中。 接著，您必須為每個控制項提交證據，以示範該控制項已就地。 請記住，您會在提交所有的證據時，提供 **60 天** 的時間。 分析員會檢查您的證據，並核准該控制項或要求新的或其他的證據。 請經常檢查此頁面，查看是否已接受您的證據。
 ### <a name="certification"></a>認證
 1. 當您的提交由分析員驗證之後，您將會收到您的認證決策通知。 已獎勵憑證的應用程式會在 **AppSource** 和 **Microsoft** 檔頁面中的應用程式上接收徽章。 您可以在 [這裡](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)閱讀認證的完整優點。
