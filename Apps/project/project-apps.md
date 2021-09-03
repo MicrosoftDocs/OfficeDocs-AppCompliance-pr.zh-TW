@@ -2,17 +2,17 @@
 title: Microsoft Project應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Project 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 814c7f997738ed036f52a9f59affaa1209e494ca
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.openlocfilehash: f6a0b6359d9d91ac29729d6990c0bc575e986443
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672890"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873558"
 ---
 # <a name="microsoft-project-apps-security-and-compliance"></a>Microsoft Project應用程式安全性和合規性
 
