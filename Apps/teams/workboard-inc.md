@@ -9,11 +9,11 @@ certification_type: certified
 description: Workboard 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 0b2e460bf569a55b6a0179e7009ea92a5319ebab
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673071"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279390"
 ---
 # <a name="workboard"></a>Workboard
 
@@ -34,7 +34,7 @@ Workboard Inc. 所提供的資訊給 Microsoft：
 | 應用程式名稱 | Workboard |
 | ID | WA104381599 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Workboard Inc.。 |
+| 合作夥伴公司名稱 | Workboard Inc. |
 | 合作夥伴網站的 URL | [https://www.workboard.com](https://www.workboard.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.workboard.com/microsoft/](https://www.workboard.com/microsoft/) |
 | 隱私權原則的 URL | [https://www.workboard.com/license/privacy-policy.html](https://www.workboard.com/license/privacy-policy.html) |
@@ -54,7 +54,7 @@ Workboard Inc. 所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 電子郵件地址和使用者的識別碼。  用來將使用者對應至 WorkBoard 的使用者識別碼 | WorkBoard 只會將使用者的身分識別儲存在其資料庫中 | [User.Read](https://docs.microsoft.com/microsoft-365-app-certification/azure/User.Read) |
 

@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/03/2021
+ms.date: 09/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft PowerPoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 75788af0ef339cda39f16ce78e5f690f1a6dcc04
-ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
+ms.openlocfilehash: 84c0ceb45b41be1e8f6a248804194a15439cabeb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58881420"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278518"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint 應用程式安全性與合規性
 

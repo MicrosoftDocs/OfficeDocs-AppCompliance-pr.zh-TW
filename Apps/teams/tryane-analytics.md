@@ -9,11 +9,11 @@ certification_type: attested
 description: Tryane Analytics 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 2bfff7785dbad9398697aef468115cb8f7275acd
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527549"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278182"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -62,7 +62,7 @@ ms.locfileid: "53527549"
 >| Directory.Read.All | 應用程式 |  | 在承租人中識別具有小組授權的使用者 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
 >| Member Read。隱藏 | 應用程式 |  | 取得所有團隊、小組&#8217;成員和隱藏成員資格的清單 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
 >| Reports。已讀取。所有 | 應用程式 |  | 讀取小組中的所有使用者活動 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
->| ReadBasic | 應用程式 |  | 列出所有通道和團隊屬性 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Team.ReadBasic.All | 應用程式 |  | 列出所有通道和團隊屬性 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
 >| User.Read | 委託 | 使用者識別碼、名稱、電子郵件地址、建立日期。我們會儲存此資料，以便在 Teams 上提供流量分析 | 在訂閱期間識別目前的使用者 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
 
 

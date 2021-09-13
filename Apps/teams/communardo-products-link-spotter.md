@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有適用于 Link Spotter 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 8a6c2ee716c7e07686e2c62e1cd79196acbdc5a3
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407434"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278268"
 ---
 # <a name="link-spotter"></a>Link Spotter
 
@@ -35,7 +35,7 @@ Communardo 產品所提供的資訊給 Microsoft：
 | 應用程式名稱 | Link Spotter |
 | ID | WA200003092 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Communardo 產品 |
+| 合作夥伴公司名稱 | Communardo Products |
 | 合作夥伴網站的 URL | [https://www.communardo.com](https://www.communardo.com) |
 | Teams 應用程式資訊頁面的 URL | [https://communardo.atlassian.net/wiki/spaces/LINK/overview](https://communardo.atlassian.net/wiki/spaces/LINK/overview) |
 | 隱私權原則的 URL | [https://www.communardo.com/privacy-statement/](https://www.communardo.com/privacy-statement/) |
@@ -55,7 +55,7 @@ Communardo 產品所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 委託 | 檢查目前使用者的通道成員資格 | 無 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
 >| ChannelMessage Read。 All | 應用程式 | 郵件內的 url、messageid、回復郵件識別碼、通道識別碼、作者識別碼 .。。這些資訊是必要的，因為 Graph 不會提供一種方法，可以取得在通道上的郵件中張貼的所有連結。 因此，必須主動分析郵件，以便在 Teams] 索引標籤中提供連結功能。 | 郵件內部的 url、messageid、回復郵件識別碼、通道識別碼、作者識別碼 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |

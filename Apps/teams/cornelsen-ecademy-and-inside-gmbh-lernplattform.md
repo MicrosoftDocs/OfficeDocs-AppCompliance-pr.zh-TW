@@ -9,11 +9,11 @@ certification_type: attested
 description: eCademy Lernplattform 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: f5926d481fbfc766d80b61356656f6b44ea0c1bd
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422628"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279102"
 ---
 # <a name="ecademy-lernplattform"></a>eCademy Lernplattform
 
@@ -35,7 +35,7 @@ ms.locfileid: "58422628"
 | 應用程式名稱 | eCademy Lernplattform |
 | ID | WA200002717 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | GmbH 內部的 eCademy Cornelsen &amp; |
+| 合作夥伴公司名稱 | GmbH 內部的 Cornelsen eCademy &amp; |
 | 合作夥伴網站的 URL | [https://www.ecademy-learning.com](https://www.ecademy-learning.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.ecademy-learning.com](https://www.ecademy-learning.com) |
 | 隱私權原則的 URL | [https://www.ecademy-learning.com/datenschutz/](https://www.ecademy-learning.com/datenschutz/) |

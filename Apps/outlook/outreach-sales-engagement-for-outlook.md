@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊，針對 Outlook 的「推廣」銷售人員，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 6a009dbc5c075f99bb71105834f3f5208ed91dea
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404296"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279278"
 ---
 # <a name="outreach-sales-engagement-for-outlook"></a>Outlook 的推廣銷售專案
 

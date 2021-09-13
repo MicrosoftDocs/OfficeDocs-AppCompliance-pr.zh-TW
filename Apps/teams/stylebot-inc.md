@@ -9,11 +9,11 @@ certification_type: attested
 description: Stylebot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c5850975b4d49f7974651453c8eaae1cbfb76790
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567220"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278209"
 ---
 # <a name="stylebot"></a>Stylebot
 
@@ -35,7 +35,7 @@ ms.locfileid: "58567220"
 | 應用程式名稱 | Stylebot |
 | ID | WA200003177 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Stylebot Inc。 |
+| 合作夥伴公司名稱 | Stylebot Inc |
 | 合作夥伴網站的 URL | [https://www.stylebot.app](https://www.stylebot.app) |
 | Teams 應用程式資訊頁面的 URL | [https://www.stylebot.app/msteamshelp](https://www.stylebot.app/msteamshelp) |
 | 隱私權原則的 URL | [https://www.stylebot.app/appprivacy](https://www.stylebot.app/appprivacy) |

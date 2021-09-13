@@ -9,13 +9,13 @@ certification_type: attested
 description: Neelix 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 74f41c23436f1bfc47db6fea7dfca2e8b12731bb
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404320"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278822"
 ---
-# <a name="neelixteam"></a>Neelix 團隊
+# <a name="neelixteam"></a>Neelix.Team
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58404320"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Neelix 團隊 |
+| 應用程式名稱 | Neelix.Team |
 | ID | WA200003047 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Neelix.IO |
@@ -55,7 +55,7 @@ ms.locfileid: "58404320"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 委託 | 應用程式會使用通道識別碼及名稱，為使用者提供從 MS Treams 傳送意見反應時管理其預設首選項的方便性。 | 會儲存通道識別碼及名稱，以用於使用者方便性的預設值管理 | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
 >| Team.ReadBasic.All | 委託 | app 使用小組識別碼及名稱，為使用者提供從 MS Treams 傳送意見反應時管理其預設首選項的方便性。 | 會儲存小組識別碼和名稱。 這種資料可讓我們設定便利的預設值，以允許更快速的意見反應表單完成。 | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |

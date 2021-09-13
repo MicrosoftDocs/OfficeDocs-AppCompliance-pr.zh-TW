@@ -9,11 +9,11 @@ certification_type: attested
 description: CatchEm 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: bdac27ddbc3148644562af20f8f6d415a56903d9
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53522026"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278661"
 ---
 # <a name="catchem"></a>CatchEm
 
@@ -59,9 +59,9 @@ Chimu 軟體會提供此資訊，此應用程式是關於此應用程式如何�
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 委託 | 需要有此許可權才能決定應用程式使用者的連絡人。 AadObjectId：唯一識別使用者。 TenantId：判斷使用者是否為內部或外部的連絡人。 DisplayName，GivenName，姓：識別應用程式使用者的連絡人。 Email，UserPrincipalName：協助區分相同名稱的連絡人，並允許 &quot; 按一下聊天 &quot; 功能。 啟用 &quot; 點擊聊天功能的最新聊天 &quot; ID: | 需要有此許可權才能決定應用程式使用者的連絡人。 AadObjectId：唯一識別使用者。 TenantId：判斷使用者是否為內部或外部的連絡人。 DisplayName，GivenName，姓：識別應用程式使用者的連絡人。 Email，UserPrincipalName：協助區分相同名稱的連絡人，並允許 &quot; 按一下聊天 &quot; 功能。 啟用 &quot; 點擊聊天功能的最新聊天 &quot; ID: | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| 個人讀取 | 委託 | 可提高外部連絡人的資料準確性。 DisplayName：識別應用程式使用者的連絡人。 | 可提高外部連絡人的資料準確性。 DisplayName：識別應用程式使用者的連絡人。 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| 目前狀態為 [已讀取]。 | 委託 | 連絡人的目前狀態 | 不適用 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| TeamsActivity 傳送 | 包括 | 當連絡人的狀態變更時，將通知傳送給使用者 | 不適用 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| TeamsAppInstallation.ReadWriteSelfForUser | 委託 | 啟用應用程式的自動更新 | 不適用 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| 目前狀態為 [已讀取]。 | 委託 | 連絡人的目前狀態 | N/A | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsActivity.Send | 包括 | 當連絡人的狀態變更時，將通知傳送給使用者 | N/A | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | 委託 | 啟用應用程式的自動更新 | N/A | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| User.Read | 委託 | AadObjectId：唯一識別使用者。 TenantId：判斷使用者是否為內部或外部的連絡人。 DisplayName，GivenName，姓：識別應用程式使用者的連絡人。 電子郵件、IM 位址、UserPrincipalName：協助區分相同名稱的連絡人，並允許 &quot; 按一下聊天 &quot; 功能。 CompanyName，Country： Analytics。 AccountEnabled，DeletedDateTime：自動刪除停用使用者的使用者資料 | AadObjectId：唯一識別使用者。 TenantId：判斷使用者是否為內部或外部的連絡人。 DisplayName，GivenName，姓：識別應用程式使用者的連絡人。 電子郵件、IM 位址、UserPrincipalName：協助區分相同名稱的連絡人，並允許 &quot; 按一下聊天 &quot; 功能。 CompanyName，Country： Analytics。 AccountEnabled，DeletedDateTime：自動刪除停用使用者的使用者資料 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| User.ReadBasic.All | 委託 | 以改善內部連絡人的資料準確性。 AadObjectId：唯一識別使用者。 TenantId：判斷使用者是否為內部或外部的連絡人。 DisplayName，GivenName，姓：識別應用程式使用者的連絡人。 Email，UserPrincipalName：協助區分相同名稱的連絡人，並允許 &quot; 按一下聊天 &quot; 功能。 | 以改善內部連絡人的資料準確性。 AadObjectId：唯一識別使用者。 TenantId：判斷使用者是否為內部或外部的連絡人。 DisplayName，GivenName，姓：識別應用程式使用者的連絡人。 Email，UserPrincipalName：協助區分相同名稱的連絡人，並允許 &quot; 按一下聊天 &quot; 功能。 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| offline_access | 委託 | Graph 的安全性權杖，可讓應用程式在使用者未使用應用程式的情況下，通知連絡人目前狀態變更和更新連絡人清單 | Graph 安全性權杖 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
@@ -92,7 +92,7 @@ Chimu 軟體會提供此資訊，此應用程式是關於此應用程式如何�
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->不適用
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: timeghost 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: c024080e1471388a5c3803f685a136052cb56d44
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521472"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279205"
 ---
 # <a name="timeghost"></a>timeghost
 
@@ -62,7 +62,7 @@ ms.locfileid: "53521472"
 >| User.Read | 委託 | Vorname、Nachname、電子郵件-Adresse、組織、Telefonnummer、Rolle、Sprache、Location | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert，um 骰子 Benutzererfahrung zu verbessern。 | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
 >| User.ReadBasic.All | 委託 | Um da Profilbild anzuzeigen。 | Keine Daten werden gespeichert. | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
 >| openid | 委託 | ID  | Speicherung der 識別碼 des 使用者 zur Zuordnung des 使用者。 | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
->| profile | 委託 | Vorname、Nachname、電子郵件-Adresse、組織、Telefonnummer、Rolle、Sprache、Location | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert，um 骰子 Benutzererfahrung zu verbessern。 | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
+>| 設定檔 | 委託 | Vorname、Nachname、電子郵件-Adresse、組織、Telefonnummer、Rolle、Sprache、Location | Beim Anlegen eines timeghost User-Profils werden diese Daten gespeichert，um 骰子 Benutzererfahrung zu verbessern。 | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

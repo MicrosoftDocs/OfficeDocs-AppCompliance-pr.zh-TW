@@ -1,19 +1,19 @@
 ---
-title: IPlanner Pro Office 365 的應用程式資訊（按 iGlobe）
+title: iPlanner Pro Office 365 的應用程式資訊由 iGlobe
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 iPlanner Pro Office 365 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: iPlanner Pro Office 365 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 614bdfc648f2f16d8c96c3ad699c5a022690c0d0
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527719"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278501"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -50,7 +50,7 @@ ms.locfileid: "53527719"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何 [Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference) 。
+列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
@@ -62,27 +62,27 @@ ms.locfileid: "53527719"
 >| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 >| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 >| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得 planner 工作並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| profile | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| 設定檔 | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
-在 Microsoft 365 上建的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft APIs，以收集或處理組織的身分識別資訊 (OII) 。 列出此應用程式所使用之 Microsoft Graph 以外的任何 Microsoft APIs。
+以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange-EWS。AccessAsUser。 All | 否 |  |  |  |  |
->| Exchange-Mail-Read。 All | 否 |  |  |  |  |
+>| Exchange-Mail。 Read。 All | 否 |  |  |  |  |
 >| SharePoint-AllSites。管理 | 否 |  |  |  |  |
 >| SharePoint-AllSites。讀取 | 否 |  |  |  |  |
 >| SharePoint-AllSites。寫入 | 否 |  |  |  |  |
 >| SharePoint-MyFiles。讀取 | 否 |  |  |  |  |
 >| SharePoint-MyFiles。寫入 | 否 |  |  |  |  |
 
-#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->不使用非 Microsoft 服務。
+>不會使用非 Microsoft 服務。
 
 
 

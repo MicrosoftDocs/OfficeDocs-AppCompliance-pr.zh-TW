@@ -9,11 +9,11 @@ certification_type: certified
 description: iPlanner 報告工具的所有可用安全性和符合性資訊資訊 Office 365 Planner、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3591c67721188d8dc70bf4f2cf0e34bdb9ffc506
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526049"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278933"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>Office 365 Planner 的 iPlanner 報告工具
 

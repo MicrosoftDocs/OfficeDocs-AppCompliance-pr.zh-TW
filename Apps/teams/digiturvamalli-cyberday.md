@@ -9,11 +9,11 @@ certification_type: attested
 description: Cyberday 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: f2adf667a89ff8dcdd1a1f56b1f0ef91951f3eb1
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407433"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278618"
 ---
 # <a name="cyberday"></a>Cyberday
 
@@ -55,7 +55,7 @@ ms.locfileid: "58407433"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 使用電子郵件來識別使用者 + 顯示，以供此使用者所用的應用程式管理員使用 | Teams 使用者識別碼的電子郵件 | [1c7d277c-ff8a-4ea4-bc14-7d06314f8941](https://docs.microsoft.com/microsoft-365-app-certification/azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941) |
 >| openid | 委託 | 使用使用者識別碼識別使用者 | Teams 使用者識別碼的電子郵件 | [1c7d277c-ff8a-4ea4-bc14-7d06314f8941](https://docs.microsoft.com/microsoft-365-app-certification/azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941) |

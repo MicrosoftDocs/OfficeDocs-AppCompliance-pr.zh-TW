@@ -9,11 +9,11 @@ certification_type: attested
 description: Zoho 符號的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: f164b4afadb0d85971cdaa40ab1bb43828ecb290
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528329"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278021"
 ---
 # <a name="zoho-sign"></a>Zoho Sign
 
@@ -65,7 +65,7 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 >| User.ReadBasic.All | 委託 |  | 讀取所有使用者的基本設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| 電子郵件 | 委託 |  | View user 的電子郵件地址。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| profile | 委託 |  | View user 的基本設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 設定檔 | 委託 |  | View user 的基本設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

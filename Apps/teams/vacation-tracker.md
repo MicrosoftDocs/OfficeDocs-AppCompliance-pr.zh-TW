@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的假期追蹤器安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 55d54fbb94141dec562a829fdc647279a3cc006e
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527539"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278176"
 ---
 # <a name="vacation-tracker"></a>假期追蹤程式
 
@@ -58,14 +58,14 @@ ms.locfileid: "53527539"
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.Read.All | 委託 | 當使用者設定每週或每日通知時，我們會閱讀公用通道 IDs 和名稱。 | 使用者可以選擇要接收假期追蹤器每日或每週通知的頻道。 當使用者選擇其偏好的通道時，我們會儲存通道識別碼。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| ReadBasic | 委託 | 我們會列出使用者在登入期間加入的 Microsoft Teams 小組，以允許使用者選取他們想要註冊度假追蹤的小組。 他們也可以註冊其整個組織。 | 只有在使用者以單一小組身分註冊假期追蹤器， (不是整個組織) 時，才會儲存該小組的 Microsoft Teams 小組識別碼。 我們使用 team IDs，在假期追蹤器中，將已登入的使用者與現有的帳戶連線。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| Team.ReadBasic.All | 委託 | 我們會列出使用者在登入期間加入的 Microsoft Teams 小組，以允許使用者選取他們想要註冊度假追蹤的小組。 他們也可以註冊其整個組織。 | 只有在使用者以單一小組身分註冊假期追蹤器， (不是整個組織) 時，才會儲存該小組的 Microsoft Teams 小組識別碼。 我們使用 team IDs，在假期追蹤器中，將已登入的使用者與現有的帳戶連線。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| User.Read | 委託 | 我們會收集基本使用者的資訊，包括其名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | 我們儲存使用者的名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| User.Read.All | 委託 | 我們的使用者可以從其 Microsoft 365 組織或 Microsoft Teams 小組匯入所有使用者。 我們使用此許可權，只匯入所選 Microsoft Teams 小組或組織的授權使用者。 | 我們會儲存匯入之使用者的基本資訊，包括其名稱、電子郵件地址和使用者識別碼。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| User.ReadBasic.All | 委託 | 我們可讓使用者從組織或其 Microsoft Teams 小組匯入其他使用者。 我們使用此許可權在匯入快顯功能表中列出可用的使用者及其電子郵件地址。 | 當使用者選取其同事匯入假期追蹤追蹤時，我們會儲存這些匯入使用者的基本資訊，包括其名稱、電子郵件地址和使用者識別碼。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| 電子郵件 | 委託 | 當使用者使用 Microsoft AAD 登入時，我們會將其電子郵件地址儲存為唯一的識別碼。 | 我們會將使用者的電子郵件儲存為唯一的識別碼。 我們不會使用這封電子郵件進行通訊，使用者可以輸入他們的公司電子郵件地址，用來在註冊期間進行通訊。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| offline_access | 委託 | 我們不會使用此許可權收集任何資料。 它是用來維護我們存取權的資料存取權。 | 我們不會使用此許可權儲存任何資料。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| openid | 委託 | 我們使用此許可權登入或註冊使用者至休假追蹤器。 我們不會使用此許可權收集任何特定的資料。 | 我們使用此許可權登入或註冊使用者至休假追蹤器。 我們不會使用此許可權儲存任何特定的資料。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| profile | 委託 | 我們會收集基本使用者的資訊，包括其名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | 我們儲存使用者的名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| 設定檔 | 委託 | 我們會收集基本使用者的資訊，包括其名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | 我們儲存使用者的名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

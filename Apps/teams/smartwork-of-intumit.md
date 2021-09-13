@@ -9,11 +9,11 @@ certification_type: attested
 description: SmartWork 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404038"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277776"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -54,7 +54,7 @@ SmartWork for Intumit 所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 使用 userPrincipalName 來識別使用者的郵件是否來自有效的 AAD 或不是 | 登入並讀取使用者設定檔 | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
 

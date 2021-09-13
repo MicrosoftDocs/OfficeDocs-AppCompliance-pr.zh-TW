@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊可取得，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: d188c61f6f87dbe528219d82f1b58477b184da8a
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521460"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278870"
 ---
 # <a name="reach"></a>達到
 
@@ -57,7 +57,7 @@ ms.locfileid: "53521460"
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsActivity 傳送 | 應用程式 | 無 | 無 | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8 ) |
+>| TeamsActivity.Send | 應用程式 | 無 | 無 | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8 ) |
 >| User.Read | 委託 | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
 >| User.ReadBasic.All | 委託 | 使用者 DisplayName，使用者電子郵件地址，UPN，使用者部門，使用者職稱，使用者行動電話號碼，使用者商務電話號碼，使用者 Office 位置。 必要以允許使用者在應用程式 (中搜尋其他使用者) ，並查看其他使用者的基本設定檔和連絡人資訊。  | 無 | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
 >| Directory.Read.All | 應用程式 | 群組成員資格，目錄中的 AD 群組。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。 | 使用者的群組成員資格。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |

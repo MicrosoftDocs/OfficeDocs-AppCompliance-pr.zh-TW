@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于 Wellness 教練的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: fbde48aa6cc4777d0720a29e5a2c2d3db149b4d3
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404622"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278609"
 ---
-# <a name="wellness-coach"></a>Wellness 教練
+# <a name="wellness-coach"></a>Wellness Coach
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Meditation.live，Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Wellness 教練 |
+| 應用程式名稱 | Wellness Coach |
 | ID | WA200003037 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Meditation.live，Inc.。 |
+| 合作夥伴公司名稱 | Meditation.live, Inc. |
 | 合作夥伴網站的 URL | [https://welllnesscoach.live](https://welllnesscoach.live) |
 | Teams 應用程式資訊頁面的 URL | [https://wellnesscoach.live/teams-app](https://wellnesscoach.live/teams-app) |
 | 隱私權原則的 URL | [https://www.wellnesscoach.live/privacy-policy](https://www.wellnesscoach.live/privacy-policy) |

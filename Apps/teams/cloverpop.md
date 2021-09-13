@@ -9,11 +9,11 @@ certification_type: attested
 description: Cloverpop 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3865c07aca73134fd9029ee0550559d9a4f93fd2
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521866"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278273"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -58,7 +58,7 @@ ms.locfileid: "53521866"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 儲存類似的使用者資料。 email，oid，givenName，familyName，使用者頭像，使用者物件識別碼。組織識別碼 (tenantId) ，組織顯示名稱，也是存放在我們的側面團隊/管道名稱、識別碼、小組成員。 當使用者建立並與其互動時，我們會將此資料與建立該資料的使用者、小組和組織相關聯。 我們也需要在人類友好 UX 中顯示此擁有權，因此會儲存顯示資訊，例如使用者&#8217;的頭像。 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無訊息登入&#8221;-電子郵件、名稱、oid、tid、givenName、姓、familyName、使用者頭像 (photo) 、組織 displayName | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
 >| openid | 委託 | 儲存類似的使用者資料。 email，oid，givenName，familyName，使用者頭像，使用者物件識別碼。組織識別碼 (tenantId) ，組織顯示名稱，也是存放在我們的側面團隊/管道名稱、識別碼、小組成員。 當使用者建立並與其互動時，我們會將此資料與建立該資料的使用者、小組和組織相關聯。 我們也需要在人類友好 UX 中顯示此擁有權，因此會儲存顯示資訊，例如使用者&#8217;的頭像。 | 若要在 web 應用程式上使用 Teams&#8221; 來執行 &#8220;登入。 | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
->| profile | 委託 | 儲存類似的使用者資料。 email，oid，givenName，familyName，使用者頭像，使用者物件識別碼。組織識別碼 (tenantId) ，組織顯示名稱，也是存放在我們的側面團隊/管道名稱、識別碼、小組成員。 當使用者建立並與其互動時，我們會將此資料與建立該資料的使用者、小組和組織相關聯。 我們也需要在人類友好 UX 中顯示此擁有權，因此會儲存顯示資訊，例如使用者&#8217;的頭像。 | 若要在 web 應用程式上使用 Teams&#8221; 來執行 &#8220;登入。 | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
+>| 設定檔 | 委託 | 儲存類似的使用者資料。 email，oid，givenName，familyName，使用者頭像，使用者物件識別碼。組織識別碼 (tenantId) ，組織顯示名稱，也是存放在我們的側面團隊/管道名稱、識別碼、小組成員。 當使用者建立並與其互動時，我們會將此資料與建立該資料的使用者、小組和組織相關聯。 我們也需要在人類友好 UX 中顯示此擁有權，因此會儲存顯示資訊，例如使用者&#8217;的頭像。 | 若要在 web 應用程式上使用 Teams&#8221; 來執行 &#8220;登入。 | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

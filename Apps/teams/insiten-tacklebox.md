@@ -9,11 +9,11 @@ certification_type: attested
 description: TackleBox 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: bf5841d5b51470b6aaab29f303b1ee1c5c5a0141
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521457"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279669"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -61,7 +61,7 @@ ms.locfileid: "53521457"
 >| Sites.Read.All | 委託 | 允許使用者流覽及連結位於私人 Teams 通道的 Excel 檔案 | 無 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| User.Read | 委託 | 允許此應用程式讀取已登入使用者的設定檔，並檢索其電子郵件地址以取得通知 | 電子郵件 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| openid | 委託 | 允許使用者使用 Microsoft 365 帳戶登入我們的應用程式 | 使用者的租使用者識別碼及物件識別碼 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
->| profile | 委託 | 允許應用程式顯示使用者的基本設定檔 (名稱、使用者名稱) 以 faciliate 共同作業 | UPN、名字、姓氏 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| 設定檔 | 委託 | 允許應用程式顯示使用者的基本設定檔 (名稱、使用者名稱) 以 faciliate 共同作業 | UPN、名字、姓氏 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

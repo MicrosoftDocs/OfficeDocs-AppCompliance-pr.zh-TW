@@ -9,11 +9,11 @@ certification_type: attested
 description: MeasureUp 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 066526334e1936de0348f06f56239eab3370d0e0
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407429"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278238"
 ---
 # <a name="measureup"></a>MeasureUp
 
@@ -35,7 +35,7 @@ ms.locfileid: "58407429"
 | 應用程式名稱 | MeasureUp |
 | ID | WA200003111 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 媒體 Interactiva 解決方案 |
+| 合作夥伴公司名稱 | Media Interactiva Solutions |
 | 合作夥伴網站的 URL | [https://www.measureup.com](https://www.measureup.com) |
 | Teams 應用程式資訊頁面的 URL | [https://docs.measureup.com](https://docs.measureup.com) |
 | 隱私權原則的 URL | [https://www.measureup.com/privacy-policy](https://www.measureup.com/privacy-policy) |
@@ -55,7 +55,7 @@ ms.locfileid: "58407429"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 要註冊並允許登入的設定檔資訊。 當使用者存取應用程式時，需要使用來自 Microsoft 設定檔的資料，以在我們的平臺中建立使用者設定檔。 | 應用程式會儲存使用者的個人資料（如姓名、姓和電子郵件），以便在我們的平臺中驗證使用者。 此外，當使用者啟動我們產品時，有些報告會隨之發佈的進度而儲存。 | [481280f4-a4ed-4862-a5a1-4de59da9dca5](https://docs.microsoft.com/microsoft-365-app-certification/azure/481280f4-a4ed-4862-a5a1-4de59da9dca5) |
 >| openid | 委託 | 要註冊並允許登入的設定檔資訊。 當使用者存取應用程式時，需要使用來自 Microsoft 設定檔的資料，以在我們的平臺中建立使用者設定檔。 | 應用程式會儲存使用者的個人資料（如姓名、姓和電子郵件），以便在我們的平臺中驗證使用者。 此外，當使用者啟動我們產品時，有些報告會隨之發佈的進度而儲存。 | [481280f4-a4ed-4862-a5a1-4de59da9dca5](https://docs.microsoft.com/microsoft-365-app-certification/azure/481280f4-a4ed-4862-a5a1-4de59da9dca5) |

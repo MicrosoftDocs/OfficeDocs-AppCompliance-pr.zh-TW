@@ -9,11 +9,11 @@ certification_type: attested
 description: SecretaryBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 8d7e2fce37cf43fe52cb050e85aa9e4fd5e00802
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525447"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278829"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 
@@ -64,7 +64,7 @@ ms.locfileid: "53525447"
 >| User.Read | 委託 | 儲存使用者分析的使用者名稱、城市、國家及語言。 儲存電子郵件以與客戶聯繫。 我們從未使用過的電子郵件地址，但可用於支援。 | 嘗試尋找使用者的國家及慣用語言。 用於 MailboxSettings 備份。請參閱。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| 電子郵件 | 委託 | 請參閱上述內容。 | 儲存電子郵件。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| openid | 委託 |  | OpenID 驗證。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| profile | 委託 | 儲存 OID 以在 MS identity system 中識別使用者的唯一識別碼。 | 取得使用者名稱及 OID。 嘗試使用 OID 在未來 Outlook 增益集。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 設定檔 | 委託 | 儲存 OID 以在 MS identity system 中識別使用者的唯一識別碼。 | 取得使用者名稱及 OID。 嘗試使用 OID 在未來 Outlook 增益集。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

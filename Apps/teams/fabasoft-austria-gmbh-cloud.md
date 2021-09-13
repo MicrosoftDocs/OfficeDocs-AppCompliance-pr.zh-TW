@@ -9,13 +9,13 @@ certification_type: attested
 description: Fabasoft 雲端的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3987566132078c1e3ebc8a4bff84e089c263f588
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404616"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278354"
 ---
-# <a name="fabasoft-cloud"></a>Fabasoft 雲端
+# <a name="fabasoft-cloud"></a>Fabasoft Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Fabasoft 奧地利 GmbH 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Fabasoft 雲端 |
+| 應用程式名稱 | Fabasoft Cloud |
 | ID | WA200002184 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Fabasoft 奧地利 GmbH |
+| 合作夥伴公司名稱 | Fabasoft Austria GmbH |
 | 合作夥伴網站的 URL | [https://www.fabasoft.com](https://www.fabasoft.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.fabasoft.com/fabasoft-business-process-cloud](https://www.fabasoft.com/fabasoft-business-process-cloud) |
 | 隱私權原則的 URL | [https://www.fabasoft.com/privacy](https://www.fabasoft.com/privacy) |

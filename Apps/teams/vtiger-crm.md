@@ -9,11 +9,11 @@ certification_type: attested
 description: Vtiger CRM 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 66d6483715102cee5067cff48ba9591ee821be9e
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407393"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278422"
 ---
 # <a name="vtiger-crm"></a>Vtiger CRM
 
@@ -55,7 +55,7 @@ ms.locfileid: "58407393"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 應用程式 | 會取得電子郵件地址以驗證 AuthToken。 | Azure 物件識別碼每隔2天都會儲存並清除，以避免在 MS 小組要求進行應用程式時進行 relookup。 | [7a483472-4f1b-4c75-bff3-7a48dae227dc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7a483472-4f1b-4c75-bff3-7a48dae227dc) |
 

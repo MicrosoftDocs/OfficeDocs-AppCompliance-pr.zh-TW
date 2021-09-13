@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如需數位教練、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 2ff4472c9c54234c388508039fd10ab4818154ce
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282481"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279266"
 ---
 # <a name="hi-digital-coach"></a>hi Digital Coach
 
@@ -35,7 +35,7 @@ ms.locfileid: "53282481"
 | 應用程式名稱 | hi Digital Coach |
 | ID | WA200002347 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 數位態度 Srl |
+| 合作夥伴公司名稱 | Digital Attitude Srl |
 | 合作夥伴網站的 URL | [https://www.habitinspiringplatform.com](https://www.habitinspiringplatform.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.habitinspiringplatform.com/coaching-plan](https://www.habitinspiringplatform.com/coaching-plan) |
 | 隱私權原則的 URL | [https://www.iubenda.com/privacy-policy/98527945/full-legal](https://www.iubenda.com/privacy-policy/98527945/full-legal) |

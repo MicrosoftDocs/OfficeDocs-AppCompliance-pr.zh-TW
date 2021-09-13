@@ -9,11 +9,11 @@ certification_type: attested
 description: Sensei 實驗室導體的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 0c7fa93ad3521decc194fcddf94d86d161a864ea
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521016"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278040"
 ---
 # <a name="sensei-labs-conductor"></a>Sensei Labs Conductor
 
@@ -89,7 +89,7 @@ Sensei Labs Inc. 已提供此資訊。關於此應用程式如何收集和儲存
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->不適用
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 

@@ -9,13 +9,13 @@ certification_type: attested
 description: flowrish 遊戲的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3e4c0164d4aee94b2019af76aa3b134304f3a471
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873800"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278818"
 ---
-# <a name="nickname-by-flowrish-games"></a>flowrish 遊戲的昵稱
+# <a name="nickname-by-flowrish-games"></a>nickname by flowrish games
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58873800"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | flowrish 遊戲的昵稱 |
+| 應用程式名稱 | nickname by flowrish games |
 | ID | WA200003202 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | room6 |
+| 合作夥伴公司名稱 | 會議室 6 |
 | 合作夥伴網站的 URL | [https://www.room6.net](https://www.room6.net) |
 | Teams 應用程式資訊頁面的 URL | [https://nickname-server.azurewebsites.net/help.html](https://nickname-server.azurewebsites.net/help.html) |
 | 隱私權原則的 URL | [https://www.room6.net/nickname-privacy](https://www.room6.net/nickname-privacy) |

@@ -9,11 +9,11 @@ certification_type: attested
 description: Amplify by Hootsuite 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 511693fe2d9c32e3e611fbec8c55045199e83c68
-ms.sourcegitcommit: a905d46054853025c0366c5e2efbe2139a4682d9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58632285"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279597"
 ---
 # <a name="amplify-by-hootsuite"></a>Amplify by Hootsuite
 
@@ -35,7 +35,7 @@ Hootsuite Inc. 所提供的資訊給 Microsoft：
 | 應用程式名稱 | Amplify by Hootsuite |
 | ID | WA200003153 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Hootsuite Inc.。 |
+| 合作夥伴公司名稱 | Hootsuite Inc. |
 | 合作夥伴網站的 URL | [https://www.hootsuite.com](https://www.hootsuite.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.hootsuite.com/about/contact-us](https://www.hootsuite.com/about/contact-us) |
 | 隱私權原則的 URL | [https://www.hootsuite.com/legal/privacy](https://www.hootsuite.com/legal/privacy) |

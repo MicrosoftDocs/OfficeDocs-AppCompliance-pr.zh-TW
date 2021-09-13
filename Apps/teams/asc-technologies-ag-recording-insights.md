@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于 ASC 錄製 Insights 的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: efeac55591daa01827df42e8b473acdea8ee66f5
-ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391866"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278906"
 ---
-# <a name="asc-recording-insights"></a>ASC 錄製 Insights
+# <a name="asc-recording-insights"></a>ASC Recording Insights
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ASC 技術 AG 給 Microsoft 所提供的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | ASC 錄製 Insights |
+| 應用程式名稱 | ASC Recording Insights |
 | ID | WA200000708 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | ASC 技術 AG |
+| 合作夥伴公司名稱 | ASC Technologies AG |
 | 合作夥伴網站的 URL | [https://asctechnologies.com/english/index.html](https://asctechnologies.com/english/index.html) |
 | Teams 應用程式資訊頁面的 URL | [https://asctechnologies.com/english/ASC_Recording_Insights_...](https://asctechnologies.com/english/ASC_Recording_Insights_Compliance_Recording_for_Microsoft_Teams.html) |
 | 隱私權原則的 URL | [https://teams.asc-recording.app/privacy](https://teams.asc-recording.app/privacy) |
@@ -55,7 +55,7 @@ ASC 技術 AG 會透過 ASC 技術 AG 提供此資訊，瞭解此應用程式如
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | 應用程式 | 使用者的會議資訊 | 會議的物件識別碼 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
 >| 聊天室讀取 | 應用程式 | 產生的使用者交談 | 研討的物件識別碼 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |

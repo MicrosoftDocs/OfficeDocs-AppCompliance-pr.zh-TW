@@ -9,11 +9,11 @@ certification_type: certified
 description: 所有適用于 MIPA 的安全性和符合性資訊資訊-您的個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: b62f2d523d755c5294b45ae017dd69c788bdc0a7
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672810"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278893"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - 您的個人助理
 
@@ -54,7 +54,7 @@ ms.locfileid: "58672810"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 閱讀和更新日曆 entires | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | 閱讀和更新日曆 entires | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |

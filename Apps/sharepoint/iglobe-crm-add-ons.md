@@ -9,11 +9,11 @@ certification_type: certified
 description: 所有可用的安全性和符合性資訊，如 iGlobe CRM 附加元件、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 3d5551ff00fa5439329176cf412a45d0490d6d64
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672650"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279437"
 ---
 # <a name="iglobe-crm-add-ons"></a>iGlobe CRM 附加元件
 
@@ -52,7 +52,7 @@ ms.locfileid: "58672650"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 從 canlendar 中的 dreating 會議報表至 iGlobe 時，可以存取使用者行事曆 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 >| 連絡人。 ReadWrite | 委託 |  Directory.AccessAsUser.All | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |

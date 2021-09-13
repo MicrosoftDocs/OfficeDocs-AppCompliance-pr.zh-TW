@@ -9,11 +9,11 @@ certification_type: attested
 description: Qooper 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 83bc4fea918d30cd0854ec260f817fc1ad87bacf
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567217"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278269"
 ---
 # <a name="qooper"></a>Qooper
 
@@ -35,7 +35,7 @@ COGNATA 技術所提供的資訊，LLC 至 Microsoft：
 | 應用程式名稱 | Qooper |
 | ID | WA200002964 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | COGNATA 技術，LLC |
+| 合作夥伴公司名稱 | COGNATA TECHNOLOGIES, LLC |
 | 合作夥伴網站的 URL | [https://qooper.io](https://qooper.io) |
 | Teams 應用程式資訊頁面的 URL | [https://qooper.io](https://qooper.io) |
 | 隱私權原則的 URL | [https://qooper.io/user-privacy-policy](https://qooper.io/user-privacy-policy) |

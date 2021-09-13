@@ -9,11 +9,11 @@ certification_type: certified
 description: LMS365 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 2fa9fb2637b40b439bc6450514e194e222415ec0
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275260"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278018"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -60,7 +60,7 @@ ms.locfileid: "53275260"
 >| User.Read | 委託 | 無 | 登入和讀取使用者設定檔。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read.All | 委託 | 無 | 允許應用程式讀取目前登入使用者的完整設定檔。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read.All | 應用程式 | 允許應用程式讀取完整的使用者設定檔。 &#8217; 管理員建立階層報告&#8217;所需的使用者。 | 下列個人資料儲存在專用資料庫中，供各個客戶用於 Learner &amp; 應用程式中的管理管理員儀表板功能。 帳戶名稱、使用者顯示名稱、電子郵件地址、部門、職稱、Office、國家、城市、管理員識別碼/電子郵件 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| profile | 委託 | 無 | View user 的基本設定檔。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| 設定檔 | 委託 | 無 | View user 的基本設定檔。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 

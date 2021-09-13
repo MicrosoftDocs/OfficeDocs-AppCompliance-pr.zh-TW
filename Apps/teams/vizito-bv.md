@@ -9,11 +9,11 @@ certification_type: attested
 description: Vizito 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 7a21260abb9afb77c5a95cdc3499eda4179fba42
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58563464"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278174"
 ---
 # <a name="vizito"></a>Vizito
 
@@ -55,7 +55,7 @@ ms.locfileid: "58563464"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 包括 | 取得及儲存租使用者識別碼，以便我們知道我們 Teams bot 安裝所在的承租人。 | 在訪客登入後，用來將主動訊息傳送給使用者的租使用者識別碼、使用者 UPN、使用者識別碼、使用者名稱。 | [b6e2ef19-7612-4ab7-a700-9669d49b88b9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b6e2ef19-7612-4ab7-a700-9669d49b88b9) |
 

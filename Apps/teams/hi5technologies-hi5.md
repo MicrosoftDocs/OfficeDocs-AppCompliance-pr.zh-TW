@@ -9,11 +9,11 @@ certification_type: attested
 description: Hi5 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1356b3e31e309379e1943dc5ca59e10c72c23410
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525597"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278251"
 ---
 # <a name="hi5"></a>Hi5
 
@@ -61,7 +61,7 @@ ms.locfileid: "53525597"
 >| 電子郵件 | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | 針對伺服器進行 SSO 登入和驗證所需 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
 >| offline_access | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | 維護使用者看到正確的資訊，而且我們可以將正確的資訊傳送給加入相同公司/工作區的其他人。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
 >| openid | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | 針對伺服器進行 SSO 登入和驗證所需 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
->| profile | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | 針對伺服器進行 SSO 登入和驗證所需 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| 設定檔 | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | 針對伺服器進行 SSO 登入和驗證所需 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

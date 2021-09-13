@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于結構性的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 311eff24ac87991f640975efeff0373d7afc8a87
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404271"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278034"
 ---
-# <a name="structural"></a>結構
+# <a name="structural"></a>Structural
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58404271"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 結構 |
+| 應用程式名稱 | Structural |
 | ID | WA200002514 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 結構性 Inc.。 |
+| 合作夥伴公司名稱 | Structural Inc. |
 | 合作夥伴網站的 URL | [https://www.structural.com](https://www.structural.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.structural.com](https://www.structural.com) |
 | 隱私權原則的 URL | [https://www.structural.com/privacy-policy](https://www.structural.com/privacy-policy) |
@@ -55,7 +55,7 @@ ms.locfileid: "58404271"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 委託 | Yes：在單一登入期間驗證使用者。 | 無 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
 >| 電子郵件 | 委託 | Yes：在單一登入期間驗證使用者。 | 無 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |

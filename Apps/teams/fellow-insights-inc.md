@@ -9,11 +9,11 @@ certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，如其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 581b41bdf80bcbdd77bb3406b35556308a13b8f9
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525637"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278350"
 ---
 # <a name="fellow"></a>Fellow
 
@@ -62,7 +62,7 @@ Insights inc. 對 Microsoft 所提供的資訊：
 >| Group.Read.All | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 我們使用目錄資料來同步處理使用者清單，並自動布建帳戶。 | 如果且僅限系統管理員從使用者內部的工作區設定中執行整個組織的安裝，系統管理員可以選擇啟用所有使用者從 Azure AD 自動同步處理 (自動布建) 。 在此情況下，我們會將使用者資訊（例如 ID、名稱、電子郵件、管理員和群組成員資格）儲存在 (，以) 小組管理功能。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
 >| 個人讀取 | 委託 | 會收集使用者的連絡人，在特定連絡人 displayNames 和電子郵件地址。 這是在同事內使用，提供邀請邀請加入附注/共用附注的使用者清單。 | 會收集使用者的連絡人，在特定連絡人 displayNames 和電子郵件地址。 這是在同事內使用，提供邀請邀請加入附注/共用附注的使用者清單。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
 >| 已讀取的人員。所有 | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 會收集使用者的連絡人，在特定連絡人 displayNames 和電子郵件地址。 這是在同事內使用，提供邀請邀請加入附注/共用附注的使用者清單。 | 如果且僅限系統管理員從使用者內部的工作區設定中執行整個組織的安裝，系統管理員可以選擇啟用所有使用者從 Azure AD 自動同步處理 (自動布建) 。 在此情況下，會收集使用者的連絡人，在特定連絡人 displayNames 和電子郵件地址。 這是在同事內使用，提供邀請邀請加入附注/共用附注的使用者清單。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| ReadBasic | 委託 | 會收集使用者所屬的小組清單。 這是為了讓使用者能夠將記事從同事傳送給小組的目的。 | 我們快取使用者隸屬的小組名稱和 IDs，以允許使用者將附注從同事傳送至指定的小組頻道。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
+>| Team.ReadBasic.All | 委託 | 會收集使用者所屬的小組清單。 這是為了讓使用者能夠將記事從同事傳送給小組的目的。 | 我們快取使用者隸屬的小組名稱和 IDs，以允許使用者將附注從同事傳送至指定的小組頻道。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
 >| User.Read | 委託 | 收集基本的使用者資訊。 使用者名稱、電子郵件、職稱。 此資訊用於建立使用者帳戶及公司帳戶的同事。 | 儲存基本使用者資訊。 使用者名稱、電子郵件、職稱。 此資訊用於維護使用者帳戶和公司帳戶。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
 >| User.Read.All | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 我們使用目錄資料來同步處理使用者清單，並自動布建帳戶。 | 如果且僅限系統管理員從使用者內部的工作區設定中執行整個組織的安裝，系統管理員可以選擇啟用所有使用者從 Azure AD 自動同步處理 (自動布建) 。 在此情況下，我們會將使用者資訊（例如 ID、名稱、電子郵件、管理員和群組成員資格）儲存在 (，以) 小組管理功能。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
 >| offline_access | 委託 | 使用者的重新整理權杖，以維持透過其他範圍所收集的資料存取權。 | 使用者的重新整理權杖會儲存在資料庫中。 這種方式是在背景中用於同步處理事件，以行事曆的記事經驗，以及在排程事件上進行記事的通知。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |

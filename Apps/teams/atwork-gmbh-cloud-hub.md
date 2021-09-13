@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于雲端中樞的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 386875fbf14ddd7409590a93462c333510b6a229
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404263"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279550"
 ---
-# <a name="cloud-hub"></a>雲端中樞
+# <a name="cloud-hub"></a>Cloud Hub
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58404263"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 雲端中樞 |
+| 應用程式名稱 | Cloud Hub |
 | ID | WA200003034 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | atwork GmbH |
@@ -55,7 +55,7 @@ ms.locfileid: "58404263"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 應用程式 | 閱讀所有通道的名稱和描述 | 無 | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
 >| 傳送郵件 | 應用程式 | 透過 E-Mail 與 Microsoft Teams 小組共用郵件。 | 無 | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |

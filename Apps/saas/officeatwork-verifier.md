@@ -9,11 +9,11 @@ certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和合規性資訊，都是驗證者、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 3b8cdcd5901abbe498a67ec2b81c20c6ab69b95a
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53522236"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278462"
 ---
 # <a name="verifier"></a>驗證
 
@@ -60,7 +60,7 @@ ms.locfileid: "53522236"
 >| User.Read | 委託 | 不儲存任何資料。 | Sign-In：讓 officeatwork 應用程式讀取使用者的基本屬性。 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 >| offline_access | 委託 | 不儲存任何資料。 | Sign-In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 >| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式。 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| 設定檔 | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 

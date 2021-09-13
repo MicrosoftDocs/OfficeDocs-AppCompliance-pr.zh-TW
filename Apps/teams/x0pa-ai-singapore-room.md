@@ -9,13 +9,13 @@ certification_type: attested
 description: X0PA 聊天室的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: a20b81928065203536f914a6b15d76745b2bc01a
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58835849"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279505"
 ---
-# <a name="x0pa-room"></a>X0PA 聊天室
+# <a name="x0pa-room"></a>X0PA 會議室
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ X0PA AI 新加坡提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | X0PA 聊天室 |
+| 應用程式名稱 | X0PA 會議室 |
 | ID | WA200003028 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | X0PA AI 新加坡 |

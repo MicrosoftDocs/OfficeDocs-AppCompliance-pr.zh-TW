@@ -9,11 +9,11 @@ certification_type: attested
 description: MailClark 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3e9c01b76c513fd0786b27a0447a70c1f9c9d7e0
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525497"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278388"
 ---
 # <a name="mailclark"></a>MailClark
 
@@ -62,7 +62,7 @@ ms.locfileid: "53525497"
 >| User.Read | 應用程式 | 帳戶詳細資料，例如電子郵件地址。 | 來識別帳戶。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| offline_access | 應用程式 | 重新整理權杖 | 在帳戶中斷連線之前，更新驗證。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| openid | 應用程式 |  | 需要驗證。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| profile | 應用程式 |  | 以驗證使用者。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 設定檔 | 應用程式 |  | 以驗證使用者。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

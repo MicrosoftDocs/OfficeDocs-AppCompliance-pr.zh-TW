@@ -9,11 +9,11 @@ certification_type: attested
 description: Tikit 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: c17273ad8e2cdc9bd2f60ce5a3157f1f8473bb88
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525787"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278283"
 ---
 # <a name="tikit"></a>Tikit
 
@@ -66,7 +66,7 @@ ms.locfileid: "53525787"
 >| User.ReadBasic.All | 委託 | 用於驗證的使用者角色、系列名稱、名字、電子郵件、AAD 識別碼 Teams 使用者識別碼  | 用於驗證的使用者角色、系列名稱、名字、電子郵件、AAD 識別碼 Teams 使用者識別碼  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 >| 電子郵件 | 委託 | 用於登入和相關實體相關識別碼的使用者電子郵件。 &quot;指派的使用者&quot; | 用於登入和相關實體相關識別碼的使用者電子郵件。 &quot;指派的使用者&quot; | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 >| openid | 委託 | 用於透過 MSAL 每個需求進行驗證  | 用於透過 MSAL 每個需求進行驗證  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| profile | 委託 | 用於透過 MSAL 每個需求進行驗證  | 用於透過 MSAL 每個需求進行驗證  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| 設定檔 | 委託 | 用於透過 MSAL 每個需求進行驗證  | 用於透過 MSAL 每個需求進行驗證  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 

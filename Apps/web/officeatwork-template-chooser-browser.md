@@ -9,11 +9,11 @@ certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊，如範本選擇瀏覽器、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 630e587b1011007d6dbbd33bfad7364bd14f48b1
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275285"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278570"
 ---
 # <a name="template-chooser-browser"></a>範本選擇器瀏覽器
 
@@ -62,7 +62,7 @@ ms.locfileid: "53275285"
 >| User.Read.All | 委託 | 不儲存任何資料。 | Teams：找出使用者所屬的群組。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 >| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 >| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| 設定檔 | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 

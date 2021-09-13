@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有適用于 Workday 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 71a16c42f8676ac12ed4de34ccbdf010de009453
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528039"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279162"
 ---
 # <a name="workday"></a>Workday
 
@@ -67,7 +67,7 @@ ms.locfileid: "53528039"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| 組織資料是在 Workday 服務和 Microsoft 之間共用。 請參閱您與 Workday 簽訂的合約條款，以取得其他詳細資料。 | 組織資料是在 Workday 服務和 Microsoft 之間共用。 請參閱您與 Workday 簽訂的合約條款，以取得其他詳細資料。 | 不適用 |
+>| 組織資料是在 Workday 服務和 Microsoft 之間共用。 請參閱您與 Workday 簽訂的合約條款，以取得其他詳細資料。 | 組織資料是在 Workday 服務和 Microsoft 之間共用。 請參閱您與 Workday 簽訂的合約條款，以取得其他詳細資料。 | N/A |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 

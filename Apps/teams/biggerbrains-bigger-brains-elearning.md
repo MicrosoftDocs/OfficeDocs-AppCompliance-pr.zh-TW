@@ -9,13 +9,13 @@ certification_type: attested
 description: 更大 Brains 電子教學的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 9256e0b115815ac4074057d794646fececd0baf4
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407431"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279518"
 ---
-# <a name="bigger-brains-elearning"></a>更大的 Brains 電子教學
+# <a name="bigger-brains-elearning"></a>Bigger Brains eLearning
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58407431"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 更大的 Brains 電子教學 |
+| 應用程式名稱 | Bigger Brains eLearning |
 | ID | WA200002366 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Biggerbrains |

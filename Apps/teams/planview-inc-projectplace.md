@@ -9,11 +9,11 @@ certification_type: attested
 description: Projectplace 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c74950778b78f425e44a8e80c9d2319f7a2942ae
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407435"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279333"
 ---
 # <a name="projectplace"></a>Projectplace
 
@@ -35,7 +35,7 @@ Planview，Inc. 提供給 Microsoft 的資訊：
 | 應用程式名稱 | Projectplace |
 | ID | WA200000103 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Planview，Inc.。 |
+| 合作夥伴公司名稱 | Planview, Inc. |
 | 合作夥伴網站的 URL | [https://www.planview.com](https://www.planview.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.planview.com/products-solutions/products/projec...](https://www.planview.com/products-solutions/products/projectplace/) |
 | 隱私權原則的 URL | [https://www.planview.com/trust/privacy/](https://www.planview.com/trust/privacy/) |

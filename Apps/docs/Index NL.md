@@ -6,14 +6,16 @@ description: 合規性簡報的封存
 keywords: 合規性簡報
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a69495d35eaf69bee341efa7b15f479aa53e2ac0043e1aa8a422e1adc97cd83c
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 72d288c7409dea138e6150537f7f90df7be597ae
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54751703"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59274897"
 ---
 # <a name="newsletter-archive"></a>電子報封存
+
+[2021 年 5 月](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/may2021)
 
 [2021 年 3 月](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/March21%20NL)
 

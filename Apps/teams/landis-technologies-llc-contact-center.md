@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有適用于連絡人中心的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 57fd0d98d6c7139c6356b4c23a6ac8a21c48e6b6
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521483"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278436"
 ---
 # <a name="contact-center"></a>Contact Center
 
@@ -57,8 +57,8 @@ Landis 技術 LLC 給 Microsoft 所提供的資訊：
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| AccessMedia 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
->| Calls.Initiate。所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
->| Calls.InitiateGroupCall。 All | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| 呼叫。 Initiate 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| InitiateGroupCall 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| JoinGroupCall 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| JoinGroupCallAsGuest 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| OnlineMeetings Read。 All | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
@@ -66,8 +66,8 @@ Landis 技術 LLC 給 Microsoft 所提供的資訊：
 >| User.Read | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| User.Read.All | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| AccessMedia 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話記錄 &amp; sentiment 追蹤 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
->| Calls.Initiate。所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話記錄 &amp; sentiment 追蹤 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
->| Calls.InitiateGroupCall。 All | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話記錄 &amp; sentiment 追蹤 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| 呼叫。 Initiate 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話記錄 &amp; sentiment 追蹤 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| InitiateGroupCall 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話記錄 &amp; sentiment 追蹤 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
 >| JoinGroupCall 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話記錄 &amp; sentiment 追蹤 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
 >| JoinGroupCallAsGuest 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話記錄 &amp; sentiment 追蹤 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
 >| OnlineMeetings Read。 All | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話記錄 &amp; sentiment 追蹤 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |

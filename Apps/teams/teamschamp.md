@@ -9,11 +9,11 @@ certification_type: attested
 description: TeamsChamp 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 8ba17c02a5478213d3666651efdbb5e4ed342147
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527569"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279638"
 ---
 # <a name="teamschamp"></a>TeamsChamp
 
@@ -59,7 +59,7 @@ ms.locfileid: "53527569"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 登入和讀取使用者設定檔 | Bbdd 中未儲存任何資料 | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
 >| User.ReadBasic.All | 委託 | 讀取所有使用者的基本設定檔 | Bbdd 中未儲存任何資料 | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
->| profile | 委託 | 查看使用者的基本設定檔 | Bbdd 中未儲存任何資料 | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
+>| 設定檔 | 委託 | 查看使用者的基本設定檔 | Bbdd 中未儲存任何資料 | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

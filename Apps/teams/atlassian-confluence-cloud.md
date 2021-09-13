@@ -9,13 +9,13 @@ certification_type: attested
 description: Confluence 雲端的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 83a34d3ae66bd3cb82fcc9d18ad88ba7ee7c4983
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407430"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278442"
 ---
-# <a name="confluence-cloud"></a>Confluence 雲端
+# <a name="confluence-cloud"></a>Confluence Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58407430"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Confluence 雲端 |
+| 應用程式名稱 | Confluence Cloud |
 | ID | WA200003113 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Atlassian |
@@ -54,7 +54,7 @@ ms.locfileid: "58407430"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | 委託 | -我們已閱讀會議中的聊天室成員清單，所以我們知道會議的被邀請者清單。   -我們讀取的使用者&#8217; 名稱和電子郵件地址，我們在會議應用程式中有條件顯示。 例如，顯示正在參加會議筆記的目前使用者名稱。   -我們的應用程式會讀取使用者&#8217;的行事曆事件，讓應用程式已新增至會議，讓我們有會議標題等會議的基本資訊。 | 我們收集和儲存的內容範例包括：摘要和描述新增至 JIRA 問題、您在 Confluence 中建立的頁面、您在 Bitbucket 中建立的頁面、您的存放庫和拉取要求、您在與 Statuspage 中的事件時輸入的注釋，以及您對我們提供的任何意見反應。 內容也包含您上傳至服務的檔案和連結。 | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |
 >| ReadBasic | 委託 |  -我們已閱讀會議中的聊天室成員清單，所以我們知道會議的被邀請者清單。   -我們讀取的使用者&#8217; 名稱和電子郵件地址，我們在會議應用程式中有條件顯示。 例如，顯示正在參加會議筆記的目前使用者名稱。   -我們的應用程式會讀取使用者&#8217;的行事曆事件，讓應用程式已新增至會議，讓我們有會議標題等會議的基本資訊。 | 我們收集和儲存的內容範例包括：摘要和描述新增至 JIRA 問題、您在 Confluence 中建立的頁面、您在 Bitbucket 中建立的頁面、您的存放庫和拉取要求、您在與 Statuspage 中的事件時輸入的注釋，以及您對我們提供的任何意見反應。 內容也包含您上傳至服務的檔案和連結。 | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |

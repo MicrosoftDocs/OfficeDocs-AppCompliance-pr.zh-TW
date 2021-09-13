@@ -9,11 +9,11 @@ certification_type: attested
 description: Weekly10 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3a1456ccf706a9588f82e38ea35e5e37f8098b9b
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673060"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278439"
 ---
 # <a name="weekly10"></a>Weekly10
 
@@ -35,7 +35,7 @@ ms.locfileid: "58673060"
 | 應用程式名稱 | Weekly10 |
 | ID | WA200001441 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 二進位 Geek 限制 |
+| 合作夥伴公司名稱 | Binary Geek Limited |
 | 合作夥伴網站的 URL | [https://www.weekly10.com](https://www.weekly10.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.weekly10.com/integrations/microsoft-teams/](https://www.weekly10.com/integrations/microsoft-teams/) |
 | 隱私權原則的 URL | [https://www.weekly10.com/terms/privacy](https://www.weekly10.com/terms/privacy) |
@@ -55,7 +55,7 @@ ms.locfileid: "58673060"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | 應用程式 | 將使用者從 Azure AD 同步到 Weekly10 (選用)  | 使用者身分識別資料：使用者主要名稱、電子郵件、名字、姓氏和主管。 | [2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb](https://docs.microsoft.com/microsoft-365-app-certification/azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb) |
 >| ReadWrite 的行事曆 | 應用程式 | 檢查員工可用性和自動預約會議 (選用) 。 | 員工的使用時間 (不詳細資料) 和會議已預約對該會議的參照。 這項資料可用於瞭解員工是否已脫銷，以順利員工體驗，並將會議預訂1：1s 或績效審查。 | [494610b2-b490-4f54-8384-312d6f9b4869](https://docs.microsoft.com/microsoft-365-app-certification/azure/494610b2-b490-4f54-8384-312d6f9b4869) |

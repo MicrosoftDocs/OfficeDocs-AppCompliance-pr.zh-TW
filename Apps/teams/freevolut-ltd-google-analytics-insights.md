@@ -1,19 +1,19 @@
 ---
-title: Freevolut 有限公司之 Google Analytics Insights 的應用程式資訊
+title: Freevolut 有限公司 Insights Google Analytics 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 Google Analytics Insights 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有適用于 Google Analytics 的安全性和符合性資訊資訊 Insights，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3b2b1e528878540c22682ce5dc4fa30df0eba1d8
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553144"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279785"
 ---
 # <a name="google-analytics-insights"></a>Google Analytics 深入解析
 

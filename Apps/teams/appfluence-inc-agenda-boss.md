@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊，如議題、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e2f48c8a563e83f040907acf393d6794264a02cf
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987753"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277832"
 ---
-# <a name="agenda-boss"></a>議事日程上司
+# <a name="agenda-boss"></a>Agenda Boss
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "52987753"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 議事日程上司 |
+| 應用程式名稱 | Agenda Boss |
 | ID | WA200002607 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Appfluence Inc |

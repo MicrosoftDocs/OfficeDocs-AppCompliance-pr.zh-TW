@@ -9,11 +9,11 @@ certification_type: attested
 description: NickNack 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: f36e6b05401191f697196a04252d90d65a3d50e7
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58835867"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279189"
 ---
 # <a name="nicknack"></a>NickNack
 
@@ -35,7 +35,7 @@ NickNack 有限公司所提供的資訊給 Microsoft：
 | 應用程式名稱 | NickNack |
 | ID | WA200003196 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | NickNack 有限公司。 |
+| 合作夥伴公司名稱 | NickNack Ltd. |
 | 合作夥伴網站的 URL | [https://www.nicknack.app](https://www.nicknack.app) |
 | Teams 應用程式資訊頁面的 URL | [https://www.nicknack.app](https://www.nicknack.app) |
 | 隱私權原則的 URL | [https://www.nicknack.app/privacy](https://www.nicknack.app/privacy) |

@@ -9,11 +9,11 @@ certification_type: attested
 description: iPlanner Pro Office 365 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 41852c52286f1bbc9b3e8f7a2c8ea348b1e86bc6
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275289"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279397"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -62,7 +62,7 @@ ms.locfileid: "53275289"
 >| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
 >| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
 >| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得 planner 工作並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| profile | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
+>| 設定檔 | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得 planner 任務並新增任務更新特定使用者的桶和泳道線 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 

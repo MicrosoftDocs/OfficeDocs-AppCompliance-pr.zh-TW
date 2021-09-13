@@ -9,13 +9,13 @@ certification_type: attested
 description: 在 CSA 星型登錄中，檔案 Fabric 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3070723eecc0e7dda11aff31da6b20a785f558b5
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404255"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278797"
 ---
-# <a name="file-fabric"></a>檔 Fabric
+# <a name="file-fabric"></a>File Fabric
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58404255"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 檔 Fabric |
+| 應用程式名稱 | File Fabric |
 | ID | WA200003017 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 儲存體變得簡單 |
+| 合作夥伴公司名稱 | Storage Made Easy |
 | 合作夥伴網站的 URL | [https://storagemadeeasy.com](https://storagemadeeasy.com) |
 | Teams 應用程式資訊頁面的 URL | [https://docs.storagemadeeasy.com/microsoft-teams](https://docs.storagemadeeasy.com/microsoft-teams) |
 | 隱私權原則的 URL | [https://www.storagemadeeasy.com/privacy](https://www.storagemadeeasy.com/privacy) |
@@ -55,7 +55,7 @@ ms.locfileid: "58404255"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite | 應用程式 | 使用者透過應用程式下載、上傳或編輯指定的檔案時，可讀取或寫入檔案資料。 | 未儲存檔資料。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
 >| Sites.ReadWrite.All | 應用程式 | 針對所有使用者&#8217;的檔案和資料夾收集的中繼資料，提供所有檔服務的同盟查看。 | 緩存的中繼資料可提供更快的流覽和搜尋。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |

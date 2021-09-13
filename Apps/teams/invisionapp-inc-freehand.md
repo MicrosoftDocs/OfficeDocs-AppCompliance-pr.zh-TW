@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如手繪多邊形、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: a3c92ee618693b4fed77026a47009b490845db60
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525557"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279774"
 ---
 # <a name="freehand"></a>Freehand
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: PlayQuiz-Aprende Juega 的所有可用安全性和符合性資訊資訊， &amp; 其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 2d538edf2b96311ea7f2611a33d2362786453ee3
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528139"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278315"
 ---
 # <a name="playquiz---aprende-amp-juega"></a>PlayQuiz - Aprende &amp; Juega
 
@@ -60,7 +60,7 @@ ms.locfileid: "53528139"
 >| User.Read | 委託 | 使用者的名稱、電子郵件和設定檔圖片 | 電子郵件，用於進入應用程式，以及在應用程式中顯示其名稱 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 >| User.ReadBasic.All | 委託 | 名稱、電子郵件和設定檔圖片 | 不儲存該資料，唯讀取以在 leaderboad (應用程式中顯示它)  | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 >| openid | 委託 | view user 的基本設定檔 | 電子郵件，用於在應用程式中進行用，並在應用程式中顯示名稱 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
->| profile | 委託 | 讀取使用者基本設定檔 | 電子郵件，用於在應用程式中進行用，並在應用程式中顯示名稱 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| 設定檔 | 委託 | 讀取使用者基本設定檔 | 電子郵件，用於在應用程式中進行用，並在應用程式中顯示名稱 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊，以供員工訓練管理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: a4d2ce3475ce082060bc632d439d0c79770486c2
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609933"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278215"
 ---
-# <a name="employee-training-management"></a>員工訓練管理
+# <a name="employee-training-management"></a>Employee Training Management
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ SharePoint | 所提供的資訊Sapiens 至 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 員工訓練管理 |
+| 應用程式名稱 | Employee Training Management |
 | ID | WA200001512 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | SharePoint|Sapiens |

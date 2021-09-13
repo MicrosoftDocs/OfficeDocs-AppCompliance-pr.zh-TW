@@ -7,11 +7,11 @@ keywords: 應用程式證明 microsoft 365 認證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: 49bb08fa252a3907df67766dce39ef810381be27
-ms.sourcegitcommit: 44c92cbf86ee358e4fcdf2a51dae5be001345029
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862036"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278953"
 ---
 # <a name="what-is-microsoft-365-certification"></a>何謂 Microsoft 365 認證？
 

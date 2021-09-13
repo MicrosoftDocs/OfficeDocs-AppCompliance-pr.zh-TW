@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/03/2021
+ms.date: 09/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: bcae2d8968c66a1e58a05f92217e7feaaab19572
-ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
+ms.openlocfilehash: 0433972074d06da3576bdd55f8059387869d937b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58885643"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278060"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 

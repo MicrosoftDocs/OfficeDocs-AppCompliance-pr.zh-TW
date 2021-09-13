@@ -9,11 +9,11 @@ certification_type: attested
 description: Talview 採訪的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 38ab0472b84fc2b53c357bed1ad32ed4e3a6ad11
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528159"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278198"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -60,7 +60,7 @@ Talview Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集和�
 >| User.Read | 委託 | 登入並讀取使用者設定檔 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
 >| 電子郵件 | 委託 | 查看使用者的電子郵件地址以對應使用者帳戶 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
 >| openid | 委託 | 登入的使用者，用以登入平臺 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| profile | 委託 | 查看使用者的基本設定檔 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| 設定檔 | 委託 | 查看使用者的基本設定檔 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

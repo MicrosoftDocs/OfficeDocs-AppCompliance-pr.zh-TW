@@ -9,11 +9,11 @@ certification_type: attested
 description: 在 CSA 星形登錄中，CI 簽名的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 3e32777fcce04ad0769fa6b5699925bfc0fd6718
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275283"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279285"
 ---
 # <a name="ci-signature"></a>CI-Signature
 
@@ -34,7 +34,7 @@ Ci 解決方案 GmbH 提供給 Microsoft 的資訊：
 | 應用程式名稱 | CI-Signature |
 | ID | WA200002458 |
 | 支援 Office 365 用戶端 | Windows、Outlook 2016 或更新版本的 Mac Outlook 2016 或更新版本 Outlook 網頁版 |
-| 合作夥伴公司名稱 | ci 解決方案 GmbH |
+| 合作夥伴公司名稱 | ci solution GmbH |
 | 合作夥伴網站的 URL | [https://www.ci-solution.com](https://www.ci-solution.com) |
 | 隱私權原則的 URL | [https://www.ci-solution.com/fileadmin/downloads/datenschutz...](https://www.ci-solution.com/fileadmin/downloads/datenschutz/ci-solution_Auftragsverarbeitung_CI-Cloud.pdf) |
 | 使用條款的 URL | [https://www.ci-solution.com/agb](https://www.ci-solution.com/agb) |

@@ -9,13 +9,13 @@ certification_type: attested
 description: 在 CSA 星型登錄中，所有適用于看板工具的安全性和合規性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: b73351d77f68cf00b904d95336f83d8089095791
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404575"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278325"
 ---
-# <a name="kanban-tool"></a>看板工具
+# <a name="kanban-tool"></a>Kanban Tool
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Shore Labs 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 看板工具 |
+| 應用程式名稱 | Kanban Tool |
 | ID | WA200002121 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Shore 實驗室 |
+| 合作夥伴公司名稱 | Shore Labs |
 | 合作夥伴網站的 URL | [https://www.shorelabs.com](https://www.shorelabs.com) |
 | Teams 應用程式資訊頁面的 URL | [https://kanbantool.com](https://kanbantool.com) |
 | 隱私權原則的 URL | [https://kanbantool.com/policy/privacy](https://kanbantool.com/policy/privacy) |
@@ -55,7 +55,7 @@ Shore Labs 會提供此資訊，此應用程式會如何收集和儲存組織資
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 電子郵件 | 委託 | 用於通訊的使用者電子郵件地址、識別的身分識別及傳送通知。 | 電子郵件地址。 | [4e820d60-9e62-403c-accd-857b987cc13c](https://docs.microsoft.com/microsoft-365-app-certification/azure/4e820d60-9e62-403c-accd-857b987cc13c) |
 >| Team.ReadBasic.All | 委託 | 使用者是直接成員之團隊的識別碼和名稱。 它們是用來自動指派使用者以在看板工具中更正的群組。 | 「小組識別碼」和「名稱」登入的使用者是一種直接成員，對應至看板工具中的群組。 這可讓同一個組織中不同小組之間的「看板」的訪問管理與共享的 Boards 都是以群組為基礎。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |

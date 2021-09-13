@@ -9,11 +9,11 @@ certification_type: attested
 description: 365Projects 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: aad8e35ad1e02212c23ef2a892412ba3c0ce1312
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53522186"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277838"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -61,7 +61,7 @@ ms.locfileid: "53522186"
 >| Group.Read.All | 委託 | 若要取得小組規劃/規劃的工作，當另一個最小特權範圍允許應用程式取得使用者計畫和方案工作時，會比較好，但不幸的是沒有任何允許這進行此作業的範圍。 | 不儲存于 DB | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
 >| Group.ReadWrite.All | 應用程式 | 建立 Teams  | 不是儲存在 DB | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
 >| 個人讀取 | 委託 | 使用者名稱，將其新增為小組成員或指派任務 | 使用者 Guid 儲存于任務指派 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
->| ReadBasic | 委託 | 加入的小組名稱，以連結專案至 Teams 通道 | 小組 Guid 儲存在專案中繼資料中，以建立連結 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Team.ReadBasic.All | 委託 | 加入的小組名稱，以連結專案至 Teams 通道 | 小組 Guid 儲存在專案中繼資料中，以建立連結 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
 >| User.Read | 委託 | 取得使用者資訊以顯示在頁首  | 第一次提供租使用者時，會將使用者電子郵件儲存為擁有者 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
 >| User.Read.All | 委託 | 讀取使用者以更新任務指派 | 只儲存使用者 Guid 沒有任何個人識別資訊儲存在 DB 中 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
 

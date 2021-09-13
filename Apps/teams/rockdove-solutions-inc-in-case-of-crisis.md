@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊，在發生危機情況時，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 4671d37d77d16004c171887f101ade7506598614
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836201"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278821"
 ---
-# <a name="in-case-of-crisis"></a>在發生危機時
+# <a name="in-case-of-crisis"></a>發生危機時
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ RockDove 解決方案所提供的資訊（Inc.）至 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 在發生危機時 |
+| 應用程式名稱 | 發生危機時 |
 | ID | WA200003194 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | RockDove 解決方案，Inc.。 |
+| 合作夥伴公司名稱 | RockDove Solutions, Inc. |
 | 合作夥伴網站的 URL | [https://www.rockdovesolutions.com](https://www.rockdovesolutions.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.rockdovesolutions.com/in-case-of-crisis/in-case...](https://www.rockdovesolutions.com/in-case-of-crisis/in-case-of-crisis-platform) |
 | 隱私權原則的 URL | [https://www.rockdovesolutions.com/privacy-policy](https://www.rockdovesolutions.com/privacy-policy) |

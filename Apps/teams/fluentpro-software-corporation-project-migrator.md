@@ -9,13 +9,13 @@ certification_type: attested
 description: 在 CSA 星型登錄中 Project 遷移器、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊及安全性/符合性資訊的所有可用安全性和符合性資訊資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c36f0ed0642705518d18a88068cd67c54f752ede
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673084"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279786"
 ---
-# <a name="project-migrator"></a>Project遷移
+# <a name="project-migrator"></a>Project Migrator
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ FluentPro 軟體公司所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Project遷移 |
+| 應用程式名稱 | Project Migrator |
 | ID | WA200003160 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | FluentPro 軟體公司 |
+| 合作夥伴公司名稱 | FluentPro Software Corporation |
 | 合作夥伴網站的 URL | [https://projectmigrator.com](https://projectmigrator.com) |
 | Teams 應用程式資訊頁面的 URL | [https://help.fluentpro.com/147404-project-migrator](https://help.fluentpro.com/147404-project-migrator) |
 | 隱私權原則的 URL | [https://projectmigrator.com/privacy-policy](https://projectmigrator.com/privacy-policy) |
@@ -55,7 +55,7 @@ FluentPro 軟體公司所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | 委託 | 讀取群組及其成員資格，以便遷移至其他租使用者。 | 沒有儲存此許可權的資料。  | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
 >| Group.ReadWrite.All | 委託 | 群組名稱、成員、計畫及任務。 使用群組、計畫及任務資訊進行 Planner 資料移轉。 | 組名、計畫名稱和任務名稱。 用於遷移資訊的摘要。  | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |

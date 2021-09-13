@@ -9,11 +9,11 @@ certification_type: attested
 description: Sociabble 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 5991267fc01ca4d863740581c641ac8b72e10cdf
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404287"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278381"
 ---
 # <a name="sociabble"></a>Sociabble
 

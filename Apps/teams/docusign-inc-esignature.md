@@ -9,11 +9,11 @@ certification_type: attested
 description: DocuSign eSignature 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 6f924fd6777e53a6b854d2249d334fbdab2a54c0
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52790028"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279101"
 ---
 # <a name="docusign-esignature"></a>DocuSign eSignature
 
@@ -35,7 +35,7 @@ DocuSign，Inc. 提供給 Microsoft 的資訊：
 | 應用程式名稱 | DocuSign eSignature |
 | ID | WA200002755 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | DocuSign，Inc.。 |
+| 合作夥伴公司名稱 | DocuSign, Inc. |
 | 合作夥伴網站的 URL | [https://www.docusign.com](https://www.docusign.com) |
 | Teams 應用程式資訊頁面的 URL | [https://docs.docusign.com/supportdocs/ds-for-MS-teams/Conte...](https://docs.docusign.com/supportdocs/ds-for-MS-teams/Content/overview-docusign-for-ms-teams.htm) |
 | 隱私權原則的 URL | [https://www.docusign.com/company/privacy-policy](https://www.docusign.com/company/privacy-policy) |

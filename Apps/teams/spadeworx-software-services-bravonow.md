@@ -9,11 +9,11 @@ certification_type: attested
 description: BravoNow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1eb20f61739f5b6969c3f3889666adcce05d64a0
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245289"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278429"
 ---
 # <a name="bravonow"></a>BravoNow
 
@@ -35,7 +35,7 @@ ms.locfileid: "58245289"
 | 應用程式名稱 | BravoNow |
 | ID | WA200000157 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | SpadeWorx 軟體服務 |
+| 合作夥伴公司名稱 | SpadeWorx Software Services |
 | 合作夥伴網站的 URL | [https://www.spadeworx.com](https://www.spadeworx.com) |
 | Teams 應用程式資訊頁面的 URL | [https://bravo.pozitive.io](https://bravo.pozitive.io) |
 | 隱私權原則的 URL | [https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf](https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf) |
@@ -85,7 +85,7 @@ ms.locfileid: "58245289"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->不適用
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 

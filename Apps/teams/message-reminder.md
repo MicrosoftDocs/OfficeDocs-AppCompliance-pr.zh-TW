@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的寄件提醒安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c367d46abd5f0e5ac3f4e3e12d59e28e507a9e60
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58872055"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278229"
 ---
 # <a name="message-reminder"></a>Message Reminder
 

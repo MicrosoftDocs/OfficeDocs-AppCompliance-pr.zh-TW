@@ -9,11 +9,11 @@ certification_type: attested
 description: netDocShare 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: c8e050b7ecf4f4b4b3156e571d6afdcd75a6ceb2
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281796"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279069"
 ---
 # <a name="netdocshare"></a>netDocShare
 

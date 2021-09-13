@@ -9,11 +9,11 @@ certification_type: certified
 description: 在 CSA 星型登錄中，所有可用的安全性和合規性資訊，如優先順序矩陣、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e88ba3c98c9ab444f2500ed09013071a6b5ab2c3
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525897"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277821"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 

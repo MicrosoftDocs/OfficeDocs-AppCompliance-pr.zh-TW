@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于雲端有效的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 44aebe1c15b2c4ef16f485dc22b82f8bee8e9a00
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404563"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278274"
 ---
-# <a name="cloud-effective"></a>雲端有效
+# <a name="cloud-effective"></a>Cloud Effective
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58404563"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 雲端有效 |
+| 應用程式名稱 | Cloud Effective |
 | ID | WA200002408 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 雲端有效 |
+| 合作夥伴公司名稱 | Cloud Effective |
 | 合作夥伴網站的 URL | [https://CloudEffective.com](https://CloudEffective.com) |
 | Teams 應用程式資訊頁面的 URL | [https://cloudeffective.com/products-pricing](https://cloudeffective.com/products-pricing) |
 | 隱私權原則的 URL | [https://cloudeffective.com/privacy-policy/](https://cloudeffective.com/privacy-policy/) |
@@ -55,7 +55,7 @@ ms.locfileid: "58404563"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.ReadWrite.All | 委託 | 同步處理小組名稱和成員，以確保來自 MS-Teams 的小組成員可以在雲端有效的情況中存取對應的團隊。  | 使用者設定檔名稱、標題和電子郵件地址，讓使用者在 Teams 和雲端有效的情況下都能辨識或 correlatable。  | [50356ee3-b48b-424b-a7a7-35e53c2ce736](https://docs.microsoft.com/microsoft-365-app-certification/azure/50356ee3-b48b-424b-a7a7-35e53c2ce736) |
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: 在 CSA 明星登錄中的所有可用安全性和符合性資訊，都是量子 Workplace、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: b3001fd41b428687dce89807b43361505b3c667e
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567240"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278909"
 ---
 # <a name="quantum-workplace"></a>量子工作場所
 
@@ -53,7 +53,7 @@ ms.locfileid: "58567240"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| TeamsAppInstallation ReadWriteSelfForUser 所有 | 應用程式 | 使用 ChatId。 | 無儲存 | [be93046b-63ab-4216-9bcc-78faa55eeaa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/be93046b-63ab-4216-9bcc-78faa55eeaa7) |
 >| User.Read.All | 應用程式 | User.Id (儲存) -用於關聯傳送至 Bot 端點的使用者。未儲存的使用者 UserPrincipalName () -目前未使用;使用者的郵件 (不會儲存) ，以與我們儲存的 AzureAD 識別碼搭配我們系統中的使用者。 | 儲存 User.ID，用來關聯傳送至 Bot 端點的使用者 | [be93046b-63ab-4216-9bcc-78faa55eeaa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/be93046b-63ab-4216-9bcc-78faa55eeaa7) |

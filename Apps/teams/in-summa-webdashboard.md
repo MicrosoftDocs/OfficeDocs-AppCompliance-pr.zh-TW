@@ -9,11 +9,11 @@ certification_type: attested
 description: Webdashboard 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 8ddd4071026cbbbc8480594b8d5ab6998ddcbf20
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404292"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279778"
 ---
 # <a name="webdashboard"></a>Webdashboard
 
@@ -35,7 +35,7 @@ Summa 中提供的資訊給 Microsoft：
 | 應用程式名稱 | Webdashboard |
 | ID | WA200002970 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 在 Summa |
+| 合作夥伴公司名稱 | In Summa |
 | 合作夥伴網站的 URL | [https://www.webdashboard.com](https://www.webdashboard.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.webdashboard.com/#/features](https://www.webdashboard.com/#/features) |
 | 隱私權原則的 URL | [https://www.webdashboard.com/#/privacy-policy](https://www.webdashboard.com/#/privacy-policy) |
@@ -55,7 +55,7 @@ Summa 中提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.ReadWrite.All | 應用程式 | 若要建立 AD 使用者，我們的用戶端 van 使用為發佈帳戶。 | 隨機命名帳戶的儲存方式 (如下： publish_1568@wdbportal.com) 。 | [38b3f4fa-4229-4d51-9937-6e4515650c8c](https://docs.microsoft.com/microsoft-365-app-certification/azure/38b3f4fa-4229-4d51-9937-6e4515650c8c) |
 

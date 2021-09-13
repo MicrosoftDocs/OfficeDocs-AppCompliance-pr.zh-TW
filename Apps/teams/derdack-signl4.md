@@ -9,11 +9,11 @@ certification_type: attested
 description: SIGNL4 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 4cf1eae6ef533a1e744ca3c2968764fed0227d00
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243524"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278629"
 ---
 # <a name="signl4"></a>SIGNL4
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有適用于 Fabasoft Cloud Office 增益集、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊的所有可用安全性和符合性資訊資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: ab18964a27a5443fc1116c4c18d5e94830d3dc89
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404282"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279014"
 ---
 # <a name="fabasoft-cloud-office-add-in"></a>Fabasoft Cloud Office 增益集
 
@@ -34,7 +34,7 @@ Fabasoft 奧地利 GmbH 所提供的資訊給 Microsoft：
 | 應用程式名稱 | Fabasoft Cloud Office 增益集 |
 | ID | WA200002917 |
 | 支援 Office 365 用戶端 | Word 2016 或更新版本的 Mac、Word 網頁版、Word 2013 或更新版本 Windows |
-| 合作夥伴公司名稱 | Fabasoft 奧地利 GmbH |
+| 合作夥伴公司名稱 | Fabasoft Austria GmbH |
 | 合作夥伴網站的 URL | [https://www.fabasoft.com](https://www.fabasoft.com) |
 | 隱私權原則的 URL | [https://www.fabasoft.com/privacy](https://www.fabasoft.com/privacy) |
 | 使用條款的 URL | [https://www.fabasoft.com/terms-of-use](https://www.fabasoft.com/terms-of-use) |

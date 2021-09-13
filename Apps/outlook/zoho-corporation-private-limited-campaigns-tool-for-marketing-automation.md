@@ -9,11 +9,11 @@ certification_type: attested
 description: Zoho 活動工具的所有可用安全性和符合性資訊資訊，用於行銷自動化、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: b6b0137447f5de7d7ef2394c32eb6996772852ad
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527889"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279465"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>行銷自動化的 Zoho 活動工具
 
@@ -63,7 +63,7 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 >| User.ReadBasic.All | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| 電子郵件 | 委託 | 會儲存電子郵件以供使用者識別。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| offline_access | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| profile | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 設定檔 | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

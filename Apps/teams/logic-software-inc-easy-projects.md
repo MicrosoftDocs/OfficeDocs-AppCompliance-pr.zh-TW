@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和合規性資訊資訊，以方便專案、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: c9c544f6c166a89c334a856082598097058a25a0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552974"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279358"
 ---
 # <a name="easy-projects"></a>簡單專案
 
@@ -81,7 +81,7 @@ ms.locfileid: "52552974"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->不適用
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 

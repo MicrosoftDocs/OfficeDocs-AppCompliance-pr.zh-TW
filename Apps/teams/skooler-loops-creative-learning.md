@@ -9,13 +9,13 @@ certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊，都是迴圈創作 Learning、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 00300dd552ae702e226d96721a3e9bfa5258ba39
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673064"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277778"
 ---
-# <a name="loops---creative-learning"></a>迴圈-創造性 Learning
+# <a name="loops---creative-learning"></a>Loops - Creative Learning
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58673064"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 迴圈-創造性 Learning |
+| 應用程式名稱 | Loops - Creative Learning |
 | ID | WA200003074 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Skooler |
@@ -54,7 +54,7 @@ ms.locfileid: "58673064"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | UPN 允許與 Microsoft 登入。 指定 prefill 的設定檔名稱和姓氏。 | UPN，所有的名稱和姓氏都是顯示設定檔並讓使用者能夠登入的必要。 | [dc171e47-c074-4bc2-9e7b-3856b71e0630](https://docs.microsoft.com/microsoft-365-app-certification/azure/dc171e47-c074-4bc2-9e7b-3856b71e0630) |
 

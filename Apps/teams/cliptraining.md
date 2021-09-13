@@ -9,11 +9,11 @@ certification_type: attested
 description: ClipTraining 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 5d59d4cbd2d28f1c906e541e7ffc78311c12ffb6
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525767"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278276"
 ---
 # <a name="cliptraining"></a>ClipTraining
 
@@ -60,7 +60,7 @@ ms.locfileid: "53525767"
 >| 電子郵件 | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 >| offline_access | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 >| openid | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
->| profile | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| 設定檔 | 委託 | 使用者登入和函件的電子郵件地址、名字、姓氏。  | 使用者登入和函件的電子郵件地址、名字、姓氏。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

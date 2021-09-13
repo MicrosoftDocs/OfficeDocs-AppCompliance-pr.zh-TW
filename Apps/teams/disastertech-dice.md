@@ -9,11 +9,11 @@ certification_type: attested
 description: DisasterTech 骰子的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: d8eec2ad9c7047a33dae446943c3ab2d934cc78c
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525707"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279262"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -60,7 +60,7 @@ ms.locfileid: "53525707"
 >| 電子郵件 | 委託 | 無 | Teams 單一 Sign-On 是必要的 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 >| offline_access | 委託 | 無 | Teams 單一 Sign-On 是必要的 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 >| openid | 委託 | 無 | Teams 單一 Sign-On 是必要的 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
->| profile | 委託 | 無 | Teams 單一 Sign-On 是必要的。 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| 設定檔 | 委託 | 無 | Teams 單一 Sign-On 是必要的。 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

@@ -9,11 +9,11 @@ certification_type: attested
 description: Centrical 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 5ae0fcf2e8bd17619f723eeadcf1be5ec505dfe1
-ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339794"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277814"
 ---
 # <a name="centrical"></a>中心式
 

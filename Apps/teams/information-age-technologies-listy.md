@@ -9,11 +9,11 @@ certification_type: attested
 description: Listy 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 9f8d7a9060a53b5261bbb0378c2181a2ec8bfa3b
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521546"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279674"
 ---
 # <a name="listy"></a>Listy
 

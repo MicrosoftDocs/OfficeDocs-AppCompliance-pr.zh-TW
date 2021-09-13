@@ -9,11 +9,11 @@ certification_type: certified
 description: MyHub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 4c6997e3caa9d0a72fe81151dadb14bc7bb7374c
-ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58885803"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279546"
 ---
 # <a name="myhub"></a>MyHub
 

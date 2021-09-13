@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊，如 Aula 數位、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 85f3ee66709c9d5d8c6df21bb08cb4b7cf636d7c
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407396"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278877"
 ---
-# <a name="aula-digital"></a>Aula 數位
+# <a name="aula-digital"></a>Aula Digital
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58407396"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Aula 數位 |
+| 應用程式名稱 | Aula Digital |
 | ID | WA200003108 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Leya, S.A. |
+| 合作夥伴公司名稱 | Leya，S.A. |
 | 合作夥伴網站的 URL | [https://auladigital.leya.com](https://auladigital.leya.com) |
 | Teams 應用程式資訊頁面的 URL | [https://auladigital.leya.com](https://auladigital.leya.com) |
 | 隱私權原則的 URL | [https://www.leyaeducacao.com/politica_de_privacidade](https://www.leyaeducacao.com/politica_de_privacidade) |
@@ -55,7 +55,7 @@ ms.locfileid: "58407396"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 使用者電子郵件名稱。 帳戶建立。 | 使用者電子郵件名稱。 帳戶建立。 | [e74c5e65-902b-4c5f-a618-f24996f7b20c](https://docs.microsoft.com/microsoft-365-app-certification/azure/e74c5e65-902b-4c5f-a618-f24996f7b20c) |
 

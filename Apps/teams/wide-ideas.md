@@ -9,11 +9,11 @@ certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊都是廣泛的創意、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 1e73a7aebbaaffa12572717f7a4a9968fd5667f7
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528059"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278566"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -67,7 +67,7 @@ ms.locfileid: "53528059"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Mailjet 電子郵件通知使用的電子郵件。 |  | 不適用 |
+>| Mailjet 電子郵件通知使用的電子郵件。 |  | N/A |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 

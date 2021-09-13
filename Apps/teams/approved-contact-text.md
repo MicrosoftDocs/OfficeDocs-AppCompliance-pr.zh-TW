@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如文字、資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: fec1cbe4c30ef87592503e6e00ad1063cf953e05
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525887"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277818"
 ---
 # <a name="text"></a>文字
 
@@ -60,7 +60,7 @@ ms.locfileid: "53525887"
 >| 電子郵件 | 委託 | 電子郵件地址 | 取得使用者的連絡人資訊。 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
 >| offline_access | 委託 | 重新整理權杖會儲存在我們的資料庫中。 | 用於將重新整理權杖保存到我們的資料庫中 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
 >| openid | 委託 | 登入認證 | 允許使用者登入。 可將文字送出 Teams 通道 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
->| profile | 委託 | 電子郵件地址 | 取得使用者的連絡人資訊。 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| 設定檔 | 委託 | 電子郵件地址 | 取得使用者的連絡人資訊。 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

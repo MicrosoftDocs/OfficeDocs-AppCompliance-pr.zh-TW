@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于50的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3f2a62aba86c4267a815307be1d132164b252d73
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404260"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279790"
 ---
-# <a name="fifty"></a>五十
+# <a name="fifty"></a>Fifty
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58404260"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 五十 |
+| 應用程式名稱 | Fifty |
 | ID | WA200002393 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 五十 |
+| 合作夥伴公司名稱 | Fifty |
 | 合作夥伴網站的 URL | [https://app.fifty.do](https://app.fifty.do) |
 | Teams 應用程式資訊頁面的 URL | [https://www.fifty.do](https://www.fifty.do) |
 | 隱私權原則的 URL | [https://app.fifty.do/PrivacyPolicy.pdf](https://app.fifty.do/PrivacyPolicy.pdf) |

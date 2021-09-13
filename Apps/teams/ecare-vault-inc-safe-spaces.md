@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊保管庫空間、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 16c1adeb63cf8004df70293c8e4a188dde811250
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836184"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279254"
 ---
-# <a name="safe-spaces"></a>保管庫空間
+# <a name="safe-spaces"></a>安全空間
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ECare 保存庫 Inc. 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 保管庫空間 |
+| 應用程式名稱 | 安全空間 |
 | ID | WA200002691 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | eCare Vault Inc.。 |
+| 合作夥伴公司名稱 | eCare Vault Inc. |
 | 合作夥伴網站的 URL | [https://ecarevault.com](https://ecarevault.com) |
 | Teams 應用程式資訊頁面的 URL | [https://ecarevault.com/ecare-vault-for-teams](https://ecarevault.com/ecare-vault-for-teams) |
 | 隱私權原則的 URL | [https://ecarevault.com/ecare-vault-privacy-policy](https://ecarevault.com/ecare-vault-privacy-policy) |

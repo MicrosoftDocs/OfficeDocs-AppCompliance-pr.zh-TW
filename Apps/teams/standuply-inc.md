@@ -9,11 +9,11 @@ certification_type: attested
 description: Standuply 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 0b1613f70b1909faf9582a5a88e73273ae5bcc77
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245272"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278316"
 ---
 # <a name="standuply"></a>Standuply
 
@@ -35,7 +35,7 @@ Standuply Inc. 所提供的資訊給 Microsoft：
 | 應用程式名稱 | Standuply |
 | ID | WA200003001 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Standuply Inc.。 |
+| 合作夥伴公司名稱 | Standuply Inc. |
 | 合作夥伴網站的 URL | [https://standuply.com](https://standuply.com) |
 | Teams 應用程式資訊頁面的 URL | [https://standuply.com](https://standuply.com) |
 | 隱私權原則的 URL | [https://standuply.com/privacy-policy](https://standuply.com/privacy-policy) |

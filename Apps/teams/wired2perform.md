@@ -9,11 +9,11 @@ certification_type: attested
 description: Wired2Perform 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 53e25098f069130505add53c3e7b0d39d287e1ac
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774848"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279569"
 ---
 # <a name="wired2perform"></a>Wired2Perform
 
@@ -63,7 +63,7 @@ ms.locfileid: "53774848"
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Microsoft TeamsApi | 否 |  |  |  |  |
+>| Microsoft TeamsAPI | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
 

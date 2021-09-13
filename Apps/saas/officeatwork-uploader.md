@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用於上載程式的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: db984b1c2a02537d29db11b2a5e2d3761c01e774
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525957"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278466"
 ---
 # <a name="uploader"></a>上傳者
 
@@ -62,7 +62,7 @@ ms.locfileid: "53525957"
 >| User.Read.All | 委託 | 不儲存任何資料。 | Teams：找出使用者所屬的群組。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| openid | 委託 | 不儲存任何資料。 | In：讓使用者能夠利用其組織和/或 Microsoft 帳戶登入 officeatwork 應用程式。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| profile | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| 設定檔 | 委託 | 不儲存任何資料。 | In：用於顯示 officeatwork 應用程式中已登入的使用者。 這有助於保證/確認使用者用來登入 officeatwork 應用程式的帳戶。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 

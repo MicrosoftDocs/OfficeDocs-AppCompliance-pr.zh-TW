@@ -9,13 +9,13 @@ certification_type: attested
 description: RD17 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: deacceb8c77fd935e6ff7dd03fe8195042b8e259
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673079"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279041"
 ---
-# <a name="perfect-wiki-by-rd17"></a>RD17 的完美 Wiki
+# <a name="perfect-wiki-by-rd17"></a>Perfect Wiki by RD17
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58673079"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | RD17 的完美 Wiki |
+| 應用程式名稱 | Perfect Wiki by RD17 |
 | ID | WA200001679 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | OOO RD17 |
@@ -55,7 +55,7 @@ ms.locfileid: "58673079"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 委託 | ChannelId 與 channelName，我們會取得 it 資訊，在應用程式中顯示使用者 | 我們會將 channelId 及 channelName，以供使用者稍後顯示。 | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
 >| Team.ReadBasic.All | 委託 | 我們取得使用者的 teamId 並取得小組名稱 | teamId 與 teamName，我們使用它來瞭解哪些小組使用者屬於 | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |

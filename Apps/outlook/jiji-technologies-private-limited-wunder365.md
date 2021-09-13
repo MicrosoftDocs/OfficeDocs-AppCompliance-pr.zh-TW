@@ -9,11 +9,11 @@ certification_type: attested
 description: Wunder365 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 7762883d8a13c9c914cc88db4c03f20be2f830f3
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526999"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278702"
 ---
 # <a name="wunder365"></a>Wunder365
 
@@ -59,7 +59,7 @@ JiJi 技術所提供的資訊私人限制于 Microsoft：
 >| 傳送郵件 | 委託 | 未儲存任何資料。 | 允許應用程式傳送電子郵件通知給使用者 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 >| offline_access | 委託 | 未儲存任何資料。 | 讓使用者保持登入。 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 >| openid | 委託 | 未儲存任何資料。 | 允許使用者以 organisational 帳戶登入 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
->| profile | 委託 | UPN，使用者識別碼，電子郵件識別碼，授權驗證的租使用者識別碼，免費授權。 | 允許使用者以 organisational 帳戶登入 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| 設定檔 | 委託 | UPN，使用者識別碼，電子郵件識別碼，授權驗證的租使用者識別碼，免費授權。 | 允許使用者以 organisational 帳戶登入 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

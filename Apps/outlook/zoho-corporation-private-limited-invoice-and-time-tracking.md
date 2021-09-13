@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有適用于發票和時間追蹤的安全性和符合性資訊資訊 Zoho 發票、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3879f8b00191c9dbd9f712e685430d0360bb74fb
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527869"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279557"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Zoho 發票的發票和時間追蹤
 
@@ -62,7 +62,7 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 >| User.Read.All | 委託 |  | 允許使用者登入和讀取使用者設定檔。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| User.ReadBasic.All | 委託 |  | 允許使用者將 Office365 使用者匯入 Zoho。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| 電子郵件 | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| profile | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 設定檔 | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

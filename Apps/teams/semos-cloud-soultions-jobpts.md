@@ -9,11 +9,11 @@ certification_type: attested
 description: JobPts 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 22c80e919a07b30f6b65dc055a514e9ce2a1eefc
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404272"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278041"
 ---
 # <a name="jobpts"></a>JobPts
 
@@ -35,7 +35,7 @@ ms.locfileid: "58404272"
 | 應用程式名稱 | JobPts |
 | ID | WA200001849 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Semos 雲端 Soultions |
+| 合作夥伴公司名稱 | Semos Cloud 解決方案 |
 | 合作夥伴網站的 URL | [https://semoscloud.com](https://semoscloud.com) |
 | Teams 應用程式資訊頁面的 URL | [https://semoscloud.com/product/jobpts](https://semoscloud.com/product/jobpts) |
 | 隱私權原則的 URL | [https://semoscloud.com/privacy-policy/](https://semoscloud.com/privacy-policy/) |
@@ -55,7 +55,7 @@ ms.locfileid: "58404272"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 讀取基本公司資訊 | 不儲存資料 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
 >| 電子郵件 | 委託 | 這用於使用 JobPts 工具中的使用者來對應 AzureAD 使用者 | 不儲存資料 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |

@@ -9,11 +9,11 @@ certification_type: attested
 description: CoNtextere AVA 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 13e40f69e10ddabf7ca8654a186ee9db0989f44c
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567232"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278257"
 ---
 # <a name="contextere-ava"></a>CoNtextere AVA
 

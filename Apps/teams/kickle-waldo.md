@@ -9,13 +9,13 @@ certification_type: attested
 description: Waldo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 7a9b7d0595dcd6496222b786f1e2a3df90177e97
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673062"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279513"
 ---
-# <a name="waldo"></a>瓦爾多
+# <a name="waldo"></a>Waldo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58673062"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 瓦爾多 |
+| 應用程式名稱 | Waldo |
 | ID | WA200003139 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Kickle |
@@ -55,7 +55,7 @@ ms.locfileid: "58673062"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 委託 | 根據您的聊天記錄，Waldo 會識別您的同事。 在此後使用此清單，可在 [行事曆] 視圖中顯示狀態。 | Waldo 會儲存每個同事的使用者識別碼。 這些 IDs 是用來顯示我們用於處理的同事清單。 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
 >| User.Read | 委託 | 這項許可權是由 Microsoft Graph 工具組的元件人員使用 | N/A | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |

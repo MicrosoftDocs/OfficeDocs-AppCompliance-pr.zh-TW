@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，以瞭解資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: f931e75f0a5736ffa49c7366d9928db774c4bdbf
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527529"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279754"
 ---
 # <a name="learn"></a>了解
 
@@ -56,10 +56,10 @@ ms.locfileid: "53527529"
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委託 | 不適用 | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
->| User.ReadBasic.All | 委託 | 不適用 | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
->| openid | 委託 | 不適用 | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
->| profile | 委託 | 不適用 | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| User.Read | 委託 | N/A | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| User.ReadBasic.All | 委託 | N/A | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| openid | 委託 | N/A | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| 設定檔 | 委託 | N/A | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

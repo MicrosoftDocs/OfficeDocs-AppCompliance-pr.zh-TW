@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有適用于 Jira 之 Smart 連線的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: a4a5a1ad980bba5214811bea5d981a1705ec4f1f
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528025"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279561"
 ---
 # <a name="smart-connect-for-jira"></a>Jira 的 Smart Connect
 
@@ -63,7 +63,7 @@ ms.locfileid: "53528025"
 >| ChannelSettings Read。群組 | 應用程式 | 用於查閱通道的詳細資訊。 | 無 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| 聊天室 ReadWrite | 委託 | 用於允許使用者新增新的回復到聊天，以及從 Jira 查看聊天訊息。 | 無 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| Member Read。 Group | 應用程式 | 用於許可權檢查，可讓應用程式驗證使用者的小組成員資格。 | 無 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ReadBasic | 委託 | 使用此許可權可讓使用者在 Jira 中選取這其中一個加入的團隊。 | 用於快取目的的團隊 IDs | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Team.ReadBasic.All | 委託 | 使用此許可權可讓使用者在 Jira 中選取這其中一個加入的團隊。 | 用於快取目的的團隊 IDs | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| TeamSettings Read。群組 | 應用程式 | 允許應用程式讀取小組設定，以考慮某些預設值。 | 無 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| User.ReadBasic.All | 委託 | 允許使用者選取通道郵件中的「同事」至「@-提及」 | 無 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 

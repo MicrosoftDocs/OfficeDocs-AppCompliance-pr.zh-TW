@@ -9,11 +9,11 @@ certification_type: attested
 description: Trivia 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e22205d2584abd257a6fdff585f129fb915ff6b2
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528359"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278037"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -58,10 +58,10 @@ Springworks HR 技術會提供此資訊，這些資訊是關於此應用程式�
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.Read.All | 委託 | 否 | 若要取得使用者屬於的 Teams 清單 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
->| ReadBasic | 委託 | 是，儲存已新增 bot 的小組清單 | 收集工作區中所顯示之所有小組的基本資訊 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
+>| Team.ReadBasic.All | 委託 | 是，儲存已新增 bot 的小組清單 | 收集工作區中所顯示之所有小組的基本資訊 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 >| User.Read.All | 委託 | 是，用來儲存使用者的獨特 aadObjectId。 使用者的各種詳細資料，例如使用者名稱、電子郵件等，並在 Trivia 儀表板上顯示。 | 若要取得工作區中所提供之所有使用者的詳細資料 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 >| openid | 委託 | 是，用來儲存登入 app 的使用者。 |  讓使用者能夠使用該應用程式的帳戶和應用程式使用使用者的資料 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
->| profile | 委託 | 是，用來儲存使用者 IDs 和測驗主機名稱稱及其他功能，並唯一識別它們 | 讀取使用者的基本設定檔資訊，例如使用者名稱、電子郵件 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
+>| 設定檔 | 委託 | 是，用來儲存使用者 IDs 和測驗主機名稱稱及其他功能，並唯一識別它們 | 讀取使用者的基本設定檔資訊，例如使用者名稱、電子郵件 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

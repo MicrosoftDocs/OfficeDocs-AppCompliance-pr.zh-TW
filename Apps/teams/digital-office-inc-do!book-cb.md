@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于 do！ book CB 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 73d1777b2cbae078e0e43a13d6ad46b8a9b62bbb
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422634"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277798"
 ---
-# <a name="dobook-cb"></a>do！ book CB
+# <a name="dobook-cb"></a>do!book CB
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58422634"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | do！ book CB |
+| 應用程式名稱 | do!book CB |
 | ID | WA200002597 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 數位 Office inc.。 |
+| 合作夥伴公司名稱 | Digital Office Inc. |
 | 合作夥伴網站的 URL | [https://www.do-tools.net](https://www.do-tools.net) |
 | Teams 應用程式資訊頁面的 URL | [https://www.do-tools.net](https://www.do-tools.net) |
 | 隱私權原則的 URL | [https://www.do-tools.net/privacypolicy/dobookCB_privacypoli...](https://www.do-tools.net/privacypolicy/dobookCB_privacypolicy.pdf) |

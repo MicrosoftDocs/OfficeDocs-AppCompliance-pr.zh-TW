@@ -1,5 +1,5 @@
 ---
-title: Mediatheque + by CEMEQ inc. 的應用程式資訊。
+title: M&#233;diath 的應用程式資訊&#232;mail.que + CEMEQ inc.。
 ms.author: elmalova
 author: elenamalova
 ms.date: 07/26/2021
@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 M&#233;diath 的安全性和符合性資訊資訊&#232;mail.que +、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3273664ff9280be9feeb29519f8434cd82415b13
-ms.sourcegitcommit: d4dc71e59ff046c02e575dbd9d73b66c3acce9b8
+ms.openlocfilehash: 8d2a991d23ad12ab197fc89471e4993da6e1e0a8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58699718"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278355"
 ---
 # <a name="m233diath232que"></a>M&#233;diath&#232;mail.que +
 
@@ -35,7 +35,7 @@ CEMEQ inc. 所提供的資訊給 Microsoft：
 | 應用程式名稱 | M&#233;diath&#232;mail.que + |
 | ID | WA200003099 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | CEMEQ inc.。 |
+| 合作夥伴公司名稱 | CEMEQ inc. |
 | 合作夥伴網站的 URL | [https://www.cemeq.qc.ca](https://www.cemeq.qc.ca) |
 | 隱私權原則的 URL | [https://www.mediatheque.plus/privacy.html](https://www.mediatheque.plus/privacy.html) |
 | 使用條款的 URL | [https://www.cemeq.qc.ca/data/themes/cemeq/viewerJS/Conditio...](https://www.cemeq.qc.ca/data/themes/cemeq/viewerJS/ConditionsUtilisationMEDPLUS.pdf) |

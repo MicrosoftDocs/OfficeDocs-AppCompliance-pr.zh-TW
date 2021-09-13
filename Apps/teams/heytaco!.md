@@ -9,11 +9,11 @@ certification_type: attested
 description: HeyTaco！的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 7b4641b33166043dd311bdd89568c9eaea4b87a1
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521636"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279217"
 ---
 # <a name="heytaco"></a>HeyTaco！
 
@@ -58,7 +58,7 @@ HeyTaco 所提供的資訊！ 至 Microsoft：
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 電子郵件 | 委託 | 用來比對使用者的資料傳輸從時差到 MS Teams | 用來比對使用者從時差到 MS 小組的資料傳輸 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 >| openid | 委託 | 用於簽署人員加入 HeyTaco！ | 用於簽署人員加入 HeyTaco！ | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
->| profile | 委託 | 用於捕獲使用者名稱、設定檔影像、時區偏移量、租使用者識別碼及小組識別碼 | 用於捕獲使用者名稱、頭像、時區偏移量、租使用者識別碼及小組識別碼 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| 設定檔 | 委託 | 用於捕獲使用者名稱、設定檔影像、時區偏移量、租使用者識別碼及小組識別碼 | 用於捕獲使用者名稱、頭像、時區偏移量、租使用者識別碼及小組識別碼 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

@@ -9,11 +9,11 @@ certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: f39e0c35b88e3212743e30c7ab5ac40c74c708c3
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525927"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277836"
 ---
 # <a name="remind"></a>提醒
 

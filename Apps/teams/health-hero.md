@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于健康資訊的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 53f2892563172775e8dc6def8c4ae9cb7d2af0c8
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245269"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279226"
 ---
-# <a name="health-hero"></a>健康英雄
+# <a name="health-hero"></a>Health Hero
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58245269"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 健康英雄 |
+| 應用程式名稱 | Health Hero |
 | ID | WA200001405 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 健康英雄 |
+| 合作夥伴公司名稱 | Health Hero |
 | 合作夥伴網站的 URL | [https://gohealthhero.com](https://gohealthhero.com) |
 | 隱私權原則的 URL | [https://www.gohealthhero.com/privacy-policy](https://www.gohealthhero.com/privacy-policy) |
 | 使用條款的 URL | [https://www.gohealthhero.com/terms](https://www.gohealthhero.com/terms) |

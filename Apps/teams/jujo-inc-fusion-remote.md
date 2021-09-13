@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和合規性資訊，用於融合的遠端、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: b920e0fa93512c7cc9429b02dcecd9c0e3fe27b6
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521494"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278610"
 ---
 # <a name="fusion-remote"></a>Fusion Remote
 

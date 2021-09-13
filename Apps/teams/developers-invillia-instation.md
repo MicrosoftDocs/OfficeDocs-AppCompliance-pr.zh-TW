@@ -9,11 +9,11 @@ certification_type: attested
 description: InStation 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 1db56e204dc2fd83916a9ec6f2b20a13e02ed357
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521806"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278625"
 ---
 # <a name="instation"></a>InStation
 
@@ -65,7 +65,7 @@ Invillia 至 Microsoft 的開發人員提供的資訊：
 >| 電子郵件 | 委託 | 允許此應用程式在第一次登入時，對系統管理員&#180;基本資訊進行記錄 | 允許此應用程式在第一次登入時，對系統管理員&#180;基本資訊進行記錄 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 >| offline_access | 委託 | 儲存區： token 和重新整理權杖。 允許此應用程式在 MS token 上執行重新整理 | 儲存區： token 和重新整理權杖。 允許此應用程式在 MS token 上執行重新整理 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 >| openid | 委託 | 允許此應用程式在第一步登入組織 | 允許此應用程式在第一步登入組織 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
->| profile | 委託 | 允許此應用程式在第一次登入時，捕獲管理員&#180;基本資訊; | 允許此應用程式在第一次登入時，捕獲管理員&#180;基本資訊; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| 設定檔 | 委託 | 允許此應用程式在第一次登入時，捕獲管理員&#180;基本資訊; | 允許此應用程式在第一次登入時，捕獲管理員&#180;基本資訊; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

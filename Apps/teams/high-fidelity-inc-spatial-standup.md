@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊，如空間 Standup、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3e918bbb24a520f430e4db7b22fc76c829b37767
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567237"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278247"
 ---
-# <a name="spatial-standup"></a>空間 Standup
+# <a name="spatial-standup"></a>Spatial Standup
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58567237"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 空間 Standup |
+| 應用程式名稱 | Spatial Standup |
 | ID | WA200003161 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 高保真 Inc。 |
+| 合作夥伴公司名稱 | High Fidelity Inc |
 | 合作夥伴網站的 URL | [https://www.highfidelity.com](https://www.highfidelity.com) |
 | 隱私權原則的 URL | [https://spatialstandup.com/privacy](https://spatialstandup.com/privacy) |
 | 使用條款的 URL | [https://www.highfidelity.com/terms-of-service](https://www.highfidelity.com/terms-of-service) |

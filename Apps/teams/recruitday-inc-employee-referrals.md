@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有可供員工參考的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 2aa10a6034260c3774a134eeace4e677f29c83ba
-ms.sourcegitcommit: 823d3d853f6063f34785cab2f3316ac4ac99cdcf
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58392891"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278606"
 ---
-# <a name="employee-referrals"></a>員工提名
+# <a name="employee-referrals"></a>員工推薦
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Recruitday Inc. 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 員工提名 |
+| 應用程式名稱 | 員工推薦 |
 | ID | WA200002708 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Recruitday Inc.。 |
+| 合作夥伴公司名稱 | Recruitday Inc. |
 | 合作夥伴網站的 URL | [https://www.recruitday.com](https://www.recruitday.com) |
 | Teams 應用程式資訊頁面的 URL | [https://employer.recruitday.com/solutions/employee-referral...](https://employer.recruitday.com/solutions/employee-referrals/microsoft-teams) |
 | 隱私權原則的 URL | [https://www.recruitday.com/privacy-policy](https://www.recruitday.com/privacy-policy) |
@@ -55,7 +55,7 @@ Recruitday Inc. 所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 包括 | 應用程式使用者的名字和姓氏 (，例如，人事) 主要供 HR 使用者用來輕鬆識別參照應用程式追蹤和獎勵付出的候選人的員工。 當傳送系統產生的電子郵件通知時，也會使用它來正確地處理員工。 | 應用程式使用者的名字和姓氏 (，例如，人事) 主要供 HR 使用者用來輕鬆識別參照應用程式追蹤和獎勵付出的候選人的員工。 當傳送系統產生的電子郵件通知時，也會使用它來正確地處理員工。 | [7414b436-87d1-4904-9d52-ff47885b89f1](https://docs.microsoft.com/microsoft-365-app-certification/azure/7414b436-87d1-4904-9d52-ff47885b89f1) |
 

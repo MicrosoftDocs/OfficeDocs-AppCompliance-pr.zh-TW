@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有適用于 MIPA 的安全性和符合性資訊資訊-我的智慧個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: b57d64361c4e89d3f0e1d2c4eda908c8b56f3b08
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53524566"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278498"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA-我的智慧個人助理
 
@@ -71,7 +71,7 @@ ms.locfileid: "53524566"
 >| 電子郵件 | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式讀取您的使用者的主要電子郵件地址 ( 以取得 SSO) 。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| offline_access | 委託 | 不會儲存應用程式資料庫中的資料。 | 讓應用程式可以查看和更新您可存取的資料，即使使用者目前並未使用此應用程式也是一樣。 這不會讓應用程式 ( SSO) 的任何額外許可權。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| openid | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許使用者利用其工作或學校帳戶登入應用程式，並可讓應用程式查看基本的使用者設定檔資訊 (，以供 SSO) 使用。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| profile | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies、讀取、更新、建立 Panner 任務 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| 設定檔 | 委託 | 不會儲存應用程式資料庫中的資料。 | 讀取和更新日曆 entires、讀取和更新 Outlook 以執行 Entreies、讀取、更新、建立 Panner 任務 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 

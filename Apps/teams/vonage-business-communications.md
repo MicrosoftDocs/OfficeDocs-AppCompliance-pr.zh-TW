@@ -9,13 +9,13 @@ certification_type: attested
 description: Vonage 商務通訊的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 80665180e1abdd6783e7644a06b4d116dcedf6ae
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58241814"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279165"
 ---
-# <a name="vonage-business-communications"></a>Vonage 商務通訊
+# <a name="vonage-business-communications"></a>Vonage Business Communications
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58241814"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Vonage 商務通訊 |
+| 應用程式名稱 | Vonage Business Communications |
 | ID | WA200002988 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Vonage |

@@ -7,11 +7,11 @@ keywords: 應用程式認證團隊 Microsoft 365 安全性符合性 m365
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
-ms.sourcegitcommit: f33609288c6c59af423367dce2eac3e261c1d297
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58373777"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278974"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認證提交指南
 
@@ -54,7 +54,7 @@ Microsoft 365 應用程式相容性計畫的一部分，當您將協力廠商開
 >* Office增益集 (Word、Excel、PowerPoint、Outlook、Project、OneNote) 
 >* WebApps
 
-## <a name="prerequisites"></a>必要條件
+## <a name="prerequisites"></a>先決條件
 
 ### <a name="publisher-attestation"></a>發行者證明
 
@@ -105,7 +105,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 
 |人口大小              | 範例                  |
 |---------------------------- |-------------------------|
-|<5|1 |
+|<5|1|
 |>5 & <10|第|
 |>9 & <25|3 |
 |>24|4 |
@@ -125,7 +125,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 >[!NOTE]
 >針對所有 office 應用程式，您可以參考《 [Office app 使用者指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 對於所有 WebApps，您可以參照我們的 [SaaS App 使用者指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)。
 
-### <a name="assessment"></a>評估
+### <a name="assessment"></a>評定
 1. 您的初始檔提交一經接受，您的應用程式所需的安全性控制組將會自動顯示在入口網站中。 接著，您必須為每個控制項提交證據，以示範該控制項已就地。 請記住，您會在提交所有的證據時，提供 **60 天** 的時間。 分析員會檢查您的證據，並核准該控制項或要求新的或其他的證據。 請經常檢查此頁面，查看是否已接受您的證據。
 ### <a name="certification"></a>認證
 1. 當您的提交由分析員驗證之後，您將會收到您的認證決策通知。 已獎勵憑證的應用程式會在 **AppSource** 和 **Microsoft** 檔頁面中的應用程式上接收徽章。 您可以在 [這裡](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)閱讀認證的完整優點。

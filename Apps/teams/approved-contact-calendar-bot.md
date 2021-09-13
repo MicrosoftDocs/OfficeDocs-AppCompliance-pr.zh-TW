@@ -9,11 +9,11 @@ certification_type: attested
 description: 在 CSA 星型登錄中，行事曆 BOT、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊和安全性/符合性資訊的所有可用安全性和符合性資訊資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 9314d7712249dbbd8ad507e8c81eb47ddaa49ca9
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527649"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277819"
 ---
 # <a name="calendar-bot"></a>行事曆 BOT
 
@@ -61,7 +61,7 @@ ms.locfileid: "53527649"
 >| User.Read | 委託 | 是 | 基本設定檔資訊。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 >| User.ReadBasic.All | 委託 | 否 | 用於查看共同工作者的設定檔，以及比較閒置時間和排程會議室。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 >| offline_access | 委託 | 是的，離線使用者的空閒/忙碌時間。 | 當使用者未使用網站時，請致電 Graph。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
->| openid | 委託 | 否 | Office 365Sso。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| openid | 委託 | 否 | Office 365SSO。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務

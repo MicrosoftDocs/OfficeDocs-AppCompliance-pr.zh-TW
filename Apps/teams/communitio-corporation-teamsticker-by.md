@@ -9,11 +9,11 @@ certification_type: attested
 description: TeamSticker by Communitio 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 871c410b520fc7b8697942a4921104329a239338
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521856"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59278262"
 ---
 # <a name="teamsticker-by-communitio"></a>Communitio 的 TeamSticker
 
@@ -63,7 +63,7 @@ Communitio Corporation 已提供此資訊，讓您瞭解此應用程式如何收
 >| User.Read.All | 包括 | Application 會收集使用者的 objectId/電子郵件/名稱，以尋找要傳送卡片的使用者。 | 在此情況下，應用程式不會儲存任何資料。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 >| offline_access | 委託 | Application 收集使用者的 api token 以使用 User。 Read/User. All in background。 | 應用程式會將使用者的 api 權杖儲存為使用使用者。讀取/使用者。讀取。所有的背景。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 >| openid | 委託 | 未收集任何資料。 | 應用程式會使用此許可權，透過 openid 登入。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| profile | 委託 | 應用程式會收集使用者的 objectId/電子郵件/名稱。 | 應用程式會儲存使用者的 objectId/電子郵件/名稱。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| 設定檔 | 委託 | 應用程式會收集使用者的 objectId/電子郵件/名稱。 | 應用程式會儲存使用者的 objectId/電子郵件/名稱。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
@@ -98,7 +98,7 @@ Communitio Corporation 已提供此資訊，讓您瞭解此應用程式如何收
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->不適用
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 

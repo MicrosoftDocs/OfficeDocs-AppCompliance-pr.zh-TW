@@ -9,13 +9,13 @@ certification_type: attested
 description: ParkHere 公司的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: babf29fab04ebc7dddb3ae7d44099bb2fe96bfaf
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567236"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277796"
 ---
-# <a name="parkhere-corporate"></a>ParkHere 公司
+# <a name="parkhere-corporate"></a>ParkHere Corporate
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "58567236"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | ParkHere 公司 |
+| 應用程式名稱 | ParkHere Corporate |
 | ID | WA200003124 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | ParkHere GmbH |

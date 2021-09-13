@@ -9,11 +9,11 @@ certification_type: attested
 description: LawToolBox 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 9023d2321d5c6a6a62c8480538cc5bf8315b2fc9
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525517"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59279509"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -78,7 +78,7 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 >| User.ReadWrite | 委託 |  | 讀取/寫入使用者的資訊。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 >| User.ReadWrite.All | 委託 |  | 讀取/寫入使用者的資訊。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 >| 電子郵件 | 委託 | Email，Office365 UserID，ObjectID，TenantID。 | 讀取使用者的電子郵件地址。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
->| profile | 委託 |  | 讀取使用者設定檔資訊。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 設定檔 | 委託 |  | 讀取使用者設定檔資訊。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
