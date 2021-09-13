@@ -9,13 +9,13 @@ certification_type: attested
 description: Cuckoo 健身的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 3544854ed952a23af34da1cc1b0ab82465c0966e
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609927"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59283882"
 ---
-# <a name="cuckoo-workout"></a>Cuckoo 健身
+# <a name="cuckoo-workout"></a>Cuckoo Workout
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "53609927"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Cuckoo 健身 |
+| 應用程式名稱 | Cuckoo Workout |
 | ID | WA200002750 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Cuckoo 網路 Oy |
+| 合作夥伴公司名稱 | Cuckoo Networks Oy |
 | 合作夥伴網站的 URL | [https://cuckooworkout.com](https://cuckooworkout.com) |
 | Teams 應用程式資訊頁面的 URL | [https://cuckooworkout.com](https://cuckooworkout.com) |
 | 隱私權原則的 URL | [https://cuckooworkout.com/service-privacy-policy/](https://cuckooworkout.com/service-privacy-policy/) |

@@ -9,13 +9,13 @@ certification_type: attested
 description: 所有適用于 CSOD 的安全性和合規性資訊資訊，都是在 CSA 星型登錄中瞭解，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 2064ed00ba6306d86a09b3eff9dc6e56c8d1cc40
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407408"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59283883"
 ---
-# <a name="csod-learn"></a>CSOD 瞭解
+# <a name="csod-learn"></a>CSOD Learn
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58407408"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | CSOD 瞭解 |
+| 應用程式名稱 | CSOD Learn |
 | ID | WA200003020 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 基石 OnDemand |
+| 合作夥伴公司名稱 | Cornerstone OnDemand |
 | 合作夥伴網站的 URL | [https://www.cornerstoneondemand.com](https://www.cornerstoneondemand.com) |
 | 隱私權原則的 URL | [https://www.cornerstoneondemand.com/client-privacy-policy/](https://www.cornerstoneondemand.com/client-privacy-policy/) |
 | 使用條款的 URL | [https://www.microsoft.com/en-us/microsoft-teams/group-chat-...](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) |

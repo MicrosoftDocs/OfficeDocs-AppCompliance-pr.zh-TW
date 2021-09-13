@@ -9,11 +9,11 @@ certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如元件、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: f8d63c77c3fd9b52353ce22954dfa4dadb8dea2f
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53522048"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59283894"
 ---
 # <a name="assembly"></a>組件
 
@@ -63,7 +63,7 @@ CarrotHR Inc. 所提供的資訊給 Microsoft：
 >| Teams。ReadBasic。 All | 應用程式 | 可以將應用程式指派給正確的 [小組] 索引標籤 | [！附注] 我們不會將現有的團隊想像為  | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 >| TeamsTab。建立 | 應用程式 | 我們會使用這種情況，讓應用程式可以正確地附加到通道/小組 | 我們不會收集或儲存 tab 資料 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 >| 電子郵件 | 委託 | 使用者的電子郵件，讓我們可以授與其特定帳戶的存取權 | 使用者的電子郵件，讓我們可以授與其特定帳戶的存取權，並符合身分識別 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| profile | 委託 | Autopopulate 元件的使用者名稱，並保持與 Microsoft Teams 中的變更進行同步處理 | 使用者的完整名稱 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| 設定檔 | 委託 | Autopopulate 元件的使用者名稱，並保持與 Microsoft Teams 中的變更進行同步處理 | 使用者的完整名稱 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
