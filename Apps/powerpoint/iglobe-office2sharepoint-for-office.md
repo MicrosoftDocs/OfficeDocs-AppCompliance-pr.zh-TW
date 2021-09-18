@@ -2,23 +2,23 @@
 title: Office2SharePoint 的應用程式資訊，由 iGlobe Office
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/12/2021
+ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Office2SharePoint Office 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 12b87e9addae70858503bb2d32def94cae657be2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 404e38a0132fad49e96171319a0d273b84dca020
+ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279118"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59438314"
 ---
 # <a name="office2sharepoint-for-office"></a>Office 的 Office2SharePoint
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開發人員上次更新日期：2021年8月12日</p>
+<p>開發人員上次更新日期：2021年8月16日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381787" target="_blank">在 AppSource 中查看</a>
 

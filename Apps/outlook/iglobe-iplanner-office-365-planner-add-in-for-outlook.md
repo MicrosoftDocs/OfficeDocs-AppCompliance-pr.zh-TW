@@ -2,23 +2,23 @@
 title: iGlobe 的 iPlanner Office 365 Planner 載入 Outlook 宏的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/12/2021
+ms.date: 08/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: iPlanner Office 365 Planner 增益集的所有可用安全性和符合性資訊資訊，Outlook、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3503b068b8835037b578837cb7f7f264a91135c6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ce453be96beb466b4420912a29b30593851f3547
+ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278293"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59436434"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner 增益集 Outlook
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開發人員上次更新日期：2021年8月12日</p>
+<p>上次於開發人員的更新日期：2021年8月28日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380147" target="_blank">在 AppSource 中查看</a>
 
