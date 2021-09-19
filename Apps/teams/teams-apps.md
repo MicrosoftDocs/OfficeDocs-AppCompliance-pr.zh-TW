@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/13/2021
+ms.date: 09/16/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 1bd1d595c4efb158f28478905085d5e2411d7806
-ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
+ms.openlocfilehash: bff93dbc8e69eb54f4547c3c5c4563d4f00e2f8b
+ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59336138"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59438224"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -339,6 +339,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [TELUS Business Connect](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
 | [範本選擇程式](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Text](./approved-contact-text.md) | 已核准的連絡人 | **✓** |  |
+| [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost](./kollisch-gmbh-timeghost.md) | K&#246;llisch GmbH | **✓** |  |
@@ -351,6 +352,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Tryane Analytics](./tryane-analytics.md) | Tryane | **✓** |  |
 | [UserVoice](./uservoice.md) | UserVoice | **✓** |  |
 | [假期追蹤程式](./vacation-tracker.md) | 假期追蹤程式 | **✓** |  |
+| [Verto 365](./tmi-systems-verto-365.md) | TMI 系統 | **✓** |  |
 | [Viima](./viima-solutions-oy.md) | Viima Solutions Oy | **✓** |  |
 | [VisualSP](./visualsp.md) | VisualSP | **✓** |  |
 | [Vizito](./vizito-bv.md) | Vizito BV | **✓** |  |
@@ -370,6 +372,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [WorkInSync](./moveinsync-workinsync.md) | MoveInSync | **✓** |  |
 | [WorkJam 首頁](./workjam-home.md) | WorkJam | **✓** |  |
 | [WorkJam 排程](./workjam-schedule.md) | WorkJam | **✓** |  |
+| [WorkJam 工作](./workjam-tasks.md) | WorkJam | **✓** |  |
 | [WorkplaceBuddy](./workplacebuddy.md) | WorkplaceBuddy | **✓** |  |
 | [Wunder365](./jiji-technologies-pvt-ltd-wunder365.md) | JiJi Technologies Pvt Ltd | **✓** |  |
 | [X0PA 會議室](./x0pa-ai-singapore-room.md) | X0PA AI 新加坡 | **✓** |  |
