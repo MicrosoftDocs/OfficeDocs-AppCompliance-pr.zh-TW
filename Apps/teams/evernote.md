@@ -2,24 +2,24 @@
 title: Evernote 的應用程式資訊（evernote）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，Evernote 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3eaaa3cacc4affc866a967a495687bc53abcfae5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 6965e328f3e976462d900e227a74411599ad959c
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279686"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59785303"
 ---
 # <a name="evernote"></a>Evernote
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2019年12月16日</p>
+<p>開發人員上次更新日期：2021年9月21日</p>
 
 * <a href="https://teams.microsoft.com/l/app/4e1f8576-93d5-4c24-abb5-f02782e00a4e" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381639" target="_blank">在 AppSource 中查看</a>
@@ -36,9 +36,9 @@ ms.locfileid: "59279686"
 | ID | WA104381639 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Evernote |
-| 合作夥伴網站的 URL | [https://evernote.com/](https://evernote.com/) |
-| Teams 應用程式資訊頁面的 URL | [https://help.evernote.com/hc/en-us/articles/360001244667](https://help.evernote.com/hc/en-us/articles/360001244667) |
-| 隱私權原則的 URL | [https://evernote.com/privacy](https://evernote.com/privacy) |
+| 合作夥伴網站的 URL | [https://evernote.com](https://evernote.com) |
+| Teams 應用程式資訊頁面的 URL | [https://evernote.com/about-us](https://evernote.com/about-us) |
+| 隱私權原則的 URL | [https://evernote.com/privacy/policy](https://evernote.com/privacy/policy) |
 | 使用條款的 URL | [https://evernote.com/legal/terms-of-service](https://evernote.com/legal/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -75,18 +75,19 @@ ms.locfileid: "59279686"
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->OII 或 EUII 資料會顯示在遙測或記錄檔中。
+>應用程式遙測或記錄中未出現 OII 或 EUII。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->Admin 主控台是帳戶管理員可以管理 Evernote 商務帳戶資訊、使用者和內容的所在位置。 某些因素是管理員可以在系統管理主控台中執行：
-- 查看帳戶摘要
-- 新增及管理使用者
-- 查看和管理空間、筆記本、記事、標記和垃圾桶
-- 查看和管理帳戶計費、安全性和整合 https://help.evernote.com/hc/en-us/articles/209005497-Evernote-Business-Admin-Console-Overview
+>使用者原則，只傳送匿名資料。 從不傳送 PII
 
+#### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
+
+參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
+
+>否
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,3 +105,16 @@ ms.locfileid: "59279686"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+「Evernote」會提供此資訊，告知您此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

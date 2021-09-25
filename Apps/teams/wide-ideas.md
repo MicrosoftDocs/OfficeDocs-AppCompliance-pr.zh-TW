@@ -2,24 +2,24 @@
 title: 廣泛創意的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊都是廣泛的創意、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1e73a7aebbaaffa12572717f7a4a9968fd5667f7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 7c19fc9906f46fcd3e7561c38d68ed202dd0c87d
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278566"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59783333"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2020年6月3日</p>
+<p>開發人員上次更新日期：2021年8月27日</p>
 
 * <a href="https://teams.microsoft.com/l/app/2a64f929-bed9-44d9-aa65-d7b921889959" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000819" target="_blank">在 AppSource 中查看</a>
@@ -56,9 +56,12 @@ ms.locfileid: "59278566"
 
 >| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | 應用程式 | 我們儲存群組識別碼，以及哪些使用者屬於哪些群組 | 允許此應用程式讀取客戶組織目錄中的資料，例如使用者和群組。  | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
->| Group.ReadWrite.All | 應用程式 | 我們會儲存與群組相關聯的通道識別碼。 | 可讓使用者從客戶入口網站的 Microsoft Teams 內建立小組、頻道和索引標籤。 這也可讓使用者將 Microsoft Teams 中的現有團隊同步處理至客戶入口網站。 | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
->| User.Read | 委託 | 儲存名稱 &amp; 電子郵件 | 允許使用者登入並授與 Microsoft Graph 的存取權 | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| 通道。建立 | 委託 | 在團隊中建立通道。  | 我們會儲存所建立之挑戰的通道識別碼。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Directory.Read.All | 委託 | 我們使用此專案列出客戶目錄中的使用者  | 不適用 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Group.Read.All | 委託 | 我們使用此來從 Microsoft Teams 讀取及同步處理團隊。 | 我們會儲存小組和團隊成員的群組識別碼。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsAppInstallation.ReadWriteForTeam | 委託 | 這是用來自動在 Teams 中安裝應用程式  | 我們儲存安裝應用程式的團隊相關資訊 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsTab。建立 | 委託 | 我們使用這項功能，在廣泛的創意所建立的頻道中，自動建立應用程式 (挑戰/搜尋創意) 索引標籤。 | 不適用 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| User.Read | 委託 | 用於透過 SSO 驗證使用者，以及同步處理使用者資料 | 我們會儲存名稱、電子郵件和使用者識別碼。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -67,7 +70,7 @@ ms.locfileid: "59278566"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Mailjet 電子郵件通知使用的電子郵件。 |  | N/A |
+>| Mailjet 電子郵件通知使用的電子郵件。 | email address | 若要能夠傳送電子郵件通知的活動  |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -75,16 +78,14 @@ ms.locfileid: "59278566"
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 若要在後端建立使用者，並授與存取連結至小組之內容的許可權。 | 儲存： Name-To 顯示使用者的名稱，電子郵件地址-識別使用者 |  |
+>| 若要在後端建立使用者，並授與存取連結至小組之內容的許可權。 | 儲存： Name-To 顯示使用者的名稱，電子郵件地址-識別使用者 | 為了管理我們後端內容的許可權 |
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->我們只會儲存記錄中的 IP 號碼。 
-
-如果使用者想要刪除任何資料，組織可以將要求傳送給我們。
+>我們的記錄中存放名稱、電子郵件和 IP 號碼。 如果使用者想要刪除任何資料，組織可以將要求傳送給我們。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
 
@@ -117,3 +118,29 @@ ms.locfileid: "59278566"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+此資訊的整體創意是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
+| 您的應用程式是否支援條件式存取原則？ | 是 |
+| 列出支援的原則類型 | MFA |
+| 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
+| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
+| 您的應用程式是否支援多租賃？ | 是 |
+| 您的應用程式有機密用戶端嗎？ | 是 |
+| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
+| 您的應用程式是否公開任何 web APIs？ | 否 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
