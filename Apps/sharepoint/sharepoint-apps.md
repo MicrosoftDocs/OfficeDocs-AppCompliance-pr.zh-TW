@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 62687fe3c26249cd0d9db810c9ca4520f1f128d1
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: 1d85d0d3733db1696dd9d6d90b33f22b16cc8dff
+ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438374"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60080874"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -27,5 +27,6 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe Microsoft Office 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect 電子郵件分析器](./konnect-email-parser.md) | Konnect 電子郵件 | **✓** |  |
+| [閃電工具閃電線](./lightning-tools-conductor.md) | 閃電工具 | **✓** |  |
 | [officeatwork | SharePoint] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-sharepoint.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
