@@ -2,17 +2,17 @@
 title: Fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc 的 Azure 應用程式識別碼資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc 的安全性和符合性資訊資訊。
-ms.openlocfilehash: c0f14a634c2bf03a9d2544c402e65bf1abc04af2
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+ms.openlocfilehash: 19f4551fd82bc1e3ab9b1d011c9ad159063a8484
+ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59974968"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60080834"
 ---
 # <a name="azure-app-id-fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc"></a>Azure App ID: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc
 

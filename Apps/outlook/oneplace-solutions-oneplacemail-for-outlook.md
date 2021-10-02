@@ -2,24 +2,24 @@
 title: OnePlaceMail 的應用程式資訊，由 OnePlace 解決方案 Outlook
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/31/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: OnePlaceMail Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 18dc1ab4ba71102564c1c85f7ed3846d9f4f1700
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 196720a00525971f29618d48436cf11b37a3aaac
+ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278697"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60080644"
 ---
 # <a name="oneplacemail-for-outlook"></a>Outlook 的 OnePlaceMail
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年1月31日</p>
+<p>開發人員上次更新日期：2021年9月30日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380723" target="_blank">在 AppSource 中查看</a>
 
@@ -126,7 +126,7 @@ OnePlace 解決方案所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
-| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
 | 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
