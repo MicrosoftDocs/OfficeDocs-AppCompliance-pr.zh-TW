@@ -2,24 +2,24 @@
 title: Monday.com 的應用程式資訊（按 monday.com）
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2020
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: monday.com 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7d929b4d9c66aea657d2beb64fa77f31921f59ac
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 3779d91614f3413034e8bd86d28ec329cf341b67
+ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279401"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131691"
 ---
 # <a name="mondaycom"></a>monday.com
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2020年9月28日</p>
+<p>開發人員上次更新日期：2021年8月3日</p>
 
 * <a href="https://teams.microsoft.com/l/app/eab2d3ce-6d6a-4415-abc4-5f40a8317b1f" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001798" target="_blank">在 AppSource 中查看</a>
@@ -36,9 +36,9 @@ ms.locfileid: "59279401"
 | ID | WA200001798 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | monday.com |
-| 合作夥伴網站的 URL | [https://monday.com/](https://monday.com/) |
+| 合作夥伴網站的 URL | [https://monday.com](https://monday.com) |
 | 隱私權原則的 URL | [https://monday.com/terms/privacy](https://monday.com/terms/privacy) |
-| 使用條款的 URL | [https://monday.com/terms/tos](https://monday.com/terms/tos) |
+| 使用條款的 URL | [https://monday.com/l/legal/tos/](https://monday.com/l/legal/tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -63,7 +63,7 @@ ms.locfileid: "59279401"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| monday.com 會使用下列子處理器，以取得其服務的效能： &#160;https://monday.com/terms/subprocessors |  | monday.com 未使用 APIs。 我們會使用下列 Microsoft framework 來取得服務 (的效能，如上述回應所述) ： &#8216;botbuilder&#8217; &#8216;botframework-連接器&#8217; &#8216; @micorosft/teams-js&#8217; |
+>| monday.com 會使用下列子處理器，以取得其服務的效能： &#160;https://monday.com/terms/subprocessors | 取決於子處理者所提供的服務。 | monday.com 未使用 APIs。 我們會使用下列 Microsoft framework 來取得服務 (的效能，如上述回應所述) ： &#8216;botbuilder&#8217; &#8216;botframework-連接器&#8217; &#8216; @micorosft/teams-js&#8217; |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -82,17 +82,7 @@ ms.locfileid: "59279401"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->monday.com 服務主控于北弗吉尼亞州的 AWS 基礎結構，以及在不同地區建立的 DR 網站。 某些備份資料儲存在 GCP (US，多地區) 。 存取 monday.com 服務是由使用者組織的系統管理員所控制，且是透過使用下列功能來完成：
-- 使用者類型
-- 帳戶層級許可權
-- 工作區
-- 版塊類型
-- 董事會層級許可權
-- 欄層級許可權 monday.com 支援下列驗證方法：
-- Credentials
-- Pro 計畫) Google SSO (
-- Okta、OneLogin 及 custom SAML 2.0 (針對 Enterprise 計畫) 2FA 透過 SMS 或驗證器應用程式，您可以透過平臺的系統管理員面板的帳戶管理員的選擇來啟用此功能。
-所有靜態資料都是使用 AES-256 加密。 所有在開啟的網路中傳輸的資料，都是以 TLS 1.3 (TLS 1.2，至少) 進行加密。
+>----
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -116,3 +106,28 @@ ms.locfileid: "59279401"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+Monday.com 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
+| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
+| 您的應用程式是否支援多租賃？ | 否 |
+| 您的應用程式有機密用戶端嗎？ | 是 |
+| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式是否公開任何 web APIs？ | 是 |
+| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
+| 您的應用程式是否使用預覽 APIs？ | 是 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
