@@ -2,17 +2,17 @@
 title: Microsoft Word應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 98817d7e3b75bc3ce8c07dc5c1e297afd2e73bc7
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: 3c40ee92ac084d0e61e33cd14e4642f6dd434b30
+ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59434847"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60123423"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word應用程式安全性和合規性
 
@@ -26,6 +26,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft Cloud Office 增益集](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
 | [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
+| [印記簽名](./impression-signatures.md) | 印記簽名 | **✓** |  |
 | [LegalMind Word AddIn](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Loio 合約助理](./loio-inc-contract-assistant.md) | Loio Inc.。 | **✓** |  |
 | [Word 的 Lucidchart 圖表](./lucid-software-inc-lucidchart-diagrams-for-word.md) | Lucid 軟體 Inc。 | **✓** |  |

@@ -2,17 +2,17 @@
 title: B9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 的 Azure 應用程式識別碼資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/01/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 73db8e1d71b9c5e316de2895da5aaf8444340bd8
-ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
+ms.openlocfilehash: e5262ab880847e685ec5ff411f5ff0e2dabeb5ba
+ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60080277"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60119575"
 ---
 # <a name="azure-app-id-b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7"></a>Azure App ID: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
 
