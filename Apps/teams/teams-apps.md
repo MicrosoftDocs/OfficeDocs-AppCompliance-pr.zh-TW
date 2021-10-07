@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: c944be5805d32dd020c55267698252b7ecd3e5ab
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: f2c5d183d02a9be9ecbd65358291542eacf83dd2
+ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123773"
+ms.locfileid: "60131671"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -230,6 +230,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Mybys](./facilis-mybys.md) | Facilis | **✓** |  |
 | [Myfone](./flexfone-myfone.md) | Flexfone | **✓** |  |
 | [MyHub](./avepoint-inc-myhub.md) | AvePoint, Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [myOKR](./soe-technologies-myokr.md) | SOE 技術 | **✓** |  |
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [Navo](./regroove-solutions-navo.md) | Regroove Solutions | **✓** |  |
 | [NE](./ne.md) | NE | **✓** |  |
@@ -405,6 +406,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [WorkJam 排程](./workjam-schedule.md) | WorkJam | **✓** |  |
 | [WorkJam 工作](./workjam-tasks.md) | WorkJam | **✓** |  |
 | [WorkplaceBuddy](./workplacebuddy.md) | WorkplaceBuddy | **✓** |  |
+| [Wrike](./wrike-inc.md) | Wrike Inc. | **✓** |  |
 | [Wunder365](./jiji-technologies-pvt-ltd-wunder365.md) | JiJi Technologies Pvt Ltd | **✓** |  |
 | [X0PA 會議室](./x0pa-ai-singapore-room.md) | X0PA AI 新加坡 | **✓** |  |
 | [xMatters](./xmatters-inc.md) | xMatters Inc. | **✓** |  |
