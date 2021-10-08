@@ -2,24 +2,24 @@
 title: MURAL 的應用程式資訊（按 MURAL）
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2020
+ms.date: 09/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MURAL 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3b940d83a9095e92424c4f18480507469526e9c1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 58349e188a709d1f74a3a3b6426ca4b4a34c34d4
+ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278837"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60233617"
 ---
 # <a name="mural"></a>MURAL
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2020年3月23日</p>
+<p>開發人員上次更新日期：2021年9月22日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c738b607-88dd-4f16-aefe-6a824c65d25d" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381626" target="_blank">在 AppSource 中查看</a>
@@ -36,9 +36,9 @@ ms.locfileid: "59278837"
 | ID | WA104381626 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | MURAL |
-| 合作夥伴網站的 URL | [https://mural.co/](https://mural.co/) |
-| Teams 應用程式資訊頁面的 URL | [https://support.mural.co/](https://support.mural.co/) |
-| 隱私權原則的 URL | [https://mural.co/terms/privacy-policy](https://mural.co/terms/privacy-policy) |
+| 合作夥伴網站的 URL | [https://mural.co](https://mural.co) |
+| Teams 應用程式資訊頁面的 URL | [https://support.mural.co](https://support.mural.co) |
+| 隱私權原則的 URL | [https://mural.co/terms/privacy-policy/](https://mural.co/terms/privacy-policy/) |
 | 使用條款的 URL | [https://mural.co/terms](https://mural.co/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -62,13 +62,17 @@ ms.locfileid: "59278837"
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->不會使用非 Microsoft 服務。
+>| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| 我們會與我們的 subprocessors 共用資訊。 您可以在這裡看到： https://www.mural.co/terms/subprocessors | 我們會與我們的 subprocessors 共用資訊。 您可以在這裡看到： https://www.mural.co/terms/subprocessors | 我們會與我們的 subprocessors 共用資訊。 您可以在這裡看到： https://www.mural.co/terms/subprocessors |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
 如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
 
->未存取 EUII。
+>| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| 我們收集事件的使用者識別碼，以及註冊流程中的名字、姓氏、電子郵件。 | 使用者識別碼、名字、姓氏和電子郵件 | 我們收集事件的使用者識別碼，以及註冊流程中的名字、姓氏、電子郵件。 |
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -83,6 +87,11 @@ ms.locfileid: "59278837"
 
 >管理員可以管理使用者、刪除使用者、刪除 murals 等等。使用者原則如下： https://mural.co/terms
 
+#### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
+
+參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
+
+>是
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,3 +109,16 @@ ms.locfileid: "59278837"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+MURAL 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

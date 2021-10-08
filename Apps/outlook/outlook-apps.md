@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/05/2021
+ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 6357d5364c1cc66b57d2c401073c88fd6fd7d00c
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 45f96f7433f5096420e675ba3b23b75b06b10a18
+ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123743"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60233227"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -26,6 +26,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Outlook 的 Asana](./asana-for-outlook.md) | Asana | **✓** |  |
 | [CI-簽名](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [Outlook 的 CodeTwo](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
+| [Commuty](./commuty.md) | Commuty | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Outlook 的 harmon.ie](./harmonie-corporation-for-outlook.md) | harmon.ie Corporation | **✓** |  |
 | [Outlook 的印象特徵碼](./impression-signatures-for-outlook.md) | 印記簽名 | **✓** |  |
@@ -36,7 +37,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [MIPA-您自己的個人助理](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [Outlook 的 Office2SharePoint](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Outlook] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-outlook.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Outlook] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-outlook.md)  | officeatwork | **✓** |  |
 | [Outlook 的 OnePlaceMail](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 解決方案 | **✓** |  |
 | [Outlook 的推廣銷售專案](./outreach-sales-engagement-for-outlook.md) | 外 展 | **✓** |  |
 | [Pexip Outlook 的一個](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |

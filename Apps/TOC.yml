@@ -85,6 +85,8 @@
           href: outlook/ci-solution-gmbh-signature.md
         - name: Outlook 的 CodeTwo
           href: outlook/codetwo-for-outlook.md
+        - name: Commuty
+          href: outlook/commuty.md
         - name: Evernote
           href: outlook/evernote.md
         - name: Outlook 的 harmon.ie
@@ -1059,6 +1061,8 @@
           href: saas/elearningforce-international-aps-lms365.md
         - name: MIPA-我的智慧個人助理
           href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
+        - name: Teams 的 MyHub
+          href: saas/avepoint-inc-myhub-for-teams.md
         - name: Office2SharePoint
           href: saas/iglobe-office2sharepoint.md
         - name: Priority Matrix
