@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/08/2021
+ms.date: 10/12/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 17e58775e3c396c2ae79d4884e12e2c30b8fd6be
-ms.sourcegitcommit: 085c227ffcf8f88e6e55d3c40752a3df25642592
+ms.openlocfilehash: 627d7af13ecce818e3e131d3befea09c42dddb3a
+ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2021
-ms.locfileid: "60255656"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60283784"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -34,6 +34,8 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [iPlanner Office 365 Planner 增益集 Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Jira Cloud for Outlook (官方) ](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
+| [LawToolBox 期限 &amp; 事項管理-Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
+| [LawToolBox Teams SharePoint 的 Outlook 問題 &amp;](./lawtoolboxcom-inc-lawtoolbox-matters-for-outlook-teams-and-sharepoint.md) | LawToolBox.com Inc. | **✓** |  |
 | [MIPA-您自己的個人助理](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [Outlook 的 Office2SharePoint](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
