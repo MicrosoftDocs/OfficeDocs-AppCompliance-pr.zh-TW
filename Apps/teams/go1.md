@@ -2,24 +2,24 @@
 title: Go1 的應用程式資訊（按 Go1）
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 08/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Go1 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d6fa3c9d0ecf710724379da869fba4b0cec23f6a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 265d4cf5cef2f7fb685159ebf2cb6d516d32cb0f
+ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278341"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60287355"
 ---
 # <a name="go1"></a>Go1
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2020年6月3日</p>
+<p>開發人員上次更新日期：2021年8月23日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c859de61-8a6b-42e6-ba88-f639df33bc72" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001484" target="_blank">在 AppSource 中查看</a>
@@ -37,7 +37,7 @@ ms.locfileid: "59278341"
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Go1 |
 | 合作夥伴網站的 URL | [https://www.go1.com/user/login](https://www.go1.com/user/login) |
-| 隱私權原則的 URL | [https://www.go1.com/en-au/terms/privacy-policy](https://www.go1.com/en-au/terms/privacy-policy) |
+| 隱私權原則的 URL | [https://www.go1.com/terms/privacy-policy](https://www.go1.com/terms/privacy-policy) |
 | 使用條款的 URL | [https://www.go1.com/en-au/terms/user-terms](https://www.go1.com/en-au/terms/user-terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -54,7 +54,7 @@ ms.locfileid: "59278341"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | 應用程式 | 應用程式不會儲存檔資料 | 允許使用者上傳和共用 onedrive 中的檔案 | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
 >| Group.ReadWrite.All | 應用程式 | 為支援應用程式管理學習環境所儲存的 Teams 和通道名稱及唯一識別碼 | 允許應用程式在 Teams 環境中動態設定 Teams 及通道，以支援結構化的教學 | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
@@ -67,7 +67,7 @@ ms.locfileid: "59278341"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| 當播放課程內容時，使用者的名字和姓氏可以與 GO1's 內容提供者共用。 這只是在內容提供者要求提供 personalised 學習體驗的位置共用。 |  | N/A |
+>| 當播放課程內容時，使用者的名字和姓氏可以與 GO1's 內容提供者共用。 這只是在內容提供者要求提供 personalised 學習體驗的位置共用。 | 名字、姓氏、電子郵件地址 | 不適用 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -110,3 +110,28 @@ ms.locfileid: "59278341"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>身分識別資訊
+
+Go1 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 否 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否要求最小許可權許可權給您的案例？ | 否 |
+| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 否 |
+| 您的應用程式是否支援多租賃？ | 是 |
+| 您的應用程式有機密用戶端嗎？ | 否 |
+| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/><br/>-Resource 物主密碼認證 (ROPC) 流程 |
+| 您的應用程式是否公開任何 web APIs？ | 否 |
+| 您的應用程式是否使用預覽 APIs？ | 否 |
+| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

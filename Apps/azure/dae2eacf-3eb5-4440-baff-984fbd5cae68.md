@@ -2,17 +2,17 @@
 title: Dae2eacf-3eb5-4440-baff-984fbd5cae68 的 Azure 應用程式識別碼資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/08/2021
+ms.date: 10/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 dae2eacf-3eb5-4440-baff-984fbd5cae68 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 5f65b1f836876439f7c1d08e47d88403d59e4e51
-ms.sourcegitcommit: 085c227ffcf8f88e6e55d3c40752a3df25642592
+ms.openlocfilehash: 8855f3ee3ebdb9bb125e71d6e5b9735b3b63f56b
+ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2021
-ms.locfileid: "60255536"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60286895"
 ---
 # <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure App ID: dae2eacf-3eb5-4440-baff-984fbd5cae68
 
