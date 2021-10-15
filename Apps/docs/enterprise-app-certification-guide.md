@@ -6,18 +6,18 @@ description: Microsoft 365認證詳細資料
 keywords: 應用程式證明 microsoft 365 認證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 49bb08fa252a3907df67766dce39ef810381be27
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1088e80ba5d67d8565cf4499a91a84df277b4f80
+ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278953"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378761"
 ---
 # <a name="what-is-microsoft-365-certification"></a>何謂 Microsoft 365 認證？
 
 Microsoft 365 憑證是設計用來向客戶示範，其應用程式已針對來自主要工業標準框架的控制項進行經，而且該強安全性和合規性作法已具備，可保護客戶資料。 
 
->[!VIDEO https://www.youtube.com/embed/Aff_35f10B8]
+>[!VIDEO https://www.youtube.com/embed/Wv1lcNAycuE]
 
 
 ## <a name="microsoft-365-certification-scope"></a>Microsoft 365認證範圍
