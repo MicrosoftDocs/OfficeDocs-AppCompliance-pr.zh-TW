@@ -2,18 +2,18 @@
 title: adobe inc. 進行 Word 和 PowerPoint 之 Adobe 符號的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/12/2021
+ms.date: 02/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有可用的 Adobe 符號安全性和符合性資訊資訊，針對 Word 及 PowerPoint，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ca8f1f0aba2f18c81c76cb50d8d76cb2e86efa84
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5ed7e962014ea7cf2c63c2ff2bbcb97da3939233
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277857"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412625"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word 和 PowerPoint
 
@@ -52,7 +52,7 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 郵件。 ReadWrite | 委託 | 若要將附加的檔、寄件者和收件者電子郵件，以及郵件內容從電子郵件寫入為 Adobe sign，以進行簽章簽名。 這是為了儲存使用者時間，以 Adobe 符號重新輸入這些欄位。 在簽署合約後，我們會自動撰寫新的電子郵件，讓使用者傳送電子郵件通知給收件者交易已完成。 | Adobe 簽署會將附件儲存為臨時檔案，其到期期限為24小時。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
 >| 個人讀取 | 委託 | 若要在 [傳送以供簽章經驗] 中自動填滿電子郵件地址 &quot; &quot; ，請輸入一些初始字母，不需要使用者輸入整個電子郵件。 | Adobe 簽署只會將收件者的電子郵件和 displayName 儲存在協定中。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
@@ -129,3 +129,4 @@ Adobe Inc. 已提供此資訊。此應用程式如何處理驗證、授權、app
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

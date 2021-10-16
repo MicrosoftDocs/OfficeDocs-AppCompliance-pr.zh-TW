@@ -2,18 +2,18 @@
 title: Appspace by Appspace，Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Appspace 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 592194c022b276a07d7fb91d9c0253724d8f28e7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 24221bfb9ac02fe9bc7b62127648d9f0cb9e9ca5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277817"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414779"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -55,7 +55,7 @@ Appspace，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Team.ReadBasic.All | 委託 | 取得使用者所屬的團隊。 | 應用程式快取可能包含使用者/服務帳戶可存取的小組和識別碼。 這段資料在其整個生命週期中都會保持加密。 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
 >| User.ReadBasic.All | 委託 | 代表已登入的使用者讀取組織中其他使用者的基本配置檔案屬性。 這包括顯示名稱、名字和姓氏、電子郵件地址、開啟的分機和照片。 也允許此應用程式讀取已登入使用者的完整設定檔。 | 已登入之使用者的使用者名稱是保留，以允許使用者識別他們連結至 Appspace 平臺的使用者或服務帳戶。 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
@@ -121,3 +121,4 @@ Appspace，Inc. 已提供此資訊。關於此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

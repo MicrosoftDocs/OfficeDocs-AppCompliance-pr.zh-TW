@@ -2,18 +2,18 @@
 title: 透過 Pipe9.com Pipe9 之技能的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/11/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Pipe9 中所有可用的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2fc2175eab043dce659f00c0c5e9ae66e702e94e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5248d640209c480eee1f862ecbb7f2ceb7d2a659
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279665"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413685"
 ---
 # <a name="skills-by-pipe9"></a>Skills by Pipe9
 
@@ -103,4 +103,5 @@ ms.locfileid: "59279665"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

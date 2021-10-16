@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMup 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 018079ed1d80c0ea3127734a504d56007d06d54e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 75588e4a5c58969377568884cf709309026b6029
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277777"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413415"
 ---
 # <a name="mindmup"></a>MindMup
 
@@ -55,7 +55,7 @@ ms.locfileid: "59277777"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Teams。ReadBasic。 All | 委託 | 使用者的小組識別碼及小組名稱 | 若要允許使用者與他們隸屬的團隊共用檔 | [c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2) |
 >| User.Read | 委託 | 驗證之後顯示的使用者識別碼、電子郵件地址 | 使用者識別碼、電子郵件地址 | [c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2) |
@@ -90,7 +90,7 @@ ms.locfileid: "59277777"
 
 所有的操作員/系統管理員存取受2FA 保護。
 
-使用者和用戶端系統管理員存取是透過 Microsoft/Azure AD 整合驗證提供，可透過 SSO 直接使用2FA 選項。
+使用者和用戶端系統管理存取是由 Microsoft/Azure AD 整合驗證提供，可透過 SSO 直接提供2FA 選項。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -139,3 +139,4 @@ ms.locfileid: "59277777"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

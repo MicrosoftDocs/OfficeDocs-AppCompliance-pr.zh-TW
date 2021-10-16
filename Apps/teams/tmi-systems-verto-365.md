@@ -2,18 +2,18 @@
 title: Verto 365 的應用程式資訊（由 TMI 系統）
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/13/2021
+ms.date: 09/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Verto 365 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a916afa97cc18603de2faf2d1604e0e59f1b148d
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: c82879bb30fc4c24b6e4f4bdb9103a2fe2290286
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438428"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414419"
 ---
 # <a name="verto-365"></a>Verto 365
 
@@ -55,11 +55,11 @@ TMI 系統提供給 Microsoft 的資訊：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | Firstname、姓、電子郵件、OID。 用於在資料庫中建立帳戶，OID 是用來建立與 Verto 帳戶的登入關聯。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| 電子郵件 | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | Firstname、姓、電子郵件、OID。 用於在資料庫中建立帳戶，OID 是用來建立與 Verto 帳戶的登入關聯。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
->| offline_access | 委託 | 用於取得重新整理權杖和保存登入 | N/A | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
+>| offline_access | 委託 | 用於取得重新整理權杖和保存登入 | 不適用 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| openid | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | Firstname、姓、電子郵件、OID。 用於在資料庫中建立帳戶，OID 是用來建立與 Verto 帳戶的登入關聯。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| 設定檔 | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | Firstname、姓、電子郵件、OID。 用於在資料庫中建立帳戶，OID 是用來建立與 Verto 帳戶的登入關聯。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 
@@ -99,17 +99,6 @@ TMI 系統提供給 Microsoft 的資訊：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ TMI 系統提供給 Microsoft 的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/14/2021
+ms.date: 10/15/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 9b21ca00253596b5253626985215a871c61d87f9
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: 7fadd914a01b3b02ce14791b31d36385472ec917
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378821"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412022"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -22,7 +22,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe 簽收 SharePoint](./adobe-inc-sign-for-sharepoint.md) | Adobe Inc.。 | **✓** |  |
 | [線上 SharePoint 的敏捷工作面板](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
-| [ArcGIS 地圖](./esri-inc-arcgis-maps.md) | Esri，Inc.。 | **✓** |  |
+| [SharePoint 的 ArcGIS](./esri-inc-arcgis-for-sharepoint.md) | Esri，Inc.。 | **✓** |  |
 | [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** |  |
 | [SharePoint 的 Gaggle](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net，Inc.。 | **✓** |  |
 | [SharePoint 的 HelloSign](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox公司。 | **✓** |  |

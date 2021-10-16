@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Go1 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 265d4cf5cef2f7fb685159ebf2cb6d516d32cb0f
-ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
+ms.openlocfilehash: e632c6611df3bc0ad86381a75683520f0f3a6333
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60287355"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413795"
 ---
 # <a name="go1"></a>Go1
 
@@ -135,3 +135,4 @@ Go1 此資訊的提供方式是關於此應用程式如何處理驗證、授權�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

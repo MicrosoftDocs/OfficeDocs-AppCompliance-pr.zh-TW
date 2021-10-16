@@ -2,18 +2,18 @@
 title: AnalysisPlace 的應用程式資訊 Excel 對 Word 檔自動化
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/15/2021
+ms.date: 02/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Excel 至 Word 檔自動化的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8dc1ac8d012545326f0d3c4f96764d5a2ed391b7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d8dee2b12160b94cc55d1be0b355b9e5212b595a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279365"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413967"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel 對 Word 檔自動化
 
@@ -33,7 +33,7 @@ ms.locfileid: "59279365"
 |:----------------|:-------------|
 | 應用程式名稱 | Excel 對 Word 檔自動化 |
 | ID | WA104380955 |
-| 支援 Office 365 用戶端 | Excel 2016 或更新版本的 mac、Excel 2016 或更新版本上的 Windows、Word 2016 或更新版本 mac、Word 2016 或更新 mac、Windows 或更新 mac、PowerPoint 2016 或更新 PowerPoint 2016、Windows 或更新 Excel 網頁版 |
+| 支援 Office 365 用戶端 | Excel 2016 或更新版本的 mac、Excel 2016 Windows 或更新版本的 mac、Word 2016 或更新版本的 mac、Windows 或更新版本 Word 2016Windows、Excel 網頁版、Word 網頁版、PowerPoint 網頁版 |
 | 合作夥伴公司名稱 | AnalysisPlace |
 | 合作夥伴網站的 URL | [https://analysisplace.com](https://analysisplace.com) |
 | 隱私權原則的 URL | [https://analysisplace.com/Privacy](https://analysisplace.com/Privacy) |
@@ -74,7 +74,7 @@ ms.locfileid: "59279365"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -123,3 +123,4 @@ AnalysisPlace 此資訊的提供方式是關於此應用程式如何處理驗證
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

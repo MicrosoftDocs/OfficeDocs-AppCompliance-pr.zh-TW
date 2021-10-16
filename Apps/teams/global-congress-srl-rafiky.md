@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Rafiky 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 430b6f0c0b564a0ec7dcbdd43bd78ec050c05877
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 09bf6c174e59b274184f1e236f7461de1797854f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785444"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413805"
 ---
 # <a name="rafiky"></a>Rafiky
 
@@ -35,7 +35,7 @@ ms.locfileid: "59785444"
 | 應用程式名稱 | Rafiky |
 | ID | WA200003263 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 全球國會 SRL |
+| 合作夥伴公司名稱 | 全球會議 SRL |
 | 合作夥伴網站的 URL | [https://rafiky.net/en/](https://rafiky.net/en/) |
 | 隱私權原則的 URL | [https://rafiky.net/en/terms-conditions/privacy-policy/](https://rafiky.net/en/terms-conditions/privacy-policy/) |
 | 使用條款的 URL | [https://rafiky.net/en/terms-conditions/](https://rafiky.net/en/terms-conditions/) |
@@ -92,17 +92,6 @@ ms.locfileid: "59785444"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -117,3 +106,4 @@ ms.locfileid: "59785444"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

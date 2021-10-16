@@ -2,18 +2,18 @@
 title: 度假追蹤器的假期追蹤應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/15/2021
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的假期追蹤器安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0bd430bb14f85f563d490148f00988fa7634176e
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 1acd1c49f70e9571c1ec71dbf110fd898b18d5ca
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59971695"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413264"
 ---
 # <a name="vacation-tracker"></a>假期追蹤程式
 
@@ -55,7 +55,7 @@ ms.locfileid: "59971695"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.Read.All | 委託 | 當使用者設定每週或每日通知時，我們會閱讀公用通道 IDs 和名稱。 | 使用者可以選擇要接收假期追蹤器每日或每週通知的頻道。 當使用者選擇其偏好的通道時，我們會儲存通道識別碼。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| Team.ReadBasic.All | 委託 | 我們會列出使用者在登入期間加入的 Microsoft Teams 小組，以允許使用者選取他們想要註冊度假追蹤的小組。 他們也可以註冊其整個組織。 | 只有在使用者以單一小組身分註冊假期追蹤器， (不是整個組織) 時，才會儲存該小組的 Microsoft Teams 小組識別碼。 我們使用 team IDs，在假期追蹤器中，將已登入的使用者與現有的帳戶連線。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
@@ -82,7 +82,7 @@ ms.locfileid: "59971695"
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Bot 可以查看與 bot 進行通訊之使用者的基本資訊。 不過，我們不會儲存或使用此資訊。 我們只會使用使用者的識別碼、交談識別碼及傳送給我們的 bot 的郵件。 | 我們會將使用者的電子郵件地址、使用者的名稱 (于 Microsoft aad) 和使用者的設定檔相片 (中所定義的 Microsoft AAD)  | 我們使用電子郵件地址做為使用者的唯一識別碼，以及使用者的名稱和設定檔相片，以允許來自相同公司的系統管理員和核准者辨識其在我們的儀表板中的員工。  |
+>| Bot 可以查看與 bot 進行通訊之使用者的基本資訊。 不過，我們不會儲存或使用此資訊。 我們只會使用使用者的識別碼、交談識別碼及傳送給我們的 bot 的郵件。 | 我們會儲存使用者的電子郵件地址、使用者的名稱 (microsoft AAD 中所定義，) 和使用者的設定檔照片 (從 microsoft AAD)  | 我們使用電子郵件地址做為使用者的唯一識別碼，以及使用者的名稱和設定檔相片，以允許來自相同公司的系統管理員和核准者辨識其在我們的儀表板中的員工。  |
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -111,9 +111,9 @@ ms.locfileid: "59971695"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36417' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36417" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -132,3 +132,4 @@ ms.locfileid: "59971695"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

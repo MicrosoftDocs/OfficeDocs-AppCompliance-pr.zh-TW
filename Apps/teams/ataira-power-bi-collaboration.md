@@ -2,18 +2,18 @@
 title: Ataira 的應用程式資訊 Power BI 協同作業
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/14/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，如 Power BI 共同作業、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 642ac51a231bf583b6cac3facb64ade94b772c3e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2e015b1596c02f6841609f1dba61577f25c738e4
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278902"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411912"
 ---
 # <a name="power-bi-collaboration"></a>Power BI 共同作業
 
@@ -55,7 +55,7 @@ ms.locfileid: "59278902"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 也是 ChannelMessage 的許可權。請傳送 ReadBasic。所有的使用者. 讀取。 這些可用來允許使用者選取 Teams 群組和通知通道 | 使用狀況、錯誤及許可證監控。 [callback_group_id]、[datetime_id]、[session_id]、[app_type]、[raw_url]，[user_id]，[list_name]，[user_name]，[state]，[priority]，[user_domain]，[批註]，[url_text]，[description]，[group_name]，[title_name]，[file_name]，[group_pbi_name]，[item_type]，[organization_id] | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5) |
 
@@ -90,7 +90,7 @@ ms.locfileid: "59278902"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -140,3 +140,4 @@ Ataira 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

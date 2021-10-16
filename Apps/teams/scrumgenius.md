@@ -2,18 +2,18 @@
 title: ScrumGenius 的應用程式資訊（按 ScrumGenius）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/25/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ScrumGenius 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: be8873fecd5dc50ab4db6def68c7c25f73e677fd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f6e7f801c1a09f6624fe181fd9242bcbc9007844
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278218"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414077"
 ---
 # <a name="scrumgenius"></a>ScrumGenius
 
@@ -54,7 +54,7 @@ ms.locfileid: "59278218"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | 委託 | 在使用者的行事曆中設定的假期日期。 | 讓使用者能夠與 ScrumGenius 同步處理其假期。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| User.Read | 委託 | 使用者的名稱和電子郵件地址。 | 允許使用者以 Microsoft 登入的方式登入。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
@@ -103,4 +103,5 @@ ms.locfileid: "59278218"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

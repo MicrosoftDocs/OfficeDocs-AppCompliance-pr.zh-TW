@@ -2,18 +2,18 @@
 title: Workboard by Workboard Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 06/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Workboard 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0b2e460bf569a55b6a0179e7009ea92a5319ebab
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e4eb373bba9f98978e08fee875bb14c0e057096c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279390"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414850"
 ---
 # <a name="workboard"></a>Workboard
 
@@ -54,7 +54,7 @@ Workboard Inc. 所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 電子郵件地址和使用者的識別碼。  用來將使用者對應至 WorkBoard 的使用者識別碼 | WorkBoard 只會將使用者的身分識別儲存在其資料庫中 | [User.Read](https://docs.microsoft.com/microsoft-365-app-certification/azure/User.Read) |
 
@@ -134,3 +134,4 @@ Workboard Inc. 已提供此資訊。關於此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

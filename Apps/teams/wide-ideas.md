@@ -2,18 +2,18 @@
 title: 廣泛創意的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊都是廣泛的創意、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c19fc9906f46fcd3e7561c38d68ed202dd0c87d
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 075136dcf0c7e03d3f70461490f1b8c181478c43
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59783333"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414369"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -54,7 +54,7 @@ ms.locfileid: "59783333"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 通道。建立 | 委託 | 在團隊中建立通道。  | 我們會儲存所建立之挑戰的通道識別碼。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 >| Directory.Read.All | 委託 | 我們使用此專案列出客戶目錄中的使用者  | 不適用 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
@@ -91,7 +91,7 @@ ms.locfileid: "59783333"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->資料儲存：所有客戶資料都儲存在 Microsoft Azure 服務中。 使用者必須是透過 Azure AD 的2因數 authenticized。 已就地 (RBAC) 角色的存取權。 所有對 Microsoft Azure 的存取都是透過加密連線嚴格進行的。 所有資料在靜止時會加密。 所有服務受到 Azure 安全性中心最佳 practise 的保護。 
+>資料儲存：所有客戶資料都儲存在 Microsoft Azure 服務中。 透過 Azure AD，使用者必須是2因數 authenticized。 已就地 (RBAC) 角色的存取權。 所有對 Microsoft Azure 的存取都是透過加密連線嚴格進行的。 所有資料在靜止時會加密。 所有服務受到 Azure 安全性中心最佳 practise 的保護。 
 
 根據最低許可權的原則，我們也會有適當的存取原則。 
 
@@ -144,3 +144,4 @@ ms.locfileid: "59783333"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

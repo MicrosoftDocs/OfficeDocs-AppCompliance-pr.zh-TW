@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用的安全性和符合性資訊的優先順序清單-將電子郵件變成任務、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 26eb40120926c63d7514ffdde02623ee86d0477d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b175c992f970dfa2477f549f88be6a4db905f217
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278299"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414197"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>優先順序清單-將電子郵件變成任務
 
@@ -52,7 +52,7 @@ Appfluence Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | 委託 | 只有在將新使用者新增至帳戶時，才會儲存電子郵件。 | 在 [建立新帳戶] 中，我們使用此功能建議其他小組成員。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
 >| User.ReadBasic.All | 委託 | 只有在將新使用者新增至帳戶時，才會儲存電子郵件。 | 在 [建立新帳戶] 中，我們使用此功能建議其他小組成員。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
@@ -133,3 +133,4 @@ Appfluence Inc. 已提供此資訊，說明此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

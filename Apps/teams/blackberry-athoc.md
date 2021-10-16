@@ -2,18 +2,18 @@
 title: BlackBerry AtHoc 的應用程式資訊（按 BlackBerry）
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: BlackBerry AtHoc 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 38d1d54293b3f406a0a5c8028850dae27a9c9294
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 38e85981b12faf81ce3b737300aacdbee42dc2a1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277813"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415200"
 ---
 # <a name="blackberry-athoc"></a>BlackBerry AtHoc
 
@@ -55,14 +55,14 @@ BlackBerry 提供給 Microsoft 的資訊：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMessage 傳送 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD 權杖、BlackBerry AtHoc 權杖，BlackBerry 的 bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| Group.Read.All | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD 權杖、BlackBerry AtHoc 權杖，BlackBerry 的 bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| User.Read | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD 權杖、BlackBerry AtHoc 權杖，BlackBerry 的 bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| 電子郵件 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD 權杖、BlackBerry AtHoc 權杖，BlackBerry 的 bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| openid | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD 權杖、BlackBerry AtHoc 權杖，BlackBerry 的 bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| 設定檔 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD 權杖、BlackBerry AtHoc 權杖，BlackBerry 的 bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| ChannelMessage 傳送 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD token、BlackBerry AtHoc 權杖，BlackBerry bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| Group.Read.All | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD token、BlackBerry AtHoc 權杖，BlackBerry bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| User.Read | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD token、BlackBerry AtHoc 權杖，BlackBerry bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| 電子郵件 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD token、BlackBerry AtHoc 權杖，BlackBerry bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| openid | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD token、BlackBerry AtHoc 權杖，BlackBerry bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| 設定檔 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | 我們不&#8217;將使用者資料儲存在資料庫中，而是儲存在 Bot 記憶體中。 我們會將已登入使用者的主體名稱、AAD token、BlackBerry AtHoc 權杖，BlackBerry bot 記憶體中的 AtHoc Server 偏好設定。 需要將 API 要求傳送至 Microsoft Graph api 和我們的 BlackBerry AtHoc Server 的資訊。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -125,3 +125,4 @@ BlackBerry 提供給 Microsoft 的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

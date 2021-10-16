@@ -2,18 +2,18 @@
 title: Hoylu 的應用程式資訊（按 Hoylu）
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/20/2020
+ms.date: 06/09/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Hoylu 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b48adaf3c3816bea363b0fd8e6581f061a5eaed1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a091c480731e69a51ec002f24f6d62924a814b7b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279081"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412332"
 ---
 # <a name="hoylu"></a>Hoylu
 
@@ -80,7 +80,7 @@ ms.locfileid: "59279081"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->應用程式資料儲存在 Microsoft Azure 雲端服務中，而且所有使用的加密通訊協定都是 FIPS 140-2 相容。 只有基礎結構管理員 (PMA) 才能存取此實際執行資料。 組織的帳戶管理是透過 Azure AD 搭配2FA 進行。
+>應用程式資料儲存在 Microsoft Azure 雲端服務中，而且所有使用的加密通訊協定都是 FIPS 140-2 相容。 只有基礎結構管理員 (PMA) 才能存取此實際執行資料。 組織的帳戶管理是透過 Azure AD 與2FA 進行的。
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -103,4 +103,5 @@ ms.locfileid: "59279081"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

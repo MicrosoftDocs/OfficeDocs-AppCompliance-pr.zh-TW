@@ -2,18 +2,18 @@
 title: AtSpoke by Townsend 大街 Labs，Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 04/14/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: atSpoke 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2d72ea33577e386c61be6bcd09feeba813e9e1f5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 86a4512603429feff61ceeee485e8e4042bb9a6d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278195"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413305"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -54,7 +54,7 @@ Townsend 大街 Labs，Inc. 所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.ReadWrite.All | 委託 | atSpoke 儲存 Microsoft 群組識別碼 | 允許在 atSpoke 和 Microsoft Teams 之間讀取及寫入群組資訊的功能。  | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
 >| User.ReadWrite.All | 委託 | atSpoke 儲存使用者的電子郵件和使用者識別碼 | 允許在 atSpoke 與 Microsoft Teams 之間讀取及寫入使用者資訊的功能。 | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
@@ -112,4 +112,5 @@ Townsend 大街 Labs，Inc. 所提供的資訊給 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

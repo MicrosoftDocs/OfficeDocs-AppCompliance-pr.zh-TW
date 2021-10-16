@@ -2,18 +2,18 @@
 title: 透過邏輯軟體 Inc. 輕鬆進行專案的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/24/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和合規性資訊資訊，以方便專案、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c9c544f6c166a89c334a856082598097058a25a0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d559239ced69af3379f51379dc4895731d8b4b6c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279358"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414559"
 ---
 # <a name="easy-projects"></a>簡單專案
 
@@ -81,7 +81,7 @@ ms.locfileid: "59279358"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -130,3 +130,4 @@ ms.locfileid: "59279358"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

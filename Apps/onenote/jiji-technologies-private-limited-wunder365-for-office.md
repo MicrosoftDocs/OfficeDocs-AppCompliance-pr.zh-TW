@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wunder365 Office 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ab9ea33824f66afecc8af8df74754fc7f2dd6d43
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 22da4d3ff5dbfc02a1d9609b1d618a9d1b4d939c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278529"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412132"
 ---
 # <a name="wunder365-for-office"></a>Office 的 Wunder365
 
@@ -53,7 +53,7 @@ JiJi 技術所提供的資訊私人限制于 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.ReadWrite.All | 委託 | 未儲存任何資料。 | 若要取得取得/更新 Planner 的工作，請在小組通道中發佈任務更新 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 >| 傳送郵件 | 委託 | 未儲存任何資料。 | 允許應用程式傳送電子郵件通知給使用者 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
@@ -81,7 +81,7 @@ JiJi 技術所提供的資訊私人限制于 Microsoft：
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->所有 Web 應用程式和儲存體資源都位於未連接到公司 AAD 的訂閱中，但只具有存取資源的系統管理員。 這些系統管理員需要2FA。 
+>所有 Web 應用程式和儲存體資源都位於未連接到公司 AAD 的訂閱中，但只有具備資源存取權的系統管理員。 這些系統管理員需要2FA。 
 
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
@@ -118,7 +118,7 @@ JiJi 技術所提供的資訊私人限制于 Microsoft：
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
 | 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 是 |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
-| 列出支援的原則類型 | 需要具有系統管理角色之使用者的多重要素驗證，需要針對 Azure 管理工作執行多重要素驗證，以封鎖使用者嘗試使用舊版驗證通訊協定的登入，要求 Azure AD Multi-Factor 驗證註冊的信任位置，封鎖或授與特定位置的存取權，以封鎖危險登入行為 |
+| 列出支援的原則類型 | 需要具有系統管理角色之使用者的多重要素驗證，需要針對 Azure 管理工作執行多重要素驗證，以封鎖使用者嘗試使用舊版驗證通訊協定的登入，要求 Azure AD Multi-Factor 驗證登錄的信任位置，封鎖或授與特定位置的存取權，以封鎖危險登入行為 |
 | 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
 | 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
 | 您的應用程式是否支援多租賃？ | 是 |
@@ -132,3 +132,4 @@ JiJi 技術所提供的資訊私人限制于 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

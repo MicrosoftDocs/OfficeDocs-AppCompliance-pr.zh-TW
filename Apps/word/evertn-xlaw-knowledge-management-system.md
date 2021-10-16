@@ -2,18 +2,18 @@
 title: XLaw-知識管理系統的應用程式資訊（按 evertn）
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/26/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: xLaw-知識管理系統的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57f63c4bc93739fa2a251d797ea4475ef786a09d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b07ad480387dac712f6b9195fd74a82706d2629b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278010"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413234"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw-知識管理系統
 
@@ -111,3 +111,4 @@ Evertn 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: OfficeSpace by OfficeSpace 軟體的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: OfficeSpace 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 17147e0c536336554e858536b1e3b085ad842925
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d8e6981a66409925c8b88ecea9376ef62316a14b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279058"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414147"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -119,3 +119,4 @@ OfficeSpace 軟體會提供此資訊，此應用程式會如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

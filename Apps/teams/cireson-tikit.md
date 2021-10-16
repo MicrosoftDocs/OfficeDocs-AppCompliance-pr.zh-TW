@@ -2,18 +2,18 @@
 title: Tikit 的應用程式資訊（按 Cireson）
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/04/2021
+ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Tikit 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c17273ad8e2cdc9bd2f60ce5a3157f1f8473bb88
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b427ac7258c9849f6d003a6e9afe51f3db9fe784
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278283"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414739"
 ---
 # <a name="tikit"></a>Tikit
 
@@ -55,15 +55,15 @@ ms.locfileid: "59278283"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 讀取的設備 | 應用程式 | 透過小組 bot 通訊用於單一登入的使用者圖形資訊  | 我們會儲存使用者角色、系列名稱、指定的名稱、電子郵件、AAD 識別碼 Teams 使用者識別碼。 此通知是用來進行應用程式驗證、安全性、RBAC、小組整合、小組通知和使用者關聯對應。   | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 >| Directory.AccessAsUser.All | 委託 | RBAC 的群組名稱和角色 | 群組名稱 &amp; 角色名稱，需要提供安全對應的存取控制。 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 >| Directory.Read.All | 委託 | RBAC 的群組名稱和角色 | 群組名稱 &amp; 角色名稱，需要提供安全對應的存取控制。 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 >| Group.Read.All | 包括 | RBAC 的群組名稱和角色 | RBAC 的群組名稱和角色 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| User.Read | 委託 | 用於驗證的使用者角色、系列名稱、名字、電子郵件、AAD 識別碼 Teams 使用者識別碼  | 用於驗證的使用者角色、系列名稱、名字、電子郵件、AAD 識別碼 Teams 使用者識別碼  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| User.Read.All | 應用程式 | 用於驗證的使用者角色、系列名稱、名字、電子郵件、AAD 識別碼 Teams 使用者識別碼  | 用於驗證的使用者角色、系列名稱、名字、電子郵件、AAD 識別碼 Teams 使用者識別碼  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| User.ReadBasic.All | 委託 | 用於驗證的使用者角色、系列名稱、名字、電子郵件、AAD 識別碼 Teams 使用者識別碼  | 用於驗證的使用者角色、系列名稱、名字、電子郵件、AAD 識別碼 Teams 使用者識別碼  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read | 委託 | 使用者角色、系列名稱、指定的名稱、電子郵件、AAD 識別碼 Teams 使用者識別碼，以用於驗證  | 使用者角色、系列名稱、指定的名稱、電子郵件、AAD 識別碼 Teams 使用者識別碼，以用於驗證  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read.All | 應用程式 | 使用者角色、系列名稱、指定的名稱、電子郵件、AAD 識別碼 Teams 使用者識別碼，以用於驗證  | 使用者角色、系列名稱、指定的名稱、電子郵件、AAD 識別碼 Teams 使用者識別碼，以用於驗證  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.ReadBasic.All | 委託 | 使用者角色、系列名稱、指定的名稱、電子郵件、AAD 識別碼 Teams 使用者識別碼，以用於驗證  | 使用者角色、系列名稱、指定的名稱、電子郵件、AAD 識別碼 Teams 使用者識別碼，以用於驗證  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 >| 電子郵件 | 委託 | 用於登入和相關實體相關識別碼的使用者電子郵件。 &quot;指派的使用者&quot; | 用於登入和相關實體相關識別碼的使用者電子郵件。 &quot;指派的使用者&quot; | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 >| openid | 委託 | 用於透過 MSAL 每個需求進行驗證  | 用於透過 MSAL 每個需求進行驗證  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 >| 設定檔 | 委託 | 用於透過 MSAL 每個需求進行驗證  | 用於透過 MSAL 每個需求進行驗證  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
@@ -152,3 +152,4 @@ Cireson 此資訊的提供方式是關於此應用程式如何處理驗證、授
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

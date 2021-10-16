@@ -2,18 +2,18 @@
 title: Plumm by Plumm Health 有限公司的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/18/2021
+ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Plumm 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0ecc8063bb993d681ec98a3750ada9afb63bdb81
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: 47a0607828ff96d92cea8be21819fa9e4680f0b4
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378629"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412172"
 ---
 # <a name="plumm"></a>Plumm
 
@@ -35,7 +35,7 @@ ms.locfileid: "60378629"
 | 應用程式名稱 | Plumm |
 | ID | WA200003326 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Plumm 健康情況有限公司 |
+| 合作夥伴公司名稱 | Plumm Health LTD |
 | 合作夥伴網站的 URL | [https://www.plummhealth.com](https://www.plummhealth.com) |
 | Teams 應用程式資訊頁面的 URL | [https://www.plummhealth.com/about-us](https://www.plummhealth.com/about-us) |
 | 隱私權原則的 URL | [https://www.plummhealth.com/privacy-policy](https://www.plummhealth.com/privacy-policy) |
@@ -103,17 +103,6 @@ Plumm 健康情況公司會提供此資訊，此應用程式會如何收集和�
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -141,3 +130,4 @@ Plumm 健康情況公司會提供此資訊，此應用程式會如何處理驗�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: SkyPoint Cloud Inc. 的 SkyPoint Cloud 應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/10/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SkyPoint 雲端的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6c23bac241d7456f7811e74af2dff6b93ef57e6c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e1390dc9e665de522e55c570d3fcc1bc9c162e43
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277781"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414067"
 ---
 # <a name="skypoint-cloud"></a>SkyPoint Cloud
 
@@ -130,3 +130,4 @@ SkyPoint 雲端 Inc. 已提供此資訊。關於此應用程式如何處理驗�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

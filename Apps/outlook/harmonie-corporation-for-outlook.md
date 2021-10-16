@@ -2,18 +2,18 @@
 title: harmon.ie 的應用程式資訊，由 harmon.ie 公司 Outlook
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: harmon.ie Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e63a6614f0e0d6fb62cae5343982f4118a4c9168
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c98557ec48ab829f8194eb1255c5604bf5931da7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278295"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414267"
 ---
 # <a name="harmonie-for-outlook"></a>Outlook 的 harmon.ie
 
@@ -53,7 +53,7 @@ Harmon.ie Corporation 已提供此資訊，讓您瞭解此應用程式如何收�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 委託 | harmon.ie 為允許使用者登入並取得使用者角色的 Outlook 所需 | 無 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
 >| Files.ReadWrite.All | 委託 | harmon.ie Outlook 以允許其從 Outlook 傳送電子郵件 &amp; 附件，並將其儲存至 SharePoint | 無 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
@@ -129,3 +129,4 @@ Harmon.ie Corporation 已提供此資訊，說明此應用程式如何處理驗�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

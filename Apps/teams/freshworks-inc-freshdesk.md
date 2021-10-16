@@ -2,18 +2,18 @@
 title: Freshdesk by Freshworks INC. 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/10/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Freshdesk 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e16fd9e16b4fd2e95b48c49af4e16d1efdedd8e4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f02af72ba72299548cb1bf833952ed8dc0ebf153
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279781"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413004"
 ---
 # <a name="freshdesk"></a>Freshdesk
 
@@ -99,4 +99,5 @@ Freshworks inc. 已提供此資訊，供 inc. 使用此應用程式如何收集�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

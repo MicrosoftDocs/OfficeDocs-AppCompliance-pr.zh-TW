@@ -2,18 +2,18 @@
 title: Rezolve.ai 依可操作科學的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Rezolve.ai 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 22c71b78374956fb69f0f3f5fd5fc860d2184363
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b5703e0113d88394c9c0c7a0d6f877a23df68282
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278058"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411982"
 ---
 # <a name="rezolveai"></a>Rezolve.ai
 
@@ -54,7 +54,7 @@ ms.locfileid: "59278058"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 登入並讀取使用者設定檔 | 票證資料、聊天記錄、學習使用方式 | [eb628055-f790-4ef0-9fce-ac95b4c61466](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb628055-f790-4ef0-9fce-ac95b4c61466) |
 
@@ -133,3 +133,4 @@ ms.locfileid: "59278058"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,20 +2,20 @@
 title: 依團隊合作進行團隊合作的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和合規性資訊，供團隊合作、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 4f70d4f2b788d67886b030728a5f9dbd587532ba
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: c6ff65ae2c380e741b6e6567ac05f70a39b76565
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785418"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412693"
 ---
-# <a name="teamwork"></a>團隊合作
+# <a name="teamwork"></a>團隊工作
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "59785418"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 團隊合作 |
+| 應用程式名稱 | 團隊工作 |
 | ID | WA200001552 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 團隊合作 |
+| 合作夥伴公司名稱 | 團隊工作 |
 | 合作夥伴網站的 URL | [https://www.teamwork.com](https://www.teamwork.com) |
 | Teams 應用程式資訊頁面的 URL | [https://support.teamwork.com/projects/microsoft-teams/conne...](https://support.teamwork.com/projects/microsoft-teams/connecting-to-teamwork-in-microsoft-teams) |
 | 隱私權原則的 URL | [https://www.teamwork.com/legal/privacy-policy/](https://www.teamwork.com/legal/privacy-policy/) |
@@ -93,17 +93,6 @@ ms.locfileid: "59785418"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ ms.locfileid: "59785418"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

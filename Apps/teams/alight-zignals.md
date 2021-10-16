@@ -2,18 +2,18 @@
 title: Zignals 的應用程式資訊（按 Alight）
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/17/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Zignals 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 313529eecfcf1e8e129bb22cb5ee4c7b53b9e2c5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9a9e3f1cd6456e1e3c943091325caaff8b934b98
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279270"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413114"
 ---
 # <a name="zignals"></a>Zignals
 
@@ -55,11 +55,11 @@ ms.locfileid: "59279270"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | 委託 | 在我的 &quot; 會議區域中 &quot; ，我們會取得目前和未來的使用者會議。 | 不會在應用程式資料庫中儲存任何資訊。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
 >| Sites.ReadWrite.All | 委託 | 我們會取得所有使用者的 SharePoint 網站，並將其顯示在我的團隊合作區域中，並 &quot; &quot; 取得所有使用者的 SharePoint 任務，並將其顯示在「我的工作」區域中 &quot; &quot; 。 | 不會在應用程式資料庫中儲存任何資訊。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| 工作。 ReadWrite | 委託 | 我們會閱讀使用者的 Planner 並 To Do 工作，並將其顯示在 [我的工作] 區域中 &quot; &quot; 。 | 不會在應用程式資料庫中儲存任何資訊。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| 工作。 ReadWrite | 委託 | 我們讀取使用者的規劃，並在工作區域中執行工作並顯示這些工作 &quot; &quot; 。 | 不會在應用程式資料庫中儲存任何資訊。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
 >| Team.ReadBasic.All | 委託 | 我們會取得使用者的加入小組，並將其顯示在「 &quot; 我的團隊合作」 &quot; 區域中。 | 不會在應用程式資料庫中儲存任何資訊。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
 >| User.ReadBasic.All | 委託 | 在 [我的文件] 區域中，我們會顯示其共同 &quot; &quot; 合作的使用者。 | 不會在應用程式資料庫中儲存任何資訊。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
 >| User.ReadWrite | 委託 | 使用者的最近檔會顯示在「我的檔」區域中 &quot; &quot; 。 使用者的最愛應用程式會在 MS Graph 中儲存為架構擴充。 在圖形中讀取及寫入資料時，需要此許可權等級。 | 不會在應用程式資料庫中儲存任何資訊。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
@@ -104,17 +104,6 @@ ms.locfileid: "59279270"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -141,3 +130,4 @@ Alight 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

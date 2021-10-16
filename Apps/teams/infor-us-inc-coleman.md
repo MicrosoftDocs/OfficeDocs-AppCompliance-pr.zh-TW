@@ -2,18 +2,18 @@
 title: Infor Coleman 的應用程式資訊，INFOR (US) ，INC.。
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/05/2021
+ms.date: 10/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Infor Coleman 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b93279356130f5343efaa0c7326483bbf1a0f467
-ms.sourcegitcommit: 085c227ffcf8f88e6e55d3c40752a3df25642592
+ms.openlocfilehash: d06dec9fe442345491d60964d8ec346f72fa6645
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2021
-ms.locfileid: "60255686"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413775"
 ---
 # <a name="infor-coleman"></a>Infor Coleman
 
@@ -35,7 +35,7 @@ INFOR 所提供的資訊，inc.) ，inc. (。 至 Microsoft：
 | 應用程式名稱 | Infor Coleman |
 | ID | WA200003314 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | INFOR (US) ，INC.。 |
+| 合作夥伴公司名稱 | INFOR (美國) ，INC.。 |
 | 合作夥伴網站的 URL | [https://www.infor.com](https://www.infor.com) |
 | 隱私權原則的 URL | [https://www.infor.com/about/privacy](https://www.infor.com/about/privacy) |
 | 使用條款的 URL | [https://www.infor.com/about/legal](https://www.infor.com/about/legal) |
@@ -92,17 +92,6 @@ INFOR 所提供的資訊，inc.) ，inc. (。 至 Microsoft：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -117,3 +106,4 @@ INFOR 所提供的資訊，inc.) ，inc. (。 至 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

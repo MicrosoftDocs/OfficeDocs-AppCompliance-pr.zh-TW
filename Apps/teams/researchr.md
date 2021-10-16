@@ -2,18 +2,18 @@
 title: ResearcHR by KBE 的應用程式資訊&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: researcHR 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: bc174eb69b69cdf2d04c27bc4649f18111d87811
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277795"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412803"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -55,14 +55,14 @@ ms.locfileid: "59277795"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 通道。建立 | 應用程式 | 我們使用此範圍，讓 bot 在 Teams 用戶端上建立新通道。 看到： https://docs.microsoft.com/en-us/graph/api/channel-post | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| Directory.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/en-us/graph/api/channel-list | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| Group.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/en-us/graph/api/channel-list | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| Team.ReadBasic.All | 應用程式 | 我們使用此範圍來取得小組成員，讓使用者可以在網站上看到他們的小組成員。 看到： https://docs.microsoft.com/en-us/graph/api/group-list-members | 我們不會將這些資料儲存在資料庫上。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| User.Read.All | 應用程式 | 我們使用此範圍來取得使用者的加入頻道，讓使用者可以在我們的網站上看到其加入的團隊。 看到： https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | 委託 | 我們使用此範圍啟用 OAuth 登入，並收集使用者的 AAD 識別碼、存取權杖和重新整理權杖。 看到： https://docs.microsoft.com/en-us/graph/auth-v2-user | 我們會將使用者的 AAD 識別碼、存取權杖和重新整理權杖儲存在資料庫中，讓使用者能夠使用 OAuth 登入我們的網站。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| User.ReadBasic.All | 委託 | 我們使用此範圍來啟用 OAuth 登入，並收集使用者的 AAD 識別碼、存取權杖和重新整理權杖。 看到： https://docs.microsoft.com/en-us/graph/auth-v2-user | 我們會將使用者的 AAD 識別碼、存取權杖和重新整理權杖儲存在資料庫中，讓使用者能夠使用 OAuth 登入我們的網站。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| offline_access | 委託 | 我們使用此範圍來取得重新整理權杖，讓我們可以重新整理 authed 使用者的存取權杖，而不需要任何使用者互動。 看到： https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | 我們會在資料庫中儲存重新整理權杖，讓我們可重新整理存取權杖，而不需要任何使用者互動。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 
 
@@ -101,17 +101,6 @@ ms.locfileid: "59277795"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -126,3 +115,4 @@ ms.locfileid: "59277795"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

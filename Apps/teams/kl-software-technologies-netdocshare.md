@@ -2,18 +2,18 @@
 title: NetDocShare 的應用程式資訊，由 KL 軟體技術
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2020
+ms.date: 05/26/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: netDocShare 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c8e050b7ecf4f4b4b3156e571d6afdcd75a6ceb2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 853e192cc9e76faf2b8634723cf81e256fcd7140
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279069"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412893"
 ---
 # <a name="netdocshare"></a>netDocShare
 
@@ -80,7 +80,7 @@ ms.locfileid: "59279069"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->應用程式資料儲存在 Microsoft Azure 所主控的 NoSQL Mongo DB 中。 資料已加密，只有兩個 Azure 租使用者管理員可以存取它。 所有系統管理員帳戶都啟用了2FA，且這兩個系統管理員帳戶都是公司 Azure AD 使用者帳戶
+>應用程式資料儲存在 Microsoft Azure 所主控的 NoSQL Mongo DB 中。 資料已加密，只有兩個 Azure 租使用者管理員可以存取它。 2FA 已啟用所有的系統管理員帳戶，且這兩個系統管理員帳戶都是公司 Azure AD 使用者帳戶
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -103,4 +103,5 @@ ms.locfileid: "59279069"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -2,18 +2,18 @@
 title: Landis 技術 LLC 的連絡人中心應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/20/2020
+ms.date: 03/13/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于連絡人中心的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 57fd0d98d6c7139c6356b4c23a6ac8a21c48e6b6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3a252658a02bb5e9d834bf18fe4696cbdda33e4b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278436"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415070"
 ---
 # <a name="contact-center"></a>Contact Center
 
@@ -54,7 +54,7 @@ Landis 技術 LLC 給 Microsoft 所提供的資訊：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| AccessMedia 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| 呼叫。 Initiate 所有 | 應用程式 | 通話詳細資料包告、呼叫 sentiment &amp; 錄製 | 允許通話佇列，IVRs &amp; 報告 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
@@ -126,4 +126,5 @@ Landis 技術 LLC 給 Microsoft 所提供的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

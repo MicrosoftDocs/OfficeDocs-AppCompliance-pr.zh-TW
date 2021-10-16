@@ -2,18 +2,18 @@
 title: Konnect eMail Parser 的應用程式資訊，Konnect 電子郵件
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/12/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Konnect 電子郵件分析器的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1af3a75f49bf10e0185ba80a289fd05524c8130e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 055f7e45fccf858a233fe5849333dc870d445fe3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279738"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412052"
 ---
 # <a name="konnect-email-parser"></a>Konnect 電子郵件分析器
 
@@ -74,7 +74,7 @@ Konnect 電子郵件所提供的資訊給 Microsoft：
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -111,3 +111,4 @@ Konnect 電子郵件所提供的資訊給 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

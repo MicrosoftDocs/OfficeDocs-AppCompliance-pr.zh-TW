@@ -2,18 +2,18 @@
 title: CodeTwo 的應用程式資訊，由 CodeTwo Office 365 的電子郵件簽名
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CodeTwo Microsoft Cloud App Security Office 365 的電子郵件簽章的所有可用安全性和符合性資訊資訊，其資料處理原則，其應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 79db12fe65495df15e21b46e810abd8bbd017359
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 13a8b7200513d09c77416ea93be55178c9b2a762
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277840"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413154"
 ---
 # <a name="codetwo-email-signatures-for-office-365"></a>CodeTwo Office 365 的電子郵件簽名
 
@@ -52,7 +52,7 @@ ms.locfileid: "59277840"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 它也可讓應用程式讀取已登入使用者的基本組織資訊。 | 不儲存任何資料。 | [2a93620e-4345-4e3b-9bae-0195f08aab69](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a93620e-4345-4e3b-9bae-0195f08aab69) |
 >| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 它也可讓應用程式讀取已登入使用者的基本公司資訊。 | 不儲存任何資料。 | [7afd058a-f568-4496-96b1-28d06ab3500f](https://docs.microsoft.com/microsoft-365-app-certification/azure/7afd058a-f568-4496-96b1-28d06ab3500f) |
@@ -134,3 +134,4 @@ CodeTwo 此資訊的提供方式是關於此應用程式如何處理驗證、授
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

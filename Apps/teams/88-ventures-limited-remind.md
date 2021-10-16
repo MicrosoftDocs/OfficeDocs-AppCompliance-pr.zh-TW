@@ -2,18 +2,18 @@
 title: 以 88 Ventures 為限之提醒的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2020
+ms.date: 08/18/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f39e0c35b88e3212743e30c7ab5ac40c74c708c3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e44cb7a148a9cd1c6a1b1c497863eaced9259f41
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277836"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412002"
 ---
 # <a name="remind"></a>提醒
 
@@ -54,7 +54,7 @@ ms.locfileid: "59277836"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | 委託 | 資料庫中沒有儲存的資訊 | 允許系統管理員為已設定公開提醒的使用者流覽組織的使用者目錄 | [88546d4f-9973-4716-98e4-cd181c04bc2d](https://docs.microsoft.com/microsoft-365-app-certification/azure/88546d4f-9973-4716-98e4-cd181c04bc2d) |
 
@@ -71,7 +71,7 @@ ms.locfileid: "59277836"
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->|  (1) 使用者設定郵件上的提醒時，bot 會嘗試取得最初傳送郵件的人員名稱，以在使用者設定另一個通道或聊天室成員的提醒時，在使用者的提醒清單中顯示該資訊 (2) 當使用者為另一個通道或聊天室成員設定提醒時，bot 會嘗試取得身分識別 (使用者或 bot) 及所述使用者名稱，以在使用者的提醒清單中顯示該身分識別。 |  (1) 使用者設定郵件上的提醒時，bot 會嘗試取得最初傳送郵件的人員名稱，以在使用者設定另一個通道或聊天室成員的提醒時，在使用者的提醒清單中顯示該資訊 (2) 當使用者為另一個通道或聊天室成員設定提醒時，bot 會嘗試取得身分識別 (使用者或 bot) 及所述使用者名稱，以在使用者的提醒清單中顯示該身分識別。 |  |
+>|  (1) 當使用者在郵件上設定提醒時，bot 會嘗試取得最初傳送郵件的人員名稱，以在使用者設定另一個通道或聊天室成員的提醒時，在使用者的提醒清單 (2) 中，該 bot 會嘗試取得身分識別 (使用者或 bot) 以及所述使用者的名稱，以將其顯示在使用者的提醒清單 |  (1) 當使用者在郵件上設定提醒時，bot 會嘗試取得最初傳送郵件的人員名稱，以在使用者設定另一個通道或聊天室成員的提醒時，在使用者的提醒清單 (2) 中，該 bot 會嘗試取得身分識別 (使用者或 bot) 以及所述使用者的名稱，以將其顯示在使用者的提醒清單 |  |
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -107,4 +107,5 @@ ms.locfileid: "59277836"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

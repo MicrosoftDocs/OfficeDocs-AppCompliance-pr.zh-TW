@@ -2,18 +2,18 @@
 title: OpenAgora 的應用程式資訊，依開啟 Agora
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/19/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: OpenAgora 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c1538e5ad361469b5c8b3c07a085ed91d45a70dd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f0c6965c43118f6318c6c35a979d46223274b0f5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279029"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413625"
 ---
 # <a name="openagora"></a>OpenAgora
 
@@ -55,7 +55,7 @@ ms.locfileid: "59279029"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 使用者&#8217;s Azure Active Directory 識別碼。 | 使用者識別碼，以確保使用者只能看到和管理其所看到的資料。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
@@ -104,4 +104,5 @@ ms.locfileid: "59279029"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

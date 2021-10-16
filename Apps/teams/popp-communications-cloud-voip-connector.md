@@ -2,18 +2,18 @@
 title: POPP Cloud VoIP Connector 的應用程式資訊（透過 POPP 通訊）
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/20/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 POPP 雲端 VoIP 連接器的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9f64b18c26d3fd38e4272171e7a90f493e76de5f
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 42930c1020e86aeb6f55fb81929f30285e17dae3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112257"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414970"
 ---
 # <a name="popp-cloud-voip-connector"></a>POPP Cloud VoIP Connector
 
@@ -35,7 +35,7 @@ POPP 與 Microsoft 的通訊所提供的資訊：
 | 應用程式名稱 | POPP Cloud VoIP Connector |
 | ID | WA200003306 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | POPP 通訊 |
+| 合作夥伴公司名稱 | POPP Communications |
 | 合作夥伴網站的 URL | [https://popp.com](https://popp.com) |
 | 隱私權原則的 URL | [https://popp.com/terms/privacy-policy/](https://popp.com/terms/privacy-policy/) |
 | 使用條款的 URL | [https://popp.com/pvnterms/](https://popp.com/pvnterms/) |
@@ -54,7 +54,7 @@ POPP 與 Microsoft 的通訊所提供的資訊：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ChannelMember Read。 All | 委託 | 使用者 IDs 及顯示目前通道之成員的名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的通道成員清單。 | Metaswitch 不會儲存此資料。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
 >| 聊天室讀取 | 委託 |  收集或使用的資料為何？ 新增論證，以收集或使用資料。 使用者 IDs 及顯示目前交談的成員名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的聊天成員清單。 | Metaswitch 不會儲存此資料。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
@@ -76,7 +76,7 @@ POPP 與 Microsoft 的通訊所提供的資訊：
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Metaswitch 網路和 POPP 通訊 | 下列 OII 會轉接至 MCT Hosted Bot 伺服器： Azure AD 租使用者識別碼小組 IDs 通道/聊天 IDs 也會傳輸郵件內容，其中可能包含 OII 下列 OII 可能會轉接至 CommPortal JSON API：電話商務群組中的使用者人數電子郵件地址的網域使用者 IP 位址 | 新增理由以供您需要 OII 應用&#8217;程式的主要目的，以協助通話。 若使用者嘗試撥打電話，必須提供此資訊，才能登入其 CommPortal 帳戶，並將來電關聯回正確的使用者。  傳輸至 MCT Hosted Bot 伺服器的 OII 是內置於 Bot Framework API 中，該 API 是用來與 Teams 進行整合，而且無法避免。 |
+>| Metaswitch 網路和 POPP 通訊 | 下列 OII 會轉接至 MCT Hosted Bot 伺服器： Azure AD 租使用者識別碼小組 IDs 通道/聊天 IDs 郵件內容也會傳輸，其中可能包含 OII 下列 OII 可能會轉接至 CommPortal JSON API 電話：商務群組中的使用者人數電子郵件地址的網域的使用者 IP 位址 | 新增理由以供您需要 OII 應用&#8217;程式的主要目的，以協助通話。 若使用者嘗試撥打電話，必須提供此資訊，才能登入其 CommPortal 帳戶，並將來電關聯回正確的使用者。  傳輸至 MCT Hosted Bot 伺服器的 OII 是內置於 Bot Framework API 中，該 API 是用來與 Teams 進行整合，而且無法避免。 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -109,17 +109,6 @@ POPP 與 Microsoft 的通訊所提供的資訊：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -147,3 +136,4 @@ POPP 與 Microsoft 的通訊所提供的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: ECare Vault Inc. 的保管庫空間應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/14/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊保管庫空間、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 16c1adeb63cf8004df70293c8e4a188dde811250
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 39ca1a0a99e62bbedb14d0248cb751bf4089a70f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279254"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414689"
 ---
 # <a name="safe-spaces"></a>安全空間
 
@@ -55,15 +55,15 @@ ECare Vault Inc. 已提供此資訊。關於此應用程式如何收集和儲存
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| EduRoster 讀取 | 委託 | 使用的名稱和日期出生輸入欄位 | None-所有儲存的資料都是使用者送出的 (資料只填入欄位，然後使用者送出)  | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| Group.Read.All | 委託 | 用於取得可在應用程式中顯示的通道相關資訊 | 無來自此許可權 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| GroupMember Read。 All | 委託 | 用來產生 eCare Vault 小組名單的群組成員的 AAD 識別碼。 | AAD 使用者識別碼儲存為與每個成員的 eCare Vault 使用者帳戶相關聯 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read | 委託 | 用來簽署使用者的電子郵件地址和 AAD 識別碼 &amp; ，以及與 ECare Vault 使用者帳戶建立關聯 | 使用者帳戶的電子郵件地址和 AAD 識別碼，以及透過 Bot Framework 傳送通知給使用者 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read.All | 委託 | Name 和，AAD ID 及電子郵件地址，只適用于已安裝保管庫空間之通道的成員使用者 | 針對 eCare Vault 使用者帳戶所儲存的名稱、AAD 識別碼及電子郵件地址 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| GroupMember Read。 All | 委託 | AAD用來產生 eCare Vault 小組名單的群組成員識別碼 | AAD使用者識別碼儲存為與每個成員的 eCare Vault 使用者帳戶相關聯 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| User.Read | 委託 | 用來簽署使用者的電子郵件地址和 AAD 識別碼， &amp; 並將其與 eCare Vault 使用者帳戶關聯 | 使用者帳戶的電子郵件地址和 AAD 識別碼，以及透過 Bot Framework 傳送通知給使用者 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| User.Read.All | 委託 | 名稱和、AAD 識別碼及電子郵件地址，只適用于已安裝保管庫空間之通道的成員的使用者 | 針對 eCare Vault 使用者帳戶所儲存的名稱、AAD 識別碼及電子郵件地址 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| 電子郵件 | 委託 | 僅限電子郵件地址 | 無-使用者決定提交表單，  | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| openid | 委託 | 用來簽署使用者的電子郵件地址和 AAD 識別碼 &amp; ，以及與 ECare Vault 使用者帳戶建立關聯 | 使用者帳戶的電子郵件地址和 AAD 識別碼，以及透過 Bot Framework 傳送通知給使用者 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| openid | 委託 | 用來簽署使用者的電子郵件地址和 AAD 識別碼， &amp; 並將其與 eCare Vault 使用者帳戶關聯 | 使用者帳戶的電子郵件地址和 AAD 識別碼，以及透過 Bot Framework 傳送通知給使用者 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| 設定檔 | 委託 | 使用者的名稱是用來填入使用者的註冊畫面。 | 無直接-使用者在註冊時選擇將其名稱提交給系統 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
@@ -111,17 +111,6 @@ ECare Vault Inc. 已提供此資訊。關於此應用程式如何收集和儲存
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -149,3 +138,4 @@ ECare Vault Inc. 已提供此資訊。關於此應用程式如何處理驗證、
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

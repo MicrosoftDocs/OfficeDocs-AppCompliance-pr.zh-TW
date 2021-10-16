@@ -2,18 +2,18 @@
 title: Easy2Meet 的應用程式資訊（按 Easy2Meet B.V.）
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/21/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Easy2Meet 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 726f9ed549b3c200fda568f8b5d7a7f73c1a93ee
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 6983b46f281ed725aa4597acfa87944b5bc2c023
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785568"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412422"
 ---
 # <a name="easy2meet"></a>Easy2Meet
 
@@ -55,7 +55,7 @@ Easy2Meet B.V. 提供此資訊。 關於此應用程式如何收集和儲存組�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | 委託 | 我們需要使用者資訊才能管理 Easy2Meet 中的使用者和會議 | 電子郵件和名稱。 我們需要這種管理使用者和會議。 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
 >| 電子郵件 | 委託 | 若要查看目前使用者的電子郵件 adres。 我們需要電子郵件 adres 才能傳送會議邀請 | 電子郵件和名稱。 我們需要這種管理使用者和會議。 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
@@ -106,17 +106,6 @@ Easy2Meet B.V. 提供此資訊。 關於此應用程式如何收集和儲存組�
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -143,3 +132,4 @@ Easy2Meet B.V. 提供此資訊。 關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

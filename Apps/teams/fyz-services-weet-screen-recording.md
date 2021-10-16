@@ -2,18 +2,18 @@
 title: FYZ 服務 Weet 螢幕錄製的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/23/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Weet 螢幕錄製的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8dc2f7f77b62661226a3ebf184e0bd9f0efc1756
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: fa9dee24b0953351451c92c553ac4f6e6426d87d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785563"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412994"
 ---
 # <a name="weet-screen-recording"></a>Weet 螢幕錄製
 
@@ -35,7 +35,7 @@ FYZ 服務所提供的資訊給 Microsoft：
 | 應用程式名稱 | Weet 螢幕錄製 |
 | ID | WA200003284 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | FYZ 服務 |
+| 合作夥伴公司名稱 | FYZ SERVICES |
 | 合作夥伴網站的 URL | [https://weet.co](https://weet.co) |
 | Teams 應用程式資訊頁面的 URL | [https://weet.co/weet-teams-integration/](https://weet.co/weet-teams-integration/) |
 | 隱私權原則的 URL | [https://weet.co/privacy-policy/](https://weet.co/privacy-policy/) |
@@ -55,7 +55,7 @@ FYZ 服務會提供此資訊，告知此應用程式如何收集及儲存組織�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| TeamsAppInstallation ReadWriteSelfForUser 所有 | 委託 | 允許偵測是否已安裝 weet 應用程式 | 無資料儲存區 | [32eae2b8-2111-431f-9263-e8e1120d0a97](https://docs.microsoft.com/microsoft-365-app-certification/azure/32eae2b8-2111-431f-9263-e8e1120d0a97) |
 >| User.Read | 委託 | 我們未收集任何資料，但我們只會使用電子郵件來協助使用者使用自動完成功能 | 我們不會儲存使用者的相關資訊，我們只會使用電子郵件進行自動完成 | [32eae2b8-2111-431f-9263-e8e1120d0a97](https://docs.microsoft.com/microsoft-365-app-certification/azure/32eae2b8-2111-431f-9263-e8e1120d0a97) |
@@ -100,17 +100,6 @@ FYZ 服務會提供此資訊，告知此應用程式如何收集及儲存組織�
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -125,3 +114,4 @@ FYZ 服務會提供此資訊，此應用程式會如何處理驗證、授權、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: 由波羅的文 Amadeus 所懷舊的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 10/07/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用於懷舊的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2ccca5bd5160eb1772245841df037d2033f58881
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f9f42dedcf61d229dd925aa095520535e933d7f1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278901"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411882"
 ---
 # <a name="retro"></a>Retro
 
@@ -109,4 +109,5 @@ ms.locfileid: "59278901"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

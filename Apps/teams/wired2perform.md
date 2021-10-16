@@ -2,18 +2,18 @@
 title: Wired2Perform 的應用程式資訊（按 Wired2Perform）
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/01/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Wired2Perform 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 53e25098f069130505add53c3e7b0d39d287e1ac
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3d3ba77eff78368f1fdc7f14125afb8618503c54
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279569"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414870"
 ---
 # <a name="wired2perform"></a>Wired2Perform
 
@@ -125,3 +125,4 @@ Wired2Perform 此資訊的提供方式是關於此應用程式如何處理驗證
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

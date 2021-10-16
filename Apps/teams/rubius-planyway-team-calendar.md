@@ -2,18 +2,18 @@
 title: Planyway 小組行事曆的應用程式資訊 Rubius
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/19/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Planyway 小組行事曆的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d712799259406f65b30a7d186763bb0addba9d1e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d118e41b6c93f2eca85b86f870240f31f9911dd1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278051"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412773"
 ---
 # <a name="planyway-team-calendar"></a>Planyway 小組行事曆
 
@@ -118,3 +118,4 @@ Rubius 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

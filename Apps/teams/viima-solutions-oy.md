@@ -2,18 +2,18 @@
 title: Viima by Viima 解決方案的應用程式資訊 Oy
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 12/07/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Viima 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c9db86a4ffce9107b7345f178fe850a66e26560
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5b9233ff1a9a5cb8613ac7a9c6c2e1e00e71e860
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278574"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414880"
 ---
 # <a name="viima"></a>Viima
 
@@ -55,7 +55,7 @@ Viima 解決方案所提供的資訊 Oy 至 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 |  名字和姓氏、UPN/電子郵件地址、位置、地區設定、部門、辦公室位置。 這些是用來將使用者登入，並提供應用程式內的基本設定檔資訊。 | 允許使用者登入，並提供應用程式存取其 UPN 及基本設定檔資訊以啟用無訊息登入 | [b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b) |
 
@@ -133,3 +133,4 @@ Viima 解決方案所提供的資訊 Oy 至 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

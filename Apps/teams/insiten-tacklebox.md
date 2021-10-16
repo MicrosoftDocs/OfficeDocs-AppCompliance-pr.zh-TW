@@ -2,18 +2,18 @@
 title: TackleBox 的應用程式資訊（按 Insiten）
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/12/2021
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TackleBox 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bf5841d5b51470b6aaab29f303b1ee1c5c5a0141
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a40a1d6e1acb87917956766be21b0d6b364dfcba
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279669"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413765"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -55,7 +55,7 @@ ms.locfileid: "59279669"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | 委託 | 允許使用者流覽其 OneDrive 磁片磁碟機、資料夾及檔案;將檔案連結到 TackleBox;讀取 Excel 檔案，以自動解壓縮圖表、圖表、表格、列印範圍及命名範圍;使用下列 Excel 視覺效果建立及更新 PowerPoint 檔案 | 磁片磁碟機識別碼、資料夾識別碼、檔案識別碼、View 連結、建立者、建立日期、修改者、修改日期、版本識別碼、檔案名 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| Sites.Read.All | 委託 | 允許使用者流覽及連結位於私人 Teams 通道的 Excel 檔案 | 無 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
@@ -136,3 +136,4 @@ Insiten 此資訊的提供方式是關於此應用程式如何處理驗證、授
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

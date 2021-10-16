@@ -2,18 +2,18 @@
 title: 依決策決定的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/02/2021
+ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可供決策的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 19a710fc8edbcb5243b81755ce3d61e8bcaa5b25
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 99e01d0ad5874c62f51a3f78b5b612766f397ea1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278642"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415140"
 ---
 # <a name="decisions"></a>決定
 
@@ -55,7 +55,7 @@ ms.locfileid: "59278642"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | 用於從使用者&#8217;的行事曆讀取資訊，以啟用會議清單和搜尋等功能。 當專案從決策中刪除時，也可讓使用者選擇從行事曆刪除特定會議。 | 客戶資料會儲存在客戶&#8217;s Office 365 承租人中，而且所有客戶資料只會在客戶裝置上處理。 決策資料庫只會維護客戶 Office 365 承租人中物件的參照，而不是實際的資料。 如需詳細資訊，請參閱 https://www.meetingdecisions.com/security-and-privacy 。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
 >| 聊天室 ReadWrite | 委託 | 用來傳送投票的決議決策，並直接對 Microsoft Teams 會議聊天建立個別議程專案的發言人清單。 | 客戶資料會儲存在客戶&#8217;s Office 365 承租人中，而且所有客戶資料只會在客戶裝置上處理。 決策資料庫只會維護客戶 Office 365 承租人中物件的參照，而不是實際的資料。 如需詳細資訊，請參閱 https://www.meetingdecisions.com/security-and-privacy 。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
@@ -111,17 +111,6 @@ ms.locfileid: "59278642"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -150,3 +139,4 @@ ms.locfileid: "59278642"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

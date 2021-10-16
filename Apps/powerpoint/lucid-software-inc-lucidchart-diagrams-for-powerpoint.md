@@ -2,18 +2,18 @@
 title: Lucidchart 圖表的應用程式資訊，由 Lucid 軟體 inc. PowerPoint
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Lucidchart 圖表 PowerPoint 的所有可用安全性和符合性資訊資訊，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5e6a461c8793c04463f765ff66dd97f66efa783e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f07f093d177c4e38c01930a627cab149e18a1ab5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277856"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413957"
 ---
 # <a name="lucidchart-diagrams-for-powerpoint"></a>PowerPoint 的 Lucidchart 圖表
 
@@ -53,7 +53,7 @@ Lucid 軟體 Inc. 會提供此資訊，讓您瞭解此應用程式如何收集�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 電子郵件 | 委託 | 名稱和電子郵件地址。 | 電子郵件、openid 和設定檔許可權可讓 Lucidchart 為使用者產生 openid token，並取得使用者的足夠基本資訊，以便在必要時為其註冊 Lucidchart 帳戶。 為了確認從 Microsoft 傳回的資料，我們要求您取得公開金鑰以取得其回應的簽署者。 在 SSO 流程中，不會從 Microsoft 接收或傳送其他任何資料。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| openid | 委託 | 名稱和電子郵件地址。 | 電子郵件、openid 和設定檔許可權可讓 Lucidchart 為使用者產生 openid token，並取得使用者的足夠基本資訊，以便在必要時為其註冊 Lucidchart 帳戶。 為了確認從 Microsoft 傳回的資料，我們要求您取得公開金鑰以取得其回應的簽署者。 在 SSO 流程中，不會從 Microsoft 接收或傳送其他任何資料。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
@@ -110,4 +110,5 @@ Lucid 軟體 Inc. 會提供此資訊，讓您瞭解此應用程式如何收集�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

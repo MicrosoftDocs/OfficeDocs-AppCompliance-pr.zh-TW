@@ -2,18 +2,18 @@
 title: Xbrl a US 記錄資料的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 XBRL 的安全性和符合性資訊資訊。在 CSA 星形登錄中，XBRL 會將資料、其資料處理原則、它的 Microsoft Cloud App Security 應用程式目錄資訊及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 71c06644f03598cb265554891a8dc33632be32da
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 915cf51cc4670603e7637374ca1439cd4ae00554
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279470"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413987"
 ---
 # <a name="xbrl-filed-data"></a>XBRL 會將資料存檔
 
@@ -111,3 +111,4 @@ ms.locfileid: "59279470"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

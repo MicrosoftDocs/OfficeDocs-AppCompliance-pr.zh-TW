@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，LTI 用戶端的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d462f0225e4b5fb012d2e34156ae13fe48c0223c
-ms.sourcegitcommit: 085c227ffcf8f88e6e55d3c40752a3df25642592
+ms.openlocfilehash: 9957757752e6ac34310e11f3a6801b68639b94aa
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2021
-ms.locfileid: "60255682"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414619"
 ---
 # <a name="lti-client"></a>LTI 用戶端
 
@@ -35,7 +35,7 @@ ms.locfileid: "60255682"
 | 應用程式名稱 | LTI 用戶端 |
 | ID | WA200003313 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Flipick Pvt 有限公司 |
+| 合作夥伴公司名稱 | Flipick Pvt Ltd |
 | 合作夥伴網站的 URL | [https://flipick.com](https://flipick.com) |
 | 隱私權原則的 URL | [https://lmsapps.flipick.com/](https://lmsapps.flipick.com/) |
 | 使用條款的 URL | [https://flipick.com/terms-of-use/](https://flipick.com/terms-of-use/) |
@@ -92,17 +92,6 @@ ms.locfileid: "60255682"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -117,3 +106,4 @@ ms.locfileid: "60255682"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

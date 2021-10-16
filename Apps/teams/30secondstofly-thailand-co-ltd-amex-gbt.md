@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AMEX GBT 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9c29a455decb6d37a7f0477cf12ed9ba79b68b31
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 1418e2acfec4f183e9557a9f722b80ef51d5a169
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992166"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413927"
 ---
 # <a name="amex-gbt"></a>AMEX GBT
 
@@ -35,7 +35,7 @@ ms.locfileid: "59992166"
 | 應用程式名稱 | AMEX GBT |
 | ID | WA200003272 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 30SecondsToFly (泰國) 共同有限公司 |
+| 合作夥伴公司名稱 | 30SecondsToFly (Thailand) Co Ltd |
 | 合作夥伴網站的 URL | [https://www.amexglobalbusinesstravel.com](https://www.amexglobalbusinesstravel.com) |
 | 隱私權原則的 URL | [https://privacy.amexgbt.com/statement](https://privacy.amexgbt.com/statement) |
 | 使用條款的 URL | [https://www.amexglobalbusinesstravel.com/terms-service/](https://www.amexglobalbusinesstravel.com/terms-service/) |
@@ -92,17 +92,6 @@ ms.locfileid: "59992166"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -117,3 +106,4 @@ ms.locfileid: "59992166"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

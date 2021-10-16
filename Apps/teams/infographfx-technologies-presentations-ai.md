@@ -2,20 +2,20 @@
 title: 透過 Infographfx 技術之簡報 AI 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/17/2021
+ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用於簡報 AI 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: abbedd25675690af35f2c3aa9e9b5cdae2cf1d37
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 863fadd2e904db5cf120af5c4ba20626578b2ea3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992163"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412943"
 ---
-# <a name="presentations-ai"></a>簡報 AI
+# <a name="presentations-ai"></a>Presentations AI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Infographfx 技術所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 簡報 AI |
+| 應用程式名稱 | Presentations AI |
 | ID | WA200001352 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Infographfx 技術 |
+| 合作夥伴公司名稱 | Infographfx Technologies |
 | 合作夥伴網站的 URL | [https://presentations.ai](https://presentations.ai) |
 | 隱私權原則的 URL | [https://presentations.ai/privacy_teams.html](https://presentations.ai/privacy_teams.html) |
 | 使用條款的 URL | [https://presentations.ai/terms_teams.html](https://presentations.ai/terms_teams.html) |
@@ -92,17 +92,6 @@ Infographfx 技術所提供的資訊給 Microsoft：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -129,3 +118,4 @@ Infographfx 技術所提供的資訊給 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

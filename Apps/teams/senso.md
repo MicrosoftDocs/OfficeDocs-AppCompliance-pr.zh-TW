@@ -2,18 +2,18 @@
 title: Senso 的應用程式資訊（按 Senso）
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Senso 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a44620633f9eee6c5d5e18997a58158a16c5e801
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c517e652c97ba8a74cbadd9b6121084dd40c5394
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278598"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414459"
 ---
 # <a name="senso"></a>Senso
 
@@ -55,7 +55,7 @@ ms.locfileid: "59278598"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 應用程式 | 閱讀所有通道的通道名稱和描述，以識別標示違規的位置。   | 當侵犯者的名稱 (從) 時，收件者的 name () 的收件者 (、通道名稱、日期、時間及來自該聊天室通道的訊息，都是為了提供違規內容的記錄。  | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
 >| ChannelMember Read。 All | 應用程式 | 讀取所有通道的成員清單和聊天訊息。 | 當侵犯者的名稱 (從) 時，收件者的 name () 的收件者 (、通道名稱、日期、時間及來自該聊天室通道的訊息，都是為了提供違規內容的記錄。  | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
@@ -144,3 +144,4 @@ Senso 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

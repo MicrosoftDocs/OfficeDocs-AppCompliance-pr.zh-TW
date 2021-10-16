@@ -2,18 +2,18 @@
 title: Nugget 的應用程式資訊（按 Panviva）
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/12/2020
+ms.date: 08/06/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Nugget 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6108617e72e1996a335b53941989a707a6544337
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: de483c47b529b889a6e3cc0b6ff51de8546c2f93
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279345"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413605"
 ---
 # <a name="nugget"></a>Nugget
 
@@ -105,4 +105,5 @@ Teams 組織識別碼：這是儲存的，因此我們可以在租使用者中�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

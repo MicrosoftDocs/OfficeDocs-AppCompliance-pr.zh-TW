@@ -2,18 +2,18 @@
 title: 內容管理員的應用程式資訊 Colligo Inc。
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/14/2021
+ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 內容管理員的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7392dc618ff6f22b935b5760e97d72155ea41660
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 040e1705caa5df9997bb28db8a103f2f76167b1a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992146"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413054"
 ---
 # <a name="content-manager"></a>內容管理員
 
@@ -35,7 +35,7 @@ ms.locfileid: "59992146"
 | 應用程式名稱 | 內容管理員 |
 | ID | WA200003250 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Colligo Inc。 |
+| 合作夥伴公司名稱 | Colligo Inc |
 | 合作夥伴網站的 URL | [https://www.colligo.com](https://www.colligo.com) |
 | 隱私權原則的 URL | [https://www.colligo.com/product-policy/](https://www.colligo.com/product-policy/) |
 | 使用條款的 URL | [https://www.colligo.com/media/Colligo-Software-License-Agre...](https://www.colligo.com/media/Colligo-Software-License-Agreement-Schedule-A.pdf) |
@@ -99,17 +99,6 @@ Colligo Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集和�
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ Colligo Inc. 已提供此資訊，說明此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Group Address Book 的應用程式資訊-NextSet by NextSet，Inc.。
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/21/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，如群組通訊錄-NextSet、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 1fe6aa3843708b6fac9f9688575708355d43d6a5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 813966b77b9eac36696f07ba7d2647654739e8d8
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279197"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414992"
 ---
 # <a name="group-address-book---nextset"></a>Group Address Book - NextSet
 
@@ -55,7 +55,7 @@ NextSet，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.ReadWrite.All | 委託 | Microsoft 365&#19978;&#12398;&#32068;&#32340;&#12434;&#21462;&#24471;&#12375;&#12484;&#12522;&#12540;&#24418;&#24335;&#12391;&#34920;&#31034;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#32068;&#32340;&#12484;&#12522;&#12540;&#24773;&#22577;&#12434;&#32032;&#26089;&#12367;&#34920;&#31034;&#12377;&#12427;&#12383;&#12417;&#12395;&#12471;&#12473;&#12486;&#12512;&#12398;&#12487;&#12540;&#12479;&#12473;&#12488;&#12450;&#12395;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | [53d19d16-137b-4365-a095-685d5044d28c](https://docs.microsoft.com/microsoft-365-app-certification/azure/53d19d16-137b-4365-a095-685d5044d28c) |
 >| User.Read.All | 包括 | Microsoft 365&#19978;&#12398;&#32068;&#32340;&#12395;&#25152;&#23646;&#12377;&#12427;&#12518;&#12540;&#12470;&#12540;&#19968;&#35239;&#12434;&#34920;&#31034;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#32068;&#32340;&#12484;&#12522;&#12540;&#24773;&#22577;&#12434;&#32032;&#26089;&#12367;&#34920;&#31034;&#12377;&#12427;&#12383;&#12417;&#12395;&#12471;&#12473;&#12486;&#12512;&#12398;&#12487;&#12540;&#12479;&#12473;&#12488;&#12450;&#12395;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | [53d19d16-137b-4365-a095-685d5044d28c](https://docs.microsoft.com/microsoft-365-app-certification/azure/53d19d16-137b-4365-a095-685d5044d28c) |
@@ -92,7 +92,7 @@ NextSet，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -104,17 +104,6 @@ NextSet，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -142,3 +131,4 @@ NextSet，Inc. 已提供此資訊。關於此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

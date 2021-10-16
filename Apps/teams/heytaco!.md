@@ -2,18 +2,18 @@
 title: HeyTaco 的應用程式資訊！ HeyTaco！
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/09/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: HeyTaco！的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7b4641b33166043dd311bdd89568c9eaea4b87a1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e52056b40599ab98a69a6a93e7b2187ddf5f3765
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279217"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412372"
 ---
 # <a name="heytaco"></a>HeyTaco！
 
@@ -54,7 +54,7 @@ HeyTaco 所提供的資訊！ 至 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 電子郵件 | 委託 | 用來比對使用者的資料傳輸從時差到 MS Teams | 用來比對使用者從時差到 MS 小組的資料傳輸 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 >| openid | 委託 | 用於簽署人員加入 HeyTaco！ | 用於簽署人員加入 HeyTaco！ | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
@@ -115,4 +115,5 @@ Amazon 的資料中心作業已獲 ISO 27001、SOC 1 和 SOC 2/SSAE 16/ISAE 3402
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

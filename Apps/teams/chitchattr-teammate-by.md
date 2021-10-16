@@ -2,18 +2,18 @@
 title: TeamMate by ChitChattr 的應用程式資訊 ChitChattr
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/11/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TeamMate by ChitChattr 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4278150de6faf97f3ce4ceb7361cc2d7bca651ee
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 27e109753908f36d122ccd355102770725d9ef0a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278649"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413865"
 ---
 # <a name="teammate-by-chitchattr"></a>ChitChattr 的 TeamMate
 
@@ -55,9 +55,9 @@ ms.locfileid: "59278649"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| 個人讀取 | 委託 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件和 Azure AD 物件識別碼。 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件和 Azure AD 物件識別碼。 | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50) |
+>| 個人讀取 | 委託 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -136,3 +136,4 @@ ChitChattr 此資訊的提供方式是關於此應用程式如何處理驗證、
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: FireWatch by Infographics UK 有限公司的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/29/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: FireWatch 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: af093437be4542d0ffb9e00e6f27623961ef9673
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 4d8834b9f87199517fc355d9f7c7560d7d63ee32
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112253"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413785"
 ---
 # <a name="firewatch"></a>FireWatch
 
@@ -35,7 +35,7 @@ Infographics UK 有限公司提供給 Microsoft 的資訊：
 | 應用程式名稱 | FireWatch |
 | ID | WA200003303 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Infographics UK 有限公司。 |
+| 合作夥伴公司名稱 | Infographics UK Ltd. |
 | 合作夥伴網站的 URL | [https://www.infographics.co.uk](https://www.infographics.co.uk) |
 | Teams 應用程式資訊頁面的 URL | [https://www.firewatch.co.uk](https://www.firewatch.co.uk) |
 | 隱私權原則的 URL | [https://www.infographics.co.uk/privacy-policy/](https://www.infographics.co.uk/privacy-policy/) |
@@ -93,17 +93,6 @@ Infographics UK 有限公司提供給 Microsoft 的資訊：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ Infographics UK 有限公司已提供此資訊。關於此應用程式如何處�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: ThoughtWire EWS 的應用程式資訊，ThoughtWire Corp。
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/17/2021
+ms.date: 09/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ThoughtWire EWS 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 5ed53bb0a29a287cd0102b7f7e2e2fdd782b2c10
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: ef425a6acb8cfe166502b4c4817229b1b33da14b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438425"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414910"
 ---
 # <a name="thoughtwire-ews"></a>ThoughtWire EWS
 
@@ -35,7 +35,7 @@ ThoughtWire Corp 所提供的資訊給 Microsoft：
 | 應用程式名稱 | ThoughtWire EWS |
 | ID | WA200003239 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | ThoughtWire Corp。 |
+| 合作夥伴公司名稱 | ThoughtWire Corp. |
 | 合作夥伴網站的 URL | [https://thoughtwire.com](https://thoughtwire.com) |
 | 隱私權原則的 URL | [https://thoughtwire.com/privacy-policy](https://thoughtwire.com/privacy-policy) |
 | 使用條款的 URL | [https://www.thoughtwire.com/end-user-license-agreement/](https://www.thoughtwire.com/end-user-license-agreement/) |
@@ -54,7 +54,7 @@ ThoughtWire Corp 已提供此資訊。關於此應用程式如何收集和儲存
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group。建立 | 應用程式 | 允許應用程式建立醫院 wards/單位的群組/團隊。 | 無 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
 >| Group.ReadWrite.All | 應用程式 | 為應用程式所需，以判斷可能需要建立/重新建立及管理成員資格的群組。 | 無 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
@@ -101,17 +101,6 @@ ThoughtWire Corp 已提供此資訊。關於此應用程式如何收集和儲存
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -139,3 +128,4 @@ ThoughtWire Corp 已提供此資訊。關於此應用程式如何處理驗證、
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

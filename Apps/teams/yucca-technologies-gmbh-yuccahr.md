@@ -2,18 +2,18 @@
 title: YuccaHR 的應用程式資訊，由 Yucca 技術 GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/05/2021
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: yuccaHR 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f8c41d6300413db28561f03a71d62c48e52bb63f
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: f97ff60095ef47effd6e1e4c741a5cecaba0c594
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785432"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412673"
 ---
 # <a name="yuccahr"></a>yuccaHR
 
@@ -35,7 +35,7 @@ Yucca 技術 GmbH 給 Microsoft 所提供的資訊：
 | 應用程式名稱 | yuccaHR |
 | ID | WA200003242 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Yucca 技術 GmbH |
+| 合作夥伴公司名稱 | Yucca Technologies GmbH |
 | 合作夥伴網站的 URL | [https://www.yuccahr.com](https://www.yuccahr.com) |
 | 隱私權原則的 URL | [https://www.yuccahr.com/privacy-policy](https://www.yuccahr.com/privacy-policy) |
 | 使用條款的 URL | [https://www.yuccahr.com/privacy-policy](https://www.yuccahr.com/privacy-policy) |
@@ -54,7 +54,7 @@ Yucca 技術 GmbH 給 Microsoft 所提供的資訊：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 應用程式 |  建立約會，以根據空閒的槽來取得兩名員工。  | - | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
 >| ReadBasic | 應用程式 | 設定市場活動。  (員工網路)  | ObjectId。 以要求通道資源。 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
@@ -101,17 +101,6 @@ Yucca 技術 GmbH 給 Microsoft 所提供的資訊：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -138,3 +127,4 @@ Yucca 技術 GmbH 會提供此資訊，此應用程式會如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
