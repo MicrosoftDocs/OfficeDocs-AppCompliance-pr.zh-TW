@@ -2,18 +2,18 @@
 title: YATTEE Inc. 未中的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/19/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有關于未管制功能的安全性和合規性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c86ef20b176b021b055b79e07c9c196dd83785ab
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 39b722aa99547d4ab223c8105aa7a55db6a089b7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278414"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411348"
 ---
 # <a name="canary"></a>Canary
 
@@ -35,7 +35,7 @@ YATTEE Inc. 所提供的資訊給 Microsoft：
 | 應用程式名稱 | Canary |
 | ID | WA200003193 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | YATTEE Inc.。 |
+| 合作夥伴公司名稱 | YATTEE Inc. |
 | 合作夥伴網站的 URL | [https://www.yattee.co.jp](https://www.yattee.co.jp) |
 | 隱私權原則的 URL | [https://www.yattee.co.jp/company/privacy/](https://www.yattee.co.jp/company/privacy/) |
 | 使用條款的 URL | [https://www.yattee.co.jp/company/term-of-use/](https://www.yattee.co.jp/company/term-of-use/) |
@@ -54,7 +54,7 @@ YATTEE Inc. 所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| JoinGroupCall 所有 | 包括 | E&#12513;&#12540;&#12523;&#12450;&#12489;&#12524;&#12473;&#12290;&#12518;&#12540;&#12470;&#12540;&#12398;&#35672;&#21029;&#12398;&#12383;&#12417;&#12392;&#12289;&#32068;&#32340;&#12372;&#12392;&#12391;&#12464;&#12523;&#12540;&#12503;&#21270;&#12377;&#12427;&#12383;&#12417;&#12290; | &#21033;&#29992;&#12518;&#12540;&#12470;&#12540;&#12398;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#24773;&#22577;&#12394;&#12393;&#12290;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#31649;&#29702;&#12450;&#12503;&#12522;&#12394;&#12398;&#12391;&#12290; | [626ce0a3-4620-483d-953d-53b106b9ffad](https://docs.microsoft.com/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
 
@@ -94,17 +94,6 @@ YATTEE Inc. 所提供的資訊給 Microsoft：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -132,3 +121,4 @@ YATTEE Inc. 已提供此資訊。關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Smartsheet 的應用程式資訊（按 Smartsheet）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/11/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Smartsheet 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3b6f823a27352d3623826cf09f97c9a2f560307a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f95e090af5a83db8053bf60582a73dd77a2905d0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277779"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410887"
 ---
 # <a name="smartsheet"></a>Smartsheet
 
@@ -55,7 +55,7 @@ ms.locfileid: "59277779"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| AppCatalog ReadWrite。 | 委託 | 無。 | 允許我們的應用程式代表使用者安裝應用程式。 | [c68947ae-a07f-44ce-9a13-7b559251731d](https://docs.microsoft.com/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d) |
 >| Directory.Read.All | 委託 | tenantId 用於檢索顯示在 UI 中的資訊。 | 可讓我們讀取此租使用者使用的應用程式，以便檢查我們是否需要為他們安裝應用程式。 | [c68947ae-a07f-44ce-9a13-7b559251731d](https://docs.microsoft.com/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d) |
@@ -122,4 +122,5 @@ ms.locfileid: "59277779"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -2,18 +2,18 @@
 title: SmartWork 的應用程式資訊，SmartWork Intumit
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SmartWork 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: fab20b7cfe9fd8008f98a44e473102acd6efbadc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277776"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410877"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -54,9 +54,9 @@ SmartWork for Intumit 所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委託 | 使用 userPrincipalName 來識別使用者的郵件是否來自有效的 AAD 或不是 | 登入並讀取使用者設定檔 | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
+>| User.Read | 委託 | 使用 userPrincipalName 來識別使用者的郵件是否來自有效的 AAD | 登入並讀取使用者設定檔 | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -71,7 +71,7 @@ SmartWork for Intumit 所提供的資訊給 Microsoft：
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 使用識別使用者的郵件，不論其是否來自有效的 AAD。 | 使用者的電子郵件 | 儲存使用者的郵寄清單，用以識別使用者是否來自有效的 AAD。 |
+>| 用於識別使用者的郵件不論是否來自有效的 AAD | 使用者的電子郵件 | 儲存使用者的郵寄清單，以識別使用者是否來自有效的 AAD |
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -134,3 +134,4 @@ SmartWork for Intumit 所提供的資訊給 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

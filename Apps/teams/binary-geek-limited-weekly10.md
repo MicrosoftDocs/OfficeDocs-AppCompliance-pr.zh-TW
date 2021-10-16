@@ -2,18 +2,18 @@
 title: Weekly10 依二進位 Geek 限制的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/19/2021
+ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Weekly10 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3a1456ccf706a9588f82e38ea35e5e37f8098b9b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9bdd5e42398270719c9f0ecd9814155974dbee6f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278439"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411127"
 ---
 # <a name="weekly10"></a>Weekly10
 
@@ -55,11 +55,11 @@ ms.locfileid: "59278439"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | 應用程式 | 將使用者從 Azure AD 同步到 Weekly10 (選用)  | 使用者身分識別資料：使用者主要名稱、電子郵件、名字、姓氏和主管。 | [2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb](https://docs.microsoft.com/microsoft-365-app-certification/azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb) |
+>| Directory.Read.All | 應用程式 | Azure AD (選用) 中的使用者同步到 Weekly10 | 使用者身分識別資料：使用者主要名稱、電子郵件、名字、姓氏和主管。 | [2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb](https://docs.microsoft.com/microsoft-365-app-certification/azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb) |
 >| ReadWrite 的行事曆 | 應用程式 | 檢查員工可用性和自動預約會議 (選用) 。 | 員工的使用時間 (不詳細資料) 和會議已預約對該會議的參照。 這項資料可用於瞭解員工是否已脫銷，以順利員工體驗，並將會議預訂1：1s 或績效審查。 | [494610b2-b490-4f54-8384-312d6f9b4869](https://docs.microsoft.com/microsoft-365-app-certification/azure/494610b2-b490-4f54-8384-312d6f9b4869) |
->| User.Read | 委託 | Azure AD 上用於 SSO 目的的使用者驗證。 | 除了權杖資訊之外，不會保留任何額外的資料。 | [6fd1421e-89e8-4a8b-bd01-9397656a50d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fd1421e-89e8-4a8b-bd01-9397656a50d5) |
+>| User.Read | 委託 | 在 Azure AD 上驗證使用者的 SSO 目的。 | 除了權杖資訊之外，不會保留任何額外的資料。 | [6fd1421e-89e8-4a8b-bd01-9397656a50d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fd1421e-89e8-4a8b-bd01-9397656a50d5) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -99,17 +99,6 @@ ms.locfileid: "59278439"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ ms.locfileid: "59278439"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

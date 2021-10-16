@@ -2,18 +2,18 @@
 title: LMS365 依 ELEARNINGFORCE 國際的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: LMS365 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5a88349d6fa62769d528c66baeb428b791a007b0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 37053d460cd8619379f7a2e5b3f581f789d00986
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279726"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410266"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -54,7 +54,7 @@ ELEARNINGFORCE 國際性會提供此資訊，告知您此應用程式如何收�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| GroupMember Read。 All | 應用程式 | 無 | 允許應用程式展開 AD 群組成員，以向課程註冊使用者群組所需的成員。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| 傳送郵件 | 委託 | 無 | 在設定電子郵件帳戶以進行通知時，會動態要求許可權。 允許應用程式傳送通知電子郵件 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
@@ -149,3 +149,4 @@ ELEARNINGFORCE 國際性會提供此資訊，告知此應用程式如何處理�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

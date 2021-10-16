@@ -2,18 +2,18 @@
 title: Skillate by Skillate 實驗室 Pvt 的應用程式資訊。 Ltd.
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/12/2021
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Skillate 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c64088a0debbb7766a57631841c489a8d8ea1826
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ec3d9b706bdf13d1c12fefeeb813d0d312edff56
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279178"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411488"
 ---
 # <a name="skillate"></a>Skillate
 
@@ -55,7 +55,7 @@ Skillate 實驗室 Pvt 提供此資訊。 有限公司：此應用程式如何�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 電子郵件 | 委託 | 收集資料以授權使用者 Skillate | 我們只會儲存電子郵件地址，以在 Skillate 應用程式上建立使用者帳戶。 | [ed4df345-c860-4ffe-b614-0460d9106f0f](https://docs.microsoft.com/microsoft-365-app-certification/azure/ed4df345-c860-4ffe-b614-0460d9106f0f) |
 >| openid | 委託 | 我們使用 API 將 Microsoft 的使用者登入至使用 SSO 的 Microsoft Skillate | 我們只會儲存使用者的名字和姓氏 | [ed4df345-c860-4ffe-b614-0460d9106f0f](https://docs.microsoft.com/microsoft-365-app-certification/azure/ed4df345-c860-4ffe-b614-0460d9106f0f) |
@@ -135,3 +135,4 @@ Skillate 實驗室 Pvt 提供此資訊。 有限公司。此應用程式如何�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

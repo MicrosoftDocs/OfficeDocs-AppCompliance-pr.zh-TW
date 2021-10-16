@@ -2,18 +2,18 @@
 title: SlideHub 的應用程式資訊（按 nomorehours）
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/20/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SlideHub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7eca7f35cb46db8450f6805c9e8a4c2503934dd6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: dacb6758c2fe3d1d551daec80bc53642b3e6b607
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277854"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410507"
 ---
 # <a name="slidehub"></a>SlideHub
 
@@ -53,7 +53,7 @@ ms.locfileid: "59277854"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 應用程式 | 電子郵件和名稱。 電子郵件會做為應用程式中的使用者名稱。 收集電子郵件可協助您更快速地註冊和登入應用程式。 名稱是用於註冊事件的情況。 | 電子郵件是用來啟用透過 Office 365 登入，並在某些情況下，註冊屬於組織的一部分，而這些使用者已已代表其所接受的條款。 | [33ccef75-8248-44e8-88d3-24526ca9c2d3](https://docs.microsoft.com/microsoft-365-app-certification/azure/33ccef75-8248-44e8-88d3-24526ca9c2d3) |
 
@@ -76,7 +76,7 @@ ms.locfileid: "59277854"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -113,3 +113,4 @@ Nomorehours 此資訊的提供方式是關於此應用程式如何處理驗證�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

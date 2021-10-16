@@ -2,18 +2,18 @@
 title: 透過 Witivio 學習的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/31/2020
+ms.date: 03/24/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，以瞭解資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f931e75f0a5736ffa49c7366d9928db774c4bdbf
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5fc05537fef58efdc5eb2ee7d5f51bfaea07b108
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279754"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410777"
 ---
 # <a name="learn"></a>了解
 
@@ -54,12 +54,12 @@ ms.locfileid: "59279754"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委託 | N/A | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
->| User.ReadBasic.All | 委託 | N/A | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
->| openid | 委託 | N/A | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
->| 設定檔 | 委託 | N/A | 我們會收集授權的 UPN 和 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| User.Read | 委託 | 不適用 | 我們會收集 UPN 及授權的 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| User.ReadBasic.All | 委託 | 不適用 | 我們會收集 UPN 及授權的 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| openid | 委託 | 不適用 | 我們會收集 UPN 及授權的 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| 設定檔 | 委託 | 不適用 | 我們會收集 UPN 及授權的 AAD 識別碼。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -81,7 +81,7 @@ ms.locfileid: "59279754"
 
 任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
 
->Bot 的遙測包含 UPN 和 AAD 識別碼 fr 診斷。
+>bot 的遙測包含 UPN 和 AAD ID fr 診斷。
 只有生產/執行系統管理員才能存取生產遙測。 記錄檔會儲存在90天內，而且可以在專屬入口網站 support.witivio.com 或透過電子郵件傳送至 dpo@witivio.com 時，加以刪除。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
@@ -112,4 +112,5 @@ Witivio 對所有使用者（包括系統管理員）使用 MFA。 系統管理�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

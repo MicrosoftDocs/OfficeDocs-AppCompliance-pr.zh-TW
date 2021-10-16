@@ -2,18 +2,18 @@
 title: 由 Zoho 公司私人限制之 Zoho 衝刺（Sprint）的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Zoho 衝刺（sprint）登錄中所有可用的安全性和符合性資訊，針對衝刺（其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊）。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cdc296898d2e9f6d18f01d9742ce8d0ca29c807b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3a70374751225581c7279ce01140a269bc2d80eb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278013"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411328"
 ---
 # <a name="zoho-sprints"></a>Zoho Sprints
 
@@ -54,7 +54,7 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | 已儲存 alendar 資料夾識別碼，以將連絡人從 Zoho 衝刺同步處理至 Microsoft &amp; （反之亦然）。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| 連絡人。 ReadWrite | 委託 | [連絡人] 資料夾識別碼會儲存，以同步處理連絡人。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
@@ -107,4 +107,5 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

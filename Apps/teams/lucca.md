@@ -2,18 +2,18 @@
 title: Lucca 的應用程式資訊（按 Lucca）
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/23/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Lucca 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c98f76c08e966923606d9242449f4c11719342b2
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 61f53fe653ebce1a833005082c8254392e61b2c1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785412"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411598"
 ---
 # <a name="lucca"></a>Lucca
 
@@ -54,7 +54,7 @@ ms.locfileid: "59785412"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ChannelMember Read。 All | 委託 | 不收集任何資料。 我們使用這些篩選器來篩選要顯示的計畫。 只有通道中的使用者才會顯示其規劃 | 不儲存資料 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
 >| 聊天室 ReadWrite | 應用程式 | 不收集或使用任何資料。 應用程式只張貼包含一天 absentees 的郵件 | 不儲存資料 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
@@ -101,17 +101,6 @@ ms.locfileid: "59785412"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -126,3 +115,4 @@ Lucca 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

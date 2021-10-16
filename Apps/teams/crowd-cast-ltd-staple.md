@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊，都是針對書編目、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: fa258f568d799ceb8891cd374aa33277dbc6c2c4
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+ms.openlocfilehash: 9eb6274274c3970b20ebb53d03a163fa79e206df
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59975203"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410306"
 ---
-# <a name="staple"></a>短
+# <a name="staple"></a>Staple
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "59975203"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 短 |
+| 應用程式名稱 | Staple |
 | ID | WA200003281 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 對等強制轉換，有限公司。 |
+| 合作夥伴公司名稱 | Crowd Cast, Ltd. |
 | 合作夥伴網站的 URL | [https://crowdcast.jp/ja/](https://crowdcast.jp/ja/) |
 | Teams 應用程式資訊頁面的 URL | [https://intercom.help/staple/ja](https://intercom.help/staple/ja) |
 | 隱私權原則的 URL | [https://crowdcast.jp/ja/privacy/](https://crowdcast.jp/ja/privacy/) |
@@ -55,7 +55,7 @@ ms.locfileid: "59975203"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 已讀取組織。全部 | 應用程式 | 用於收集租使用者識別碼。用於確定以我們的平臺進行驗證的使用者是特定租使用者的成員。 | 租使用者識別碼。用於確定以我們的平臺進行驗證的使用者是特定租使用者的成員。 | [ac9ca94a-e666-4f61-959a-12c063e13e69](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac9ca94a-e666-4f61-959a-12c063e13e69) |
 >| TeamsAppInstallation ReadWriteSelfForUser 所有 | 應用程式 | Teams 應用程式會自行安裝至使用者的團隊 | 不適用 | [ac9ca94a-e666-4f61-959a-12c063e13e69](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac9ca94a-e666-4f61-959a-12c063e13e69) |
@@ -99,17 +99,6 @@ ms.locfileid: "59975203"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ ms.locfileid: "59975203"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

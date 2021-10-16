@@ -2,18 +2,18 @@
 title: CalendarHero by CalendarHero Inc. 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/17/2020
+ms.date: 01/22/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CalendarHero 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 41a7dd8a2cb7d900ac26b228c4cc2522d76da59c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 380aa287ed8c0a11743b56fbb6a2e3e8fbea5081
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278681"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411117"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -55,7 +55,7 @@ CalendarHero Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 包括 | 會議會在 Azure 的 mongoDB 中快取，但會加密描述。 | 存取使用者的行事曆事件。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| 連絡人。 ReadWrite | 包括 | 連絡人的名稱和電子郵件地址。 | 請閱讀使用者的連絡人 (，讓我們可以邀請他們加入會議) 。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
@@ -114,4 +114,5 @@ CalendarHero Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

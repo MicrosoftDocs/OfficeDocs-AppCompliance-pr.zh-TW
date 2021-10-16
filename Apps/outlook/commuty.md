@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Commuty 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8107880619d85a0ea80ba3aa26d9f10edc9cef48
-ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
+ms.openlocfilehash: ec9a5806126e5e8625d591985084b00f0a60c0fd
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60234081"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411227"
 ---
 # <a name="commuty"></a>Commuty
 
@@ -53,7 +53,7 @@ ms.locfileid: "60234081"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | 行事曆事件 | 無，它只用于將 Commuty 的資料同步處理至 Outlook 行事曆。 資料永遠都是在 Commuty 使用者介面 (上提供，可以透過我們 Outlook Add-In) 。 | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
 >| 電子郵件 | 委託 | 電子郵件地址 | 無，這只會用來將 Commuty 使用者與 AD 身分識別搭配使用 | [7c90e3d4-5233-4e49-8753-36cd5feb7fa0](https://docs.microsoft.com/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0) |
@@ -92,17 +92,6 @@ ms.locfileid: "60234081"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -130,3 +119,4 @@ Commuty 此資訊的提供方式是關於此應用程式如何處理驗證、授
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

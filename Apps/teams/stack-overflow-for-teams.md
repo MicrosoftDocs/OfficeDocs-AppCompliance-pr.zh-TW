@@ -2,18 +2,18 @@
 title: 堆疊溢位 Teams 依堆疊溢位之堆疊溢位的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 12/17/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，針對 Teams 的堆疊溢位，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7ea59acc5a3a85fd8ad827947c117266e95901fd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3c6493326d8b58ad4c8e7e4fc5486a7f03cd2b8b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279646"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410837"
 ---
 # <a name="stack-overflow-for-teams"></a>Teams 的 Stack Overflow
 
@@ -107,4 +107,5 @@ MS Teams 會傳送我們的辨識識別碼，我們會將它們儲存在內部�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

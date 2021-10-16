@@ -2,18 +2,18 @@
 title: FormMachines 連接器的應用程式資訊，適用于企業數位機器的 SharePoint PTY 有限公司
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/25/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: FormMachines 連接器的所有可用安全性和符合性資訊資訊 SharePoint，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 56c08c242cb3822ebaea854026fb3f758768b7bf
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3d5cab668924d0edfed32a807096be68519a775f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279114"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410477"
 ---
 # <a name="formmachines-connector-for-sharepoint"></a>SharePoint 的 FormMachines 連接器
 
@@ -53,7 +53,7 @@ ms.locfileid: "59279114"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 |  (登入、電子郵件、Azure Guid、displayName、first_login_date_time)  | 允許使用者登入並提供其 UPN 的應用程式存取權以啟用無訊息登入，讓我們能夠唯一識別每個使用者 | [8c87660f-d36f-41f6-b0ae-025253f380aa](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c87660f-d36f-41f6-b0ae-025253f380aa) |
 
@@ -99,4 +99,5 @@ ms.locfileid: "59279114"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

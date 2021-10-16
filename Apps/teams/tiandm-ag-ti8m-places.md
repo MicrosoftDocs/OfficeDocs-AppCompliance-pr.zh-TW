@@ -2,18 +2,18 @@
 title: Ti8m 位置的應用程式資訊，由 ti &amp; m AG
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/16/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ti8m 位置的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0da49dc42dfb173165ad01f55d5d10c656c0e4e0
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 92b67a17394d796e0d743c6b3c570698e54e2fec
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123986"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411428"
 ---
 # <a name="ti8m-places"></a>ti8m 位置
 
@@ -35,7 +35,7 @@ ms.locfileid: "60123986"
 | 應用程式名稱 | ti8m 位置 |
 | ID | WA200003311 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | ti &amp; m AG |
+| 合作夥伴公司名稱 | ti&amp;m AG |
 | 合作夥伴網站的 URL | [https://www.ti8m.com/places](https://www.ti8m.com/places) |
 | Teams 應用程式資訊頁面的 URL | [https://www.ti8m.ch/places](https://www.ti8m.ch/places) |
 | 隱私權原則的 URL | [https://ti8m.com/products/places/places-datenschutzerklaeru...](https://ti8m.com/products/places/places-datenschutzerklaerung) |
@@ -55,7 +55,7 @@ ms.locfileid: "60123986"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 共用的行事曆 | 委託 | 取消工作場所和使用者行事曆上的事件  | 是否應取消預定的行事曆專案的事件識別碼 | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
 >| Directory.ReadWrite.All | 委託 | 安裝和建立管理 AAD 群組-安全性群組  | GroupNames 與 GroupIDs | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
@@ -98,17 +98,6 @@ ms.locfileid: "60123986"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -134,3 +123,4 @@ ms.locfileid: "60123986"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

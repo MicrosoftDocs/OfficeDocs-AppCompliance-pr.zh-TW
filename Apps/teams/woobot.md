@@ -2,18 +2,18 @@
 title: Woobot 的應用程式資訊（按 Woobot）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/14/2019
+ms.date: 07/21/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Woobot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a90381852e60e09402b766607413154b8da11704
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2fe1f97a0a0f11caf7817192f2f7ac81f06f0b37
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279625"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411378"
 ---
 # <a name="woobot"></a>Woobot
 
@@ -101,4 +101,5 @@ ms.locfileid: "59279625"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

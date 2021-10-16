@@ -2,18 +2,18 @@
 title: EcBooking 的應用程式資訊，由專家系統 IVR (亞洲) Co.Ltd。
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/28/2020
+ms.date: 02/11/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ecBooking 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f36edd400f35d7e4ccbfef5edd0225855f73ab69
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 418f653876e6a93d6772317016e460fc0da70954
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279241"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411701"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -55,7 +55,7 @@ ms.locfileid: "59279241"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 應用程式 | 使用者的電子郵件，使用者事件等資料也會儲存。 會收集使用者事件以檢查聊天室可用性及建立事件。 | 將會儲存使用者事件的識別碼、位置名稱及其他事件的詳細資料。 收集資料以檢查聊天室可用性及建立事件。 | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
 >| 傳送郵件 | 應用程式 | 資料，例如使用者電子郵件。 會收集使用者電子郵件以傳送會議室預約提醒電子郵件。 | 資料，例如使用者電子郵件。 會收集使用者電子郵件以傳送會議室預約提醒電子郵件。 | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
@@ -138,3 +138,4 @@ ms.locfileid: "59279241"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

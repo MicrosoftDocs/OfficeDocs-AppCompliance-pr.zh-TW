@@ -2,18 +2,18 @@
 title: NewCOS 的應用程式資訊（按 Newtech）
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/17/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: NewCOS 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cb787aa76a30e5c7b0559eaf4ec28b7035636fbe
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: baeb52e72158bcb796e90c5daea2bfdba9c80985
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279353"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411558"
 ---
 # <a name="newcos"></a>NewCOS
 
@@ -55,7 +55,7 @@ ms.locfileid: "59279353"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 設定檔 | 包括 | 在應用程式許可權上進行驗證時，會使用此資料 | 使用者設定檔儲存在應用程式內，以識別使用者 | [07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e](https://docs.microsoft.com/microsoft-365-app-certification/azure/07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e) |
 >| openid | 包括 | Microsoft Teams 使用方式、報告和管理 | Microsoft Teams 使用狀況和資訊 | [ea4de024-dd5f-4d3e-a092-3b8de6c64200](https://docs.microsoft.com/microsoft-365-app-certification/azure/ea4de024-dd5f-4d3e-a092-3b8de6c64200) |
@@ -133,3 +133,4 @@ Newtech 此資訊的提供方式是關於此應用程式如何處理驗證、授
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

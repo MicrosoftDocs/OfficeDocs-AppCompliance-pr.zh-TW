@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Office2SharePoint Office 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 404e38a0132fad49e96171319a0d273b84dca020
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+zone_pivot_groups: app-info-data-mcas-identity-certification
+ms.openlocfilehash: 5a1525902562750d0d0bd4567e7962d7efc1e04b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438364"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411287"
 ---
 # <a name="office2sharepoint-for-office"></a>Office 的 Office2SharePoint
 
@@ -52,7 +52,7 @@ ms.locfileid: "59438364"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 >| Directory.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
@@ -143,6 +143,43 @@ IGlobe 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 | 您的應用程式是否公開任何 web APIs？ | 否 |
 | 您的應用程式是否使用預覽 APIs？ | 否 |
 | 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性漏洞評估審查 (DAST/SAST/滲透測試)  | 不適用 |
+| [**運作安全性**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-防毒程式 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-風險排名 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-修補程式 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-防火牆 (或同等技術)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-Web 應用程式防火牆 (WAFs)  (選用)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全的軟體發展/部署 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入偵測及防護 (選用)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢查 (記錄資料)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
+| [**資料處理安全性 &amp; 隱私權**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;靜態資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留與處置 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

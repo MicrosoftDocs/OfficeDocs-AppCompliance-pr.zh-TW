@@ -2,18 +2,18 @@
 title: MyOKR by SOE 技術所用的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/18/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: myOKR 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 94d5b0056961f509423819a04160e87bb4b5e3e0
-ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
+ms.openlocfilehash: c4a3e8872b8042f0114925c0e89de12b98ef5440
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131727"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411468"
 ---
 # <a name="myokr"></a>myOKR
 
@@ -55,7 +55,7 @@ SOE 技術所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | 取得使用者行事曆的詳細資料，以在使用者行事曆中建立1:1 會議、更新或刪除 myOKR 平臺所建立，以及顯示閒置時間槽 | 在 myOKR 平臺中建立的會議，我們會在資料庫中儲存已建立的行事曆識別碼及加入 URL。 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
 >| User.Read | 委託 | 我們使用使用者 azure 物件識別碼，讓使用者使用 Microsoft 驗證針對電子郵件登入 myOKR 應用程式 | 使用者電子郵件和 azure 主動物件識別碼 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
@@ -101,17 +101,6 @@ SOE 技術所提供的資訊給 Microsoft：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -138,3 +127,4 @@ SOE 技術所提供的資訊給 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

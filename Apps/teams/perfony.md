@@ -2,18 +2,18 @@
 title: Perfony 的應用程式資訊（按 Perfony）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 06/20/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Perfony 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b936a0a6834f6904ced959b5a7c00e130a74480c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: deeb6ea3abe6e17c8d325c78eb25cc933d64f44d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279021"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411548"
 ---
 # <a name="perfony"></a>Perfony
 
@@ -100,4 +100,5 @@ ms.locfileid: "59279021"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

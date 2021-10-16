@@ -2,18 +2,18 @@
 title: StealthMail 依 Stealthmail 軟體有限公司的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/31/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: StealthMail 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 322cdc906ab0cd2ae8980d1412bb4dd9c897a5f6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 117f7c791048373b4e1d985c991b001f5aa595dd
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278581"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60407362"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -55,7 +55,7 @@ ms.locfileid: "59278581"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ChannelMessage Read。 All | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
 >| ChannelMessage 傳送 | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
@@ -139,3 +139,4 @@ Stealthmail 軟體有限公司會提供此資訊，告知此應用程式如何�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

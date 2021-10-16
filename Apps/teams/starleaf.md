@@ -2,18 +2,18 @@
 title: StarLeaf 的應用程式資訊（按 StarLeaf）
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 06/17/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: StarLeaf 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8f9878d4de6e09c283c6d13ee7351de9fb5f0eb8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0a339c98c0d76da7269df25a7dfd76f896e4f96f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278424"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408262"
 ---
 # <a name="starleaf"></a>StarLeaf
 
@@ -54,7 +54,7 @@ ms.locfileid: "59278424"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 應用程式 | 我們會透過使用 Office.js 自訂屬性介面，存放會議的會議、出席者電子郵件地址和單一值擴充屬性，以及我們在會議上進行讀取和寫入的 iCalUId。 ICalUId 是用來將使用者&#8217;的 outlook 行事曆中的會議與我們服務上的視訊會議關聯。 您可以使用時間/日期和出席者，及時為服務上的適當人員提供影片會議。 SVEP 是用來與我們的 O365 增益集搭配使用，以提供一個介面，讓使用者可以在我們的服務（如錄製）上設定有關影片會議的詳細資料。 | 用於訂閱 webhook 通知，以追蹤使用者對其行事曆中的事件所做的變更，並更新我們的服務，使其保持一致。 當使用者與我們的 Teams 應用程式互動，並在我們的服務上排程會議時，也可以用來在行事曆中建立事件。 | [6e86b349-768f-4953-ac2e-fb03f92db4be](https://docs.microsoft.com/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be) |
 >| User.Read | 應用程式 | 我們會儲存 oauth 重新整理權杖，以供登入。 我們會儲存使用者設定檔 id，以與該使用者未來的 OAuth 嘗試進行比較，並確定我們不&#8217;t 儲存其詳細資料兩次。  | 允許使用者登入 app，並允許我們的應用程式取得使用者&#8217;的電子郵件地址，將其登入與我們的服務上的帳戶關聯。  | [6e86b349-768f-4953-ac2e-fb03f92db4be](https://docs.microsoft.com/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be) |
@@ -66,7 +66,7 @@ ms.locfileid: "59278424"
 
 >| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| 如果發生技術支援問題，則 organisational 資料可能會轉接至 SalesForce，以進行案例管理。 如果使用者使用 PSTN 撥入功能，則通話會透過 Twilio、Plivo 或 Voxbone 進行傳遞。 |  | N/A |
+>| 如果發生技術支援問題，則 organisational 資料可能會轉接至 SalesForce，以進行案例管理。 如果使用者使用 PSTN 撥入功能，則通話會透過 Twilio、Plivo 或 Voxbone 進行傳遞。 |  | 不適用 |
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -110,4 +110,5 @@ ms.locfileid: "59278424"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -2,18 +2,18 @@
 title: Vtiger CRM 的應用程式資訊 Vtiger
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Vtiger CRM 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 66d6483715102cee5067cff48ba9591ee821be9e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: be7e2463ce3324b2831630cae662813af698a4f6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278422"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411398"
 ---
 # <a name="vtiger-crm"></a>Vtiger CRM
 
@@ -55,7 +55,7 @@ ms.locfileid: "59278422"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 應用程式 | 會取得電子郵件地址以驗證 AuthToken。 | Azure 物件識別碼每隔2天都會儲存並清除，以避免在 MS 小組要求進行應用程式時進行 relookup。 | [7a483472-4f1b-4c75-bff3-7a48dae227dc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7a483472-4f1b-4c75-bff3-7a48dae227dc) |
 
@@ -95,17 +95,6 @@ ms.locfileid: "59278422"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -133,3 +122,4 @@ Vtiger 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

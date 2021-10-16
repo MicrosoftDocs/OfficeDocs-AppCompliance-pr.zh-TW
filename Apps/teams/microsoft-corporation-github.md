@@ -2,18 +2,18 @@
 title: Microsoft Corporation GitHub 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 GitHub 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 70982b15a1211e8747551a5bc17e05405139235c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3eb4472dec4aeeadc4c439c013763a7e71e5c245
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279429"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410957"
 ---
 # <a name="github"></a>GitHub
 
@@ -81,7 +81,7 @@ Microsoft Corporation 已提供此資訊，讓您瞭解此應用程式如何收�
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -118,3 +118,4 @@ Microsoft Corporation 已提供此資訊，說明此應用程式如何處理驗�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

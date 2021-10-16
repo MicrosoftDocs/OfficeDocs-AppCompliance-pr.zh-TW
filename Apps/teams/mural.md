@@ -2,18 +2,18 @@
 title: MURAL 的應用程式資訊（按 MURAL）
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/22/2021
+ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MURAL 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 58349e188a709d1f74a3a3b6426ca4b4a34c34d4
-ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
+ms.openlocfilehash: 547125dfa636a60f8a95153c5b75b060ee2f65f1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60233617"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60409446"
 ---
 # <a name="mural"></a>MURAL
 
@@ -122,3 +122,4 @@ MURAL 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

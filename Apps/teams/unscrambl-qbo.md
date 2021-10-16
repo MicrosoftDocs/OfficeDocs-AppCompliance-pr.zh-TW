@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: qbo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57d228504c0432aea96d8fc915606b1c71d36cf1
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 74734019fc35da357552739b3ddabbd223cf541d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992073"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410807"
 ---
 # <a name="qbo"></a>qbo
 
@@ -127,3 +127,4 @@ Unscrambl 此資訊的提供方式是關於此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Communardo 產品的 Link Spotter 應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Link Spotter 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8a6c2ee716c7e07686e2c62e1cd79196acbdc5a3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1224640f839a0e7147f75cad57ea8bf701f88477
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278268"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411097"
 ---
 # <a name="link-spotter"></a>Link Spotter
 
@@ -55,7 +55,7 @@ Communardo 產品所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 委託 | 檢查目前使用者的通道成員資格 | 無 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
 >| ChannelMessage Read。 All | 應用程式 | 郵件內的 url、messageid、回復郵件識別碼、通道識別碼、作者識別碼 .。。這些資訊是必要的，因為 Graph 不會提供一種方法，可以取得在通道上的郵件中張貼的所有連結。 因此，必須主動分析郵件，以便在 Teams] 索引標籤中提供連結功能。 | 郵件內部的 url、messageid、回復郵件識別碼、通道識別碼、作者識別碼 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
@@ -110,17 +110,6 @@ Communardo 產品所提供的資訊給 Microsoft：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -148,3 +137,4 @@ Communardo 產品會提供此資訊，此應用程式會如何處理驗證、授
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

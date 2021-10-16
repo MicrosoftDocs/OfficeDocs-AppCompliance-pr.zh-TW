@@ -2,18 +2,18 @@
 title: Sensei Labs Inc. Sensei Labs 指揮的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/05/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Sensei 實驗室導體的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0c7fa93ad3521decc194fcddf94d86d161a864ea
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b2ff7116020569a5a03ccd86cc30b580ded30c58
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278040"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408392"
 ---
 # <a name="sensei-labs-conductor"></a>Sensei Labs Conductor
 
@@ -89,7 +89,7 @@ Sensei Labs Inc. 已提供此資訊。關於此應用程式如何收集和儲存
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -139,3 +139,4 @@ Sensei Labs Inc. 已提供此資訊。關於此應用程式如何處理驗證、
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

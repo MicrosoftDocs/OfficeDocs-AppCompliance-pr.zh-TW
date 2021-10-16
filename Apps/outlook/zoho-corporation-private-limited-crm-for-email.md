@@ -2,18 +2,18 @@
 title: Zoho 公司私人限制之 Zoho CRM 的電子郵件應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Zoho CRM 的所有可用安全性和符合性資訊資訊，如電子郵件、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 70b8cb54057dfb9c08068a444127bc78e736c84c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2d18e904a02190310c94dde3010c2db103705b32
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279458"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410517"
 ---
 # <a name="zoho-crm-for-email"></a>電子郵件的 CRM Zoho
 
@@ -53,7 +53,7 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | [行事曆] 資料夾識別碼會儲存，以將連絡人從 Zoho CRM 同步處理至 Microsoft &amp; 。 儲存諸如 event_name、event_location、participant_details 的行事曆資訊。 | 允許使用者與 Zoho CRM 同步處理 Office365 事件。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| 連絡人。 ReadWrite | 委託 | [連絡人] 資料夾識別碼會儲存為將連絡人從 Zoho CRM 同步處理至 Microsoft， &amp; 反之亦然。 會儲存 first_name、last_name、電子郵件地址等連絡人資訊。 | 允許使用者與 Zoho CRM 同步處理 Office365 連絡人。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
@@ -102,4 +102,5 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

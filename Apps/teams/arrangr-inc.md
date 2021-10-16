@@ -2,18 +2,18 @@
 title: Arrangr by Arrangr，Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/15/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Arrangr 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3ccc0e501a899fcb5dc613c254de9aa62911d023
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a79f5d727ae54489bf5623d41c2bf77c32f4be81
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277816"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410417"
 ---
 # <a name="arrangr"></a>Arrangr
 
@@ -55,7 +55,7 @@ Arrangr，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadWrite 的行事曆 | 委託 | 我們會收集使用者行事曆的名稱，以及其行事曆事件的詳細資料，以協助排程會議。 | 我們會儲存與其相連之任何行事曆的名稱，讓他們可以查看和變更他們所連接的行事曆。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
 >| ReadBasic | 委託 | 收集使用者可使用的頻道清單，讓我們可以向他們顯示其通道的清單，以供他們挑選共用 Arrangr 邀請的人。 | 我們不會將資訊儲存在使用者的頻道上 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
@@ -115,17 +115,6 @@ Arrangr，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -140,3 +129,4 @@ Arrangr，Inc. 已提供此資訊。關於此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

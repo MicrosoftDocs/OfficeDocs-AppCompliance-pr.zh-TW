@@ -2,18 +2,18 @@
 title: 由 LTAPPs 軟體 CO LTAPPs 之多核准程式的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/12/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊，針對多個核准程式 LTAPPs、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c001622957b8f1a56b776cbe2db034cc9225ef5d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e605fa6dd849def2c87e611182a47c80c895ff99
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278862"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410156"
 ---
 # <a name="multi-approval-process-ltapps"></a>多重核准程式 LTAP
 
@@ -54,7 +54,7 @@ ms.locfileid: "59278862"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 使用者資訊 &amp; 租使用者識別碼 | 應用程式只會儲存租使用者識別碼。 因為 add 會將所有的資料都儲存在 Leave 要求 Pro app SharePoint 上，所以使用租使用者識別碼的應用程式是尋找 SharePoint 應用程式 URL 的金鑰。 | [d2682b2a-2037-4545-94b6-3e7216ecca5f](https://docs.microsoft.com/microsoft-365-app-certification/azure/d2682b2a-2037-4545-94b6-3e7216ecca5f) |
 
@@ -101,17 +101,6 @@ ms.locfileid: "59278862"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -138,3 +127,4 @@ ms.locfileid: "59278862"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

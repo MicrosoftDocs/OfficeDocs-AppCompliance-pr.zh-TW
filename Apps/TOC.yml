@@ -174,8 +174,8 @@
           href: sharepoint/adobe-inc-sign-for-sharepoint.md
         - name: 線上 SharePoint 的敏捷工作面板
           href: sharepoint/agile-is-task-board-for-sharepoint-online.md
-        - name: ArcGIS 地圖
-          href: sharepoint/esri-inc-arcgis-maps.md
+        - name: SharePoint 的 ArcGIS
+          href: sharepoint/esri-inc-arcgis-for-sharepoint.md
         - name: SharePoint 的 FormMachines 連接器
           href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
         - name: SharePoint 的 Gaggle
@@ -487,6 +487,8 @@
           href: teams/controlex-gmbh-grouplotse.md
         - name: Gtmhub
           href: teams/gtmhub.md
+        - name: GuideSpark 通訊雲端
+          href: teams/guidespark-communicate-cloud.md
         - name: Guru
           href: teams/guru-technologies.md
         - name: Health Hero

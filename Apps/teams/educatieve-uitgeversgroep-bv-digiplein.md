@@ -2,18 +2,18 @@
 title: Digiplein 的應用程式資訊，由 Educatieve Uitgeversgroep B.V。
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 09/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Digiplein 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 92f299ff3838c2a8c25c0e5a624ebfad651bc0f8
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 0f74b7dbe065573e2679404475c30251ac86cd53
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112250"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411751"
 ---
 # <a name="digiplein"></a>Digiplein
 
@@ -93,17 +93,6 @@ Educatieve Uitgeversgroep 所提供的資訊 B.V。 至 Microsoft：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ Educatieve Uitgeversgroep 所提供的資訊 B.V。 至 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

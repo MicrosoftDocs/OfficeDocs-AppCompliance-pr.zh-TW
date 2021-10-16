@@ -2,20 +2,20 @@
 title: AmTrav 商務旅行的應用程式資訊 AmTrav
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/11/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: AmTrav 商務旅行的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b5a4bb145a5cdc574088ca47e1198e5d09e8fdae
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: b872e6b1a915bca45002240703283b1e0e58be33
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785447"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410457"
 ---
-# <a name="amtrav-business-travel"></a>商務旅行 AmTrav
+# <a name="amtrav-business-travel"></a>AmTrav 商務旅行
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "59785447"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 商務旅行 AmTrav |
+| 應用程式名稱 | AmTrav 商務旅行 |
 | ID | WA200003235 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | AmTrav |
@@ -93,17 +93,6 @@ ms.locfileid: "59785447"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ AmTrav 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

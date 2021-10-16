@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Appraisd 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 2ed2853f03b9b3e6e235e87d634fb5c2aafaaec6
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 0b098dc89b60ad052d520b8c6ea56a2bda237544
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59784753"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410437"
 ---
 # <a name="appraisd"></a>Appraisd
 
@@ -55,7 +55,7 @@ Appraisd 有限公司已提供此資訊。關於此應用程式如何收集和�
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 個人讀取 | 委託 | [人員選擇] 會向使用者呈現其小組成員的清單。 這是為了支援 Appraisd 中的核心功能。 | 不會儲存這種資料。 | [4f037969-20ef-4a41-8330-422b7b115eb6](https://docs.microsoft.com/microsoft-365-app-certification/azure/4f037969-20ef-4a41-8330-422b7b115eb6) |
 >| User.Read | 委託 | 使用者的電子郵件地址 (upn) 和使用者識別碼，目的是用來尋找 Appraisd 內的使用者，並將其連結至其 Teams 帳戶。 | 會儲存使用者的電子郵件地址 (upn) 和使用者識別碼，以記住使用者 Appraisd 和 Teams 帳戶之間的連結。 | [4f037969-20ef-4a41-8330-422b7b115eb6](https://docs.microsoft.com/microsoft-365-app-certification/azure/4f037969-20ef-4a41-8330-422b7b115eb6) |
@@ -99,17 +99,6 @@ Appraisd 有限公司已提供此資訊。關於此應用程式如何收集和�
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -136,3 +125,4 @@ Appraisd 有限公司已提供此資訊。關於此應用程式如何處理驗�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

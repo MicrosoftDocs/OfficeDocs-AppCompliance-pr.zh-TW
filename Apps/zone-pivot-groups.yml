@@ -66,10 +66,48 @@ groups:
     title: 安全性及合規性
   - id: identity
     title: 身分識別
+- id: app-info-data-mcas-certification
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: mcas
+    title: 安全性及合規性
+  - id: certification
+    title: 認證
+- id: app-info-data-identity-certification
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: identity
+    title: 身分識別
+  - id: certification
+    title: 認證
+- id: app-info-data-mcas-identity-certification
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: mcas
+    title: 安全性及合規性
+  - id: identity
+    title: 身分識別
+  - id: certification
+    title: 認證
 metadata:
-  ms.openlocfilehash: b07379344dd27d0fd3d2ff699dd23854a2c377c8c558430f03a5e4d245e14654
-  ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+  ms.openlocfilehash: 251f0461ab55741522c650f13a0ff3b50eecb560
+  ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "54749293"
+  ms.lasthandoff: 10/16/2021
+  ms.locfileid: "60411277"

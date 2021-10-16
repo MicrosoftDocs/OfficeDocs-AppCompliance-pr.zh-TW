@@ -2,18 +2,18 @@
 title: BravoNow 的應用程式資訊，由 SpadeWorx 軟體服務
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: BravoNow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1eb20f61739f5b6969c3f3889666adcce05d64a0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 742d23bb2fdc8b91f0636fb0bb1842cac2ee05fa
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278429"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410857"
 ---
 # <a name="bravonow"></a>BravoNow
 
@@ -55,7 +55,7 @@ ms.locfileid: "59278429"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委託 | 使用者的電子郵件地址。 | NA | [272032ad-0c2e-4928-910e-5d52b19f70d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/272032ad-0c2e-4928-910e-5d52b19f70d5) |
 
@@ -85,7 +85,7 @@ ms.locfileid: "59278429"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->N/A
+>不適用
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -134,3 +134,4 @@ ms.locfileid: "59278429"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

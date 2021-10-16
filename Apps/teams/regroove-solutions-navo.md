@@ -2,18 +2,18 @@
 title: Navo by Regroove 解決方案的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 01/20/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Navo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e17eac9ef2db9418a38900d0de84ce62fad71097
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 554d59fbb03382ab517bb2f928823a33b2ec4ee0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277797"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411528"
 ---
 # <a name="navo"></a>Navo
 
@@ -54,7 +54,7 @@ Regroove 解決方案所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | 應用程式 | 我們會儲存使用者計數，並在每個計費週期中查詢一次。 我們也會使用租用識別碼做為組織的識別碼。 | 允許我們計算租用中的使用者數目，供計費之用。 它也可讓我們查詢使用者所在的群組，如此才能使用安全性調整來保護特定資料。 我們也會查詢組織的租賃識別碼。 | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
 >| User.Read | 委託 | 未儲存資料 | 登入並讀取使用者設定檔 | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
@@ -108,4 +108,5 @@ Regroove 解決方案所提供的資訊給 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

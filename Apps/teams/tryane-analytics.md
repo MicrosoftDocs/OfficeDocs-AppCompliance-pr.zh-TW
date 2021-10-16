@@ -2,18 +2,18 @@
 title: Tryane Analytics 的應用程式資訊 Tryane
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Tryane Analytics 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: e806f46e2ff2046defcc7967f6d7bec420629329
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 474c7824163b9b457ca3df2e705dc2cb1ccb8845
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59975108"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410817"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -55,7 +55,7 @@ ms.locfileid: "59975108"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ReadBasic | 應用程式 | 通道名稱和其他屬性 | 所有列出具有名稱的通道、描述 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
 >| ChannelMessage Read。 All | 應用程式 | 使用者投遞的郵件數目 | 列出所有通道郵件&#8217; 中繼資料 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
@@ -107,9 +107,9 @@ ms.locfileid: "59975108"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36057' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36057" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -140,3 +140,4 @@ Tryane 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
