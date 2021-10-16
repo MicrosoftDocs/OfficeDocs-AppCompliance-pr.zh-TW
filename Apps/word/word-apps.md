@@ -2,17 +2,17 @@
 title: Microsoft Word應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/05/2021
+ms.date: 10/15/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 3c40ee92ac084d0e61e33cd14e4642f6dd434b30
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: abf08afa4f92f6457db82a2e467a9d60a40370f0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123423"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60404640"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word應用程式安全性和合規性
 

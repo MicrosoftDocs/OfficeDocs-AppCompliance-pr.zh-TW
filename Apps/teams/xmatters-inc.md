@@ -2,18 +2,18 @@
 title: XMatters by xMatters Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/31/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: xMatters 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 1cb8d22b32d76f47bd64c0d4b4e3d3da311ecb46
-ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
+ms.openlocfilehash: 96b72e320547f968c081fa1521979b6b4da8e1c5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60080907"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60405802"
 ---
 # <a name="xmatters"></a>xMatters
 
@@ -35,7 +35,7 @@ XMatters Inc. 所提供的資訊給 Microsoft：
 | 應用程式名稱 | xMatters |
 | ID | WA104382013 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | xMatters Inc.。 |
+| 合作夥伴公司名稱 | xMatters Inc. |
 | 合作夥伴網站的 URL | [https://www.xmatters.com](https://www.xmatters.com) |
 | Teams 應用程式資訊頁面的 URL | [https://help.xmatters.com/integrations/socialchat/microsoft...](https://help.xmatters.com/integrations/socialchat/microsoftteams.htm) |
 | 隱私權原則的 URL | [https://www.xmatters.com/policy/privacy-policy/](https://www.xmatters.com/policy/privacy-policy/) |
@@ -104,17 +104,6 @@ XMatters Inc. 所提供的資訊給 Microsoft：
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -129,3 +118,4 @@ XMatters Inc. 已提供此資訊。關於此應用程式如何處理驗證、授
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

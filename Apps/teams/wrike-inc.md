@@ -2,18 +2,18 @@
 title: Wrike by Wrike Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/04/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Wrike 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f5f044ee38389321d9f566d1e5f8e5c95586df4c
-ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
+ms.openlocfilehash: df1592c144238d87643602613bec173f63714e82
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131701"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60405842"
 ---
 # <a name="wrike"></a>Wrike
 
@@ -135,3 +135,4 @@ Wrike Inc. 已提供此資訊。關於此應用程式如何處理驗證、授權
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
