@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ApproveSimple 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e4f9a44196c2cc42474485f9787ecb09bba72ec6
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 2491e93860f31bec29ba269e36f0d08b4651559e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411842"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428930"
 ---
 # <a name="approvesimple"></a>ApproveSimple
 
@@ -101,5 +101,4 @@ Capriza，Inc. 已提供此資訊，Inc. 瞭解此應用程式如何收集和儲
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

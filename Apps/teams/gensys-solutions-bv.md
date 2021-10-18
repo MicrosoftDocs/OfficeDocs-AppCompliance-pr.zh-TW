@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Gensys 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 17d48bfb3010b0baf5573d2a1fb3327abd58b110
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7a021f0591dc1690bea17327d3a37637916c322a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415100"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429150"
 ---
 # <a name="gensys"></a>Gensys
 
@@ -119,4 +119,3 @@ Gensys 解決方案所提供的資訊 BV 至 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

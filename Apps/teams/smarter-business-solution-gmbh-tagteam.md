@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TagTeam 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 025d0040bdd58a01cd3993445c025b9a61f90822
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 81a65cb4b672c1f76c1334d564951a0298b9f9f0
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60408322"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428710"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -136,4 +136,3 @@ GmbH 此應用程式如何收集和儲存組織資料，以及您的組織將會
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

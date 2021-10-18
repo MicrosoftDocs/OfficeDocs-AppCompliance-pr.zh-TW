@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Cuckoo 健身的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b8a661024c7dba8bc782f97db23456bedf8a579b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: bfe71be02837f49ca57b9ea4ddddaf83eea35511
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412473"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430231"
 ---
 # <a name="cuckoo-workout"></a>Cuckoo Workout
 
@@ -140,4 +140,3 @@ ms.locfileid: "60412473"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

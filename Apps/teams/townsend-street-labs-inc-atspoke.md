@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: atSpoke 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 86a4512603429feff61ceeee485e8e4042bb9a6d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 17fc89d254fd558c318c48de53456e9fa23054f7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413305"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429821"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -112,5 +112,4 @@ Townsend 大街 Labs，Inc. 所提供的資訊給 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

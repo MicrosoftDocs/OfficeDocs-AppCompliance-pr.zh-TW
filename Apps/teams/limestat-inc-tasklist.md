@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，有關 TaskList 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b293bcf6808a5b4902f96c44a6cd0157a95757d4
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 2d668639550d089aa15fe37124048aa49e7147ad
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413715"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429591"
 ---
 # <a name="tasklist"></a>TaskList
 
@@ -99,5 +99,4 @@ LimeStat，Inc. 已提供此資訊，Inc. 瞭解此應用程式如何收集和�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

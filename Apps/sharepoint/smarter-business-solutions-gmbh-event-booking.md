@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，以獲得更聰明的事件預約、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: abb3c1aefe5dbb1c16469b8a0f479a24fcf6bca4
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: eb79e6c2ca6438e3e3f55922ce4d8930d8d8a17e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412032"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429651"
 ---
 # <a name="smarter-event-booking"></a>更聰明的事件預約
 
@@ -100,4 +100,3 @@ ms.locfileid: "60412032"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

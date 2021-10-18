@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 MIPA 的安全性和符合性資訊資訊-我的智慧個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas-identity-certification
-ms.openlocfilehash: de23eced9a34fda3d30758dea16b80332d99afe2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: f54323f43364c84dcd5cd1e4bed3b2dba431c48c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412112"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428970"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA-我的智慧個人助理
 
@@ -153,43 +153,6 @@ IGlobe 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 | 您的應用程式是否公開任何 web APIs？ | 否 |
 | 您的應用程式是否使用預覽 APIs？ | 否 |
 | 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認證資訊
-
-| **Control** | **Microsoft 365認證結果** |
-|:------------|:---------------------------------------|
-| [**應用程式安全性**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性漏洞評估審查 (DAST/SAST/滲透測試)  | 不適用 |
-| [**運作安全性**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-防毒程式 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-應用程式控制 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-風險排名 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-修補程式 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-防火牆 (或同等技術)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-Web 應用程式防火牆 (WAFs)  (選用)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全的軟體發展/部署 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入偵測及防護 (選用)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢查 (記錄資料)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
-| [**資料處理安全性 &amp; 隱私權**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;靜態資料 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留與處置 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

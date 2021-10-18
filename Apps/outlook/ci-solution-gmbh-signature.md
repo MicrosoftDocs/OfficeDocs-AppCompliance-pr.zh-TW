@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星形登錄中，CI 簽名的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bad7efd16d1f3e8993892265bee3ada983b59455
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 21fab81e2f7257f11f32f48e4f31cefa98776cb7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411237"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429240"
 ---
 # <a name="ci-signature"></a>CI-Signature
 
@@ -111,4 +111,3 @@ Ci 解決方案 GmbH 提供給 Microsoft 的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

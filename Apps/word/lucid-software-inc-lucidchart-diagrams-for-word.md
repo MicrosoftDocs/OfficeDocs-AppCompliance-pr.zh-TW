@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lucidchart 圖表的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1e5c76df854304b05af209288315c762c8300ca7
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: df9a4b46213f5bf7cecba6de5e539674dadec369
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414298"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428436"
 ---
 # <a name="lucidchart-diagrams-for-word"></a>Word 的 Lucidchart 圖表
 
@@ -110,5 +110,4 @@ Lucid 軟體 Inc. 會提供此資訊，讓您瞭解此應用程式如何收集�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

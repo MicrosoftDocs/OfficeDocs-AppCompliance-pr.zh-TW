@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Desk365 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 14a0c70d5e5252b5fa06de056aecf9b72856ac31
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 5e06dc74289b77118066c05327084410cc990e18
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412913"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430191"
 ---
 # <a name="desk365"></a>Desk365
 
@@ -109,4 +109,3 @@ Kani 技術 Inc. 會提供此資訊，說明此應用程式如何處理驗證、
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

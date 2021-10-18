@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Chronoscope 時間追蹤的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: bbf812cc60f8c11658fec34eea297798eded20e4
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e275e7a41794b06cb7afc65d60e99ef9037f50a5
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410356"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428830"
 ---
 # <a name="chronoscope-time-tracking"></a>Chronoscope 時間追蹤
 
@@ -123,4 +123,3 @@ Chrono 創新已提供此資訊，此應用程式會如何處理驗證、授權�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

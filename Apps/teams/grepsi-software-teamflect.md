@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Teamflect 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 99c3dad8bedb9cf986207cb577ca7d58aa8cbef1
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 93fa21382d60f73ebed1a843700f34061e52fd43
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410226"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429621"
 ---
 # <a name="teamflect"></a>Teamflect
 
@@ -126,4 +126,3 @@ Grepsi 軟體會提供此資訊，此應用程式會如何處理驗證、授權�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

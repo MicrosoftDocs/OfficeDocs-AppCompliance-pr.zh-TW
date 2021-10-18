@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊的資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 96b32b98713d8f56cd83cc9f69bbc7b534bc6b65
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 43c9262669798eeb8a5dedd11b111f0f3a7cf429
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412192"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430181"
 ---
 # <a name="commander"></a>Commander
 
@@ -109,4 +109,3 @@ Nimbella 此資訊的提供方式是關於此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: FormMachines 連接器的所有可用安全性和符合性資訊資訊 SharePoint，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3d5cab668924d0edfed32a807096be68519a775f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d2151a965830af3fa0d1f0a754bef04fdb5b5535
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410477"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428406"
 ---
 # <a name="formmachines-connector-for-sharepoint"></a>SharePoint 的 FormMachines 連接器
 
@@ -99,5 +99,4 @@ ms.locfileid: "60410477"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

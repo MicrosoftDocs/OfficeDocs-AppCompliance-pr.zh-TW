@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，以供員工訓練管理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 37505e2f1ba531b3aa1a03a3fb8c93e6da8f121a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e3922aa2d2aff05ab48f587c405e24e6548ba311
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410917"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429561"
 ---
 # <a name="employee-training-management"></a>Employee Training Management
 
@@ -141,4 +141,3 @@ SharePoint | 所提供的資訊Sapiens 至 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

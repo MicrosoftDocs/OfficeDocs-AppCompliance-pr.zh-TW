@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SkilledHuman 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83bb59f395113df664016c9e30f0bc7358e3cae7
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f80b779cdb834b999cef10911dd48059f8170256
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413425"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428740"
 ---
 # <a name="skilledhuman"></a>SkilledHuman
 
@@ -130,4 +130,3 @@ SaltFlat 提供此資訊的方式是限制此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

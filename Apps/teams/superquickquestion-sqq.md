@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SQQ 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 97be639c9e363f6cc5e5f36231a6f8aaf476a420
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: be0471187ec6ab0f0e4cf09ffcc30f4ff1d6c198
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410827"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428500"
 ---
 # <a name="sqq"></a>SQQ
 
@@ -109,4 +109,3 @@ SuperQuickQuestion 此資訊的提供方式是關於此應用程式如何處理�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

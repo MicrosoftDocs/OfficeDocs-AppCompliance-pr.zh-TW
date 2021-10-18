@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Google Analytics 的安全性和符合性資訊資訊 Insights，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ac096261a48b8031369be672a27141ba549f07f0
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4c35716aedeb3c1cefd954607f349e62746a9872
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413014"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429931"
 ---
 # <a name="google-analytics-insights"></a>Google Analytics 深入解析
 
@@ -103,5 +103,4 @@ Freevolut 有限公司會提供此資訊，告知有關此應用程式如何收�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

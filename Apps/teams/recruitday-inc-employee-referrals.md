@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可供員工參考的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d83797a31c7ec68009ebf17773c3b8d2fe587fce
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 3f169a817828d56501225bd8a92752ec7f799771
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413460"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428980"
 ---
 # <a name="employee-referrals"></a>員工推薦
 
@@ -122,4 +122,3 @@ Recruitday Inc. 已提供此資訊。關於此應用程式如何處理驗證、�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

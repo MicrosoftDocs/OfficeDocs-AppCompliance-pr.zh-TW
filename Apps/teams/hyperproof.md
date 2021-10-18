@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hyperproof 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b84a4178c13a99e7d41935e77d7c52b61d9804be
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 61874a0b54123d9276301f9e386326f5fa0f8a23
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411007"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428580"
 ---
 # <a name="hyperproof"></a>Hyperproof
 
@@ -130,4 +130,3 @@ Hyperproof 此資訊的提供方式是關於此應用程式如何處理驗證、
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

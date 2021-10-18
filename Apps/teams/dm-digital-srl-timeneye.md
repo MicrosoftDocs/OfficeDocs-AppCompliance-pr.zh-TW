@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Timeneye 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 30c0543469970b94d1020a3c1c64f668ab833075
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c98a1fbd0db2d02caf71e16000d8b57bb8df06da
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412443"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429941"
 ---
 # <a name="timeneye"></a>Timeneye
 
@@ -138,4 +138,3 @@ DM 數位 SRL 提供給 Microsoft 的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

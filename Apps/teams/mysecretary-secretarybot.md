@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SecretaryBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ad8e6b2a2f1a7214db66f37de774c01e65ed92e6
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f3f373b4d507e96e12c77e8c9aef3228138095a8
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415030"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430442"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 
@@ -110,5 +110,4 @@ ms.locfileid: "60415030"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
