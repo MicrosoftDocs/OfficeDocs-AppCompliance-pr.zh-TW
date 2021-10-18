@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 明星登錄中的所有可用安全性和符合性資訊，都是量子 Workplace、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d69d74d770c04eb127a17ccf2a477c94316496b5
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 957fc8a758b989242c4cd39dae5be0abacd0ac08
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413535"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60437099"
 ---
 # <a name="quantum-workplace"></a>量子工作場所
 
@@ -117,4 +117,3 @@ ms.locfileid: "60413535"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

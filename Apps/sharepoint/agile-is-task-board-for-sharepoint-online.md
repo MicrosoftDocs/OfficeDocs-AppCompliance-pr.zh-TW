@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可供 SharePoint 線上運作的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 34526c1037ee220cabfecf6dd06fac93bb0e4952
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f4e423cba32f1555b6db7644aca70df01075d83c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412102"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60437019"
 ---
 # <a name="agile-task-board-for-sharepoint-online"></a>線上 SharePoint 的敏捷工作面板
 
@@ -100,5 +100,4 @@ ms.locfileid: "60412102"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 NE 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8c0637bd18205f8c44c27ba43afd5c091361cb98
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 290611040041298e7093e1df76101394aec8e1d6
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415020"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444654"
 ---
 # <a name="ne"></a>NE
 
@@ -116,4 +116,3 @@ ms.locfileid: "60415020"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用於 SharePoint Adobe 簽署的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: fbe0a3e7e649be8b3958df6c041db62d39006ca9
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 9dc56e593f6736792f71ffb316a253534db68b4f
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412613"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60437269"
 ---
 # <a name="adobe-sign-for-sharepoint"></a>Adobe 簽收 SharePoint
 
@@ -122,4 +122,3 @@ Adobe Inc. 已提供此資訊。此應用程式如何處理驗證、授權、app
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

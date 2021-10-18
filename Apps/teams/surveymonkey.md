@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SurveyMonkey 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4d792807b4a8160b3e62c7c1a23b4cf8a49b2148
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: a67e1c8db56a621253fe8ad0471d4db234dc7d70
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413345"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60432853"
 ---
 # <a name="surveymonkey"></a>SurveyMonkey
 
@@ -116,5 +116,4 @@ SurveyMonkey 使用中央使用者驗證，以維護身分識別與存取管理�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

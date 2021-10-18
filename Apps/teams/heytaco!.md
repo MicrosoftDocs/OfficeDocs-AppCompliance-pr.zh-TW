@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HeyTaco！的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e52056b40599ab98a69a6a93e7b2187ddf5f3765
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 72a600a577b773f1e3de08c7ef10b15b8007d52b
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412372"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444872"
 ---
 # <a name="heytaco"></a>HeyTaco！
 
@@ -115,5 +115,4 @@ Amazon 的資料中心作業已獲 ISO 27001、SOC 1 和 SOC 2/SSAE 16/ISAE 3402
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

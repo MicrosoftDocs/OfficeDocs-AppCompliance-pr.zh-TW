@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: COCO 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8e0dbf1b70767805b01cb6a318e4d00c3399c8ee
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 192e0d2a923f3b2cc1ec698aab5b81de5837bafd
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414589"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434592"
 ---
 # <a name="coco"></a>COCO
 
@@ -127,4 +127,3 @@ ms.locfileid: "60414589"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

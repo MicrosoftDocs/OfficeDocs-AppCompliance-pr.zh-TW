@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 NetSuite 的 CloudExtend Analytics 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3dc8880f51ad68e09bb71276a33b9b2a864a8eaa
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e02f0c9f31495e9ab9e388859b9240e9b05bc534
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413214"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60442275"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>NetSuite 的 CloudExtend 分析
 
@@ -129,4 +129,3 @@ ms.locfileid: "60413214"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

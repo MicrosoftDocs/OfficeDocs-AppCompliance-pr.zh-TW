@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: BrainBot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c6db3fdfd92513cd670fab84eecc4fa711a7449e
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 568e5b5ad334c5b93049c7bba878b39b73050050
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413076"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445441"
 ---
 # <a name="brainbot"></a>BrainBot
 
@@ -134,4 +134,3 @@ Biggerbrains 此資訊的提供方式是關於此應用程式如何處理驗證�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，行事曆 BOT、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊和安全性/符合性資訊的所有可用安全性和符合性資訊資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2259180e558201ab86eff52250ed962822700be1
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f36f7482abc2f5c83f107c7930eb6417d93c8803
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410427"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60441031"
 ---
 # <a name="calendar-bot"></a>行事曆 BOT
 
@@ -137,4 +137,3 @@ ms.locfileid: "60410427"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

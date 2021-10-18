@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430955"
+ms.locfileid: "60432838"
 ---
 # <a name="now-virtual-agent"></a>現在虛擬代理程式
 

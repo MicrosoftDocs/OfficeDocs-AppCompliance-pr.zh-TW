@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MeisterTask 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 132c66319b56e450bf39632517a54ecfe4409e5a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 5edbfbf35ca0f80f2160c233f64dd1552feff484
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410126"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434554"
 ---
 # <a name="meistertask"></a>MeisterTask
 
@@ -101,5 +101,4 @@ ms.locfileid: "60410126"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

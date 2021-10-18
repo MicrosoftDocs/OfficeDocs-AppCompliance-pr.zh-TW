@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，如 Power BI 共同作業、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8f5b4117ce5508d627bea6878d5c4ac00d2b2677
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: a71a8baab7328dfc139f8ee4f269c4eec5305611
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413937"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444899"
 ---
 # <a name="power-bi-collaboration"></a>Power BI 共同作業
 
@@ -133,4 +133,3 @@ Ataira 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Mentimeter 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 899f07f22590dc593c34f052f214d261d6004235
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: fddd824863b2887191b266348f9a65842cf1917c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414539"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60442725"
 ---
 # <a name="mentimeter"></a>Mentimeter
 
@@ -120,4 +120,3 @@ Mentimeter 此資訊的提供方式是關於此應用程式如何處理驗證、
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

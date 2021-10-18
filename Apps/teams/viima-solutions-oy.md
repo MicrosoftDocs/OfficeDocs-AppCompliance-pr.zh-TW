@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Viima 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5b9233ff1a9a5cb8613ac7a9c6c2e1e00e71e860
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4e75995c34daf7c50c9c0ec0e6843c776c55ab1c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414880"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434532"
 ---
 # <a name="viima"></a>Viima
 
@@ -133,4 +133,3 @@ Viima 解決方案所提供的資訊 Oy 至 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

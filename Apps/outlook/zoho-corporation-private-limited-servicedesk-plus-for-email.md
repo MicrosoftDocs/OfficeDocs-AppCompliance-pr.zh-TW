@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus 的所有可用安全性和符合性資訊資訊，以及電子郵件、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e8637cb691578dfa64a7a26481276f2d0e9688a6
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 0ccf0b8f7a17077bbf468369779e70335ac8e7e5
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413495"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60439264"
 ---
 # <a name="servicedesk-plus-for-email"></a>電子郵件的 ServiceDesk Plus
 
@@ -102,5 +102,4 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

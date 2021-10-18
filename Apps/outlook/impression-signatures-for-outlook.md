@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Outlook 的印象碼的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 66fca767e647970b1fbfa5447e687d66f724095f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: dbc947a788beeaa91da81efcf59f8d7d5be790b5
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414257"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444729"
 ---
 # <a name="impression-signatures-for-outlook"></a>Outlook 的印象特徵碼
 
@@ -104,4 +104,3 @@ ms.locfileid: "60414257"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
