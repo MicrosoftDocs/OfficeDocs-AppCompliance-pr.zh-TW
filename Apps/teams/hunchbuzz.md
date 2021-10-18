@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HunchBuzz 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a8412ba6c676ed5728bee9db5b8f5c68966d4af7
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 83d2462a6c9fe67560153c56d84bd8a3b5368d38
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411017"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428055"
 ---
 # <a name="hunchbuzz"></a>HunchBuzz
 
@@ -99,5 +99,4 @@ ms.locfileid: "60411017"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

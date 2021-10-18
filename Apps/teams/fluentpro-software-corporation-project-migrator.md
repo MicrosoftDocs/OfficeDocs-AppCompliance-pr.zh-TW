@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中 Project 遷移器、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊及安全性/符合性資訊的所有可用安全性和符合性資訊資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ff0ae7922bc6b1454ac42b517811faa94c489c34
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 1569bf8fe9cf8dd2e1f96e857d0a9f2a63af774a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412382"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428065"
 ---
 # <a name="project-migrator"></a>Project Migrator
 
@@ -126,4 +126,3 @@ FluentPro 軟體公司所提供的資訊給 Microsoft：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，如核准的連絡人行事曆、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 19d7bdeab6ec2d8f3d9a490d74cb2d59020a8952
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6bf401411f26e95a952e75256bc46b8f28efed53
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414187"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428155"
 ---
 # <a name="approved-contact-calendars"></a>核准的連絡人行事曆
 
@@ -129,4 +129,3 @@ ms.locfileid: "60414187"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于發票和時間追蹤的安全性和符合性資訊資訊 Zoho 發票、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 657663aaae99a7a11efb113ea8b598714cd5e075
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: cc7454e5f1181637f2ecacbf510c8191d51da0e7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413194"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428185"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Zoho 發票的發票和時間追蹤
 
@@ -101,5 +101,4 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

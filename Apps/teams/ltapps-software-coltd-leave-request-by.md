@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LTAPPs 要求的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4202639a726a320c311b5093ab8e6547d9b39306
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 96ee7b8fe57de18d05dab5593cc37ba8a5e33f6a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411608"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428025"
 ---
 # <a name="leave-request-by-ltapps"></a>保留 LTAP 的要求
 
@@ -107,5 +107,4 @@ ms.locfileid: "60411608"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

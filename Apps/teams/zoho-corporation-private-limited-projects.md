@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho 專案的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7bc0d1f79ec7464cdd76775a636a1098aa7b8a2d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 325d61c4a330470d50a84cd640ba7a9ac784df1e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410767"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429301"
 ---
 # <a name="zoho-projects"></a>Zoho Projects
 
@@ -110,5 +110,4 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

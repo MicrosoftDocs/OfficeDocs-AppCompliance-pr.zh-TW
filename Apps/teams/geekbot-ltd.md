@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Geekbot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7caa639e4a1a9bf0034750222872a2a6f1dc0365
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 56128ebe0b613000c8d61883937abd827c91c773
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412983"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60423124"
 ---
 # <a name="geekbot"></a>Geekbot
 
@@ -121,4 +121,3 @@ Geekbot 有限公司會提供此資訊，告知此應用程式如何處理驗證
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

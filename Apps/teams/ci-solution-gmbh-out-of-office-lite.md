@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可供 CI Office 的安全性和符合性資訊資訊。 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊，都是針對 CI 外 Lite。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c827481d24c72e3998007f381ff1b733a262af9c
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f69fe096294cea61141ec39f05305fce56a8c7bb
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415150"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429371"
 ---
 # <a name="ci-out-of-office-lite"></a>CI-Out-of-Office Lite
 
@@ -120,4 +120,3 @@ Ci 解決方案 GmbH 提供給 Microsoft 的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
