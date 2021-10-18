@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Studi.ly 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9b84ab2d874bd4c6aab3b8e2c306b5bbc0e8da68
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 478c078c5f74535ff8b0381aa4eac038fa29dab7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412933"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430825"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -117,5 +117,4 @@ inLogic-Office Store 會提供此資訊，讓您瞭解此應用程式如何收�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

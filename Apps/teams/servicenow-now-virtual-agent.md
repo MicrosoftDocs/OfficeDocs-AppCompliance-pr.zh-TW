@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，現在為虛擬代理程式、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 20ae315016fa0d5cbc960616f09bfd350ceb5c43
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 434764db45a5bbd588f96b225d11bfa9d061eee1
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60408342"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430955"
 ---
 # <a name="now-virtual-agent"></a>現在虛擬代理程式
 
@@ -101,5 +101,4 @@ ServiceNow 提供給 Microsoft 的資訊：
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
