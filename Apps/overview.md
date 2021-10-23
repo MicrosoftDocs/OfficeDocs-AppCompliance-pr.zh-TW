@@ -7,20 +7,20 @@ keywords: Microsoft 365 m365 應用程式發行者證明憑證
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: c644414281f46696ff49f3b9eb1341f02e96f0ba
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e36bee4289de320d264a8a5e55c7bc20a4ea803b
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279277"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545765"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 應用程式合規性程式
 
-Microsoft 365 應用程式合規性程式透過三層漸進式方法來實現應用程式安全性與合規性。 每個層次都建立在下一個層面之上 – 這個分層程式讓使用者在使用 Microsoft 365 生態系統中的應用程式時，擁有所需的信心。 目前，程式中的所有層面都是自願的，由應用程式開發人員自行決定是否完成。 
+Microsoft 365 應用程式合規性計畫是應用程式安全性與合規性的雙步驟方法，並包含發行者驗證與 Microsoft 365 認證。 每個層次都建立在下一個層面之上 – 這個分層程式讓使用者在使用 Microsoft 365 生態系統中的應用程式時，擁有所需的信心。  
 
-我們的使命宣言：Microsoft 客戶對執行其組織的應用程式完全信任。
+我們的使命：提供 Microsoft 客戶完全信任執行其組織應用程式的方法。
 
-  ![三層漸進式方法來實現應用程式合規性](media/Microsoft-App-Compliance-Overview.png) 
+![2 層漸進式方法來實現應用程式合規性](media/Microsoft365AppComplianceBanner.png)
 
 ## <a name="publisher-verification"></a>發行者驗證
 
@@ -32,11 +32,13 @@ Microsoft 365 應用程式合規性程式透過三層漸進式方法來實現應
 > [!IMPORTANT]
 > 發行者驗證不排除應用程式開發人員開始或完成發行者證明或Microsoft 365 憑證。 如果不適用於應用程式，則可以跳過驗證，並且可以啟動證明。
 
-## <a name="publisher-attestation"></a>發行者證明
+## <a name="microsoft-365-certification"></a>Microsoft 365 憑證
+Microsoft 365 認證程序分為兩個階段：**證明** 與 **認證**。
+1.  **認證** 包括填寫一份對客戶至關重要的關於應用程式安全性、資料處理和合規性屬性的問卷。 然後，所有資訊以一致、易於閱讀的格式發佈在一個位置。 目標是加快應用程式採用的流程，同時確保客戶在他們的租用戶中使用的應用程式符合其組織標準。
+1.  **認證** 涉及應用程式對一組衍生自領先行業標準架構的控制項進行徹底稽核。 在取得憑證之前，系統會要求 ISV 提供證據，證明其符合各項控制要求。 目標是向客戶保證，他們可以信任已取得 Microsoft 365 認證的應用程式具有强大的安全性與合規性做法，以保護其資料安全性與隱私權。
 
-[發行者證明](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-attestation-guide)為開發人員提供一個地方，讓他們分享有關其應用程式服務的一般資訊、資料處理及安全性和合規性資訊。 這減少了 IT 管理員直接與應用程式發行者合作的需求。 可以在同一個地方以一致的格式找到所有完成發行者證明的應用程式，還有做出明智決定所需的所有資訊。 目標是使其更容易並加快應用程式採用的流程，同時確保客戶在他們的租用戶中使用的應用程式符合其組織標準。
 
-發行者證明適用於 WebApps，以及與下列 Microsoft 產品整合的所有應用程式:
+Microsoft 365 憑證適用於 WebApps，以及與下列 Microsoft 產品整合的所有應用程式:
 -   Teams
 -   Word
 -   Excel
@@ -46,10 +48,7 @@ Microsoft 365 應用程式合規性程式透過三層漸進式方法來實現應
 - Project
 - OneNote
 
-> [!IMPORTANT]
-> Microsoft 不會驗證提供的資訊。開發人員僅會確認證明文件和相應應用程式效能資料的真實性、準確性和完整性。 
-
-## <a name="microsoft-365-certification"></a>Microsoft 365 憑證
-[Microsoft 365 憑證](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide)為組織提供了保證和信心，確保在使用 Microsoft Teams 應用程式時資料和隱私得到充分保護。 憑證會確認應用程式解決方案與 Microsoft 技術兼容，符合雲端 App 安全性最佳做法，以及得到 Microsoft 的支援。在此流程中，應用程式開發人員會與第三方評定者合作，以驗證組織的安全性及合規性標準。 Microsoft 365 認證適用於符合發行者證明資格的相同應用程式。 
-
+### <a name="get-started"></a>開始使用
+- [如何完成發行者驗證](https://docs.microsoft.com/en-us/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [如何完成 Microsoft 365 認證](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification)
 
