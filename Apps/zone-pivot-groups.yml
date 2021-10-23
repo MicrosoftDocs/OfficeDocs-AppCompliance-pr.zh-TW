@@ -78,6 +78,16 @@ groups:
     title: 安全性及合規性
   - id: certification
     title: 認證
+- id: app-info-data-certification
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: certification
+    title: 認證
 - id: app-info-data-identity-certification
   title: 應用程式資訊類別
   prompt: 選擇您要查看的此應用程式的資訊類別：
@@ -104,10 +114,44 @@ groups:
     title: 身分識別
   - id: certification
     title: 認證
+- id: app-info-data-security-compliance-privsection-zerotrust
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: security
+    title: 安全性
+  - id: compliance
+    title: 合規性
+  - id: privsection
+    title: 隱私權
+  - id: zerotrust
+    title: 身分識別
+- id: app-info-data-security-compliance-privsection-zerotrust-certification
+  title: 應用程式資訊類別
+  prompt: 選擇您要查看的此應用程式的資訊類別：
+  pivots:
+  - id: general
+    title: 一般
+  - id: data
+    title: 資料處理
+  - id: security
+    title: 安全性
+  - id: compliance
+    title: 合規性
+  - id: privsection
+    title: 隱私權
+  - id: zerotrust
+    title: 身分識別
+  - id: certification
+    title: 認證
 metadata:
-  ms.openlocfilehash: 251f0461ab55741522c650f13a0ff3b50eecb560
-  ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+  ms.openlocfilehash: f3ee86598a788c911d9a82186a2de24997477ff6
+  ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 10/16/2021
-  ms.locfileid: "60411277"
+  ms.lasthandoff: 10/22/2021
+  ms.locfileid: "60545883"

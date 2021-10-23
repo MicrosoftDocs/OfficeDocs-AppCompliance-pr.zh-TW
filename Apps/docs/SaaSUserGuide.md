@@ -6,12 +6,12 @@ description: Microsoft 365 應用程式規範方案的 ISV 使用者指南 SaaS
 keywords: Microsoft 365 應用程式規範方案的 ISV 使用者指南 SaaS
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 5f12c95e413ab069b1f8849a09be50251660fbb1
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801325"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545835"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Microsoft 365 應用程式規範計畫的協力廠商使用者指南-SaaS
 
@@ -36,26 +36,21 @@ ms.locfileid: "54801325"
 
 **首頁**：這是一次夥伴登入夥伴中心的登陸頁面。
 
-![合作夥伴中心主畫面](../media/Saas1.PNG)
   
-**步驟 1** ：在頁面左側的導覽列上：
+**步驟 1** ：選取 Marketplace 服務
 
-- 選取商業市場
-- 選取一覽
+![合作夥伴中心的商業市場](../media/NewPChomepage.png)
 
-![合作夥伴中心的商業市場](../media/Saas2.PNG)
   
-選取「一覽」時，partner 可以查看可用的應用程式清單，以啟動 Microsoft 365 合規性計畫。
-  
-**步驟 2**：從清單中選取應用程式，以開始 Publisher 認證程式。
+**步驟 2**：選擇「Marketplace 產品」之後，請切換至「商業性 marketplace」。
 
-![在商業市場上選取應用程式](../media/Saas3.PNG)
+![在商業市場上選取應用程式](../media/NewPCOffersOffice.png)
 
-在選取應用程式時，會以選項「應用程式相容性」彈出另一個導覽列。
+從清單中選取應用程式，然後會以選項「應用程式相容性」彈出另一個導覽列。
   
 **步驟 3**：選取「應用程式符合性」
   
-![商業市場中的應用程式合規性](../media/Saas4.PNG)
+![商業市場中的應用程式合規性](../media/PCappcompliance3.png)
   
 **步驟 4**：填寫 Publisher 認證的自我評估問卷。
 
@@ -75,7 +70,7 @@ ms.locfileid: "54801325"
   
 **核准/拒絕案例：**
   
-答： Publisher證明拒絕
+A. Publisher證明拒絕
 - 在拒絕時，合作夥伴可以：
      - 查看失敗報告
           - 合作夥伴會透過電子郵件通知，而且可以在夥伴中心中查看失敗報告

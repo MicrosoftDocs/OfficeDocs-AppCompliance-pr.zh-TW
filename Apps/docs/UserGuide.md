@@ -6,12 +6,12 @@ description: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 keywords: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 74bb654b6084319122e0f9388792cf44d85ca4a664ce89bf308982a29cbfdfc8
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 79a301d6825b3f9ea3d882e13e91b48f3808f60b
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801659"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60544556"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>合作夥伴的 Microsoft 365 應用程式規範計畫的使用者指南
 
@@ -37,26 +37,19 @@ ms.locfileid: "54801659"
 
 **首頁** ：這是一次夥伴登入夥伴中心的登陸頁面。
 
-![合作夥伴中心主畫面](../media/UserGuidePhotos/01.png)
+**步驟 1** ：選取 Marketplace 服務。 
 
-**步驟 1**   ：在頁面左側的導覽列中：
-- 選取 Office 儲存區
-- 選取一覽
+![合作夥伴中心的商業市場](../media/NewPChomepage.png)
+  
+**步驟 2**：選取「Marketplace 產品」之後，請切換至「Office Store」。 從清單中選取應用程式，以開始 Publisher 認證程式。
 
+![在商業市場上選取應用程式](../media/NewPCoffersComm.png)
 
-![Office可以在左側導覽找到存放區](../media/UserGuidePhotos/02.png)
-
-選取「一覽」時，partner 可以查看透過夥伴中心提交且可用於 Microsoft 365 規範計畫的應用程式清單。
-
-**步驟 2** ：從清單中選取應用程式，以開始 Publisher 認證程式。
-
-![選擇您要證明哪個應用程式](../media/UserGuidePhotos/03.png)
-
-在選取應用程式時，會彈出另一個導覽列，其中包含選項「應用程式相容性」。
-
+在選取應用程式時，會以選項「應用程式相容性」彈出另一個導覽列。
+  
 **步驟 3**：選取「應用程式符合性」
 
-![選取應用程式規範](../media/UserGuidePhotos/04.png)
+![選取應用程式規範](../media/PCappcompliance3.png)
 
 **步驟 4**：填寫 Publisher 證明的自我評估問卷
 

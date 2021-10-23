@@ -6,19 +6,45 @@ description: Microsoft 365認證詳細資料
 keywords: 應用程式證明 microsoft 365 認證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1088e80ba5d67d8565cf4499a91a84df277b4f80
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: c4b7798840630e2d4813536db29956f732adf18c
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378761"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60544683"
 ---
 # <a name="what-is-microsoft-365-certification"></a>何謂 Microsoft 365 認證？
 
-Microsoft 365 憑證是設計用來向客戶示範，其應用程式已針對來自主要工業標準框架的控制項進行經，而且該強安全性和合規性作法已具備，可保護客戶資料。 
+Microsoft 365 憑證是設計用來向客戶示範，其應用程式已針對來自主要工業標準框架的控制項進行經，而且該強安全性和合規性作法已具備，可保護客戶資料。 Microsoft 365 認證分為兩個階段：**證明** 和 **認證**。
 
 >[!VIDEO https://www.youtube.com/embed/Wv1lcNAycuE]
 
+
+## <a name="attestation"></a>認證
+
+證明階段會集中在大量問卷上，詳述應用程式的安全性、資料處理及合規性屬性。 isv 提供的資訊涵蓋組織的 Microsoft 365 平臺中啟動應用程式時所公開的整個應用程式功能，包括下列各項：
+
+- 資料處理：應用程式如何收集及儲存組織資料，以及組織對該資料的控制
+- 安全性：應用程式保護資料及偵測和 repel 網路攻擊的通訊協定、處理常式和程式
+- 合規性：此應用程式遵循必要的行業標準與規格
+- 隱私權：此應用程式遵循 pertinant、適用的隱私權慣例
+- 身分識別：此應用程式遵循身分識別管理和存取控制慣例
+
+
+## <a name="certification"></a>認證
+
+憑證階段的中心是對應用程式的徹底安全性審核，其支援基礎結構。 將會針對從主要工業標準架構（如 SOC 2、PCI DSS 及 ISO 27001）衍生的一系列安全性控制，經應用程式。 如果您已接收到應用程式的 SOC 2、PCI DSS 或 ISO 27001 認證，我們會鼓勵您共用這些報告。 它們不是必要的，但可用於 satisy 控制項的子集合，而不需要額外的證據。 如果您沒有必要，我們需要為我們提供明確的證據 (檔、截屏等 ) ，以示範您符合所有必要的控制項。 已獎勵認證的應用程式已證明已具備強大的安全性和合規性作法，以保護客戶資料。 
+
+> !作用Microsoft 目前涵蓋憑證審核的整體成本，因為 ISV 可以提交所有必要的證據。
+
+應用程式認證是透過一套應用程式的安全性和合規性框架、程式及程式的綜合評估中心審查及核准，取得。 
+
+已驗證的應用程式已在下列三個網域中評估：
+1.  [**Application Security**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security)
+1.  [**運作安全性/安全部署**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security)
+1.  [**資料處理安全性和隱私權**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy)
+
+雖然參與是選用的，但當應用程式取得認證時，它會向使用者表明已完成大量的安全性檢查，而且可以透過客戶資料加以信任。 如需嚴格程式 Isv 的完整詳細資料，必須進行以成為驗證。 請參閱[Microsoft 365 認證提交指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)。
 
 ## <a name="microsoft-365-certification-scope"></a>Microsoft 365認證範圍
 
@@ -33,30 +59,20 @@ Microsoft 365認證適用于與下列 Microsoft 產品整合的所有應用程�
 - OneNote
 - 透過 Partner Center 中的商業市場發佈的 **Webapps** (SaaS 的應用程式目前是私人預覽，如果您有興趣參加，請填寫此 [表單](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 ) 
 
-
 ## <a name="program-benefits"></a>方案優點
 參與和完成 Microsoft 365 憑證可為 IT 系統管理員和開發人員提供巨大的好處：
 
-**應用程式開發人員的優點** 應用程式開發人員的好處包括： 
--   針對您的安全性和合規性狀況的免費評估和驗證
--   在 AppSource、Microsoft 檔和系統管理員入口網站中列出的應用程式上列印的徽章
--   減少客戶安全性考慮所花費的時間 
--   加入已驗證之商務應用程式的受信任生態系統的機會
-- 使用行銷材料將您的狀態推廣為 Microsoft 365 認證的應用程式
+**應用程式開發人員的優點**
+-   **免費評估**-ISV 無法達成 Microsoft 365 憑證的金錢成本
+-   **增加曝光**-在 [市場 AppSource (] 中的應用程式上列印的 Microsoft 365 憑證標標，Teams，Office) ，系統管理入口 (Teams，M365) ，以及 Microsoft 檔
+-   **節省時間** -縮短客戶在 RFP 程式中的安全性考慮所花費的時間 
+- **行銷材料** 免費行銷套件，可將您的狀態推廣為 Microsoft 365 認證的應用程式
+- **促銷活動** -要在 Microsft 事件（例如組建和 Ignite）上反白顯示的機會
 
-**IT 系統管理員權益** IT 系統管理員的好處包括：
--   進一步增強您資料的安全性
--   減少用於調查應用程式安全性和合規性所花費的時間和資源 
-
-## <a name="certification-requirements"></a>認證需求
-應用程式認證是透過一套應用程式的安全性和合規性框架、程式及程式的綜合評估中心審查及核准，取得。 
-
-已驗證的應用程式已在下列三個網域中評估：
-1.  [**Application Security**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security)
-1.  [**運作安全性/安全部署**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security)
-1.  [**資料處理安全性和隱私權**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy)
-
-雖然參與是選用的，但當應用程式取得認證時，它會向使用者表明已完成大量的安全性檢查，而且可以透過您的資料加以信任。 如需嚴格程式 Isv 的完整詳細資料，必須進行以成為驗證。 請參閱[Microsoft 365 認證提交指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)。
+**IT 系統管理員權益**
+- **節省時間** -查看應用程式的 Microsoft 檔頁面，並減少調查應用程式安全性和合規性所花費的時間和資源 
+-   已 **增加信賴** 認證的應用程式已採取步驟來保護您的資料 
+-   **受信任的信號**-Microsoft 365 憑證標可提供一種簡單的方法來 distiguish 信任的應用程式
 
 
 ### <a name="using-the-microsoft-365-badge-and-associated-marketing-materials"></a>使用 Microsoft 365 徽章和相關的行銷材料
@@ -70,6 +86,5 @@ Microsoft 365 憑證標誌會顯示已針對 Microsoft 所提出的控制，meti
 ### <a name="learn-more"></a>深入瞭解
 * [Microsoft 365應用程式規範計畫概述](~/overview.md)  
 * [完成 Microsoft 365 認證](~/docs/certification.md)  
-* [何謂 Publisher 驗證？](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
 * [Microsoft 365認證提交指南](~/docs/certification-submission-guide.md)
 

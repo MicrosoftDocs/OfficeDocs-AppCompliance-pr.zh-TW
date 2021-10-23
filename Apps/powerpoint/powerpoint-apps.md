@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/15/2021
+ms.date: 10/20/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft PowerPoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 6a766a7a0bc1e8e5c83259c53b2e5aee6b5f1515
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 1b1c190303b7b4bebece542bb5bdf01a56a47bd7
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414799"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545803"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint 應用程式安全性與合規性
 
@@ -25,8 +25,8 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
 | [PowerPoint 的 Lucidchart 圖表](./lucid-software-inc-lucidchart-diagrams-for-powerpoint.md) | Lucid 軟體 Inc。 | **✓** |  |
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** |  |
 | [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |
 | [officeatwork | 投影片選擇 Office] (。/officeatwork-officeatworkslide-chooser-for-office.md)  | officeatwork | **✓** |  |
-| [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** |  |
 | [SlideHub](./nomorehours-slidehub.md) | nomorehours | **✓** |  |

@@ -2,23 +2,23 @@
 title: adobe inc. 的 adobe Sign Add-In Outlook 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/06/2021
+ms.date: 10/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 Outlook 的 Adobe 簽署 Add-In 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d5c347a461d9b3901f880fb7e3c7ff03f4505051
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 2de39ef437ba0bc7740d4fc6124d7b500ddc6c62
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430683"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545863"
 ---
 # <a name="adobe-sign-add-in-for-outlook"></a>Outlook 的 Adobe Sign Add-In
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開發人員上次更新日期：2021年10月1日</p>
+<p>上次於開發人員更新：2021年10月19日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381158" target="_blank">在 AppSource 中查看</a>
 
