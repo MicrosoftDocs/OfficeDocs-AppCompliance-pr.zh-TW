@@ -6,12 +6,12 @@ description: Microsoft 365認證詳細資料
 keywords: 應用程式證明 microsoft 365 認證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: c4b7798840630e2d4813536db29956f732adf18c
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: e41a9c0d09fec10b0034e7da5e8a335cbc4473fc
+ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544683"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60683576"
 ---
 # <a name="what-is-microsoft-365-certification"></a>何謂 Microsoft 365 認證？
 
@@ -33,9 +33,10 @@ Microsoft 365 憑證是設計用來向客戶示範，其應用程式已針對來
 
 ## <a name="certification"></a>認證
 
-憑證階段的中心是對應用程式的徹底安全性審核，其支援基礎結構。 將會針對從主要工業標準架構（如 SOC 2、PCI DSS 及 ISO 27001）衍生的一系列安全性控制，經應用程式。 如果您已接收到應用程式的 SOC 2、PCI DSS 或 ISO 27001 認證，我們會鼓勵您共用這些報告。 它們不是必要的，但可用於 satisy 控制項的子集合，而不需要額外的證據。 如果您沒有必要，我們需要為我們提供明確的證據 (檔、截屏等 ) ，以示範您符合所有必要的控制項。 已獎勵認證的應用程式已證明已具備強大的安全性和合規性作法，以保護客戶資料。 
+憑證階段的中心是對應用程式的徹底安全性審核，其支援基礎結構。 將會針對從主要工業標準架構（如 SOC 2、PCI DSS 及 ISO 27001）衍生的一系列安全性控制，經應用程式。 如果您已接收到應用程式的 SOC 2、PCI DSS 或 ISO 27001 認證，我們會鼓勵您共用這些報告。 它們不是必要的，但可用於滿足控制項的子集，而不需要額外的證據。 如果您沒有外部認證，我們需要您為我們提供明確的證據 (檔、截屏等 ) ，以示範您符合所有必要的控制項。 已獎勵認證的應用程式已證明已具備強大的安全性和合規性作法，以保護客戶資料。 
 
-> !作用Microsoft 目前涵蓋憑證審核的整體成本，因為 ISV 可以提交所有必要的證據。
+> [!IMPORTANT]
+> Microsoft 目前涵蓋憑證審核的整體成本，因為 ISV 可以提交所有必要的證據。
 
 應用程式認證是透過一套應用程式的安全性和合規性框架、程式及程式的綜合評估中心審查及核准，取得。 
 

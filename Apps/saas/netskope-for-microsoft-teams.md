@@ -1,48 +1,46 @@
 ---
-title: 以 88 Ventures 為限之提醒的應用程式資訊。
+title: Netskope 的應用程式資訊，由 Netskope Microsoft Teams
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/27/2021
+ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
+description: Netskope Microsoft Teams 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 94c70633add16eaaef067f8232328ab449d8a2ff
+ms.openlocfilehash: a986a6f8fbbf98f408dcbf3e90b6bf219951889f
 ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 11/02/2021
-ms.locfileid: "60683697"
+ms.locfileid: "60683729"
 ---
-# <a name="remind"></a>提醒
+# <a name="netskope-for-microsoft-teams"></a>Microsoft Teams 的 Netskope
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2021年10月27日</p>
+<p>開發人員上次更新：2021年9月27日</p>
 
-* <a href="https://teams.microsoft.com/l/app/88546d4f-9973-4716-98e4-cd181c04bc2d" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001444" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/netskope.netskope_teams" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-88 Ventures 提供的資訊限制于 Microsoft：
+由 Netskope 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 提醒 |
-| ID | WA200001444 |
-| 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 88 Ventures Limited |
-| 公司的網站 | [https://moonbearapps.com](https://moonbearapps.com) |
-| App 的使用條款 | [https://teamsreminder.app/#terms](https://teamsreminder.app/#terms) |
-| 應用程式的核心功能 | 提醒您自己或小組成員重要會議、待辦事項或甚至生日。 設定個人提醒、群組聊天提醒或頻道提醒。 您甚至可以設定週期性提醒 (例如，小組會議每星期一上午9點) ！ |
-| 公司 headquarter 位置 | 香港 |
+| 應用程式名稱 | Microsoft Teams 的 Netskope |
+| ID | netskope.netskope_teams |
+| 合作夥伴公司名稱 | Netskope |
+| 公司的網站 | [https://www.netskope.com](https://www.netskope.com) |
+| App 的使用條款 | [https://www.netskope.com/subscription-terms/](https://www.netskope.com/subscription-terms/) |
+| 應用程式的核心功能 | Netskope 具有業界&#8217;唯一的解決方案，具有整合的市場領先 CASB、下一代 SWG、遠端瀏覽器隔離、雲端防火牆、公開雲端安全性，以及以單一平臺為一個平臺的「零信任」私人存取-Netskope Security Cloud。  除了這些模組化功能之外，Netskope 還提供額外的安全性 microservices，可以新增以進一步微調客戶的安全性狀況，例如我們的高級 DLP、加密及威脅防護功能。 |
+| 公司 headquarter 位置 | 美國地區 |
 | 應用程式資訊頁面 | |
-| 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
-| 應用程式會使用哪一個主控雲端提供者？ | 其他 |
+| 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
+| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,19 +50,21 @@ ms.locfileid: "60683697"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 88 Ventures 提供的，此應用程式會限制此應用程式如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊是由 Netskope 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
+| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
+| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ | 提醒其他使用者時的使用者 GUID 和使用者名稱 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 德國 |
+| 資料庫中儲存的資料為何？ | 使用者資訊 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 未保留 |
 | 您是否有既定的資料存取管理程式？ | 是 |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 是 |
+| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,7 +78,7 @@ ms.locfileid: "60683697"
 |:----------------|:-------------|
 | 您是否要在應用程式中執行年度滲透測試？ | 是 |
 | 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | TraditionalAntiMalware |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls |
 | 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
 | 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
 | 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |
@@ -106,26 +106,26 @@ ms.locfileid: "60683697"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 否 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
 | 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 否 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 否 |
 | 最近的 SOC1 認證日期 |   |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
-| 您已完成哪一種 SOC 2 憑證？ | |
-| 最近的 SOC2 認證日期 | |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
+| 您已完成哪一種 SOC 2 憑證？ |  type2 |
+| 最近的 SOC2 認證日期 |  2021-10-21 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
 | 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 是 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
-| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 否 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 否 |
+| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 是 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
 | 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 否 |
-| 應用程式是否符合 NIST 800-171？ | 否 |
-| App 是否已 (CSA 星) 認證？ | 否 |
+| 應用程式是否符合 NIST 800-171？ | 是 |
+| App 是否已 (CSA 星) 認證？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -135,16 +135,18 @@ ms.locfileid: "60683697"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 否 |
-| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 否 |
-| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
+| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
+| 隱私權原則 URL | https://www.netskope.com/privacy-policy |
+| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 是 |
+| 個人是否提供了處理物件的選項？ | 是 |
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
 | 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
-| 應用程式是否有功能可在要求時刪除個人資料？ | 否 |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 否 |
+| 應用程式是否有功能可在要求時刪除個人資料？ | 是 |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 是 |
 | App 是否提供個人資料，以更正或更新其個人資料？ | 否 |
-| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 否 |
+| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -156,10 +158,10 @@ ms.locfileid: "60683697"
 |:----------------|:-------------|
 | 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 不適用 |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
-| 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
+| 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
 | 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
@@ -167,7 +169,21 @@ ms.locfileid: "60683697"
 
 >|   **Graph許可**  | **權限類型** |          **對齊**          |
 >|:------------------------|:--------------------|:------------------------------------|
->| Directory.Read.All | 委託 | 當系統管理員搜尋使用者以指派授權時使用。 這項功能的使用方式完全選用，在一般應用程式使用期間不是必要的。 |
+>| ChannelMessage Read。 All | 應用程式 | 在通道郵件和文章上的 DLP |
+>| ChannelMessage UpdatePolicyViolation 所有 | 應用程式 | 在通道郵件和文章上的 DLP |
+>| 已閱讀的聊天室。所有 | 應用程式 | 在通道/DM 聊天上的 DLP |
+>| ReadBasic | 應用程式 | 在通道/DM 聊天上的 DLP |
+>| 聊天室 ReadWrite | 應用程式 | 在通道/DM 聊天上的 DLP |
+>| UpdatePolicyViolation | 應用程式 | 在通道郵件和文章上的 DLP |
+>| Directory.Read.All | 應用程式 | 使用者成員資格識別與可見度 |
+>| Files.Read.All | 應用程式 | DLP on MSTeams 中發佈的檔案 |
+>| Files.ReadWrite.All | 應用程式 | DLP on MSTeams 中發佈的檔案 |
+>| Group.Read.All | 應用程式 | 群組識別及可見度 |
+>| GroupMember Read。 All | 應用程式 | 群組識別及可見度 |
+>| Reports。已讀取。所有 | 應用程式 | 報告和可見度 |
+>| Sites.Read.All | 應用程式 | 小組 SharePoint 網站 DLP |
+>| TeamsActivity 讀取 | 應用程式 | 使用者活動的原則 |
+>| User.Read.All | 應用程式 | 使用者識別與可見度 |
 
 >此應用程式沒有額外的 APIs。
 
