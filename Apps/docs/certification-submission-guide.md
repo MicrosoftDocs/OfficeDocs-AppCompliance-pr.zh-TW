@@ -6,12 +6,12 @@ description: Microsoft 365認證提交指南精細查看
 keywords: 應用程式認證團隊 Microsoft 365 安全性符合性 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0d422251404275da18e08af120a15877616e4db4
+ms.sourcegitcommit: dfd937182e08ed377a5ad80f0db929ab7d7c7a7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278974"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60789974"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認證提交指南
 
@@ -54,7 +54,7 @@ Microsoft 365 應用程式相容性計畫的一部分，當您將協力廠商開
 >* Office增益集 (Word、Excel、PowerPoint、Outlook、Project、OneNote) 
 >* WebApps
 
-## <a name="prerequisites"></a>先決條件
+## <a name="prerequisites"></a>必要條件
 
 ### <a name="publisher-attestation"></a>發行者證明
 
@@ -125,7 +125,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 >[!NOTE]
 >針對所有 office 應用程式，您可以參考《 [Office app 使用者指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 對於所有 WebApps，您可以參照我們的 [SaaS App 使用者指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)。
 
-### <a name="assessment"></a>評定
+### <a name="assessment"></a>評估
 1. 您的初始檔提交一經接受，您的應用程式所需的安全性控制組將會自動顯示在入口網站中。 接著，您必須為每個控制項提交證據，以示範該控制項已就地。 請記住，您會在提交所有的證據時，提供 **60 天** 的時間。 分析員會檢查您的證據，並核准該控制項或要求新的或其他的證據。 請經常檢查此頁面，查看是否已接受您的證據。
 ### <a name="certification"></a>認證
 1. 當您的提交由分析員驗證之後，您將會收到您的認證決策通知。 已獎勵憑證的應用程式會在 **AppSource** 和 **Microsoft** 檔頁面中的應用程式上接收徽章。 您可以在 [這裡](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)閱讀認證的完整優點。
@@ -303,7 +303,7 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 
 |**控制系列**| **Controls**|
 | ------------------------|------------------------------ |
-| **惡意程式碼保護**|提供原則檔，以管理防病毒的作法與程式。|
+| **惡意程式碼防護-防病毒**|提供原則檔，以管理防病毒的作法與程式。|
 ||提供 demonstratable 證據，表明防毒軟體是在所有抽樣的系統元件上執行。|
 ||提供 demonstratable 證據，讓所有環境 (在1天) 內，都是最新的防病毒簽名。|
 ||提供 demonstratable 證據，以將反病毒設定為執行跨存取掃描或所有抽樣系統元件的定期掃描。 附注：如果未啟用存取掃描，則必須啟用最低的日常掃描及警示。|
@@ -346,13 +346,19 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 ||提供 demonstratable 證據，以建立、修改和刪除帳戶所經過的核准程式。|
 ||提供 demonstratable 證據，讓程式可以停用或刪除3個月內未使用的帳戶。|
 ||提供 demonstratable 證據，以加強強式密碼原則或其他適當的緩解，以保護使用者認證的位置。  下列專案應該用作基本的指導方針：最低密碼長度8個字元，不超過10次的帳戶鎖定閥值，至少有5個密碼的密碼記錄，強制使用強式密碼|
+||提供 demonstratable 證據，將唯一的使用者帳戶發佈給所有使用者。|
+||提供 demonstratable 證據，使其最小特權原則遵迴圈境中。|
+||提供 demonstratable 證據，以供程式用來保護或強化服務帳戶，以及遵循此程式的處理常式。|
+||提供 demonstratable 證據，該證據是針對所有遠端存取連線和所有非主控台系統管理介面，設定 MFA。|
+||提供 demonstratable 證據，針對所有遠端存取連線和所有非主控台系統管理介面設定增強式加密，包括存取任何程式碼存放庫及雲端管理介面。|
+||提供 demonstratable 證據，以 MFA 用來保護您用來管理及維護所有公用功能變數名稱服務 (DNS) 記錄的管理入口網站。|
 |**入侵偵測及防護 (選用) ：** 其他信用額將會取得對下列控制措施的滿意|提供 demonstratable 證據，使入侵偵測及防護系統 (IDPS) 部署在範圍內的環境周邊。|
 ||提供 demonstratable 證據，IDPS 簽章會在24小時內保留目前的 () 。|
 ||提供 IDPS 設定為支援所有傳入 web 流量之 TLS 檢查的 demonstratable 證據。|
 ||提供 IDPS 所設定的 demonstratable 證據，以監視所有輸入流量流程。|
 ||提供 IDPS 所設定的 demonstratable 證據，以監視所有輸出流量流程。|
 |**安全性事件記錄** |提供原則檔，以取得控制安全性事件記錄的最佳作法與程式。|
-|| 提供 demonstratable 證據，顯示在所有抽樣系統元件之間設定安全性事件記錄，以記錄下列事件：使用者對系統元件及應用程式的存取、高許可權使用者採取的所有動作、邏輯存取嘗試失敗的邏輯帳戶建立或修改、事件記錄篡改、停用安全性工具 (例如反惡意軟體或事件記錄) 、反惡意軟體記錄 (（如已設定的更新、惡意程式碼偵測及掃描失敗）。 IDPS 及 WAF 事件（如已設定）) |
+|| 提供 demonstratable 證據，顯示在所有抽樣系統元件之間設定安全性事件記錄，以記錄下列事件：使用者對系統元件及應用程式的存取、高許可權使用者採取的所有動作、邏輯存取企圖失敗的邏輯帳戶建立或修改、事件記錄篡改、停用安全性工具 (例如反惡意軟體或事件記錄) ）。) 中的反惡意軟體記錄 (，如更新、惡意程式碼偵測及掃描失敗。 IDPS 及 WAF 事件（若已設定）|
 ||提供 demonstratable 證據，記錄的安全性事件包含下列最基本資訊：使用者、事件種類、日期和時間、成功或失敗指示器、識別受影響系統的標籤|
 ||提供 demonstratable 證據，表明所有抽樣系統元件的時間都同步處理至相同的主要和次要伺服器。|
 ||當公開的系統正在使用中時，提供 demonstratable 證據，安全性事件記錄會傳送至不在周邊網路中的集中式記錄解決方案。|
@@ -362,7 +368,8 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 ||提供顯而易見的證據：人工或自動化的工具會每日逐項檢查記錄，以識別可能的安全性事件。|
 ||提供顯而易見的證據，表明可能的安全性事件和異常已調查並修正。|
 |**提醒** | 提供原則檔，以控制安全性事件警示的作法與程式。|
-|| 提供顯而易見的證據：針對下列類型的安全性事件，立即會審會觸發警示：特權帳戶建立或修改、病毒或惡意程式碼事件、事件記錄篡改、IDPS 或 WAF 事件
+|| 提供顯而易見的證據：針對下列類型的安全性事件，立即會審會觸發警示：特權帳戶建立或修改、病毒或惡意程式碼事件、事件記錄篡改、IDPS 或 WAF 事件|
+||提供顯而易見的證據，顯示員工永遠可供使用，每天，每天，以回應安全性警示。|
 |**風險管理**|提供 demonstratable 證據，以建立正式的資訊安全性風險管理流程。|
 ||提供實實在在的風險評估，至少每一年都會以最低的證據進行。|
 ||提供實實在在的證據，指出資訊安全風險評估包含威脅、弱點或對等專案。|
@@ -997,10 +1004,6 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 
 
 ## <a name="appendix-g"></a>附錄 G
-
-### <a name="microsoft-365-certification-process-workflow"></a>Microsoft 365證書處理常式工作流程
-
-![工作流程](ProcessFlow.jpg)
 
 ## <a name="learn-more"></a>深入了解
 
