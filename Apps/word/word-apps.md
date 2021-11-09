@@ -2,17 +2,17 @@
 title: Microsoft Word應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/20/2021
+ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 0fe327d8eb336f5f152d088cd96c66601bd3cc38
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: a09af68319bc84d6186de28126382d3349f462e1
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545893"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60872219"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word應用程式安全性和合規性
 
@@ -32,8 +32,9 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Loio 合約助理](./loio-inc-contract-assistant.md) | Loio Inc.。 | **✓** |  |
 | [Word 的 Lucidchart 圖表](./lucid-software-inc-lucidchart-diagrams-for-word.md) | Lucid 軟體 Inc。 | **✓** |  |
 | [Mendeley 引用](./elsevier-limited-mendeley-cite.md) | ELSEVIER 有限 | **✓** |  |
+| [neopolis](./neopolis-gmbh.md) | neopolis GmbH | **✓** |  |
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** |  |
+| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的設計者 () 。 officeatwork-officeatworkdesigner-for-office.md | officeatwork | **✓** |  |
 | [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |
 | [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** |  |
@@ -42,6 +43,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [officeatwork | Office] ( 的嚮導)  | officeatwork | **✓** |  |
 | [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmig-and-kommaforslag.md) | GrammarSoft Ap | **✓** |  |
 | [SmartCite 論文](./digital-science-smartcite-for-papers.md) | 數位科學 | **✓** |  |
+| [Word 的 Stilus](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [TaxKit 檔](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [TerMef](./mondeca-termef.md) | Mondeca | **✓** |  |
 | [Office 的 Wunder365](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi 技術私人有限 | **✓** |  |
