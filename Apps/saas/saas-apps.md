@@ -2,17 +2,17 @@
 title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/26/2021
+ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 0743da5c3857eb922317cc0d6902628b8d6a15a2
-ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
+ms.openlocfilehash: b738af74e4fc7b0024b3a7e6ff6d4644f5afbec9
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60719105"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60871789"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -20,6 +20,9 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [Buzzeasy Teams 的連絡人中心](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt。 | **✓** |  |
+| [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT 有限公司。 | **✓** |  |
+| [Office 365 (transact-sql) 的雲端備份](./avepoint-inc-cloud-backup-for-office-365-prod-transact.md) | AvePoint Inc.。 | **✓** |  |
 | [CodeTwo Office 365 的電子郵件簽名](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
 | [內容選擇器](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
@@ -32,6 +35,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Teams 的 MyHub](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc.。 | **✓** |  |
 | [Microsoft Teams 的 Netskope](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [&amp;Microsoft 365 (BYOL 的原則 Insights) ](./avepoint-inc-policies-and-insights-for-microsoft-365-byol.md) | AvePoint Inc.。 | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [投影片選擇](./officeatwork-slide-chooser.md) | officeatwork | **✓** |  |

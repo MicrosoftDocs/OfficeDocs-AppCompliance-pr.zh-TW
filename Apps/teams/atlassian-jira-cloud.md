@@ -2,24 +2,24 @@
 title: Atlassian 的 Jira Cloud 應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/28/2019
+ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Jira 雲端的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f7448496a0b9ec9da60ecf1264c3b92f9aaf0b40
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 376c5ac96b37424515a0a182252d7b9417579b0b
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430905"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60873359"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2019年12月16日</p>
+<p>開發人員上次更新日期：2021年8月11日</p>
 
 * <a href="https://teams.microsoft.com/l/app/aa183fd9-7104-46c4-af9f-9ee9b81d717e" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002140" target="_blank">在 AppSource 中查看</a>
@@ -36,9 +36,13 @@ ms.locfileid: "60430905"
 | ID | WA200002140 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Atlassian |
-| 合作夥伴網站的 URL | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
-| 隱私權原則的 URL | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
-| 使用條款的 URL | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
+| 公司的網站 | [https://www.atlassian.com](https://www.atlassian.com) |
+| App 的使用條款 | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
+| 應用程式的核心功能 | 可讓您的小組追蹤、更新及管理 Microsoft Teams 中的專案。 |
+| 公司 headquarter 位置 | 澳洲 |
+| 應用程式資訊頁面 | |
+| 用來執行應用程式的主控環境或服務模型為何？ | Paas |
+| 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,72 +54,126 @@ ms.locfileid: "60430905"
 
 此資訊是由 Atlassian 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
-
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
-
->此應用程式不會使用 Microsoft Graph。
-
-
-#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
-
-若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
-
->不會使用非 Microsoft 服務。
-
-#### <a name="data-access-via-bots"></a>透過 bot 的資料存取
-
-如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
-
->未存取 EUII。
-
-
-#### <a name="telemetry-data"></a>遙測資料
-
-任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
-
->我們不會儲存任何 EUII 或 OII。 
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
-
-說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
-
->當您收到資訊時，您有一定可供您選擇。 以下是這些選項的摘要，以及如何執行這些選項及任何限制。
-
-您的選擇：您有權向您要求資訊複本，以供您使用資訊 (包括出於行銷目的) 、要求刪除或限制您的資訊，或以結構化的電子格式要求您的資訊。 在下列，我們將說明進行這些要求的工具和程式。 您可以使用 [服務] 或您的帳戶中可用的設定，來執行一些選項。 系統管理員針對您管理服務的地方 (請參閱 &quot; &quot; 以下對使用者的通知 &quot; &quot;) ，您可能需要聯繫您的系統管理員以先協助您的要求。 對於所有其他要求，您可以與我們聯繫（如下列的與我們聯繫）以要求協助。
-
-在某些情況下，您的要求與選擇可能會受到限制：例如，如果完成您的要求會顯示其他人員的相關資訊，或您要求刪除法律所允許的系統管理員資訊，或有極具說服力的合法利益可保留。 當您已要求我們與協力廠商共用資料時（例如，透過安裝協力廠商應用程式），您必須直接聯繫那些協力廠商服務提供者，以刪除或限制您的資訊。 如果您有未解決的問題，您可能需要在您居住的國家（或您認為您的權力是 infringed 的地方）上抱怨資料保護授權。
-
-存取及更新您的資訊：我們的服務和相關檔讓您能夠從服務中存取和更新您的特定資訊。 例如，您可以從您的帳戶存取設定檔資訊，並搜尋包含您在服務中使用重要字詞搜尋的資訊內容。 您可以在設定檔設定中更新您的設定檔資訊，並修改包含您使用與該內容相關聯之編輯工具的資訊內容。
-
-停用您的帳戶：如果您不想再使用我們的服務，您或您的系統管理員可能能夠停用您的服務帳戶。 如果您可以停用自己的帳戶，可在您的帳戶設定中使用該設定。 否則，請與您的系統管理員聯繫。 如果您是系統管理員，而且無法透過您的系統管理員設定停用帳戶，請與 Atlassian 支援人員聯繫。 請注意停用您的帳戶不會刪除您的資訊。您的資訊會根據您過去在服務中的參與情況，繼續對其他服務使用者顯示。 如需如何刪除您資訊的詳細資訊，請參閱下一節。   
-
-刪除您的資訊：我們的服務和相關檔可讓您從服務中刪除有關您的特定資訊。 例如，您可以移除包含您使用的關鍵字搜尋及編輯工具相關資訊的內容，您可以在設定檔設定中移除某些設定檔資訊。 不過，請注意，我們可能需要保留特定資訊以保留記錄，以完成交易或遵守我們的法律義務。   
-
-要求我們停止使用您的資訊：在某些情況下，您可能會要求我們停止存取、儲存、使用或處理您認為沒有適當許可權的資訊。 例如，如果您在沒有您的許可權的情況下，確信已為您建立服務帳戶，或者您不再是作用中的使用者，您可以要求我們刪除您的帳戶（如本原則所述）。 在您認為，我們同意使用您的資訊做為有限的目的時，您可以與我們聯繫以撤銷該同意，但這不會影響已發生的任何處理。 您也可以聯繫我們的方式，選擇不要使用您的資訊來進行行銷目的。 當您提出這類要求時，我們可能需要一些時間來調查並協助您的要求。 如果有延遲或爭議，指出我們是否有權繼續使用您的資訊，只要您的系統管理員不會在適當的) 中 (物件，我們就會限制資訊的任何進一步使用。 如果您要使用協力廠商應用程式共用的相關資訊，請停用應用程式或與系統管理員聯繫。
-
-選擇不在通訊中：您可以使用每封電子郵件中的 [取消訂閱] 連結、更新您在 [服務帳戶設定] 功能表中的電子郵件喜好設定，或是依照如下所提供的方式，將收件者資訊從我們的促銷電子郵件清單或註冊資料庫中移除，以選擇不接收我們的促銷通訊。  即使您選擇從我們收到促銷訊息後，您仍會繼續收到我們有關服務的事務性訊息。 您可以選擇在您的帳戶設定中退出部分通知訊息。 
-
-您可以選擇不接收來自其他公司的個人化廣告，這些公司屬於網路廣告計畫的成員，或是訂閱數位廣告同盟的 Self-Regulatory 原則，以進行線上行為的廣告。 如需此練習的詳細資訊，以及若要瞭解您的選項，請造訪： https://www.aboutads.info https://optout.networkadvertising.org/ 和 https://www.youronlinechoices.eu 。 
-
-關閉 Cookie 控制項： Cookie 追蹤通知中說明了相關的瀏覽器型 Cookie 控制項 &amp; 。
-
-傳送 [ &quot; &quot; 請勿追蹤] &quot; &quot; 信號：有些瀏覽器已併入 &quot; &quot; &quot; &quot; (DNT) 功能，可將信號傳送至您所訪問的網站，表示您不想要進行追蹤。 因為尚未知道如何轉譯 DNT 信號，所以我們的服務目前並未回應瀏覽器的 DNT 信號。 您可以使用我們提供用來控制資料收集和使用的其他工具範圍，包括從我們前面所述的接收行銷的功能。
-
-資料可攜性：資料可攜性是一種可取得部分資訊的功能，您可以從一個服務提供者移至另一個 (例如，當您將行動電話號碼轉移至另一個電信公司時) 。  根據內容而定，這適用于您的部分資訊，但不適用於您的所有資訊。  如果您要求，我們會為您提供基本帳戶資訊的電子檔，以及您在您獨自控制的空白處上建立的資訊，例如您的個人 Bitbucket 存放庫。  
-
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
+| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| App 是否支援 TLS 1.1 或更新版本？ | 是 |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
+| 資料庫中儲存的資料為何？ | 租使用者識別碼和使用者識別碼 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
+| 您是否有既定的資料 rentention 與處置程式？ | 是 |
+| 在帳戶終止後，資料會保留多久？ | 未保留 |
+| 您是否有既定的資料存取管理程式？ | 是 |
+| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
+| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20596' frameborder='no' style='width: 100%;'></iframe>
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要在應用程式中執行年度滲透測試？ | 否 |
+| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 否 |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | TraditionalAntiMalware, ApplicationControls |
+| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
+| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
+| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |
+| 您的環境是否有不受支援的作業系統或軟體？ | 否 |
+| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 是 |
+| 您的外部網路界限是否已安裝防火牆？ | 是 |
+| 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
+| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 是 |
+| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
+| 啟用下列各要素驗證 (MFA) ： | CodeRepositories、DNSManagement、身分憑證 |
+| 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
+| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 是 |
+| 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
+| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
+| 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
+| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/20596" target="_blank">在新的索引標籤中查看</a>
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 否 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 否 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 否 |
+| 最近的 SOC1 認證日期 |   |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
+| 您已完成哪一種 SOC 2 憑證？ |  type2 |
+| 最近的 SOC2 認證日期 |  2020-10-31 |
+| 應用程式是否符合服務組織控制 (SOC 3) ？ | 是 |
+| 最近的 SOC3 認證日期 |  2020-10-31 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 是 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
+| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 否 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 否 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 是 |
+| 應用程式是否符合 NIST 800-171？ | 否 |
+| App 是否已 (CSA 星) 認證？ | 是 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 否 |
+| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 否 |
+| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
+| 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
+| 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
+| 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
+| 應用程式是否有功能可在要求時刪除個人資料？ | 否 |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 否 |
+| App 是否提供個人資料，以更正或更新其個人資料？ | 否 |
+| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 否 |
+| 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
+| 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
+
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+>|   **Graph許可**  | **權限類型** |          **對齊**          |
+>|:------------------------|:--------------------|:------------------------------------|
+>| offline_access | 委託 | 為使用者提供存取資源的時間，以確保最佳的使用者體驗。 |
+>| openid | 委託 | 取得使用者的名字、姓氏、慣用使用者名稱及物件識別碼。 |
+>| 設定檔 | 委託 | 取得使用者的名字、姓氏、慣用使用者名稱及物件識別碼。 |
+
+>此應用程式沒有額外的 APIs。
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

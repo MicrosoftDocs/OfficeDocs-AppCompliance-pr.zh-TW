@@ -2,17 +2,17 @@
 title: Microsoft Excel應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/26/2021
+ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 8fb90fec1ed5b5bc830fa498eee3b690e10e479b
-ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
+ms.openlocfilehash: 9e7418eab523d12da1edf75ec8223670333f7813
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60719735"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60873459"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel應用程式安全性和合規性
 
@@ -30,7 +30,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Excel 的 Lucidchart 圖表](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid 軟體 Inc。 | **✓** |  |
 | [Excel 的文字分析 MeaningCloud](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** |  |
+| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |
 | [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** |  |
 | [QuickCells 圖形](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
