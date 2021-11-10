@@ -6,12 +6,12 @@ description: Microsoft 365認證提交指南精細查看
 keywords: 應用程式認證團隊 Microsoft 365 安全性符合性 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 0d422251404275da18e08af120a15877616e4db4
-ms.sourcegitcommit: dfd937182e08ed377a5ad80f0db929ab7d7c7a7b
+ms.openlocfilehash: f89cb9f82cec69a473d451cff33e3db9b406489d
+ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60789974"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60885286"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認證提交指南
 
@@ -144,7 +144,8 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 
 ## <a name="initial-document-submission"></a>初始檔提交
 
-初始檔提交會協助認證分析員執行範圍，並決定評估的範圍中的內容。 之後，您將需要提交用於執行評估的支援檔和證據。 您的初始提交必須包含下列所指定的資訊：
+
+初始檔提交會協助認證分析員執行範圍，並決定評估的範圍中的內容。 之後，您將需要提交用於執行評估的支援檔和證據。 您的初始提交必須包含下列所指定的資訊。 如需其他 guidence，請參閱 [Initital Document Subnmission Guide](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/initialdocumentsubguide)。
 
 | **檔 &nbsp; 概述**     |   **檔詳細資料**  |
 | -------------------------| -----------------------------|
@@ -191,7 +192,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 * 採訪 
 * Screensharing 
 
-使用的證據集合技術會在評估程式期間決定。 
+使用的證據集合技術會在評估程式期間決定。 如需提交中所需之證據類型的具體範例，請參閱 [範例證據指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide)。
 
 **評估活動**
 

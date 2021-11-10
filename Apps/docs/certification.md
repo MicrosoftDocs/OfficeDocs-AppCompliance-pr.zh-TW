@@ -6,12 +6,12 @@ description: Microsoft 365認證詳細資料一覽表
 keywords: 應用程式認證證明 Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 55125deec809aef3e74ab96bedf88b43ad8ac46e
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: ec401c9e1418c0023931300efe8c0206824d3506
+ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544943"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60885285"
 ---
 # <a name="complete-microsoft-365-certification"></a>完成 Microsoft 365 認證
 
@@ -38,6 +38,9 @@ ms.locfileid: "60544943"
 1. **開始認證** -在夥伴中心內按一下「開始認證」。 這會讓您進入初始檔提交入口網站。 提交您的 [初始檔提交](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission)。 這可協助我們根據您的應用程式的設計方式及處理客戶資料的方式，判斷評估的範圍。 請經常檢查此頁面，查看是否已接受您的提交。
 
 1. 送出 **證據**-您的初始檔提交一經接受，您的應用程式所需的安全性控制組將會自動顯示在入口網站中。 接著，您必須為每個控制項提交證據，以示範該控制項已就地。 請記住，您會在提交所有的證據時，提供 **60 天** 的時間。 分析員會檢查您的證據，並核准該控制項或要求新的或其他的證據。 請經常檢查此頁面，查看是否已接受您的證據。
+
+>[!NOTE]
+> 請參閱 [範例證據指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide) 以取得所需證據的具體範例。
 
 1. **取得認可** -當您的提交已由分析員驗證之後，您將會收到您的認證決策通知。 已獎勵認證的應用程式將會在其應用程式內的 **(Teams、Office、AppSource)** 和 **管理入口網站上收到標記， (Teams、M365)** 和 **Microsoft** 檔頁面。 您可以在 [這裡](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)閱讀認證的完整優點。
 
