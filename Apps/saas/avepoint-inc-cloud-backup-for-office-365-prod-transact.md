@@ -5,20 +5,19 @@ author: elenamalova
 ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: 所有可用的雲端備份安全性和符合性資訊資訊，適用于 Office 365 生產 (transact-sql) 、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9c147dc754f420e0c7f1c1392cb2e75616557cfe
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: b9257448bd15bc23647a3567fb0f66a7325fe1fd
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60874912"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61039995"
 ---
 # <a name="cloud-backup-for-office-365---prod-transact"></a>Office 365 (transact-sql) 的雲端備份
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>上次於開發人員的更新日期：2021年9月29日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/avepoint.cloudbackup_o365_transact" target="_blank">在 AppSource 中查看</a>
@@ -166,7 +165,7 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph許可**  | **權限類型** |          **對齊**          |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          |
 >|:------------------------|:--------------------|:------------------------------------|
 >| User.Read | 委託 | 登入並讀取使用者設定檔 |
 >| Directory.Read.All | 應用程式 | 讀取目錄資料 |

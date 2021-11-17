@@ -2,24 +2,24 @@
 title: Arrangr by Arrangr，Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/19/2021
+ms.date: 11/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Arrangr 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f4a5df023e906ad18e260debe09953351210d5bc
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 1f1798cd6741c6cafdd33defe8b8e713ac58eab5
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60427865"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61040985"
 ---
 # <a name="arrangr"></a>Arrangr
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年6月15日</p>
+<p>上次於開發人員的更新日期：2021年11月15日</p>
 
 * <a href="https://teams.microsoft.com/l/app/57de46f8-193a-400c-9a34-c862333aed55" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002975" target="_blank">在 AppSource 中查看</a>
@@ -36,10 +36,13 @@ Arrangr，Inc. 提供給 Microsoft 的資訊：
 | ID | WA200002975 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Arrangr，Inc. |
-| 合作夥伴網站的 URL | [https://arrangr.com](https://arrangr.com) |
-| Teams 應用程式資訊頁面的 URL | [https://arrangr.com/welcome](https://arrangr.com/welcome) |
-| 隱私權原則的 URL | [https://arrangr.com/privacy_policy](https://arrangr.com/privacy_policy) |
-| 使用條款的 URL | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
+| 公司的網站 | [https://arrangr.com](https://arrangr.com) |
+| App 的使用條款 | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
+| 應用程式的核心功能 | Arrangr 是適用于任何會議的智慧整合調度程式。 無論是親自或遠端、1:1 或群組，Arrangr 都很簡單又快。 Arrangr 與 Microsoft calendar 整合，以輕鬆且快速地封鎖忙碌時間、協助形象化您的日程，並確定您的會議已放在行事曆中。 此外，我們的 Teams 整合功能可讓您輕鬆地與小組成員共用邀請、在 Teams 內發起新的會議，以及從 Teams] 索引標籤中追蹤 Arrangr 會議。 |
+| 公司 headquarter 位置 | 美國地區 |
+| 應用程式資訊頁面 | |
+| 用來執行應用程式的主控環境或服務模型為何？ | Paas |
+| 應用程式會使用哪一個主控雲端提供者？ | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,81 +54,123 @@ Arrangr，Inc. 提供給 Microsoft 的資訊：
 
 Arrangr，Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織的資料，以及您的組織將會透過應用程式收集的資料所產生的控制項。
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
-
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
-
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 我們會收集使用者行事曆的名稱，以及其行事曆事件的詳細資料，以協助排程會議。 | 我們會儲存與其相連之任何行事曆的名稱，讓他們可以查看和變更他們所連接的行事曆。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| ReadBasic | 委託 | 收集使用者可使用的頻道清單，讓我們可以向他們顯示其通道的清單，以供他們挑選共用 Arrangr 邀請的人。 | 我們不會將資訊儲存在使用者的頻道上 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| ChannelMessage 傳送 | 委託 | 此許可權是用來代表使用者將 Arrangr 邀請傳送到小組通道。 它不會用來收集資料。 | 使用此許可權收集的資料不會儲存。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| 聊天室 ReadWrite | 委託 | 此許可權是用來代表使用者將 Arrangr 邀請傳送至 Teams 聊天。 此許可權不會用來收集資料。 | 使用此許可權收集的資料不會儲存。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| ChatMessage 傳送 | 委託 | 此許可權可用來代表使用者將 Arrangr 邀請傳送至1:1 和群組聊天。 它不會用來收集資料。 | 使用此許可權收集的資料不會儲存。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| OnlineMeetings ReadWrite | 委託 | Arrangr 會收集使用此許可權產生之流程中 Microsoft Teams 的會議連結。 我們會為使用者產生 Teams 會議，讓他們在 Arrangr 上排列 Teams 通話。 | 我們會儲存會議連結，讓他們可以與適當的團體共用，以加入會議。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| 個人讀取 | 委託 | 我們會收集與使用者相關之人員的名稱和電子郵件。 如此一來，我們便可輕鬆讓使用者將其選擇為 Arrangr 邀請的收件者。 | 如果使用者最後選取透過此 API 提供的收件者，則會儲存該收件者的名稱和電子郵件，以便進行會議，以及讓使用者在今後將其選擇為收件者。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| Team.ReadBasic.All | 委託 | 我們會收集使用者 Teams 的名稱，讓他們可以選擇要連接至 Arrangr 的 Teams，以及想要共用 Arrangr 邀請的團隊。 | Arrangr 會儲存使用者已選擇連結至 Arrangr 的 Teams 名稱，因此我們可以在其設定中顯示這些 Teams，然後在決定要共用 Arrangr 邀請的位置時，讓他們從這些 Teams 中進行選取。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| TeamsAppInstallation.ReadWriteSelfForUser | 委託 | 我們讀取的是使用者的 Teams 帳戶中是否已安裝了我們的應用程式，以便他們是否要安裝應用程式，並讓我們為他們安裝應用程式。 | 我們不會儲存透過此許可權收集的資料。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| 設定檔 | 委託 | 名稱和電子郵件地址 | 名稱和電子郵件地址，以便向使用者顯示其連線至服務的帳戶。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
-
-以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
-
->| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Outlook | 是 | 名稱、電子郵件、行事曆名稱，行事曆事件資訊 | 我們會收集此資訊，讓使用者將其行事曆連線至 Arrangr，以協助排程會議 | 名稱、電子郵件、行事曆名稱 | 我們會儲存此資訊，以便讓使用者向使用者顯示其已連線到服務的帳戶和行事曆。 |
-
-#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
-
-若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
-
->| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Google Cloud，SendGrid，Stripe，Quaderno | Google Cloud 會儲存所有使用者資料、使用者名稱和電子郵件與 SendGrid 共用，以便將電子郵件傳送給使用者、帶區接收使用者名稱、電子郵件，以及支付資訊以用於處理付款。 Quaderno 會接收使用者名稱、電子郵件及地理資訊，以協助與加值稅相容。 | 需要 Google Cloud 來儲存資料，以記住使用者，並提供他們選擇要儲存在 Arrangr 中的資訊。 若要將電子郵件傳送給我們的使用，我們必須提供其電子郵件地址給 SendGrid。 若要收集付款，我們必須處理其在 Stripe 中的付款資訊，但不會將其支付資訊儲存在自己的伺服器上。 需要有 Quaderno 才能計算銷售稅，並確定我們仍遵循銷售稅法規。 |
-
-#### <a name="data-access-via-bots"></a>透過 bot 的資料存取
-
-如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
-
->| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 使用者將使用我們的郵件擴充，安排與其他人的會議。 我們需要為使用者顯示其登入的帳戶，而且我們必須能夠將其所傳送的邀請與正確的 Arrangr 使用者關聯。 | 使用者名稱、電子郵件及通訊資訊。 | 需要這項資訊才能協調多方間的會議，以及分享連線和會議的詳細資料。 |
-
-
-#### <a name="telemetry-data"></a>遙測資料
-
-任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
-
->應用程式遙測或記錄中未出現 OII 或 EUII。
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
-
-說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
-
->我們會透過其 API 來控制 Google Cloud 資料儲存中儲存的資料，並可刪除我們需要的任何資料。 我們的使用者可以要求移除其帳戶和刪除其資料。
-
-#### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
-
-參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
-
->是
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
+| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| App 是否支援 TLS 1.1 或更新版本？ | 是 |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
+| 資料庫中儲存的資料為何？ | 使用者名稱和電子郵件、行事曆的名稱、行事曆會議連結、小組名稱。 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
+| 您是否有既定的資料 rentention 與處置程式？ | 是 |
+| 在帳戶終止後，資料會保留多久？ | 小於30days |
+| 您是否有既定的資料存取管理程式？ | 是 |
+| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
+| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="security"
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>身分識別資訊
-
-Arrangr，Inc. 已提供此資訊。關於此應用程式如何處理驗證、授權、application registration 最佳作法及其他身分識別準則。
+來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 否 |
+| 您是否要在應用程式中執行年度滲透測試？ | 否 |
+| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | TraditionalAntiMalware, ApplicationControls |
+| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
+| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 否 |
+| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 否 |
+| 您的環境是否有不受支援的作業系統或軟體？ | 否 |
+| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 否 |
+| 您的外部網路界限是否已安裝防火牆？ | 否 |
+| 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
+| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 否 |
+| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
+| 啟用下列各要素驗證 (MFA) ： | CodeRepositories、DNSManagement、身分憑證 |
+| 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
+| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 否 |
+| 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 否 |
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | |
+| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
+| 您是否已建立正式的資訊安全性風險管理程式？ | 否 |
+| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 最近的 SOC1 認證日期 |   |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 您已完成哪一種 SOC 2 憑證？ | |
+| 最近的 SOC2 認證日期 | |
+| 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
+| 最近的 SOC3 認證日期 | |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
+| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+| 應用程式是否符合 NIST 800-171？ | 不適用 |
+| App 是否已 (CSA 星) 認證？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
+| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
+| 隱私權原則 URL | https://arrangr.com/privacy_policy |
+| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
+| 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
+| 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
+| 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
+| 應用程式是否有功能可在要求時刪除個人資料？ | 是 |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 是 |
+| App 是否提供個人資料，以更正或更新其個人資料？ | 是 |
+| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 否 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 否 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
+| 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
+| 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
+
+>此應用程式不會使用 Microsoft Graph。
+
+>此應用程式沒有額外的 APIs。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
