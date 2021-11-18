@@ -8,16 +8,17 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊Office 的上載程式、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4db105d3bfc1ba2ae292110b30c37ae3832ac7f6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ffde80edf2a5e9fe247a91af61faef54fbf8fdd7
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279326"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066431"
 ---
 # <a name="officeatwork--uploader-for-office"></a>officeatwork |Office 的上載程式
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>上次於開發人員的更新日期：2021年6月23日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381430" target="_blank">在 AppSource 中查看</a>
@@ -56,8 +57,8 @@ ms.locfileid: "59279326"
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | 委託 | 不儲存任何資料。 | OneDrive：能夠讀取及寫入使用者 OneDrive 中的資料。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| Group.ReadWrite.All | 委託 | 不儲存任何資料。 | Teams：讀取及寫入群組中的資料。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| GroupMember Read。 All | 委託 | 不儲存任何資料。 | SharePoint線上-安全性群組支援：允許此應用程式列出群組、讀取基本群組內容，以及讀取已登入使用者可存取之所有群組的成員資格。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| Sites.Read.All | 委託 | 不儲存任何資料。 | SharePoint線上：若要在 SharePoint online 中啟用讀取資料，已登入的使用者可以存取權。 啟用將資料上傳至 SharePoint 線上 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| GroupMember Read。 All | 委託 | 不儲存任何資料。 | SharePoint 線上-安全性群組支援：允許此應用程式列出群組、讀取基本群組內容，以及讀取已登入使用者可存取的所有群組的成員資格。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| Sites.Read.All | 委託 | 不儲存任何資料。 | 線上 SharePoint：若要在線上 SharePoint 中啟用讀取資料，登入的使用者可以存取權。 啟用將資料上傳至 SharePoint 線上 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| User.Read | 委託 | 不儲存任何資料。 | 共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| User.Read.All | 委託 | 不儲存任何資料。 | Teams：找出使用者所屬的群組。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 >| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
@@ -70,7 +71,7 @@ ms.locfileid: "59279326"
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| SharePointREST APIs | 否 |  |  |  |  |
+>| SharePoint REST APIs | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
 
@@ -106,7 +107,7 @@ ms.locfileid: "59279326"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750" target="_blank">在新的索引標籤中查看</a>
 
