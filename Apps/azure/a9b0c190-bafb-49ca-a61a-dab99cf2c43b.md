@@ -2,17 +2,17 @@
 title: A9b0c190-bafb-49ca-a61a-dab99cf2c43b 的 Azure 應用程式識別碼資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/16/2021
+ms.date: 11/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 0e9eda43c4614be1969f40cf43500139f9cc5c61
-ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
+ms.openlocfilehash: 49facd53871303e02135a0fadab68b24b7f841d4
+ms.sourcegitcommit: 16228ecbe73bc51d49d6bf71584774537b76c41c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "61036755"
+ms.lasthandoff: 11/17/2021
+ms.locfileid: "61062323"
 ---
 # <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure App ID: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 
