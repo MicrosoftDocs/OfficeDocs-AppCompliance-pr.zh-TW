@@ -1,44 +1,45 @@
 ---
-title: LawToolBox.com inc. Outlook 的 LawToolBox 期限和事務管理的應用程式資訊。
+title: Timeghost-時間追蹤的應用程式資訊，以 K&#246;llisch GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/24/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: LawToolBox 期限和 Outlook 相關事項的所有可用安全性和符合性資訊資訊，也就是其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有可用的安全性和符合性資訊，供 timeghost 時間追蹤、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9baa7ea9b51626f8d887d568b428a83999b77940
+ms.openlocfilehash: 1c70233a07a2bda76bd44da2b838cd51519e06bd
 ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148121"
+ms.locfileid: "61148147"
 ---
-# <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>LawToolBox 期限與事務管理-Outlook
+# <a name="timeghost---time-tracking"></a>timeghost - Time tracking
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年6月24日</p>
+<p>上次於開發人員的更新日期：2021年7月15日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200003103" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/e3956558-7399-4ec1-848a-c61a2aa95bc1" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001532" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-LawToolBox.com Inc. 所提供的資訊給 Microsoft：
+由 K&#246;llisch GmbH 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | LawToolBox 期限與事務管理-Outlook |
-| ID | WA200003103 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
-| 合作夥伴公司名稱 | LawToolBox.com Inc. |
-| 公司的網站 | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
-| App 的使用條款 | [https://www.lawtoolbox.com/customersupport/2019/LawToolBox_...](https://www.lawtoolbox.com/customersupport/2019/LawToolBox_End_User_License_Agreement_and_SLA_LAWTOOLBOX_2019_APR.pdf) |
-| 應用程式的核心功能 | 使用 Microsoft 365 的法律整合管理期限及搜尋檔案 |
-| 公司 headquarter 位置 | 美國地區 |
+| 應用程式名稱 | timeghost - Time tracking |
+| ID | WA200001532 |
+| 支援 Office 365 用戶端 | Microsoft Teams |
+| 合作夥伴公司名稱 | K&#246;llisch GmbH |
+| 公司的網站 | [https://timeghost.io](https://timeghost.io) |
+| App 的使用條款 | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |
+| 應用程式的核心功能 | Timeghost 是專為 Office 365 設計的時間追蹤工具。 |
+| 公司 headquarter 位置 | 德國 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
 
@@ -50,7 +51,7 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 LawToolBox.com Inc. 提供。關於此應用程式如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊已由 K&#246;llisch GmbH 提供，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -59,7 +60,7 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 | 資料庫中儲存的資料為何？ |  |
 | 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
 | 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 保留 |
+| 在帳戶終止後，資料會保留多久？ | 在2weeks 內刪除 |
 | 您是否有既定的資料存取管理程式？ |  |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
 | 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
@@ -75,7 +76,7 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要在應用程式中執行年度滲透測試？ | 否 |
-| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 否 |
+| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
 | 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ |  |
 | 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ |  |
 | 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ |  |
@@ -104,7 +105,7 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
 | 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
 | 最近的 SOC1 認證日期 |   |
@@ -115,13 +116,13 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 | 最近的 SOC3 認證日期 | |
 | 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 是 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 是 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
 | 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 是 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ |  |
 | App 是否已 (CSA 星) 認證？ | 否 |
 
@@ -156,8 +157,7 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 真 |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
-| 您的應用程式是否支援條件式存取原則？ | 是 |
-| 列出支援的原則類型 | 如需更好的控制管理，可實施應用程式許可權 |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  |  |
 | 您的應用程式是否會在程式碼中儲存任何認證？ |  |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
