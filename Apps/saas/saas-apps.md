@@ -2,17 +2,17 @@
 title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/22/2021
+ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 820ef4df0b5e7f62b82bc6c8470ab93c4fc68767
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 14599b013ac0cedf1e718fe5a25ac879a37604fa
+ms.sourcegitcommit: 7395a3f8bf109af577dc24ad1de4e7d18db9c26d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148081"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61215250"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 

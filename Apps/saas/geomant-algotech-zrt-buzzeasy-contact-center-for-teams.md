@@ -2,24 +2,24 @@
 title: Geomant-Algotech Zrt Teams 的 Buzzeasy 連絡人中心的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/08/2021
+ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Buzzeasy 連絡人中心所有可用的安全性和符合性資訊資訊 Teams，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 02396ac56e40ab444175b7882c8b0cf1aa31b327
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: f80ef944b502b1bacb5253f917154747761ee6ae
+ms.sourcegitcommit: 7395a3f8bf109af577dc24ad1de4e7d18db9c26d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60874862"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61215260"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Buzzeasy Teams 的連絡人中心
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年10月21日</p>
+<p>上次於開發人員的更新日期：2021年11月23日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/geomant.buzzeasy_teams_contact_center" target="_blank">在 AppSource 中查看</a>
 
@@ -39,7 +39,7 @@ Geomant-Algotech Zrt 提供的資訊。 至 Microsoft：
 | 應用程式的核心功能 | Microsoft Teams 的連絡人中心解決方案 |
 | 公司 headquarter 位置 | 匈牙利 |
 | 應用程式資訊頁面 | |
-| 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
+| 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -58,11 +58,11 @@ Geomant-Algotech Zrt 提供的資訊。 至 Microsoft：
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
+| 資料庫中儲存的資料為何？ | Microsoft JWT 使用者和重新整理權杖，Microsoft 應用程式識別碼，應用程式密碼，從 Graph API M365 電子郵件內容 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 愛爾蘭 |
+| 您是否有既定的資料 rentention 與處置程式？ | 是 |
+| 在帳戶終止後，資料會保留多久？ | 小於90days |
+| 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
 | 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
@@ -166,7 +166,7 @@ Geomant-Algotech Zrt 提供的資訊。 至 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph許可**  | **權限類型** |          **對齊**          |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          |
 >|:------------------------|:--------------------|:------------------------------------|
 >| 郵件。 ReadWrite | 應用程式 | 允許代理程式透過 Agent 使用者介面，讀取/寫入特定 (共用) 信箱。  (可以篩選為特定信箱。 )  |
 >| 傳送郵件 | 應用程式 | 代表共用信箱傳送電子郵件。 |
