@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/15/2021
+ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 7fadd914a01b3b02ce14791b31d36385472ec917
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 0ab6d04d916c0398642ed3f9dc80b7b5dd9196b1
+ms.sourcegitcommit: 79e749c1746f3658789e7b080e413be97883abef
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412022"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61217067"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -25,10 +25,11 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [SharePoint 的 ArcGIS](./esri-inc-arcgis-for-sharepoint.md) | Esri，Inc.。 | **✓** |  |
 | [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** |  |
 | [SharePoint 的 Gaggle](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net，Inc.。 | **✓** |  |
-| [SharePoint 的 HelloSign](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox公司。 | **✓** |  |
+| [SharePoint 的 HelloSign](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox inc.。 | **✓** |  |
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe Microsoft Office 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect 電子郵件分析器](./konnect-email-parser.md) | Konnect 電子郵件 | **✓** |  |
+| [LifeWorks Viva 連線](./lifeworks-inc-viva-connections.md) | Lifeworks Inc。 | **✓** |  |
 | [閃電工具閃電線](./lightning-tools-conductor.md) | 閃電工具 | **✓** |  |
 | [officeatwork | SharePoint] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-sharepoint.md)  | officeatwork | **✓** |  |
 | [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |

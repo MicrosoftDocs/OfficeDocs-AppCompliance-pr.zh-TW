@@ -2,17 +2,17 @@
 title: Microsoft Word 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/22/2021
+ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 10e3f16c158e8abfdaf91188dd933ea4626f37b7
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: ead76387b7cdfd52f035f81db53baa59e3bf580f
+ms.sourcegitcommit: 79e749c1746f3658789e7b080e413be97883abef
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61144817"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61217047"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 應用程式安全性和合規性
 
@@ -22,6 +22,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Sign for Word 和 PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [AuditBoard 增益集](./auditboard-inc-add-in.md) | Auditboard，Inc.。 | **✓** |  |
+| [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax-傳送傳真變得簡單 &amp; 安全](./cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
