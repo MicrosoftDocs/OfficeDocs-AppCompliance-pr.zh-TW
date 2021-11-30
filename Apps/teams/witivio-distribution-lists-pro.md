@@ -1,28 +1,28 @@
 ---
-title: Keepass Pro 的應用程式資訊 Witivio
+title: Witivio Pro 之通訊群組清單的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 Keepass Pro 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 通訊群組清單的所有可用安全性和符合性資訊資訊 Pro，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a2e9053bef8b0ce7338ef3e5058ab6f4be0ee706
+ms.openlocfilehash: b5b28c507c192b692ed66743c47851a847694039
 ms.sourcegitcommit: 3a80f3f16b38f0a7914ca435d66d2ab0fde7f6f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 11/30/2021
-ms.locfileid: "61235048"
+ms.locfileid: "61235088"
 ---
-# <a name="keepass-pro"></a>Keepass Pro
+# <a name="distribution-lists-pro"></a>通訊群組清單 Pro
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開發人員上次更新日期：2021年11月30日</p>
 
-* <a href="https://teams.microsoft.com/l/app/dc00c22b-b7ad-4db8-bf35-c2660104d622" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003336" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/4b8d2936-4e5f-4563-83ca-4bdad686c788" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002977" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
@@ -32,13 +32,13 @@ ms.locfileid: "61235048"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Keepass Pro |
-| ID | WA200003336 |
+| 應用程式名稱 | 通訊群組清單 Pro |
+| ID | WA200002977 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Witivio |
 | 公司的網站 | [https://www.witivio.com](https://www.witivio.com) |
 | App 的使用條款 | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
-| 應用程式的核心功能 | 安全地儲存、共用及產生 Microsoft Teams 中的密碼。 |
+| 應用程式的核心功能 | Microsoft Teams 的通訊群組清單 Pro 可讓您輕鬆存取現有的通訊群組清單。 應用程式會在您的 Microsoft Teams 上顯示清單及其成員。 |
 | 公司 headquarter 位置 | 法國 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
@@ -60,7 +60,7 @@ ms.locfileid: "61235048"
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ | 團隊及通道識別碼 |
+| 資料庫中儲存的資料為何？ | 通訊群組清單識別碼 |
 | 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 愛爾蘭 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於60days |
@@ -117,15 +117,15 @@ ms.locfileid: "61235048"
 | 最近的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 是 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 是 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 否 |
 | 應用程式是否符合 NIST 800-171？ | 否 |
 | App 是否已 (CSA 星) 認證？ | 否 |
 
@@ -144,9 +144,9 @@ ms.locfileid: "61235048"
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
 | 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
-| 應用程式是否有功能可在要求時刪除個人資料？ | 是 |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 是 |
-| App 是否提供個人資料，以更正或更新其個人資料？ | 是 |
+| 應用程式是否有功能可在要求時刪除個人資料？ | 否 |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 否 |
+| App 是否提供個人資料，以更正或更新其個人資料？ | 否 |
 | 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -170,11 +170,13 @@ ms.locfileid: "61235048"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          |
 >|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 委託 | Teams SSO |
->| Files.ReadWrite.All | 委託 | SharePoint 中的讀取/寫入 KDBX 檔案 |
->| openid | 委託 | Teams SSO |
->| 設定檔 | 委託 | Teams SSO |
->| 電子郵件 | 委託 | Teams SSO |
+>| 電子郵件 | 委託 | Microsoft Teams SSO |
+>| openid | 委託 | Microsoft Teams SSO |
+>| offline_access | 委託 | Microsoft Teams SSO |
+>| User.Read | 委託 | Microsoft Teams SSO |
+>| 設定檔 | 委託 | Microsoft Teams SSO |
+>| 目前狀態為 [已讀取]。 | 委託 | 檢查清單中的人員是否存在 |
+>| Group.Read.All | 委託 | 清單通訊群組清單 |
 
 >此應用程式沒有額外的 APIs。
 

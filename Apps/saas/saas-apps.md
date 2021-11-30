@@ -2,17 +2,17 @@
 title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/29/2021
+ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 14599b013ac0cedf1e718fe5a25ac879a37604fa
-ms.sourcegitcommit: 7395a3f8bf109af577dc24ad1de4e7d18db9c26d
+ms.openlocfilehash: 7e7636740cf251d2168276703a51e32ae36bdb6a
+ms.sourcegitcommit: 3a80f3f16b38f0a7914ca435d66d2ab0fde7f6f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "61215250"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61235036"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -24,6 +24,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT 有限公司。 | **✓** |  |
 | [Office 365 (transact-sql) 的雲端備份](./avepoint-inc-cloud-backup-for-office-365-prod-transact.md) | AvePoint Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [CodeTwo Office 365 的電子郵件簽名](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
+| [Competella 通訊套件](./competella-ab-communication-suite.md) | Competella AB | **✓** |  |
 | [內容選擇器](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
 | [iGlobe Microsoft 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** |  |
