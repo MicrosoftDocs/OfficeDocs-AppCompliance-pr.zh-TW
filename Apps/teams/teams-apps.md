@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 529aa117854df492b68fba9a856b53025043da2b
-ms.sourcegitcommit: 0987264f7eb14ac7fc2666d9310ab2707e0f25ad
+ms.openlocfilehash: 0d87191af1fbe22782d358e7e70df88a65a11ca3
+ms.sourcegitcommit: 3a80f3f16b38f0a7914ca435d66d2ab0fde7f6f4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 11/30/2021
-ms.locfileid: "61231961"
+ms.locfileid: "61234927"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -65,6 +65,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [版面連結](./engage-squared-board-connect.md) | 使用方形 | **✓** |  |
 | [額外獎勵](./bonusly.md) | 額外獎勵 | **✓** |  |
+| [Booking Room Pro](./witivio-booking-room-pro.md) | Witivio | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
 | [BravoNow](./spadeworx-software-services-bravonow.md) | SpadeWorx Software Services | **✓** |  |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  |
@@ -107,6 +108,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Connect+](./reward-gateway-connectplus.md) | Reward Gateway | **✓** |  |
 | [連絡人中心](./landis-technologies-llc-contact-center.md) | Landis Technologies LLC | **✓** |  |
 | [連絡人中心 | ROGER365.io](./roger365io-contact-centerroger365io.md) | ROGER365.io | **✓** |  |
+| [Contacts Pro](./witivio-contacts-pro.md) | Witivio | **✓** |  |
 | [內容管理員](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [CoNtextere AVA](./contextere-ava.md) | CoNtextere | **✓** |  |
 | [ContractZen](./contractzen.md) | ContractZen | **✓** |  |
@@ -123,6 +125,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
 | [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  |
+| [通訊群組清單專業人員](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
