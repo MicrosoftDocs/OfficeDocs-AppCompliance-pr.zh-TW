@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用的雲端備份安全性和符合性資訊資訊，適用于 Office 365 生產 (transact-sql) 、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b9257448bd15bc23647a3567fb0f66a7325fe1fd
-ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
+ms.openlocfilehash: d2017f681e2689dbf4625baf7f7d3dcef62bbfc4
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "61039995"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261685"
 ---
 # <a name="cloud-backup-for-office-365---prod-transact"></a>Office 365 (transact-sql) 的雲端備份
 
@@ -35,8 +35,11 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 | 合作夥伴公司名稱 | AvePoint Inc.。 |
 | 公司的網站 | [https://www.avepoint.com](https://www.avepoint.com) |
 | App 的使用條款 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| 應用程式的核心功能 | AvePoint 雲端備份是業界&#8217;最完整的雲端對雲端備份解決方案，適用于 Microsoft 365。 With
-在 AvePoint&#8217;Azure 儲存體或您自己的雲端中的無限制、自動化備份和安全儲存，您只需決定復原的數量和時間。 依需求和細微的專案層級還原可讓您隨時隨地存取商務重要電子郵件、檔案、交談、記錄、專案、工作、群組、Teams、規劃人員和網站。 | |公司 headquarter 位置 |美國地區 | |應用程式資訊頁面 | | |用來執行應用程式的主控環境或服務模型為何？ |Paas | |應用程式會使用哪一個主控雲端提供者？ |Azure |
+| 應用程式的核心功能 | AvePoint 雲端備份是業界&#8217;最完整的雲端對雲端備份解決方案，適用于 Microsoft 365。 在 AvePoint&#8217;Azure 儲存體或您自己的雲端中使用無限制、自動化備份和安全儲存，您只需決定復原的數量和時間。 依需求和細微的專案層級還原可讓您隨時隨地存取商務重要電子郵件、檔案、交談、記錄、專案、工作、群組、Teams、規劃人員和網站。 |
+| 公司 headquarter 位置 | 美國地區 |
+| 應用程式資訊頁面 | |
+| 用來執行應用程式的主控環境或服務模型為何？ | Paas |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

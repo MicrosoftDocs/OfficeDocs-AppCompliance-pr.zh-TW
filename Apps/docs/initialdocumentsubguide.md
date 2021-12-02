@@ -1,21 +1,27 @@
 ---
 ms.author: oromalle
-title: Microsoft 365認證-初始檔提交指南
+title: Microsoft 365 認證-初始檔提交指南
 author: orionomalley
-description: Microsoft 365認證提交指南精細查看
+description: Microsoft 365 認證提交指南細微模式
 keywords: 應用程式認證團隊 Microsoft 365 的安全性符合性 m365 初始檔提交
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0352b64649d87b40d185a2bc06ce23da6cf341ef
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378811"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261675"
 ---
-# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365Ceritification-初始檔提交指南
+# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 Ceritification-初始檔提交指南
 
 初始檔提交是認證的預先評估階段的一部分。 所提供的資訊將為認證分析分析員提供必要的背景，以識別哪些控制項和系統元件將會在您的評估範圍內。 本檔的用途只是您的初始檔提交所需的範例。 您所提供的檔會因您設計、實施及管理解決方案的方式而有所不同。
+
+## <a name="what-is-the-hosting-environment-or-service-model-used-to-run-your-app"></a>用來執行應用程式的主控環境或服務模型為何？
+- 基礎結構即服務 (IaaS) 是雲端服務模型，其中雲端服務提供者會主控您的基礎結構元件，但 Isv 仍負責部署及管理元件，如虛擬機器/作業系統、資料存放區及網路元件。 這是 Azure 虛擬機器和 Azure 磁片儲存體的範例。
+- 平臺即服務 (PaaS) 是雲端服務模型，其中的基礎結構元件是由雲端服務提供者所管理。 Isv 只負責部署自己的應用程式和服務。 這是 Azure 應用程式服務、Azure 功能和 Azure CDN 的範例。
+- 此內容中主控的 ISV 是指未使用雲端服務提供者。 ISV 會以實際方式管理自己的伺服器、磁片、獨立于內部部署的網路。
+- 此內容中的混合式表示使用上述一種以上模型。 例如，有些 Isv 可以選擇混合使用 IaaS 服務和 PaaS 服務，以支援其應用程式，或可能有一些內部部署的 ISV 主控元件，並將其他人外包給雲端服務提供者。 如果您使用一種以上的服務模型，請選取 [混合]。
 
 ## <a name="penetration-test-report"></a>滲透測試報告
 
@@ -28,13 +34,13 @@ ms.locfileid: "60378811"
 
 支援基礎結構所使用之所有系統元件的最新 inventroy。 這會在執行評估階段時用於協助抽樣。 如果您的環境包括 PaaS，當您可以提供所有已使用 PaaS 服務的詳細資料時，它會非常有用。
 
-**附注：** IaaS/PaaS 不會有屬於 Isv 控制項底下的任何硬體。  在此情況下，請提供所有 virual 資源的清單或螢幕擷取畫面。
+**注意：** IaaS/PaaS 不會有屬於 Isv 控制項底下的任何硬體。  在此情況下，請提供所有 virual 資源的清單或螢幕擷取畫面。
 
 **範例：**
 
 |資產名稱|    資產類型| 描述|    製造商|   Model|
 |-|-|-|-|-|
-|D212|  Windows 機|   虛擬機器|    不適用| 不適用|
+|D212|  Windows 機器|   虛擬機器|    不適用| 不適用|
 |LT101| 筆記型電腦| 工作站|    Microsoft|  第3表面|
 |C2938| 參數| 參數|不適用|不適用|     
 |LXM2|  Linux 電腦|  測試電腦|不適用|不適用|       
@@ -48,7 +54,7 @@ ms.locfileid: "60378811"
 
 |軟體|  Publisher|  版本|     用途|
 |-|-|-|-|
-|Windows 伺服器|    Microsoft 2016 | 組建14393| 實際執行環境的伺服器作業系統|.
+|Windows Server|    Microsoft 2016 | 組建14393| 實際執行環境的伺服器作業系統|.
 |Linux Ubuntu|  不適用|    16.04 (Xenial) | 在 DMZ 內使用的伺服器作業系統。|
 |ESXi|  VMWare| 6.5.0 (組建 13004031) | 用來支援虛擬伺服器。|
 |Mysql (Windows) |   不適用|    8.0.2.1|    儲存聊天記錄的資料庫伺服器。|
@@ -68,7 +74,7 @@ ms.locfileid: "60378811"
 |反應| 16.13.1|
 |引導| 4.5.2|
 |Express|   4.17.1|
-|Angular|   10.0.14|
+|角|   10.0.14|
 |AngularJS| 1.8.0|
 
 

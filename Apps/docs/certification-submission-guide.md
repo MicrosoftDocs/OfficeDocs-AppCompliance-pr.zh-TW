@@ -1,24 +1,24 @@
 ---
 ms.author: oromalle
-title: Microsoft 365認證提交指南
+title: Microsoft 365 認證提交指南
 author: orionomalley
-description: Microsoft 365認證提交指南精細查看
+description: Microsoft 365 認證提交指南細微模式
 keywords: 應用程式認證團隊 Microsoft 365 安全性符合性 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: f89cb9f82cec69a473d451cff33e3db9b406489d
-ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
+ms.openlocfilehash: 56d6de02101013d10f48c308e2f7ece706b26c51
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60885286"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261665"
 ---
-# <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認證提交指南
+# <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 認證提交指南
 
 **本文內容：**
 - [簡介](#introduction)
 - [必要條件](#prerequisites) 
-- [Microsoft 365認證規格更新](#microsoft-365-certification-specification-updates)
+- [Microsoft 365 認證規格更新](#microsoft-365-certification-specification-updates)
 - [認證範圍](#certification-scope)
 - [認證程式](#certification-process)
 - [初始檔提交](#initial-document-submission) 
@@ -51,7 +51,7 @@ Microsoft 365 應用程式相容性計畫的一部分，當您將協力廠商開
 > 目前 Microsoft 365 認證適用于所有：
 >* Microsoft Teams 應用程式 (索引標籤、bot 等 ) ]。
 >* Sharepoint 應用程式/增益集
->* Office增益集 (Word、Excel、PowerPoint、Outlook、Project、OneNote) 
+>* Office 增益集 (Word、Excel、PowerPoint、Outlook、Project、OneNote) 
 >* WebApps
 
 ## <a name="prerequisites"></a>必要條件
@@ -64,7 +64,7 @@ Microsoft 365 應用程式相容性計畫的一部分，當您將協力廠商開
 
 Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365 的憑證規格，以確保在範圍內環境和應用程式/增益集符合所有適用的控制措施。 這會協助確保順利進行的評估處理常式。
 
-## <a name="microsoft-365-certification-specification-updates"></a>Microsoft 365認證規格更新 
+## <a name="microsoft-365-certification-specification-updates"></a>Microsoft 365 認證規格更新 
 
 大約每隔六到十二個月就會預計 Microsoft 365 憑證規格的更新。 這些更新可能會引入新的目標安全性網域和/或安全性控制。 更新會根據開發人員的意見反應、對威脅環境所做的變更，以及在成熟時提升程式的安全性基準。 
 
@@ -125,7 +125,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 >[!NOTE]
 >針對所有 office 應用程式，您可以參考《 [Office app 使用者指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 對於所有 WebApps，您可以參照我們的 [SaaS App 使用者指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)。
 
-### <a name="assessment"></a>評估
+### <a name="assessment"></a>評定
 1. 您的初始檔提交一經接受，您的應用程式所需的安全性控制組將會自動顯示在入口網站中。 接著，您必須為每個控制項提交證據，以示範該控制項已就地。 請記住，您會在提交所有的證據時，提供 **60 天** 的時間。 分析員會檢查您的證據，並核准該控制項或要求新的或其他的證據。 請經常檢查此頁面，查看是否已接受您的證據。
 ### <a name="certification"></a>認證
 1. 當您的提交由分析員驗證之後，您將會收到您的認證決策通知。 已獎勵憑證的應用程式會在 **AppSource** 和 **Microsoft** 檔頁面中的應用程式上接收徽章。 您可以在 [這裡](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)閱讀認證的完整優點。
@@ -151,7 +151,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 | -------------------------| -----------------------------|
 |**應用程式/增益集描述** | App/增益集的用途及功能的描述。 這可讓認證分析分析員充分瞭解應用程式/增益集的功能及其用途。
 |**滲透測試報告** |在過去12個月內完成的滲透測試報告。 此報告必須包含支援部署應用程式/新增的環境，以及支援應用程式/增益集作業的任何其他環境。 **附注：** 如果您不執行年度滲透測試，您可以選擇透過認證程式完成。|
-|**架構圖表**|邏輯架構圖，代表應用程式/增益集的支援基礎結構的高層次概述。 這必須包含支援應用程式/增益集的 **所有** 主控環境和支援基礎結構。 此圖表必須說明環境內所有不同的支援系統元件，以協助認證分析員瞭解範圍內的系統，並協助判斷抽樣。 請另外指出使用的主控環境類型;ISV 主控、IaaS、PaaS 或混合式。 **附注：** 在使用 SaaS 的地方，請指出用來在環境中提供支援服務的各種 SaaS 服務。|
+|**架構圖表**|邏輯架構圖，代表應用程式/增益集的支援基礎結構的高層次概述。 這必須包含支援應用程式/增益集的 **所有** 主控環境和支援基礎結構。 此圖表必須說明環境內所有不同的支援系統元件，以協助認證分析員瞭解範圍內的系統，並協助判斷抽樣。 請另外指出使用的主控環境類型;ISV 主控、IaaS、PaaS 或混合式。 **注意：** 在使用 SaaS 的地方，請指出用來在環境中提供支援服務的各種 SaaS 服務。|
 |**公開的足跡** | 詳述支援基礎結構所使用的 **所有** 公用 IP 位址和 URLs。 這必須包含為環境所指派的完整可路由 IP 範圍，除非已執行適當的分割才能分割使用中的範圍 (足夠的分割的證據) |
 |**資料流程圖** |Flow 圖詳述下列各項：
 ||在應用程式/增益集 (中 &#x2713; M365 資料流程，包括 [EUII](#euii) 和 [OII](#oii) ) 。|
@@ -277,9 +277,11 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 >報表必須能夠提供足夠的保證，您可以在 Application Security Test 規格區段中的詳細資訊中加以示範。
 
 
-**滲透測試需求和成本**
+**免費的滲透測試需求和規則**
 
-針對目前未參與滲透測試的 isv，滲透測試會包含在 Microsoft 365 憑證之下。 Microsoft 會安排並涵蓋最多12天手動測試的滲透測試成本。 滲透測試成本的計算取決於測試環境所需的天數。 任何超過12天測試的費用都會成為 ISV 的責任。 ISV 也會負責示範滲透測試中所識別的安全性漏洞已在取得認證之前修正，但不需要產生全新報告。
+- 針對目前未參與滲透測試的 isv，可免費 Microsoft 365 憑證進行滲透測試。 Microsoft 會安排並涵蓋最多12天手動測試的滲透測試成本。 滲透測試成本的計算取決於測試環境所需的天數。 任何超過12天測試的費用都會成為 ISV 的責任。 
+- 在進行滲透測試之前，必須先將 Isv 送出的證據提交至範圍中的50% 控制項，然後再取得批准。 若要立即開始，請先填寫初始檔提交，並選擇將滲透測試納入評估中。 當您已完成50% 的控制項時，系統就會與您的滲透測試取得聯繫範圍和排程。
+- 另外，Isv 也會負責示範滲透測試中所識別的安全性漏洞已于取得的認證之前修正，但不需要產生全新報告。
 
 在排列滲透測試之後，ISV 會負責與重新排定和取消相關的費用，如下所示：
 
@@ -1008,7 +1010,7 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 
 ## <a name="learn-more"></a>深入了解
 
-[Microsoft 365應用程式規範計畫概述](~/overview.md)  
+[Microsoft 365 應用程式規範計畫概述](~/overview.md)  
 [何謂 Microsoft 365 App Publisher 認證？](~/docs/attestation.md)  
 [何謂 Microsoft 365 認證？](~/docs/enterprise-app-certification-guide.md)
 
