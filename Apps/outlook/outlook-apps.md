@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/22/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: d475bd1d8cc129b3b1ab96d204cbbc9c0e44e49c
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: e432d03df0c033f6d93a7a7b4f6ec541ff84fe84
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148061"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61351598"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -23,7 +23,6 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Outlook 的 Adobe Sign Add-In](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Altru 影片](./altru-videos.md) | Altru | **✓** |  |
 | [核准的連絡人行事曆](./approved-contact-calendars.md) | 已核准的連絡人 | **✓** |  |
-| [Outlook 的 Asana](./asana-for-outlook.md) | Asana | **✓** |  |
 | [CI-簽名](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [Outlook 的 CodeTwo](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Commuty](./commuty.md) | Commuty | **✓** |  |
@@ -47,8 +46,6 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [量子工作場所](./quantum-workplace.md) | 量子工作場所 | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [電子郵件的 ServiceDesk Plus](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
-| [Outlook 的 StarLeaf 增益集](./starleaf-add-in-for-outlook.md) | StarLeaf | **✓** |  |
 | [Wunder365](./jiji-technologies-private-limited-wunder365.md) | JiJi 技術私人有限 | **✓** |  |
 | [XQ 安全電子郵件](./xq-message-secure-email.md) | XQ 郵件 | **✓** |  |
-| [行銷自動化的 Zoho 活動工具](./zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md) | Zoho Corporation Private Limited | **✓** |  |
 | [電子郵件的 CRM Zoho](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |

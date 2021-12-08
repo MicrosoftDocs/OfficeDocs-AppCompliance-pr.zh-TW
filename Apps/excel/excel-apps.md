@@ -2,17 +2,17 @@
 title: Microsoft Excel 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/22/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: f5e36298554672e6cb7c22cb84d32c68d902cb37
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 94eba70bda84194b7055912f4125348dea4df0d3
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61145225"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61353408"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 應用程式安全性和合規性
 
@@ -26,9 +26,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Forbury](./forbury-property.md) | Forbury 屬性 | **✓** |  |
 | [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
 | [印記簽名](./impression-signatures.md) | 印記簽名 | **✓** |  |
-| [Office 365 Planner 的 iPlanner 報告工具](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Jira Cloud for Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
-| [Excel 的 Lucidchart 圖表](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid 軟體 Inc。 | **✓** |  |
 | [Excel 的文字分析 MeaningCloud](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** |  |

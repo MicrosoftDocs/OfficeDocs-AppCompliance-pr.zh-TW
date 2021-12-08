@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/20/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft PowerPoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 1b1c190303b7b4bebece542bb5bdf01a56a47bd7
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: f99a5ba130a68a68d89e06e228cbfc98a539042a
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545803"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61354168"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint 應用程式安全性與合規性
 
@@ -23,7 +23,6 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Adobe Sign for Word 和 PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
-| [PowerPoint 的 Lucidchart 圖表](./lucid-software-inc-lucidchart-diagrams-for-powerpoint.md) | Lucid 軟體 Inc。 | **✓** |  |
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** |  |
 | [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |
