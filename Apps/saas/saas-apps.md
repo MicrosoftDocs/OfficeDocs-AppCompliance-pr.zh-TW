@@ -2,17 +2,17 @@
 title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/07/2021
+ms.date: 12/08/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 9a96b3d33c06f3ec77989fcdb669f97c0f608bd8
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: 14125ffe6afd36925adfb2e993f059ba4a3a84ba
+ms.sourcegitcommit: e50a2b92ad5918cb72b9cffca73aeffc8f2d6d76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 12/08/2021
-ms.locfileid: "61354398"
+ms.locfileid: "61359705"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -45,4 +45,5 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [範本選擇器瀏覽器](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** |  |
 | [上傳者](./officeatwork-uploader.md) | officeatwork | **✓** |  |
 | [驗證](./officeatwork-verifier.md) | officeatwork | **✓** |  |
+| [廣泛的創意-創新軟體](./wide-ideasidea2innovation-ideas-innovation-software.md) | 廣泛的創意/Idea2Innovation | **✓** |  |
 | [精靈](./officeatwork-wizard.md) | officeatwork | **✓** |  |
