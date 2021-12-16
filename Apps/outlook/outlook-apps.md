@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2021
+ms.date: 12/15/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: b7362ca0b8a396df26a560d46660d336939d5bb2
-ms.sourcegitcommit: 4abb4344a6593d61ef5a1a84cf32dc6610652f2f
+ms.openlocfilehash: 4f32a178a85f9e4559fe4954a76f6e18f6139945
+ms.sourcegitcommit: fc537c6574ed98a1706c4cadf02150a2f3e1137c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2021
-ms.locfileid: "61407156"
+ms.lasthandoff: 12/16/2021
+ms.locfileid: "61537077"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -47,6 +47,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [量子工作場所](./quantum-workplace.md) | 量子工作場所 | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [電子郵件的 ServiceDesk Plus](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
+| [策略-AI](./chinchilla-software-limited-strategy-ai.md) | Chinchilla 軟體限制 | **✓** |  |
 | [Wunder365](./jiji-technologies-private-limited-wunder365.md) | JiJi 技術私人有限 | **✓** |  |
 | [XQ 安全電子郵件](./xq-message-secure-email.md) | XQ 郵件 | **✓** |  |
 | [電子郵件的 CRM Zoho](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
