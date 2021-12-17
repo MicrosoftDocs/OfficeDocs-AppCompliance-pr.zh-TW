@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/14/2021
+ms.date: 12/15/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: bd7701d32451ba503d19f7488c0ae9a6baf61a4d
-ms.sourcegitcommit: 849d584236cda08570ca2c72b4147853ab0314a8
+ms.openlocfilehash: f1edba1f0d3b0dfd3aadf4bafb449ac24d41010a
+ms.sourcegitcommit: fc537c6574ed98a1706c4cadf02150a2f3e1137c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2021
-ms.locfileid: "61503676"
+ms.lasthandoff: 12/16/2021
+ms.locfileid: "61534183"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -100,6 +100,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Contacts Pro](./witivio-contacts-pro.md) | Witivio | **✓** |  |
 | [內容管理員](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [CoNtextere AVA](./contextere-ava.md) | CoNtextere | **✓** |  |
+| [ContractZen](./contractzen.md) | ContractZen | **✓** |  |
 | [CSOD Learn](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
 | [Cuckoo Workout](./cuckoo-networks-oy-workout.md) | Cuckoo Networks Oy | **✓** |  |
 | [Cultr Connect](./cultr-connect.md) | Cultr | **✓** |  |
@@ -365,8 +366,11 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [TELUS Business Connect](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
 | [範本選擇程式](./officeatwork-template-chooser.md) | officeatwork | **✓** |  |
 | [Text](./approved-contact-text.md) | 已核准的連絡人 | **✓** |  |
+| [Captivate 中樞](./captivate-io-ltd-the-hub.md) | Captivate IO 有限公司 | **✓** |  |
+| [ThoughtExchange](./thoughtexchange.md) | ThoughtExchange | **✓** |  |
 | [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
 | [ti8m 位置](./tiandm-ag-ti8m-places.md) | ti&amp;m AG | **✓** |  |
+| [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - Time tracking](./kollisch-gmbh-timeghost-time-tracking.md) | K&#246;llisch GmbH | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM 數位 SRL | **✓** |  |
