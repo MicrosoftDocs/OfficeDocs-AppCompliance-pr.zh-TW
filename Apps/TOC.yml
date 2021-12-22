@@ -585,6 +585,8 @@
           href: teams/message-reminder.md
         - name: MGR360
           href: teams/mgr360.md
+        - name: 米婭
+          href: teams/mihcm-mia.md
         - name: Micromate
           href: teams/paixon-gmbh-micromate.md
         - name: MindManager
@@ -685,6 +687,8 @@
           href: teams/powell-software-teams.md
         - name: Power BI 共同作業
           href: teams/ataira-power-bi-collaboration.md
+        - name: Powow
+          href: teams/powow-ai.md
         - name: Presentations AI
           href: teams/infographfx-technologies-presentations-ai.md
         - name: Priority Matrix
@@ -1059,6 +1063,8 @@
       items:
         - name: Buzzeasy Teams 的連絡人中心
           href: saas/geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md
+        - name: CC4Teams
+          href: saas/cc4all-cc4teams.md
         - name: Classroom.cloud
           href: saas/netsupport-ltd-classroomcloud.md
         - name: Microsoft Office 365 的雲端備份
@@ -1071,6 +1077,8 @@
           href: saas/officeatwork-content-chooser.md
         - name: Designer
           href: saas/officeatwork-designer.md
+        - name: Outlook 的 EmailNotes
+          href: saas/standss-south-pacific-pte-limited-emailnotes-for-outlook.md
         - name: iGlobe Microsoft 365 的 CRM Office 365
           href: saas/iglobe-crm-office-365-for-microsoft.md
         - name: 影像選擇器
@@ -1079,6 +1087,8 @@
           href: saas/iglobe-iplanner-pro-office-365.md
         - name: LMS365
           href: saas/elearningforce-international-aps-lms365.md
+        - name: Microsoft Teams 的 Luware 相容性錄製
+          href: saas/luware-ag-compliance-recording-for-microsoft-teams.md
         - name: Luware 的 Nimbus （Microsoft Teams）
           href: saas/luware-ag-nimbus-for-microsoft-teams.md
         - name: MIPA-我的智慧個人助理
@@ -1097,8 +1107,6 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
-        - name: M365 的 SendGuard
-          href: saas/standss-south-pacific-pte-limited-sendguard-for-m365.md
         - name: 投影片選擇
           href: saas/officeatwork-slide-chooser.md
         - name: 範本選擇程式

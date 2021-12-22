@@ -1,45 +1,43 @@
 ---
-title: MGR360 的應用程式資訊（按 MGR360）
+title: CC4Teams 的應用程式資訊（按 CC4ALL）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: MGR360 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: CC4Teams 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9cd26d2fd4b9afb62bc432b4841416e564eec2f8
+ms.openlocfilehash: feb5be7483844c3e8c0709c8967b88048c4b691d
 ms.sourcegitcommit: 287c15520b2d24d1b150c144ee8001b713b0aa8a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 12/22/2021
-ms.locfileid: "61590620"
+ms.locfileid: "61590656"
 ---
-# <a name="mgr360"></a>MGR360
+# <a name="cc4teams"></a>CC4Teams
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2021年12月16日</p>
+<p>開發人員上次更新日期：2021年11月20日</p>
 
-* <a href="https://teams.microsoft.com/l/app/a229e17d-d19a-403b-8ddf-fc44cf8d5462" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003329" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/contactcenter4all1634641680587.cc4all_01" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 MGR360 提供給 Microsoft 的資訊：
+由 CC4ALL 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | MGR360 |
-| ID | WA200003329 |
-| 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | MGR360 |
-| 公司的網站 | [https://mgr360.com](https://mgr360.com) |
-| App 的使用條款 | [https://mgr360.com/terms-and-conditions](https://mgr360.com/terms-and-conditions) |
-| 應用程式的核心功能 | 適用于卓越 bosses 的應用程式。 管理您的小組&#8217;的目標、任務、評論及一對多&#8230; 一個位置。 |
-| 公司 headquarter 位置 | 美國地區 |
+| 應用程式名稱 | CC4Teams |
+| ID | contactcenter4all1634641680587.cc4all_01 |
+| 合作夥伴公司名稱 | CC4ALL |
+| 公司的網站 | [https://contactcenter4all.com](https://contactcenter4all.com) |
+| App 的使用條款 | [https://contactcenter4all.com/contactcenter4all-saas-agreem...](https://contactcenter4all.com/contactcenter4all-saas-agreement/) |
+| 應用程式的核心功能 | CC4Teams 新增諸如佈線、熱情轉接、通話記錄，以及向 Teams 報告之類的功能 |
+| 公司 headquarter 位置 | 荷蘭 ()  |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
@@ -52,7 +50,7 @@ ms.locfileid: "61590620"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 MGR360 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊是由 CC4ALL 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -60,11 +58,11 @@ ms.locfileid: "61590620"
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
+| 資料庫中儲存的資料為何？ | 代理程式名稱、電子郵件地址、通話中心的代理人活動 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 荷蘭 ()  |
+| 您是否有既定的資料 rentention 與處置程式？ | 是 |
+| 在帳戶終止後，資料會保留多久？ | 小於60days |
+| 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
 | 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
@@ -79,24 +77,24 @@ ms.locfileid: "61590620"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要在應用程式中執行年度滲透測試？ | 否 |
-| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 否 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls |
-| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 否 |
-| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 否 |
-| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 否 |
+| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls, TraditionalAntiMalware |
+| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
+| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
+| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |
 | 您的環境是否有不受支援的作業系統或軟體？ | 否 |
 | 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 否 |
 | 您的外部網路界限是否已安裝防火牆？ | 是 |
 | 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
 | 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 是 |
 | 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
-| 啟用下列各要素驗證 (MFA) ： |  |
+| 啟用下列各要素驗證 (MFA) ： | Credential，DNSManagement |
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
-| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
+| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 否 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 否|
-| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 否 |
-| 您是否已建立正式的資訊安全性風險管理程式？ | 否 |
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
+| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
+| 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
 | 您是否已記錄並建立正式的安全性事件回應程式？ |  |
 | 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
 
@@ -108,7 +106,7 @@ ms.locfileid: "61590620"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
 | 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
 | 最近的 SOC1 認證日期 |   |
@@ -137,15 +135,16 @@ ms.locfileid: "61590620"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 否 |
-| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 否 |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
+| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
+| 隱私權原則 URL | https://ss-usa.s3.amazonaws.com/c/308460351/media/12330608ab57a01be064335765158501/CC4ALL%20-%20Data%20Processing%20Agreement%20V1.0.pdf |
 | 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
 | 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
-| 應用程式是否有功能可在要求時刪除個人資料？ | 否 |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 否 |
-| App 是否提供個人資料，以更正或更新其個人資料？ | 否 |
+| 應用程式是否有功能可在要求時刪除個人資料？ | 是 |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 是 |
+| App 是否提供個人資料，以更正或更新其個人資料？ | 是 |
 | 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -169,7 +168,14 @@ ms.locfileid: "61590620"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          |
 >|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | 包括 | 讓應用程式建立、讀取和更新行事曆事件，並與 Teams 整合 |
+>| CallRecords Read。 All | 應用程式 | 用於錄製 |
+>| AccessMedia 所有 | 應用程式 | 用於存取媒體 |
+>| 呼叫。 Initiate 所有 | 應用程式 | 用於在連絡人中心內啟動通話 |
+>| InitiateGroupCall 所有 | 應用程式 | 用於在連絡人中心內啟動通話 |
+>| JoinGroupCall 所有 | 應用程式 | 用於在連絡人中心內啟動通話 |
+>| JoinGroupCallasGuest 所有 | 應用程式 | 用於在連絡人中心內啟動通話 |
+>| 顯示狀態。讀取 | 委託 | 用於在連絡人中心檢查代理程式的狀態 |
+>| 目前狀態為 [已讀取]。 | 委託 | 用於在連絡人中心檢查代理程式的狀態 |
 
 >此應用程式沒有額外的 APIs。
 
