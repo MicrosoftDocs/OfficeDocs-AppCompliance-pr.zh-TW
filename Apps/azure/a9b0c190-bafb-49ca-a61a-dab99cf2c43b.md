@@ -2,17 +2,17 @@
 title: A9b0c190-bafb-49ca-a61a-dab99cf2c43b 的 Azure 應用程式識別碼資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 12/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 8948bd9c7b8deadaaf59d2cb3ecd8eed96d58adf
-ms.sourcegitcommit: 6ca6b2ad53cf18362b78ed725d295cc2590c6b36
+ms.openlocfilehash: 1f6eb6720c9b16c5592ca0f7a81d5351f7d375b1
+ms.sourcegitcommit: 801dcfe732e3d119fa21e56499978915a2da3896
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "61578761"
+ms.lasthandoff: 12/22/2021
+ms.locfileid: "61595125"
 ---
 # <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure App ID: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 
@@ -22,6 +22,7 @@ ms.locfileid: "61578761"
 |--------------|---------------|-----------------------|
 | [Outlook 的 Adobe Sign Add-In](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381158) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381158](https://appsource.microsoft.com/product/office/WA104381158) |
 | [Adobe 標誌](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381233) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381233](https://appsource.microsoft.com/product/office/WA104381233) |
+| [Adobe Sign for Word 和 PowerPoint](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381155) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381155](https://appsource.microsoft.com/product/office/WA104381155) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 應用程式規範狀態
 - Publisher Attestaton 狀態：已完成
