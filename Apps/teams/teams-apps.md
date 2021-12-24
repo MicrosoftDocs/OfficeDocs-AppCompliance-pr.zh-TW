@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 12/23/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 2fd22d4daa0723fc621e0d621b90fc0d15f45e0f
-ms.sourcegitcommit: 287c15520b2d24d1b150c144ee8001b713b0aa8a
+ms.openlocfilehash: 9d7343c204d68fa7177781f45bbf655db5059b1e
+ms.sourcegitcommit: 1be3c2ca2c8a781c6acda29412224061c90790c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/22/2021
-ms.locfileid: "61590630"
+ms.lasthandoff: 12/23/2021
+ms.locfileid: "61603131"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -218,6 +218,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Mediatheque +](./cemeq-inc-mediathequeplus.md) | CEMEQ inc. | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [Message Reminder](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
+| [MetaVisitor](./wafer-systems-metavisitor.md) | Wafer Systems | **✓** |  |
 | [MGR360](./mgr360.md) | MGR360 | **✓** |  |
 | [Mia](./mihcm-mia.md) | MiHCM | **✓** |  |
 | [Micromate](./paixon-gmbh-micromate.md) | Paixon GmbH | **✓** |  |
@@ -225,6 +226,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [MindMup](./sauf-pompiers-ltd-mindmup.md) | Sauf Pompiers Ltd | **✓** |  |
 | [Mindsets](./mindsets-learning.md) | Mindsets Learning | **✓** |  |
 | [MIPA - 您的個人助理](./iglobe-mipa-your-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Miro](./miro.md) | Miro | **✓** |  |
 | [monday.com](./mondaycom.md) | monday.com | **✓** |  |
 | [Moneypenny](./callitech-limited-moneypenny.md) | LIMITED | **✓** |  |
 | [Monitask](./fest-technologies-llc-monitask.md) | FEST Technologies, LLC | **✓** |  |
