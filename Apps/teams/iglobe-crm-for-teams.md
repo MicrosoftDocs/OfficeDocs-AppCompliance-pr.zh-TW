@@ -2,24 +2,23 @@
 title: iGlobe CRM for iGlobe Teams 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/06/2021
+ms.date: 12/19/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: 所有適用于 iGlobe CRM Teams 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 50a591bbbf634a69b0684ee7701987bd7b8eaad8
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: 6aaeddce93a513ca22b0bf5c0b4fdf8b85a7830d
+ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61354565"
+ms.lasthandoff: 01/03/2022
+ms.locfileid: "61662681"
 ---
-# <a name="iglobe-crm-for-teams"></a>iGlobe CRM （適用于 Teams）
+# <a name="iglobe-crm-for-teams"></a>iGlobe CRM for Teams
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年12月6日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次於開發人員更新：2021年12月9日</p>
 
 * <a href="https://teams.microsoft.com/l/app/f708066c-137d-41a1-a88b-a6f3ae8982e2" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381421" target="_blank">在 AppSource 中查看</a>
@@ -32,7 +31,7 @@ ms.locfileid: "61354565"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | iGlobe CRM （適用于 Teams） |
+| 應用程式名稱 | iGlobe CRM for Teams |
 | ID | WA104381421 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | iGlobe |

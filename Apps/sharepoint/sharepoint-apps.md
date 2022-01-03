@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/22/2021
+ms.date: 12/31/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 7a78fe4a40b62878d90ef4350ca5ba3100090b4f
-ms.sourcegitcommit: 801dcfe732e3d119fa21e56499978915a2da3896
+ms.openlocfilehash: 0968d1f45de013b99ab8870d7210266b1fbad83a
+ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/22/2021
-ms.locfileid: "61592724"
+ms.lasthandoff: 01/03/2022
+ms.locfileid: "61664194"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 

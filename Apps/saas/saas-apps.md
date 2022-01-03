@@ -2,17 +2,17 @@
 title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 12/31/2021
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: cd88d3f0d6a4e4edeb82a7ebd875a440768afc83
-ms.sourcegitcommit: 287c15520b2d24d1b150c144ee8001b713b0aa8a
+ms.openlocfilehash: 522695f841163def3dadc9969913b87be8bfec31
+ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/22/2021
-ms.locfileid: "61590610"
+ms.lasthandoff: 01/03/2022
+ms.locfileid: "61663693"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -29,7 +29,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [內容選擇器](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
 | [Outlook 的 EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (南部太平洋) PTE 有限 | **✓** |  |
-| [iGlobe Microsoft 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** |  |
+| [iGlobe Microsoft 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [影像選擇器](./officeatwork-image-chooser.md) | officeatwork | **✓** |  |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [LMS365](./elearningforce-international-aps-lms365.md) | 國際 Ap ELEARNINGFORCE | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
