@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/31/2021
+ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 0968d1f45de013b99ab8870d7210266b1fbad83a
-ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
+ms.openlocfilehash: 70f373ee0426bda09802a669ba67c180cd820a00
+ms.sourcegitcommit: 11ec7246fa8e1052155e98a0bff51d32e58ea2cf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2022
-ms.locfileid: "61664194"
+ms.lasthandoff: 01/04/2022
+ms.locfileid: "61711347"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -22,6 +22,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe 簽收 SharePoint](./adobe-inc-sign-for-sharepoint.md) | Adobe Inc.。 | **✓** |  |
 | [SharePoint 的 ArcGIS](./esri-inc-arcgis-for-sharepoint.md) | Esri，Inc.。 | **✓** |  |
+| [投標管理系統](./beyond-technologies-bid-management-system.md) | 超越技術 | **✓** |  |
 | [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** |  |
 | [SharePoint 的 HelloSign](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox inc.。 | **✓** |  |
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
