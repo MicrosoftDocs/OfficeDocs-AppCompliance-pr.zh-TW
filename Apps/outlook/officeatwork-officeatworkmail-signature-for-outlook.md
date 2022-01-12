@@ -1,27 +1,27 @@
 ---
-title: Officeatwork 的應用程式資訊 |透過 officeatwork Outlook 的內容選擇器
+title: Officeatwork 的應用程式資訊 |officeatwork Outlook 的郵件簽名
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊內容選擇 Outlook，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊郵件簽署的 Outlook，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 407167303a549e94f5e68e184243bd7137461823
+ms.openlocfilehash: 9c2b253c143a1efa249f0e4ea14387664bb68834
 ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 01/12/2022
-ms.locfileid: "61788083"
+ms.locfileid: "61788510"
 ---
-# <a name="officeatwork--content-chooser-for-outlook"></a>officeatwork |Outlook 的內容選擇器
+# <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork |Outlook 的郵件簽名
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開發人員上次更新日期：2022年1月7日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380690" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003062" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
@@ -31,13 +31,13 @@ ms.locfileid: "61788083"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | officeatwork-Outlook 的內容選擇器 |
-| ID | WA104380690 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
+| 應用程式名稱 | officeatwork-Outlook 的郵件簽名 |
+| ID | WA200003062 |
+| 支援 Office 365 用戶端 | Outlook 2016 或更新版本 Windows，Outlook 網頁版 |
 | 合作夥伴公司名稱 | officeatwork |
 | 公司的網站 | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | App 的使用條款 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| 應用程式的核心功能 | 在 Word 中存取集中式共用內容，Excel，PowerPoint，Outlook，瀏覽器和其他應用程式。 |
+| 應用程式的核心功能 | 組織中的郵件簽名、簡單且安全的集中管理，商標 &amp; 個人化。 |
 | 公司 headquarter 位置 | 瑞士 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
@@ -164,7 +164,7 @@ ms.locfileid: "61788083"
 | 列出支援的原則類型 | 安全性預設 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
 | 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
-| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
+| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
@@ -173,12 +173,7 @@ ms.locfileid: "61788083"
 >| openid | 委託 | 啟用登入 |
 >| 設定檔 | 委託 | 啟用登入 |
 >| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 |
->| User.Read | 委託 | 啟用已登入使用者的顯示 |
->| Files.ReadWrite.All | 委託 | 啟用我的最愛及 OneDrive 功能 |
->| Group.ReadWrite.All | 委託 | 啟用 Teams 功能 |
->| User.Read.All | 委託 | 啟用顯示使用者屬性 |
->| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的使用者範本檔案 |
->| GroupMember Read。 All | 委託 | 啟用 Teams 功能 |
+>| User.Read | 委託 | 啟用顯示登入的使用者，啟用具有使用者屬性的動態郵件簽名 |
 
 >此應用程式沒有額外的 APIs。
 
