@@ -6,12 +6,12 @@ description: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 keywords: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 79a301d6825b3f9ea3d882e13e91b48f3808f60b
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: 2b2b84cec3be5167d67733a89ba13fa411a0e781
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544556"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61787856"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>合作夥伴的 Microsoft 365 應用程式規範計畫的使用者指南
 
@@ -45,7 +45,7 @@ ms.locfileid: "60544556"
 
 ![在商業市場上選取應用程式](../media/NewPCoffersComm.png)
 
-在選取應用程式時，會以選項「應用程式相容性」彈出另一個導覽列。
+在選取應用程式時，會彈出另一個導覽列，其中會顯示 [其他憑證資訊]，然後按一下 [應用程式符合性]。
   
 **步驟 3**：選取「應用程式符合性」
 
@@ -170,13 +170,13 @@ ms.locfileid: "60544556"
 
 ![更新 Publisher 證明](../media/UserGuidePhotos/29.png)
 
-**Publisher已核准的證明更新**
+**已核准 Publisher 證明更新**
 
-![Publisher認證更新](../media/UserGuidePhotos/30.png)
+![Publisher 認證更新](../media/UserGuidePhotos/30.png)
 
-**Publisher 證明已過期：** 應用程式的資訊必須在到期日之前更新，以維護 Microsoft 檔上應用程式的 Publisher 認證頁面。及時更新也會確保 AppSource 中的應用程式持續聲譽徽章授予和圖示、Teams 儲存區、Office 存放區及其他書店。
+**Publisher 證明已過期：** 必須先更新應用程式的資訊，才能維護 Microsoft 檔上的應用程式 Publisher 認證頁面。及時更新也會確保 AppSource 中的應用程式持續聲譽徽章授予和圖示、Teams 儲存區、Office 存放區及其他書店。
 
-![Publisher證明已到期](../media/UserGuidePhotos/31.png)
+![Publisher 證明已到期](../media/UserGuidePhotos/31.png)
 
 附注：已到期，只要按一下「更新」，即可隨時啟動 Publisher 證明更新程式。 
 

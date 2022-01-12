@@ -2,24 +2,24 @@
 title: CC4Teams 的應用程式資訊（按 CC4ALL）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2021
+ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CC4Teams 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: feb5be7483844c3e8c0709c8967b88048c4b691d
-ms.sourcegitcommit: 287c15520b2d24d1b150c144ee8001b713b0aa8a
+ms.openlocfilehash: 31b9467e5aa5efb07131ec0509eaf8e3aa0b544c
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/22/2021
-ms.locfileid: "61590656"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61784059"
 ---
 # <a name="cc4teams"></a>CC4Teams
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年11月20日</p>
+<p>開發人員上次更新日期：2022年1月11日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/contactcenter4all1634641680587.cc4all_01" target="_blank">在 AppSource 中查看</a>
 

@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/03/2022
+ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 70f373ee0426bda09802a669ba67c180cd820a00
-ms.sourcegitcommit: 11ec7246fa8e1052155e98a0bff51d32e58ea2cf
+ms.openlocfilehash: 11bb7ec222b8abefd4ee0d1858d3472da17767cd
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2022
-ms.locfileid: "61711347"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61786081"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -33,3 +33,4 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [officeatwork | SharePoint] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-sharepoint.md)  | officeatwork | **✓** |  |
 | [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [更聰明的事件預約](./smarter-business-solutions-gmbh-event-booking.md) | 更智慧的商務解決方案 GmbH | **✓** |  |
+| [分類](./accuracy-software-inc-taxonomy.md) | 準確性軟體 Inc.。 | **✓** |  |

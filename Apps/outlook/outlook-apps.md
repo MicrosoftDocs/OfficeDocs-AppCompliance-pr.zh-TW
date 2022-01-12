@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/15/2021
+ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 4f32a178a85f9e4559fe4954a76f6e18f6139945
-ms.sourcegitcommit: fc537c6574ed98a1706c4cadf02150a2f3e1137c
+ms.openlocfilehash: bebe79b10fcf1473035759868575261fd15ffe5f
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/16/2021
-ms.locfileid: "61537077"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61788073"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -40,6 +40,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [Outlook 的 Office2SharePoint](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Outlook] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-outlook.md)  | officeatwork | **✓** |  |
+| [officeatwork | Outlook] 的郵件簽名 (./officeatwork-officeatworkmail-signature-for-outlook.md)  | officeatwork | **✓** |  |
 | [Outlook 的 OnePlaceMail](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 解決方案 | **✓** |  |
 | [Outlook 的推廣銷售專案](./outreach-sales-engagement-for-outlook.md) | 外 展 | **✓** |  |
 | [Pexip Outlook 的一個](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
@@ -47,7 +48,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [量子工作場所](./quantum-workplace.md) | 量子工作場所 | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [電子郵件的 ServiceDesk Plus](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
-| [策略-AI](./chinchilla-software-limited-strategy-ai.md) | Chinchilla 軟體限制 | **✓** |  |
+| [策略-AI 用於 Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla 軟體限制 | **✓** |  |
 | [Wunder365](./jiji-technologies-private-limited-wunder365.md) | JiJi 技術私人有限 | **✓** |  |
 | [XQ 安全電子郵件](./xq-message-secure-email.md) | XQ 郵件 | **✓** |  |
 | [電子郵件的 CRM Zoho](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
