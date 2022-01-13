@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/11/2022
+ms.date: 01/13/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft PowerPoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: a4681b0cc4d07743e23bb25bb0203f8a76fb9760
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: 4b8b7ff8b765d6c640f0e1b79dd7267d0fda568f
+ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61785750"
+ms.lasthandoff: 01/13/2022
+ms.locfileid: "62027992"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint 應用程式安全性與合規性
 
@@ -24,8 +24,4 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** |  |
-| [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |
-| [officeatwork | 投影片選擇 Office] (。/officeatwork-officeatworkslide-chooser-for-office.md)  | officeatwork | **✓** |  |
-| [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** |  |
 | [SlideHub](./nomorehours-slidehub.md) | nomorehours | **✓** |  |
