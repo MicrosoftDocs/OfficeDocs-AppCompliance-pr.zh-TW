@@ -2,17 +2,17 @@
 title: Microsoft Excel 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/17/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 17fb073b5bbdf008d5fe83ee400ec8e2b04d81c5
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: 9cb86361200bfd87838da3c708f7eaf61898bfef
+ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028828"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "62065909"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 應用程式安全性和合規性
 
@@ -30,5 +30,4 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [QuickCells 圖形](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [QuickCells Solvers](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [報表產生器](./adobe-inc-report-builder.md) | Adobe Inc.。 | **✓** |  |
-| [Office 的 Wunder365](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi 技術私人有限 | **✓** |  |
 | [XBRL 會將資料存檔](./xbrl-us-filed-data.md) | XBRL 我們 | **✓** |  |

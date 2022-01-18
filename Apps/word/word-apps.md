@@ -2,17 +2,17 @@
 title: Microsoft Word 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/17/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: bdc052ee1288ec94333ef5427491c872c831fcd3
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: 9f1a7da8bf8caac6329d9765c051d2fdb7e75233
+ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028525"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "62067229"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 應用程式安全性和合規性
 
@@ -36,5 +36,4 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [SmartCite 論文](./digital-science-smartcite-for-papers.md) | 數位科學 | **✓** |  |
 | [TaxKit 檔](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [TerMef](./mondeca-termef.md) | Mondeca | **✓** |  |
-| [Office 的 Wunder365](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi 技術私人有限 | **✓** |  |
 | [xLaw-知識管理系統](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |

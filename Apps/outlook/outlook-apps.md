@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/17/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: d2ac2dc9fc6b97e96dd8f0d19b0ed2f1ab14756d
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: ddbf2e6d28c1b061d44109c9e6d3dc06ea5653d7
+ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028264"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "62065469"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -20,7 +20,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Outlook 的 Adobe Sign Add-In](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Outlook 的 Adobe Sign Add-In](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc.。 | **✓** |  |
 | [Altru 影片](./altru-videos.md) | Altru | **✓** |  |
 | [核准的連絡人行事曆](./approved-contact-calendars.md) | 已核准的連絡人 | **✓** |  |
 | [CI-簽名](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
@@ -45,6 +45,5 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [量子工作場所](./quantum-workplace.md) | 量子工作場所 | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [電子郵件的 ServiceDesk Plus](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
-| [Wunder365](./jiji-technologies-private-limited-wunder365.md) | JiJi 技術私人有限 | **✓** |  |
 | [XQ 安全電子郵件](./xq-message-secure-email.md) | XQ 郵件 | **✓** |  |
 | [電子郵件的 CRM Zoho](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
