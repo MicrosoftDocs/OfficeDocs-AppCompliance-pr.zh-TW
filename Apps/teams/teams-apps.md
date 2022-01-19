@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/18/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: cdd1868e91c0f914b67e999e3bbce96ad04f0a05
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: bec153bdbc5cc6e993c8be4ce5392d987dfadc48
+ms.sourcegitcommit: b0bc806a1e2b0d157eea62dec843e02d302b2c16
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028959"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62078393"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -25,7 +25,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
 | [ADI](./akari-solutions-limited-adi.md) | Akari Solutions Limited | **✓** |  |
-| [Adobe 標誌](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Adobe 標誌](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** |  |
 | [Agenda Boss](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
 | [Alvao 服務台](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [野心](./ambition.md) | 野心 | **✓** |  |
@@ -47,6 +47,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Berrycast](./technologies-openmind-inc-les-berrycast.md) | Technologies Openmind Inc, Les | **✓** |  |
 | [Bigfish](./breathe-india-advisors-pvt-ltd-bigfish.md) | Breathe India Advisors Pvt. Ltd. | **✓** |  |
 | [Bigger Brains eLearning](./biggerbrains-bigger-brains-elearning.md) | Biggerbrains | **✓** |  |
+| [Biz-Oin](./suzuyo-shinwart-corporation-biz-oin.md) | SUZUYO Shinwart Corporation | **✓** |  |
 | [Bizfone](./mobikom-bizfone.md) | MobiKOM | **✓** |  |
 | [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [版面連結](./engage-squared-board-connect.md) | 使用方形 | **✓** |  |
@@ -197,7 +198,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [MURAL](./mural.md) | MURAL | **✓** |  |
 | [Mybys](./facilis-mybys.md) | Facilis | **✓** |  |
 | [Myfone](./flexfone-myfone.md) | Flexfone | **✓** |  |
-| [MyHub](./avepoint-inc-myhub.md) | AvePoint, Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [NE](./ne.md) | NE | **✓** |  |
 | [Neelix.Team](./neelixio-neelixteam.md) | Neelix.IO | **✓** |  |
@@ -321,7 +321,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [Totara](./totara-learning.md) | Totara Learning | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
-| [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
 | [Trivia Engine](./enableuc-trivia-engine.md) | EnableUC | **✓** |  |
 | [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  |
 | [Tryane Analytics](./tryane-analytics.md) | Tryane | **✓** |  |
@@ -350,7 +349,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [WorkJam 工作](./workjam-tasks.md) | WorkJam | **✓** |  |
 | [WorkplaceBuddy](./workplacebuddy.md) | WorkplaceBuddy | **✓** |  |
 | [Wrike](./wrike-inc.md) | Wrike Inc. | **✓** |  |
-| [Wunder365](./jiji-technologies-pvt-ltd-wunder365.md) | JiJi Technologies Pvt Ltd | **✓** |  |
 | [X0PA 會議室](./x0pa-ai-singapore-room.md) | X0PA AI 新加坡 | **✓** |  |
 | [xMatters](./xmatters-inc.md) | xMatters Inc. | **✓** |  |
 | [Yeeflow](./akmii-yeeflow.md) | Akmii | **✓** |  |
