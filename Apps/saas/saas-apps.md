@@ -2,17 +2,17 @@
 title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 2d1f964d478535a81a7153ebdebf3abd84d40d1a
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: c4cfdbbc229dbdb1d6dcf288353a937cb0ee77a7
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62027982"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62149245"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -20,13 +20,37 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [系統管理員中心](./officeatwork-admin-center.md) | officeatwork | **✓** |  |
+| [Buzzeasy Teams 的連絡人中心](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt。 | **✓** |  |
+| [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
+| [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT 有限公司。 | **✓** |  |
+| [Microsoft Office 365 的雲端備份](./avepoint-inc-cloud-backup-for-microsoft-office-365.md) | AvePoint Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [CodeTwo Office 365 的電子郵件簽名](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
+| [Competella 通訊套件](./competella-ab-communication-suite.md) | Competella AB | **✓** |  |
+| [內容選擇器](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
+| [內容選擇器瀏覽器](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** |  |
+| [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
+| [Outlook 的 EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (南部太平洋) PTE 有限 | **✓** |  |
 | [iGlobe Microsoft 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [影像選擇器](./officeatwork-image-chooser.md) | officeatwork | **✓** |  |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [LMS365](./elearningforce-international-aps-lms365.md) | 國際 Ap ELEARNINGFORCE | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Microsoft Teams 的 Luware 相容性錄製](./luware-ag-compliance-recording-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [Luware 的 Nimbus （Microsoft Teams）](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
+| [郵件簽名](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA-我的智慧個人助理](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Teams 的 MyHub](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc.。 | **✓** |  |
+| [Microsoft Teams 的 Netskope](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Teams 的 Office2SharePoint](./iglobe-office2sharepoint-for-teams.md) | iGlobe | **✓** |  |
+| [MS365 的 Onna 探索](./onna-discovery-for-ms365.md) | Onna | **✓** |  |
+| [&amp;Microsoft Office 365 的原則 Insights](./avepoint-inc-policies-and-insights-for-microsoft-office-365.md) | AvePoint Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
+| [投影片選擇](./officeatwork-slide-chooser.md) | officeatwork | **✓** |  |
+| [範本選擇程式](./officeatwork-template-chooser.md) | officeatwork | **✓** |  |
+| [範本選擇器瀏覽器](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** |  |
+| [上傳者](./officeatwork-uploader.md) | officeatwork | **✓** |  |
+| [驗證](./officeatwork-verifier.md) | officeatwork | **✓** |  |
+| [廣泛的創意-創新軟體](./wide-ideasidea2innovation-ideas-innovation-software.md) | 廣泛的創意/Idea2Innovation | **✓** |  |
+| [精靈](./officeatwork-wizard.md) | officeatwork | **✓** |  |
