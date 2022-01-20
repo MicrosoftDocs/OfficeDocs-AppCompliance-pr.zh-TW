@@ -2,17 +2,17 @@
 title: Microsoft OneNote 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft OneNote 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: b7bc7dbcc140a19e2a574e3186c1886eb684b300
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: ec9be90625e68817748455e0e6a7d29b5bd500f9
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028275"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62143690"
 ---
 # <a name="microsoft-onenote-apps-security-and-compliance"></a>Microsoft OneNote 應用程式安全性和合規性
 
@@ -20,4 +20,5 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Office 的 Wunder365](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi 技術私人有限 | **✓** |  |
+| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** |  |
+| [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |

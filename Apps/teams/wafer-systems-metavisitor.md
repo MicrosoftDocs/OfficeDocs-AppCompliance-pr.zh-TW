@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MetaVisitor 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 97611896142b66b021a10158782b4cdf8c6053a6
-ms.sourcegitcommit: 1be3c2ca2c8a781c6acda29412224061c90790c9
+ms.openlocfilehash: 2bff7b0a791fad027cfdfc1ef7dd20b2570790ff
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/23/2021
-ms.locfileid: "61603763"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62144744"
 ---
 # <a name="metavisitor"></a>MetaVisitor
 
@@ -35,7 +35,7 @@ ms.locfileid: "61603763"
 | 應用程式名稱 | MetaVisitor |
 | ID | WA200003588 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Wafer 系統 |
+| 合作夥伴公司名稱 | Wafer Systems |
 | 公司的網站 | [https://www.wafersystems.com](https://www.wafersystems.com) |
 | App 的使用條款 | [https://cloud.rd.virsical.cn/service](https://cloud.rd.virsical.cn/service) |
 | 應用程式的核心功能 | MetaVisitor&#33268;&#21147;&#20110;&#35775;&#23458;&#19994;&#21153;&#22330;&#26223;&#30340;&#20840;&#36807;&#31243;&#25968;&#23383;&#21270;&#12289;&#26234;&#33021;&#21270;&#65292;&#26500;&#24314;&#20113;&#26102;&#20195;&#30340;&#35775;&#23458;&#39044;&#32422;&#65292;&#21161;&#21147;&#39640;&#25928;&#21150;&#20844;&#12290; |
@@ -143,10 +143,10 @@ Wafer 系統會提供此資訊，此應用程式會如何收集和儲存組織�
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
 | 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
-| 應用程式是否有功能可在要求時刪除個人資料？ | 否 |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 否 |
-| App 是否提供個人資料，以更正或更新其個人資料？ | 否 |
-| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 否 |
+| 應用程式是否有功能可在要求時刪除個人資料？ |  |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ |  |
+| App 是否提供個人資料，以更正或更新其個人資料？ |  |
+| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

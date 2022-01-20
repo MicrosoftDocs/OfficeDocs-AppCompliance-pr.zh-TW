@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，例如，PA 人員、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b998b72300d66633881fb1e7f93bc723682bc14f
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: bf559c216aa657d7a14f1c4e099b67dabb8cd1c1
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61783779"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62143920"
 ---
-# <a name="pa-people"></a>PA 人員
+# <a name="pa-people"></a>PA PEOPLE
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "61783779"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | PA 人員 |
+| 應用程式名稱 | PA PEOPLE |
 | ID | WA200002948 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | &#26666;&#24335;&#20250;&#31038;電話 APPLI |
+| 合作夥伴公司名稱 | &#26666;&#24335;&#20250;&#31038;PHONE APPLI |
 | 公司的網站 | [https://phoneappli.net](https://phoneappli.net) |
 | App 的使用條款 | [https://phoneappli.net/product/agreement/renraku/](https://phoneappli.net/product/agreement/renraku/) |
 | 應用程式的核心功能 | 它可簡化人員的搜尋，並協助員工和商務合作夥伴之間的連線。 (&#20154;&#12398;&#26908;&#32034;&#12434;&#21177;&#29575;&#21270;&#12375;&#12289;&#24467;&#26989;&#21729;&#21516;&#22763;&#21450;&#12403;&#21462;&#24341;&#20808;&#12392;&#12398;&#12388;&#12394;&#12364;&#12426;&#12434;&#20870;&#28369;&#12395;&#12375;&#12414;&#12377;&#12290;)  |
@@ -141,10 +141,10 @@ ms.locfileid: "61783779"
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
 | 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
-| 應用程式是否有功能可在要求時刪除個人資料？ | 否 |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 否 |
-| App 是否提供個人資料，以更正或更新其個人資料？ | 否 |
-| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 否 |
+| 應用程式是否有功能可在要求時刪除個人資料？ |  |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ |  |
+| App 是否提供個人資料，以更正或更新其個人資料？ |  |
+| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

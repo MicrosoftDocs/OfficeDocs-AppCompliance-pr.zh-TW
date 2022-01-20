@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/17/2022
+ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: ddbf2e6d28c1b061d44109c9e6d3dc06ea5653d7
-ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
+ms.openlocfilehash: b1011389a99c7e24b743e8a415ace62bf28dd522
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/18/2022
-ms.locfileid: "62065469"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62144340"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -29,21 +29,22 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Outlook 的 harmon.ie](./harmonie-corporation-for-outlook.md) | harmon.ie Corporation | **✓** |  |
 | [Outlook 的印象特徵碼](./impression-signatures-for-outlook.md) | 印記簽名 | **✓** |  |
-| [Zoho 發票的發票和時間追蹤](./zoho-corporation-private-limited-invoice-and-time-tracking.md) | Zoho Corporation Private Limited | **✓** |  |
 | [iPlanner Office 365 Planner 增益集 Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Jira Cloud for Outlook (官方) ](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
 | [LawToolBox 期限 &amp; 事項管理-Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
 | [LawToolBox 期限與事務管理-Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
+| [Mailbutler](./mailbutler.md) | Mailbutler | **✓** |  |
 | [MIPA-您自己的個人助理](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [Outlook 的 Office2SharePoint](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Outlook] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-outlook.md)  | officeatwork | **✓** |  |
+| [officeatwork | Outlook] 的郵件簽名 (./officeatwork-officeatworkmail-signature-for-outlook.md)  | officeatwork | **✓** |  |
 | [Outlook 的 OnePlaceMail](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 解決方案 | **✓** |  |
 | [Outlook 的推廣銷售專案](./outreach-sales-engagement-for-outlook.md) | 外 展 | **✓** |  |
 | [Pexip Outlook 的一個](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [優先順序清單-將電子郵件變成任務](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [量子工作場所](./quantum-workplace.md) | 量子工作場所 | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
-| [電子郵件的 ServiceDesk Plus](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
+| [策略-AI 用於 Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla 軟體限制 | **✓** |  |
 | [XQ 安全電子郵件](./xq-message-secure-email.md) | XQ 郵件 | **✓** |  |
-| [電子郵件的 CRM Zoho](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
