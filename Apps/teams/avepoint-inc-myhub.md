@@ -2,18 +2,18 @@
 title: MyHub 的應用程式資訊，inc. AvePoint，inc.。
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/14/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MyHub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 920959d96e132cabf5081a8e7dd16584f122ebac
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 99e70f3b37e35ebf2060640137b3796976abf31d
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62143980"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62175636"
 ---
 # <a name="myhub"></a>MyHub
 

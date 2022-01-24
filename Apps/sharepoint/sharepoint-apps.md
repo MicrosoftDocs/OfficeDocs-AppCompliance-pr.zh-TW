@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/20/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 226fc20cb4150a93902e73fa6fa0b568fb740f01
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 1ae5d0b15cf8f151e915858399b640f81e5795da
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62149305"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62172813"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -20,15 +20,12 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe 簽收 SharePoint](./adobe-inc-sign-for-sharepoint.md) | Adobe Inc.。 | **✓** |  |
 | [SharePoint 的 ArcGIS](./esri-inc-arcgis-for-sharepoint.md) | Esri，Inc.。 | **✓** |  |
 | [投標管理系統](./beyond-technologies-bid-management-system.md) | 超越技術 | **✓** |  |
 | [Bizagi Webpart](./bizagi-team-webparts.md) | Bizagi 小組 | **✓** |  |
 | [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** |  |
-| [SharePoint 的 HelloSign](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox inc.。 | **✓** |  |
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe Microsoft Office 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Konnect 電子郵件分析器](./konnect-email-parser.md) | Konnect 電子郵件 | **✓** |  |
 | [LifeWorks Viva 連線](./lifeworks-inc-viva-connections.md) | Lifeworks Inc。 | **✓** |  |
 | [閃電工具閃電線](./lightning-tools-conductor.md) | 閃電工具 | **✓** |  |
 | [officeatwork | SharePoint] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-sharepoint.md)  | officeatwork | **✓** |  |
