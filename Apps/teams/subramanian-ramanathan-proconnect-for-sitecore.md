@@ -2,24 +2,24 @@
 title: Proconnect for Sitecore for Subramanian Ramanathan 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Proconnect for Sitecore 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0bd5876a65ebe7832a330f04ac9db086bdf1ff04
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 0b2861bf05a54d4a2019c32959f0c76a6a02f383
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144020"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62198020"
 ---
 # <a name="proconnect-for-sitecore"></a>Proconnect for Sitecore
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年9月2日</p>
+<p>開發人員上次更新日期：2022年1月22日</p>
 
 * <a href="https://teams.microsoft.com/l/app/a87fd06b-7e73-4374-ba75-4545b2470706" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003274" target="_blank">在 AppSource 中查看</a>
@@ -81,14 +81,14 @@ ms.locfileid: "62144020"
 | 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls |
 | 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 否 |
 | 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
-| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |
+| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 否 |
 | 您的環境是否有不受支援的作業系統或軟體？ | 是 |
 | 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 否 |
 | 您的外部網路界限是否已安裝防火牆？ | 否 |
 | 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
 | 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 否 |
 | 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
-| 啟用下列各要素驗證 (MFA) ： |  |
+| 啟用下列各要素驗證 (MFA) ： | NoneOfTheAbove |
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 否 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
