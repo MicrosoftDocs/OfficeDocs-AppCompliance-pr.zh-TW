@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: b347cd059d7dd6b43ec7ac1ef301ed2e2a0ef707
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: bc3e9af579c74c0f7604ff1ff3c60ae43e153eaa
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 01/25/2022
-ms.locfileid: "62193490"
+ms.locfileid: "62208982"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -38,7 +38,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [MIPA-您自己的個人助理](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [Outlook 的 Office2SharePoint](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Outlook] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-outlook.md)  | officeatwork | **✓** |  |
+| [officeatwork | Outlook] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-outlook.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Outlook] 的郵件簽名 (./officeatwork-officeatworkmail-signature-for-outlook.md)  | officeatwork | **✓** |  |
 | [Outlook 的 OnePlaceMail](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 解決方案 | **✓** |  |
 | [Outlook 的推廣銷售專案](./outreach-sales-engagement-for-outlook.md) | 外 展 | **✓** |  |

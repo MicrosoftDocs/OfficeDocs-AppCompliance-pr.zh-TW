@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: d301169d292a77c6613f3a2698fe647cea899fb3
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: d80c7fa0e410e8315eeeea4ca7e2cd77b22febfd
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 01/25/2022
-ms.locfileid: "62195690"
+ms.locfileid: "62205774"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -24,14 +24,14 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [SharePoint 的 ArcGIS](./esri-inc-arcgis-for-sharepoint.md) | Esri，Inc.。 | **✓** |  |
 | [投標管理系統](./beyond-technologies-bid-management-system.md) | 超越技術 | **✓** |  |
 | [Bizagi Webpart](./bizagi-team-webparts.md) | Bizagi 小組 | **✓** |  |
-| [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** |  |
+| [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SharePoint 的 HelloSign](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox inc.。 | **✓** |  |
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe Microsoft Office 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect 電子郵件分析器](./konnect-email-parser.md) | Konnect 電子郵件 | **✓** |  |
 | [LifeWorks Viva 連線](./lifeworks-inc-viva-connections.md) | Lifeworks Inc。 | **✓** |  |
 | [閃電工具閃電線](./lightning-tools-conductor.md) | 閃電工具 | **✓** |  |
-| [officeatwork | SharePoint] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-sharepoint.md)  | officeatwork | **✓** |  |
+| [officeatwork | SharePoint] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-sharepoint.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [更聰明的事件預約](./smarter-business-solutions-gmbh-event-booking.md) | 更智慧的商務解決方案 GmbH | **✓** |  |
 | [分類](./accuracy-software-inc-taxonomy.md) | 準確性軟體 Inc.。 | **✓** |  |
