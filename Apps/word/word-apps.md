@@ -2,17 +2,17 @@
 title: Microsoft Word 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: b1cc50abeb8d6cbf4dbceebff81f66dd07ed5e82
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 75837f5d35d29467f7ba660bd1cfcfe07a2c605e
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 01/25/2022
-ms.locfileid: "62193310"
+ms.locfileid: "62210632"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 應用程式安全性和合規性
 
@@ -34,13 +34,13 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Mendeley 引用](./elsevier-limited-mendeley-cite.md) | ELSEVIER 有限 | **✓** |  |
 | [neopolis](./neopolis-gmbh.md) | neopolis GmbH | **✓** |  |
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** |  |
-| [officeatwork | Office] 的設計者 () 。 officeatwork-officeatworkdesigner-for-office.md | officeatwork | **✓** |  |
-| [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** |  |
-| [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** |  |
-| [officeatwork | Office] 的上載程式 (./officeatwork-officeatworkuploader-for-office.md)  | officeatwork | **✓** |  |
+| [officeatwork | Office] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] 的設計者 () 。 officeatwork-officeatworkdesigner-for-office.md | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] ( 的影像選擇器)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office] 的上載程式 (./officeatwork-officeatworkuploader-for-office.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office] 的驗證程式 (。/officeatwork-officeatworkverifier-for-office.md)  | officeatwork | **✓** |  |
-| [officeatwork | Office] ( 的嚮導)  | officeatwork | **✓** |  |
+| [officeatwork | Office] ( 的嚮導)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmig-and-kommaforslag.md) | GrammarSoft Ap | **✓** |  |
 | [SmartCite 論文](./digital-science-smartcite-for-papers.md) | 數位科學 | **✓** |  |
 | [Word 的 Stilus](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
