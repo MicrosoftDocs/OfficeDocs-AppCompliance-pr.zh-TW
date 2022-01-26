@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: a6e6ffdf33efc059d20c42db233b2384a1fd42e0
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 5fc172fc809bb64777afec6d42fbe6ca96d5cdeb
+ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62209572"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62222571"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -43,7 +43,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Teams 的 MyHub](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc.。 | **✓** |  |
 | [Microsoft Teams 的 Netskope](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Teams 的 Office2SharePoint](./iglobe-office2sharepoint-for-teams.md) | iGlobe | **✓** |  |
+| [Teams 的 Office2SharePoint](./iglobe-office2sharepoint-for-teams.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MS365 的 Onna 探索](./onna-discovery-for-ms365.md) | Onna | **✓** |  |
 | [&amp;Microsoft Office 365 的原則 Insights](./avepoint-inc-policies-and-insights-for-microsoft-office-365.md) | AvePoint Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

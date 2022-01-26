@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: LMS365 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5e56e6890c38bc6896115c1e4a2c5b10a93f7c9b
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: 62a9a18b43a1740b8b83b59edac5051824c43266
+ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61787806"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62222507"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -112,7 +112,7 @@ ms.locfileid: "61787806"
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
 | 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |

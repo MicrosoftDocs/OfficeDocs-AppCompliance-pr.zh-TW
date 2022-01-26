@@ -2,24 +2,24 @@
 title: Wazoku 的應用程式資訊（按 Wazoku）
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/27/2021
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Wazoku 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ffb251b22bb7a92912dc2052f00f4a9c63d5df44
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: c82905cc10dbebbc914b9025cb146d05c4473716
+ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155214"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62222516"
 ---
 # <a name="wazoku"></a>Wazoku
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2021年10月22日</p>
+<p>開發人員上次更新：2022年1月24日</p>
 
 * <a href="https://teams.microsoft.com/l/app/f060d814-1813-4135-bbef-4cda4251abec" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003384" target="_blank">在 AppSource 中查看</a>
