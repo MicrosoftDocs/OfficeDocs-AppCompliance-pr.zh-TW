@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/25/2022
+ms.date: 01/26/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 04d35fb74a79149e0e8c83877caf36863be39f2f
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: c7b4f06efdcd61dd75a4aff9ba40ba2de95fd3a8
+ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62209532"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62230989"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -130,6 +130,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Eloops](./eloops.md) | Eloops | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
 | [電子郵件-傳送簡訊](./voice-elements-corporation-email-texting.md) | Voice Elements 公司 | **✓** |  |
+| [DSMN8 呈現員工之權](./dsmn8-employee-advocacy-by.md) | DSMN8 | **✓** |  |
 | [員工推薦](./recruitday-inc-employee-referrals.md) | Recruitday Inc. | **✓** |  |
 | [Employee Training Management](./sharepointsapiens-employee-training-management.md) | SharePoint-Sapiens | **✓** |  |
 | [Empuls](./empuls.md) | Empuls | **✓** |  |
@@ -194,7 +195,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [isLucid](./uab-lucid-agreements-islucid.md) | UAB Lucid 協定 | **✓** |  |
 | [Jira Cloud](./atlassian-jira-cloud.md) | Atlassian | **✓** |  |
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Cloud 解決方案 | **✓** |  |
-| [KAKEAI](./kakeai.md) | KAKEAI | **✓** |  |
+| [Kakeai](./kakeai.md) | KAKEAI | **✓** |  |
 | [Kanban Tool](./shore-labs-kanban-tool.md) | Shore Labs | **✓** |  |
 | [Kaptain Charlie](./askrai-kaptain-charlie.md) | askR.ai | **✓** |  |
 | [Kazoo](./kazoo.md) | Kazoo | **✓** |  |
@@ -295,6 +296,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [符合資格](./qualified.md) | 符合資格 | **✓** |  |
 | [Quicklinks](./chitchattr-quicklinks.md) | ChitChattr | **✓** |  |
 | [Quire](./potix-corporation-quire.md) | Potix Corporation | **✓** |  |
+| [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | 全球會議 SRL | **✓** |  |
 | [達到](./livetiles-reach.md) | LiveTiles | **✓** |  |
 | [即時翻譯工具](./fairuse-real-time-translator.md) | Fairuse | **✓** |  |
