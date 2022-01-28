@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，檔案 Fabric 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 6176cbf56aa94dd460e5f3e60127e65339d05157
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 7000bee22c385c2c4909d60c7c7db13e81e83181
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430745"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260405"
 ---
 # <a name="file-fabric"></a>File Fabric
 
@@ -36,10 +36,12 @@ ms.locfileid: "60430745"
 | ID | WA200003017 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Storage Made Easy |
-| 合作夥伴網站的 URL | [https://storagemadeeasy.com](https://storagemadeeasy.com) |
-| Teams 應用程式資訊頁面的 URL | [https://docs.storagemadeeasy.com/microsoft-teams](https://docs.storagemadeeasy.com/microsoft-teams) |
-| 隱私權原則的 URL | [https://www.storagemadeeasy.com/privacy](https://www.storagemadeeasy.com/privacy) |
-| 使用條款的 URL | [https://www.storagemadeeasy.com/terms](https://www.storagemadeeasy.com/terms) |
+| 公司的網站 | [https://storagemadeeasy.com](https://storagemadeeasy.com) |
+| App 的使用條款 | [https://www.storagemadeeasy.com/terms](https://www.storagemadeeasy.com/terms) |
+| 應用程式的核心功能 | 搜尋、流覽、編輯和共用儲存在 Azure 檔案、Azure Blob 儲存體和其他儲存體上的檔案。 |
+| 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
+| 應用程式資訊頁面 | |
+| 用來執行應用程式的主控環境或服務模型為何？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,85 +53,125 @@ ms.locfileid: "60430745"
 
 此資訊的提供方式儲存體非常簡單，讓此應用程式如何收集及儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
-
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
-
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Files.ReadWrite | 應用程式 | 使用者透過應用程式下載、上傳或編輯指定的檔案時，可讀取或寫入檔案資料。 | 未儲存檔資料。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
->| Sites.ReadWrite.All | 應用程式 | 針對所有使用者&#8217;的檔案和資料夾收集的中繼資料，提供所有檔服務的同盟查看。 | 緩存的中繼資料可提供更快的流覽和搜尋。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
-
-以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
-
->| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Azure Blob 儲存體 | 是 | 物件中繼資料和資料 | 針對所有使用者&#8217;的檔案和資料夾收集的中繼資料，提供所有檔服務的同盟查看。 當使用者透過應用程式下載、上傳或編輯指定的物件時，可讀取或寫入的物件。 | 物件中繼資料儲存 | 緩存的中繼資料可提供更快的流覽和搜尋。 |
->| Office 網頁版 | 否 |  |  |  |  |
-
-#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
-
-若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
-
->| **所有非 Microsoft 服務 OII 會轉接至** |  **哪一個 OII 會轉接？** | **傳輸 OII 的理由？** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| 使用者可驗證並聯機至所控制的任何儲存服務。 | 會針對同盟流覽及搜尋快取檔案和物件中繼資料。 當讀取和更新特定檔案或物件時，會傳輸資料。 | 中繼資料提供儲存體的同盟查看。 資料傳輸允許 secure 通用存取。 |
-
-#### <a name="data-access-via-bots"></a>透過 bot 的資料存取
-
-如果此應用程式包含 bot 或郵件擴充，可以存取使用者識別資訊 (EUII) ： (名單中的「名字」、「姓氏」、「顯示名稱」、「電子郵件地址」) 的任何小組成員或加入的交談。 此應用程式是否使用此功能？
-
->未存取 EUII。
-
-
-#### <a name="telemetry-data"></a>遙測資料
-
-任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
-
->應用程式遙測或記錄中未出現 OII 或 EUII。
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
-
-說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
-
->每個 GDPR 的資料處理協定
-
-#### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
-
-參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
-
->否
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
+| 資料庫中儲存的資料為何？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 您是否有既定的資料 rentention 與處置程式？ |  |
+| 在帳戶終止後，資料會保留多久？ | 在2weeks 內刪除 |
+| 您是否有既定的資料存取管理程式？ |  |
+| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
+| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="security"
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>身分識別資訊
-
-此資訊的提供方式儲存體非常簡單，讓此應用程式如何處理驗證、授權、應用程式註冊最佳作法及其他身分識別準則。
+來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
-| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
-| 您的應用程式是否支援條件式存取原則？ | 否 |
-| 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
-| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
-| 您的應用程式是否支援多租賃？ | 是 |
-| 您的應用程式有機密用戶端嗎？ | 是 |
-| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
-| 您的應用程式是否公開任何 web APIs？ | 是 |
-| 如果用戶端應用程式收到適當的同意，您的許可權模型是否只允許通話成功？ | 是 |
-| 您的應用程式是否使用預覽 APIs？ | 否 |
-| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+| 您是否要在應用程式中執行年度滲透測試？ | 是 |
+| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ |  |
+| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ |  |
+| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ |  |
+| 您是否根據修補原則 Sla 來執行修補程式管理活動？ |  |
+| 您的環境是否有不受支援的作業系統或軟體？ |  |
+| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ |  |
+| 您的外部網路界限是否已安裝防火牆？ |  |
+| 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ |  |
+| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ |  |
+| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ |  |
+| 啟用下列各要素驗證 (MFA) ： |  |
+| 您是否已確定要提供、修改和刪除員工帳戶的程式？ |  |
+| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ |  |
+| 您是否已在所有支援應用程式的系統元件上設定事件記錄？ |  |
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | |
+| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ |  |
+| 您是否已建立正式的資訊安全性風險管理程式？ |  |
+| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 最近的 SOC1 認證日期 |   |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 您已完成哪一種 SOC 2 憑證？ | |
+| 最近的 SOC2 認證日期 | |
+| 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
+| 最近的 SOC3 認證日期 | |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
+| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 是 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+| 應用程式是否符合 NIST 800-171？ |  |
+| App 是否已 (CSA 星) 認證？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ |  |
+| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ |  |
+| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ |  |
+| 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 |  |
+| 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ |  |
+| 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 |  |
+| 應用程式是否有功能可在要求時刪除個人資料？ |  |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ |  |
+| App 是否提供個人資料，以更正或更新其個人資料？ |  |
+| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 假 |
+| 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否支援持續存取評估 (CAE)  |  |
+| 您的應用程式是否會在程式碼中儲存任何認證？ |  |
+| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
+
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite | 應用程式 | 使用者透過應用程式下載、上傳或編輯指定的檔案時，可讀取或寫入檔案資料。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
+>| Sites.ReadWrite.All | 應用程式 | 針對所有使用者&#8217;的檔案和資料夾收集的中繼資料，提供所有檔服務的同盟查看。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
+
+>此應用程式沒有額外的 APIs。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+

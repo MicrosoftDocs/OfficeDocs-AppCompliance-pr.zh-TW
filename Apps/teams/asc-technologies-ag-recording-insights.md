@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 ASC 錄製 Insights 的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 23028cb70e0d93e3f086e499cd2b6595eeec932f
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 626de477768e85b62479862b53743e2ede42598a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155221"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260782"
 ---
 # <a name="asc-recording-insights"></a>ASC Recording Insights
 
@@ -168,23 +168,23 @@ ASC 技術 AG 會透過 ASC 技術 AG 提供此資訊，瞭解此應用程式如
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 聊天室讀取 | 委託 | 讀取使用者聊天訊息 |
->| User.Read | 委託 | 登入並讀取使用者設定檔 |
->| User.ReadBasic.All | 委託 | 讀取所有使用者基本設定檔 |
->| Group.Read.All | 委託 | 讀取所有群組 |
->| openid | 委託 | 在中簽署使用者 |
->| 設定檔 | 委託 | 查看使用者基本設定檔 |
->| 個人讀取 | 委託 | 讀取使用者相關人員清單 |
->| 連絡人。已讀取 | 委託 | 讀取使用者連絡人 |
->| OnlineMeetings Read。 All | 應用程式 | 閱讀線上會議詳細資料 |
->| Calendars.Read | 應用程式 | 讀取所有信箱中的 calenders |
->| Group.Read.All | 應用程式 | 讀取所有群組 |
->| User.Read.All | 應用程式 | 讀取所有使用者的完整設定檔 |
->| ChannelMember Read。 All | 應用程式 | 讀取所有通道的成員 |
->| 已閱讀的聊天室。所有 | 應用程式 | 讀取所有聊天訊息 |
->| ChannelMessage Read。 All | 應用程式 | 讀取所有通道郵件 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | 應用程式 | 讀取所有信箱中的 calenders | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| ChannelMember Read。 All | 應用程式 | 讀取所有通道的成員 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| ChannelMessage Read。 All | 應用程式 | 讀取所有通道郵件 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| 聊天室讀取 | 委託 | 讀取使用者聊天訊息 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| 已閱讀的聊天室。所有 | 應用程式 | 讀取所有聊天訊息 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| 連絡人。已讀取 | 委託 | 讀取使用者連絡人 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Group.Read.All | 委託 | 讀取所有群組 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Group.Read.All | 應用程式 | 讀取所有群組 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| OnlineMeetings Read。 All | 應用程式 | 閱讀線上會議詳細資料 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| 個人讀取 | 委託 | 讀取使用者相關人員清單 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.Read.All | 應用程式 | 讀取所有使用者的完整設定檔 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.ReadBasic.All | 委託 | 讀取所有使用者基本設定檔 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| openid | 委託 | 在中簽署使用者 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| 設定檔 | 委託 | 查看使用者基本設定檔 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
 
 >此應用程式沒有額外的 APIs。
 

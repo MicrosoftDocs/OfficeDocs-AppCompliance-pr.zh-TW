@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: C.AI 採用 Bot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f37bafaac714c26c948b4f2264c4d139f5863bf5
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: 6c7c8d1b083cab351889117aa58316332161f466
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61785600"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261349"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
@@ -161,7 +161,17 @@ ms.locfileid: "61785600"
 | 您的應用程式是否會在程式碼中儲存任何認證？ |  |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
->此應用程式不會使用 Microsoft Graph。
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | 應用程式 | 使用者的可用性可在適當的時間傳送秘訣，而不是在焦點時間內傳送範例（範例） | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| ChannelMessage Read。 All | 應用程式 | Microsoft Teams 通道中繼資料，例如，每個通道的私人或或或或或多個會話，以分析 Teams 使用狀況 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| 已閱讀的聊天室。所有 | 應用程式 | Microsoft Teams 聊天中繼資料，例如郵件已贊或有多少群組和1:1 聊天是用來分析 Teams 的使用方式 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Directory.Read.All | 應用程式 | 使用者物件識別碼，可將秘訣傳送至 specifi 的使用者稍後。 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Group.Read.All | 應用程式 | Microsoft Teams 中繼資料，類似 Teams 的數量和分析 Teams 使用的通道 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Mail.Read | 應用程式 | Microsoft Exchange 中繼資料，例如電子郵件和群組與1:1 電子郵件的數量，以分析 Exchange (與 Teams) 的使用狀況。 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| User.Read.All | 應用程式 | Microsoft Teams 聊天和交談的中繼資料，類似于提及使用者分析 Teams 使用狀況的方式 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
 
 >此應用程式沒有額外的 APIs。
 

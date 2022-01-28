@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: EmailNotes Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 841b0ad019cda22d01b5990b8aabf80931ffe130
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a09c055a42f69c7174773835e8c83b99e83f0013
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147389"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261530"
 ---
 # <a name="emailnotes-for-outlook"></a>Outlook 的 EmailNotes
 
@@ -167,13 +167,13 @@ Standss 所提供的資訊 (南部太平洋) PTE 限制為 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| ReadWrite 的行事曆 | 委託 | 若要從主旨、內文、附加至會議邀請的附件內容中讀取內容  |
->| 郵件。 ReadWrite | 委託 | 若要從主旨、內文、訊息項目附加的附件內容中讀取內容  |
->| openid | 委託 | 單一登入 (SSO) 許可權的需求 |
->| 設定檔 | 委託 | 單一登入 (SSO) 許可權的需求 |
->| User.Read | 委託 | 這是讀取使用者資料以驗證其網域/使用者帳戶的授權資訊 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 若要從主旨、內文、附加至會議邀請的附件內容中讀取內容  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| 郵件。 ReadWrite | 委託 | 若要從主旨、內文、訊息項目附加的附件內容中讀取內容  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| User.Read | 委託 | 這是讀取使用者資料以驗證其網域/使用者帳戶的授權資訊 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| openid | 委託 | 單一登入 (SSO) 許可權的需求 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| 設定檔 | 委託 | 單一登入 (SSO) 許可權的需求 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
 
 >此應用程式沒有額外的 APIs。
 

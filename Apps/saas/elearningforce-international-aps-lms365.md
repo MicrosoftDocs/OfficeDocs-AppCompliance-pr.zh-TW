@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: LMS365 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 62a9a18b43a1740b8b83b59edac5051824c43266
-ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
+ms.openlocfilehash: 3610fa868ff1195d72a311b68dd10e1ef171c8cc
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62222507"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260910"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -112,7 +112,7 @@ ms.locfileid: "62222507"
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
 | 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
@@ -160,7 +160,18 @@ ms.locfileid: "62222507"
 | 您的應用程式是否會在程式碼中儲存任何認證？ |  |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
 
->此應用程式不會使用 Microsoft Graph。
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| GroupMember Read。 All | 應用程式 | 無 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| 傳送郵件 | 委託 | 無 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| RoleManagement 讀取的目錄 | 應用程式 | 無 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| 使用者. Invite。 | 委託 | 無 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read | 委託 | 無 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read.All | 委託 | 無 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read.All | 應用程式 | 允許應用程式讀取完整的使用者設定檔。 &#8217; 管理員建立階層報告&#8217;所需的使用者。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| 設定檔 | 委託 | 無 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Classroom.cloud 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d58df70912c5c9eedfca92e67f9f202960b7a23b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 4e7fce8118f65a9fb01153baa2ccef8a1282df3c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147372"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260817"
 ---
 # <a name="classroomcloud"></a>Classroom.cloud
 
@@ -168,14 +168,14 @@ NETSUPPORT 有限公司已提供此資訊。 關於此應用程式如何收集�
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Team.ReadBasic.All | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 |
->| ReadBasic | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 |
->| ChannelMessage Read。 All | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 |
->| ChannelSettings Read。 All | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 |
->| 已閱讀的聊天室。所有 | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 |
->| Directory.Read.All | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadBasic | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| ChannelMessage Read。 All | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| ChannelSettings Read。 All | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| 已閱讀的聊天室。所有 | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Directory.Read.All | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Team.ReadBasic.All | 應用程式 | 用於 Teams 與 classroom.cloud 整合，以提供學生聊天的線上安全監控。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
 
 >此應用程式沒有額外的 APIs。
 

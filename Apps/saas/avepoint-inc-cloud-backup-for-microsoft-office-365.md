@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用的雲端備份安全性和符合性資訊資訊，針對 Microsoft Office 365，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84b6ec36d05f39e307c3955d8eb9112d4a4712ac
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6fc3b2c5bc0fb54b4075f71e21ef1c2d14ace0f7
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147448"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260939"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>Microsoft Office 365 的雲端備份
 
@@ -165,17 +165,17 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 委託 | 登入並讀取使用者設定檔 |
->| Directory.Read.All | 應用程式 | 讀取目錄資料 |
->| Files.Read.All | 應用程式 | 讀取所有網站集合中的檔案 |
->| Group.ReadWrite.All | 應用程式 | 讀取和寫入所有群組 |
->| Sites.ReadWrite.All | 應用程式 | 讀取和寫入所有網站集合中的專案 |
->| Reports。已讀取。所有 | 應用程式 | 讀取所有使用方式報告 |
->| ChannelMember ReadWrite。 | 應用程式 | 新增及移除所有通道中的成員 |
->| ChannelMessage Read。 All | 應用程式 | 讀取所有通道郵件 |
->| ChannelSettings ReadWrite。 | 應用程式 | 讀取和寫入所有通道的名稱、描述和設定 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ChannelMember ReadWrite。 | 應用程式 | 新增及移除所有通道中的成員 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| ChannelMessage Read。 All | 應用程式 | 讀取所有通道郵件 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| ChannelSettings ReadWrite。 | 應用程式 | 讀取和寫入所有通道的名稱、描述和設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.Read.All | 應用程式 | 讀取目錄資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Files.Read.All | 應用程式 | 讀取所有網站集合中的檔案 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | 應用程式 | 讀取和寫入所有群組 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Reports。已讀取。所有 | 應用程式 | 讀取所有使用方式報告 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.ReadWrite.All | 應用程式 | 讀取和寫入所有網站集合中的專案 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Quadra Thankz 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: de7a23b194cc8b947de890d7cf616a67a605213d
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 8109f919461d6c475f2be34a54950ade99ee027c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147985"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260459"
 ---
 # <a name="quadra-thankz"></a>Quadra Thankz
 
@@ -166,9 +166,9 @@ ms.locfileid: "62147985"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | 應用程式 | 取得使用者的管理員資訊  |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read.All | 應用程式 | 取得使用者的管理員資訊  | [5d8eb1a9-2188-4292-86f6-f4964d49e8b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/5d8eb1a9-2188-4292-86f6-f4964d49e8b3) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MyHub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ad85daad3a14dd1afa42dd0050a10c9bdeab74a5
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 7086ba2566e0b3d44b8a30edcd43e4dce7eb9963
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62193580"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260781"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -167,20 +167,20 @@ AvePoint，inc. 提供給 Microsoft 的資訊：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.Read.All | 包括 | 取得群組設定物件的清單。 例如外部共用 classicfication、enableCreateGroup (應用程式) 等等。 |
->| Group.ReadWrite.All | 包括 | 建立群組、檢索、新增或移除群組成員資格 |
->| 傳送郵件 | 委託 | 如果目前的使用者想要加入私人群組，我們會傳送通知給群組擁有者 |
->| Sites.ReadWrite.All | 委託 | 追蹤/取消追隨網站 |
->| Sites.Read.All | 應用程式 | 取得網站基本資訊 |
->| User.Read.All | 包括 | 已委派：取得使用者相片;Application：搜尋/解析使用者 |
->| FullControl 所有 | 應用程式 | 建立或刪除網站 |
->| Reports。已讀取。所有 | 應用程式 | 取得網站/群組使用量報告 |
->| 電子郵件 | 委託 | 小組應用程式 SSO |
->| openid | 委託 | 小組應用程式 SSO |
->| offline_access | 委託 | 小組應用程式 SSO |
->| 設定檔 | 委託 | 小組應用程式 SSO |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | 包括 | 取得群組設定物件的清單。 例如外部共用 classicfication、enableCreateGroup (應用程式) 等等。 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Group.ReadWrite.All | 包括 | 建立群組、檢索、新增或移除群組成員資格 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| 傳送郵件 | 委託 | 如果目前的使用者想要加入私人群組，我們會傳送通知給群組擁有者 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Reports。已讀取。所有 | 應用程式 | 取得網站/群組使用量報告 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| FullControl 所有 | 應用程式 | 建立或刪除網站 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Sites.Read.All | 應用程式 | 取得網站基本資訊 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Sites.ReadWrite.All | 委託 | 追蹤/取消追隨網站 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| User.Read.All | 包括 | 已委派：取得使用者相片;Application：搜尋/解析使用者 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| 電子郵件 | 委託 | 小組應用程式 SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| offline_access | 委託 | 小組應用程式 SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| openid | 委託 | 小組應用程式 SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| 設定檔 | 委託 | 小組應用程式 SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
 
 >此應用程式沒有額外的 APIs。
 
