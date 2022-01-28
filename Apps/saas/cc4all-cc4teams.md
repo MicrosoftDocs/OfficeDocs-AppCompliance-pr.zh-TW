@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CC4Teams 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 31b9467e5aa5efb07131ec0509eaf8e3aa0b544c
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 85d5b411929f2bd0c1c0610a6e4950cf2d5e6809
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147902"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255909"
 ---
 # <a name="cc4teams"></a>CC4Teams
 
@@ -166,16 +166,16 @@ ms.locfileid: "62147902"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| CallRecords Read。 All | 應用程式 | 用於錄製 |
->| AccessMedia 所有 | 應用程式 | 用於存取媒體 |
->| 呼叫。 Initiate 所有 | 應用程式 | 用於在連絡人中心內啟動通話 |
->| InitiateGroupCall 所有 | 應用程式 | 用於在連絡人中心內啟動通話 |
->| JoinGroupCall 所有 | 應用程式 | 用於在連絡人中心內啟動通話 |
->| JoinGroupCallasGuest 所有 | 應用程式 | 用於在連絡人中心內啟動通話 |
->| 顯示狀態。讀取 | 委託 | 用於在連絡人中心檢查代理程式的狀態 |
->| 目前狀態為 [已讀取]。 | 委託 | 用於在連絡人中心檢查代理程式的狀態 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| CallRecords Read。 All | 應用程式 | 用於錄製 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| AccessMedia 所有 | 應用程式 | 用於存取媒體 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| 呼叫。 Initiate 所有 | 應用程式 | 用於在連絡人中心內啟動通話 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| InitiateGroupCall 所有 | 應用程式 | 用於在連絡人中心內啟動通話 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| JoinGroupCall 所有 | 應用程式 | 用於在連絡人中心內啟動通話 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| JoinGroupCallasGuest 所有 | 應用程式 | 用於在連絡人中心內啟動通話 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| 顯示狀態。讀取 | 委託 | 用於在連絡人中心檢查代理程式的狀態 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| 目前狀態為 [已讀取]。 | 委託 | 用於在連絡人中心檢查代理程式的狀態 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
 
 >此應用程式沒有額外的 APIs。
 

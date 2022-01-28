@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 iGlobe CRM Teams 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6aaeddce93a513ca22b0bf5c0b4fdf8b85a7830d
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 63646b2a2425eeef310ae5534209d015d06896c1
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147449"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257759"
 ---
 # <a name="iglobe-crm-for-teams"></a>iGlobe CRM for Teams
 
@@ -166,21 +166,21 @@ ms.locfileid: "62147449"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| ReadWrite 的行事曆 | 委託 | 從 canlendar 中的 dreating 會議報表至 iGlobe 時，可以存取使用者行事曆    |
->| 連絡人。 ReadWrite | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。    |
->| Directory.Read.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。   |
->| Directory.ReadWrite.All | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。   |
->| Files.ReadWrite.All | 委託 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案和資料儲存至 SharePoint 清單。     |
->| Group.Read.All | 委託 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。   |
->| Group.ReadWrite.All | 委託 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 整合至 iGlobe CRM Office 365     |
->| 郵件。 ReadWrite | 委託 | Svae eamil 至 iGlobe CRM，並從 iGlobe 取得 informatiopn 至新的電子 amil    |
->| 管理的網站。所有 | 委託 | 在 iGlobe CRM 中建立、編輯和刪除專案與清單     |
->| Sites.Read.All | 委託 | 在 iGlobe CRM 中讀取專案     |
->| Sites.ReadWrite.All | 委託 | 在 iGlobe CRM 中編輯和刪除專案與清單  |
->| 工作。 ReadWrite | 委託 | 從 iGlobe CRM 建立 planner 任務     |
->| User.Read | 委託 | 若要取得 speficic 使用者 iGlobe CRM 的資訊    |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 從 canlendar 中的 dreating 會議報表至 iGlobe 時，可以存取使用者行事曆    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 連絡人。 ReadWrite | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.Read.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.ReadWrite.All | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Files.ReadWrite.All | 委託 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案和資料儲存至 SharePoint 清單。     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.Read.All | 委託 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.ReadWrite.All | 委託 | 讀取、更新、建立 Panner 工作、讀取使用者最近及共用檔案，以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 整合至 iGlobe CRM Office 365     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 郵件。 ReadWrite | 委託 | Svae eamil 至 iGlobe CRM，並從 iGlobe 取得 informatiopn 至新的電子 amil    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 管理的網站。所有 | 委託 | 在 iGlobe CRM 中建立、編輯和刪除專案與清單     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Read.All | 委託 | 在 iGlobe CRM 中讀取專案     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.ReadWrite.All | 委託 | 在 iGlobe CRM 中編輯和刪除專案與清單  | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 工作。 ReadWrite | 委託 | 從 iGlobe CRM 建立 planner 任務     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| User.Read | 委託 | 若要取得 speficic 使用者 iGlobe CRM 的資訊    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 
 >此應用程式沒有額外的 APIs。
 

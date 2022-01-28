@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: GuineaPig 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 752d59918d5c9f08ee83525b8aa4f790213b6354
-ms.sourcegitcommit: 2aa786d5bf1f93ef63b80f04bff99434d2246d92
+ms.openlocfilehash: dbd872c0f919c8141d41771470546a5b75ae56b0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62157247"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257819"
 ---
 # <a name="guineapig"></a>GuineaPig
 
@@ -35,7 +35,7 @@ GuineaPig 健康情況技術所提供的資訊 AB 至 Microsoft：
 | 應用程式名稱 | GuineaPig |
 | ID | WA200003486 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | GuineaPig 健康情況技術 AB |
+| 合作夥伴公司名稱 | GuineaPig Health Technologies AB |
 | 公司的網站 | [https://guineapig.app](https://guineapig.app) |
 | App 的使用條款 | [https://www.guineapig.app/terms-and-conditions](https://www.guineapig.app/terms-and-conditions) |
 | 應用程式的核心功能 | GuineaPig 可協助您的小組保持狀況良好、快樂，並且涉嫌從事實際 &amp; 的隨選健身和工作的短路。 |
@@ -168,9 +168,9 @@ GuineaPig 健康情況技術 AB 會提供此資訊，讓您瞭解此應用程式
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 委託 | 我們正在使用使用者。讀取以閱讀如使用者名稱的資訊，以便在聊天和索引標籤等中使用。請流覽 https://www.guineapig.app/privacy-policy 以取得詳細描述。 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 委託 | 我們正在使用使用者。讀取以閱讀如使用者名稱的資訊，以便在聊天和索引標籤等中使用。請流覽 https://www.guineapig.app/privacy-policy 以取得詳細描述。 | [d6a2090f-1447-456b-bd5f-121e4efd8c89](https://docs.microsoft.com/microsoft-365-app-certification/azure/d6a2090f-1447-456b-bd5f-121e4efd8c89) |
 
 >此應用程式沒有額外的 APIs。
 

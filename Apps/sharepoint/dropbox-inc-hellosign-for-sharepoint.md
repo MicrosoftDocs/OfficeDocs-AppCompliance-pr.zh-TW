@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HelloSign SharePoint 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 187d36812dcae346b487d289d1924463610d5050
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 4f35be46f70d1efd5bb0cdbd030f78cc82c67e23
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200691"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256809"
 ---
 # <a name="hellosign-for-sharepoint"></a>SharePoint 的 HelloSign
 
@@ -167,11 +167,11 @@ Dropbox inc. 所提供的資訊給 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 委託 | 若要取得使用者的電子郵件 |
->| Sites.ReadWrite.All | 應用程式 | 將電子簽署的檔案上傳回 SharePoint |
->| Files.ReadWrite.All | 應用程式 | 將電子簽署的檔案上傳回 SharePoint |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 應用程式 | 將電子簽署的檔案上傳回 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| Sites.ReadWrite.All | 應用程式 | 將電子簽署的檔案上傳回 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| User.Read | 委託 | 若要取得使用者的電子郵件 | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
 
 >此應用程式沒有額外的 APIs。
 

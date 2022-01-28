@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，WorkJam 時間時鐘、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 40b47509d1322100551009adc636c60eb654bd91
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: e831ca59c0fed743a1a485a6aa52edbfca1dab89
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147424"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259191"
 ---
-# <a name="workjam-time-clock"></a>WorkJam 時間時鐘
+# <a name="workjam-time-clock"></a>WorkJam Time Clock
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ ms.locfileid: "62147424"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | WorkJam 時間時鐘 |
+| 應用程式名稱 | WorkJam Time Clock |
 | ID | WA200003620 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | WorkJam |
@@ -169,10 +169,10 @@ ms.locfileid: "62147424"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| TeamsActivity.Send | 應用程式 | 將通知傳送給使用者 |
->| User.Read | 委託 | 為使用者提供 SSO，並以適當的資訊呈現 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| TeamsActivity.Send | 應用程式 | 將通知傳送給使用者 | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
+>| User.Read | 委託 | 為使用者提供 SSO，並以適當的資訊呈現 | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HeyTaco！的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3f1b475d0f571986427fe3c7339a70fc056419d0
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 5dcb471219ef00a758b62fd289135169dc865115
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200667"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257779"
 ---
 # <a name="heytaco"></a>HeyTaco！
 
@@ -166,11 +166,11 @@ HeyTaco 所提供的資訊！ 至 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 委託 | 允許人員登入索引標籤 |
->| 設定檔 | 委託 | 儲存使用者的設定檔資訊 |
->| 電子郵件 | 委託 | 若要組織使用者資料 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| 電子郵件 | 委託 | 若要組織使用者資料 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| openid | 委託 | 允許人員登入索引標籤 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| 設定檔 | 委託 | 儲存使用者的設定檔資訊 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 
 >此應用程式沒有額外的 APIs。
 

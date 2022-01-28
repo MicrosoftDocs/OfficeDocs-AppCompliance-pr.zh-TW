@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，可在 Jira 中向前移動工作、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 218c70925805938ff5f241e9df42b667eba81353
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 44ed4ba1ac4dbfd4d311083701a21a1cee846f24
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62176956"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255689"
 ---
 # <a name="move-work-forward-with-jira"></a>使用 Jira 推展工作進度
 
@@ -168,14 +168,14 @@ ms.locfileid: "62176956"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 通道。建立 | 委託 | 建立 Jira 問題的討論管道 |
->| ReadBasic | 委託 | 要將通知傳送給的小組讀取通道 |
->| 電子郵件 | 委託 | 對應 Microsoft 和 Atlassian 帳戶 |
->| Team.ReadBasic.All | 委託 | 可讀取 [設定] 頁面上顯示的小組。 Jira 的通知。 |
->| TeamsAppInstallation.ReadForTeam | 委託 | 檢查是否已在團隊中安裝應用程式。 |
->| User.Read | 委託 | 以加強使用者體驗。 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| 通道。建立 | 委託 | 建立 Jira 問題的討論管道 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| ReadBasic | 委託 | 要將通知傳送給的小組讀取通道 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Team.ReadBasic.All | 委託 | 可讀取 [設定] 頁面上顯示的小組。 Jira 的通知。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| TeamsAppInstallation.ReadForTeam | 委託 | 檢查是否已在團隊中安裝應用程式。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| User.Read | 委託 | 以加強使用者體驗。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| 電子郵件 | 委託 | 對應 Microsoft 和 Atlassian 帳戶 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
 
 >此應用程式沒有額外的 APIs。
 

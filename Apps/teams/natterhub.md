@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Natterhub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a93c4603fa64320fc66adea24509fdbb16135b62
-ms.sourcegitcommit: f58ade86a900c29f53b231ee88dba3908a380e95
+ms.openlocfilehash: fd0c03b20732f7f83d9d6738779f011a4272d6db
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "62242302"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256485"
 ---
 # <a name="natterhub"></a>Natterhub
 
@@ -169,14 +169,14 @@ ms.locfileid: "62242302"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 電子郵件 | 委託 | 我們需要此許可權，使用者才能收到事務性電子郵件 |
->| offline_access | 委託 | 送出指派提交的必要 |
->| openid | 委託 | 識別使用者所需 |
->| 設定檔 | 委託 | 讀取使用者的名字和姓氏時必須填寫的名字 |
->| User.Read | 委託 | 讀取使用者的名字和姓氏時必須填寫的名字 |
->| EduAssignments ReadWrite | 委託 | 建立工作分派提交所需 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| EduAssignments ReadWrite | 委託 | 建立工作分派提交所需 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| User.Read | 委託 | 讀取使用者的名字和姓氏時必須填寫的名字 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| 電子郵件 | 委託 | 我們需要此許可權，使用者才能收到事務性電子郵件 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| offline_access | 委託 | 送出指派提交的必要 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| openid | 委託 | 識別使用者所需 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| 設定檔 | 委託 | 讀取使用者的名字和姓氏時必須填寫的名字 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
 
 >此應用程式沒有額外的 APIs。
 

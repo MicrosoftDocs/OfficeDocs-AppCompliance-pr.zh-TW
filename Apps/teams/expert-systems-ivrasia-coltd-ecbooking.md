@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ecBooking 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 87751c7cb846da69adeaa4fae544d1d1b50d7074
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d95f0198add6647c68d1be68008a4356a565a045
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62149285"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257919"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -167,14 +167,14 @@ ms.locfileid: "62149285"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| ReadWrite 的行事曆 | 應用程式 | 行事曆讀寫 |
->| ReadWrite 的行事曆 | 委託 | 行事曆讀寫 |
->| 傳送郵件 | 委託 | 傳送郵件 |
->| 傳送郵件 | 應用程式 | 傳送郵件 |
->| User.Read | 委託 | 讀取使用者 |
->| User.Read.All | 應用程式 | 讀取使用者 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 應用程式 | 行事曆讀寫 | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
+>| ReadWrite 的行事曆 | 委託 | 行事曆讀寫 | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
+>| 傳送郵件 | 委託 | 傳送郵件 | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
+>| 傳送郵件 | 應用程式 | 傳送郵件 | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
+>| User.Read | 委託 | 讀取使用者 | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
+>| User.Read.All | 應用程式 | 讀取使用者 | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
 
 >此應用程式沒有額外的 APIs。
 

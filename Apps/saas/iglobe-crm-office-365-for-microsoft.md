@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 Microsoft 365 的 iGlobe CRM Office 365 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5ab2d6952a81e2df7cd13be62123ad0a68af5162
-ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
+ms.openlocfilehash: b1063e282ad40ae30ed752fc605812c24d165941
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2022
-ms.locfileid: "61664424"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255090"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>iGlobe Microsoft 365 的 CRM Office 365
 
@@ -160,7 +160,23 @@ ms.locfileid: "61664424"
 | 您的應用程式是否會在程式碼中儲存任何認證？ |  |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
 
->此應用程式不會使用 Microsoft Graph。
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 連絡人。 ReadWrite | 委託 | Directory.AccessAsUser.All | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 管理的網站。所有 | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 
 >此應用程式沒有額外的 APIs。
 

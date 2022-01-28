@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: DELTAoverC 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d83278a0e59f9abc33b495274e47abf10e1e2116
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 80273bfba0db86b443e84b46343ab6b04a264ac8
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147872"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259679"
 ---
 # <a name="deltaoverc"></a>DELTAoverC
 
@@ -166,14 +166,14 @@ ms.locfileid: "62147872"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Group.Read.All | 包括 | 讀取所有群組 |
->| Group.ReadWrite.All | 包括 | 讀取和寫入所有群組 |
->| User.Read | 委託 | 登入並讀取使用者設定檔 |
->| User.Read.All | 應用程式 | 讀取所有使用者的完整設定檔 |
->| User.ReadWrite | 委託 | 使用者設定檔的讀取和寫入權限 |
->| User.ReadWrite.All | 包括 | 讀取及寫入所有使用者完整設定檔 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Group.Read.All | 包括 | 讀取所有群組 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| Group.ReadWrite.All | 包括 | 讀取和寫入所有群組 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.Read.All | 應用程式 | 讀取所有使用者的完整設定檔 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.ReadWrite | 委託 | 使用者設定檔的讀取和寫入權限 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.ReadWrite.All | 包括 | 讀取及寫入所有使用者完整設定檔 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
 
 >此應用程式沒有額外的 APIs。
 

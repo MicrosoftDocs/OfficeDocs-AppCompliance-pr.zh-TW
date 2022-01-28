@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 在 CSA 星型登錄中，所有可用的安全性和合規性資訊，都是驗證者、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8c7d81b873f598a8d769c87e78a02191224332ce
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 378e03c8de9028fb0ef109cce50d86ac149b715a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62209608"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259869"
 ---
 # <a name="verifier"></a>驗證
 
@@ -166,15 +166,15 @@ ms.locfileid: "62209608"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 委託 | 啟用登入 |
->| 設定檔 | 委託 | 啟用登入 |
->| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 |
->| User.Read | 委託 | 啟用已登入使用者的顯示 |
->| Files.Read | 委託 | 啟用內容的閱讀和比較 |
->| Files.Read.All | 委託 | 啟用內容的閱讀和比較 |
->| Sites.Read.All | 委託 | 啟用內容的閱讀和比較 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.Read | 委託 | 啟用內容的閱讀和比較 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Files.Read.All | 委託 | 啟用內容的閱讀和比較 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Sites.Read.All | 委託 | 啟用內容的閱讀和比較 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| User.Read | 委託 | 啟用已登入使用者的顯示 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| openid | 委託 | 啟用登入 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| 設定檔 | 委託 | 啟用登入 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 
 >此應用程式沒有額外的 APIs。
 

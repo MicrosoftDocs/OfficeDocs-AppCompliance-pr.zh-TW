@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MSPBots 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a0a0bee0504d4c3b0e6ea0c9d4464c04b4663252
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 8d4d4c0b27f2f2052a46b8d77107dbc4a320216e
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148084"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257749"
 ---
 # <a name="mspbots"></a>MSPBots
 
@@ -168,11 +168,11 @@ Jexet 技術 LLC 給 Microsoft 所提供的資訊：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| ChannelMessage 傳送 | 應用程式 | 傳送訊息給通道 |
->| ChatMessage 傳送 | 應用程式 | 傳送訊息給聊天 |
->| 設定檔 | 應用程式 | 取得使用 app 使用者資訊 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ChannelMessage 傳送 | 應用程式 | 傳送訊息給通道 | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
+>| ChatMessage 傳送 | 應用程式 | 傳送訊息給聊天 | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
+>| 設定檔 | 應用程式 | 取得使用 app 使用者資訊 | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
 
 >此應用程式沒有額外的 APIs。
 

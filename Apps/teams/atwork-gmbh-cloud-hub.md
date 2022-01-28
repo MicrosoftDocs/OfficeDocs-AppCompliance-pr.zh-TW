@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于雲端中樞的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7e0998c86e38039879a13ee79185732287166619
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6e982e29c1ba09097f3c2415aae5e1f644a87c5a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147925"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259838"
 ---
 # <a name="cloud-hub"></a>Cloud Hub
 
@@ -168,12 +168,12 @@ ms.locfileid: "62147925"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | 應用程式 | 用來選取您要傳送 E-Mail 的人員。 |
->| TeamSettings Read。 All | 應用程式 | 用於選取您想要從郵件中心張貼郵件的團隊。 |
->| 傳送郵件 | 應用程式 | 用於將郵件直接從應用程式傳送至管道或個別人員。  |
->| ReadBasic | 應用程式 | 用於選取您想要從郵件中心張貼郵件的頻道。 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadBasic | 應用程式 | 用於選取您想要從郵件中心張貼郵件的頻道。 | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| 傳送郵件 | 應用程式 | 用於將郵件直接從應用程式傳送至管道或個別人員。  | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| TeamSettings Read。 All | 應用程式 | 用於選取您想要從郵件中心張貼郵件的團隊。 | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| User.Read.All | 應用程式 | 用來選取您要傳送 E-Mail 的人員。 | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
 
 >此應用程式沒有額外的 APIs。
 

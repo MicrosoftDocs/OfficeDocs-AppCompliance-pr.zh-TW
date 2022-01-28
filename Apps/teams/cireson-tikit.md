@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tikit 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b198e4d613b2b25aa6dffc2f385ccba225f1801b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 69551224968b55d4e3731f02b0578157a15bd038
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147405"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259834"
 ---
 # <a name="tikit"></a>Tikit
 
@@ -169,17 +169,17 @@ ms.locfileid: "62147405"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.Read.All | 委託 | 用於讀取應用程式中 RBAC 的角色指派 |
->| Directory.AccessAsUser.All | 委託 | 用於讀取應用程式中 RBAC 的角色指派 |
->| 電子郵件 | 委託 | 登入許可權 |
->| Group.Read.All | 包括 | 用於讀取應用程式中 RBAC 的角色指派 |
->| openid | 委託 | 登入 |
->| 設定檔 | 委託 | 登入 |
->| User.Read | 委託 | 登入 |
->| User.Read.All | 應用程式 | 登入 |
->| User.ReadBasic.All | 委託 | 登入 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 委託 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Directory.Read.All | 委託 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Group.Read.All | 包括 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read.All | 應用程式 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.ReadBasic.All | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| 電子郵件 | 委託 | 登入許可權 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| openid | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| 設定檔 | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 
 >此應用程式沒有額外的 APIs。
 

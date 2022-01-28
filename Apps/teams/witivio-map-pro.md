@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，對應 Pro 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 297b7dc54e7d25230a121a08d2d3ab5845110daf
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: f2c2f42e39532b69cfbe3638b9ff6f3064658de4
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147782"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255409"
 ---
 # <a name="map-pro"></a>Map Pro
 
@@ -168,13 +168,13 @@ ms.locfileid: "62147782"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 電子郵件 | 委託 | Microsoft Teams SSO |
->| openid | 委託 | Microsoft Teams SSO |
->| offline_access | 委託 | Microsoft Teams SSO |
->| User.Read | 委託 | Microsoft Teams SSO |
->| 設定檔 | 委託 | Microsoft Teams SSO |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
+>| 電子郵件 | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
+>| offline_access | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
+>| openid | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
+>| 設定檔 | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
 
 >此應用程式沒有額外的 APIs。
 
