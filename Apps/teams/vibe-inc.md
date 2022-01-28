@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Vibe 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ddc6d09c23b109752073c291f220e43b1522617
-ms.sourcegitcommit: 2aa786d5bf1f93ef63b80f04bff99434d2246d92
+ms.openlocfilehash: 9dd45dc3aa49fdf3dbe518b610186231b1cde907
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62157258"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254609"
 ---
-# <a name="vibe"></a>氛圍
+# <a name="vibe"></a>Vibe
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "62157258"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 氛圍 |
+| 應用程式名稱 | Vibe |
 | ID | WA200001721 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Vibe Inc。 |
+| 合作夥伴公司名稱 | Vibe Inc |
 | 公司的網站 | [https://vibe.us](https://vibe.us) |
 | App 的使用條款 | [https://vibe.us/term/](https://vibe.us/term/) |
 | 應用程式的核心功能 | 可輕鬆存取您的 OneDrive 檔案，可在無限畫布上進行即時共同作業。 |
@@ -168,9 +168,9 @@ Vibe Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集和儲�
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 委託 | 取得使用者的基本身分識別資訊，例如名稱、電子郵件、設定檔影像。 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 委託 | 取得使用者的基本身分識別資訊，例如名稱、電子郵件、設定檔影像。 | [71a7c2ef-6e5f-4d3d-8665-119a2bef0035](https://docs.microsoft.com/microsoft-365-app-certification/azure/71a7c2ef-6e5f-4d3d-8665-119a2bef0035) |
 
 >此應用程式沒有額外的 APIs。
 

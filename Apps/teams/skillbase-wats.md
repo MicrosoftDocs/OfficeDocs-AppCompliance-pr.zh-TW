@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wats 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 87f742ca884060d51b35ea2ba48cae3e4fd89e91
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 49aba56648206ad302a6b078bb28ad3b055bbc5f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200635"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251652"
 ---
 # <a name="wats"></a>Wats
 
@@ -35,7 +35,7 @@ ms.locfileid: "62200635"
 | 應用程式名稱 | Wats |
 | ID | WA200003597 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Skillbase |
+| 合作夥伴公司名稱 | 技能基礎 |
 | 公司的網站 | [https://wats.ai](https://wats.ai) |
 | App 的使用條款 | [https://wats.ai/en/terms-of-use/](https://wats.ai/en/terms-of-use/) |
 | 應用程式的核心功能 | 共用和存取知識的共同作業解決方案。 使用 Wats 來釋放您的 energies！ |
@@ -167,21 +167,21 @@ ms.locfileid: "62200635"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Files.Read | 委託 | 講座 des fichiers sharepoint |
->| Files.Read.All | 委託 | 講座 des fichiers sharepoint |
->| Group.Read.All | 委託 | avoir acc&#232;s aux groupes 澆築 le 要求 |
->| offline_access | 委託 | 行動電話 |
->| openid | 委託 | OBO |
->| 已讀取組織。全部 | 委託 | recup&#233;rer le 租使用者識別碼澆築 bien configurer l'application WATS et g&#233;rer le cloisonnement des donn&#233;es |
->| 顯示狀態。讀取 | 委託 | afficher，comme sur les apps office，si 取消 utilisateur est connect&#233; ou pas |
->| 目前狀態為 [已讀取]。 | 委託 | afficher，comme sur les apps office，si 取消 utilisateur est connect&#233; ou pas |
->| 設定檔 | 委託 | info sur l'utilisateur |
->| Sites.Read.All | 委託 | sharepoints aux 的情況 des |
->| TeamsActivity.Send | 包括 | envoie d'activit&#233;s aux utilisateurs quand 未要求其 est cr&#233;&#233; |
->| User.Read | 委託 | 登錄 |
->| User.Read.All | 委託 | info sur les autres utilisateurs |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.Read | 委託 | 講座 des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Files.Read.All | 委託 | 講座 des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Group.Read.All | 委託 | avoir acc&#232;s aux groupes 澆築 le 要求 | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| 已讀取組織。全部 | 委託 | recup&#233;rer le 租使用者識別碼澆築 bien configurer l'application WATS et g&#233;rer le cloisonnement des donn&#233;es | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| 顯示狀態。讀取 | 委託 | afficher，comme sur les apps office，si 取消 utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| 目前狀態為 [已讀取]。 | 委託 | afficher，comme sur les apps office，si 取消 utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Sites.Read.All | 委託 | sharepoints aux 的情況 des | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| TeamsActivity.Send | 包括 | envoie d'activit&#233;s aux utilisateurs quand 未要求其 est cr&#233;&#233; | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| User.Read | 委託 | 登錄 | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| User.Read.All | 委託 | info sur les autres utilisateurs | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| offline_access | 委託 | 行動電話 | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| openid | 委託 | OBO | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| 設定檔 | 委託 | info sur l'utilisateur | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
 
 >此應用程式沒有額外的 APIs。
 

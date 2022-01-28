@@ -2,21 +2,21 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2022
+ms.date: 01/27/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 9f429e2f81a95e0750b6c2df8c55471653ea969c
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 86006b608edc098b9c7e3abbcf49bfde1f89863f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235629"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251339"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
-microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關 Microsoft Outlook 應用程式及其所使用增益集的決策。 此資訊會納入 [Microsoft 雲端 App 安全性](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 應用程式目錄 ，以及開發人員提交其應用程式時所提供的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
+microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關 Microsoft Outlook 應用程式及其所使用增益集的決策。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -38,8 +38,8 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [MIPA-您自己的個人助理](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [Outlook 的 Office2SharePoint](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Outlook] 的內容選擇器 (./officeatwork-officeatworkcontent-chooser-for-outlook.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Outlook] 的郵件簽名 (./officeatwork-officeatworkmail-signature-for-outlook.md)  | officeatwork | **✓** |  |
+| [officeatwork-Outlook 的內容選擇器](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork-Outlook 的郵件簽名](./officeatwork-officeatworkmail-signature-for-outlook.md) | officeatwork | **✓** |  |
 | [Outlook 的 OnePlaceMail](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 解決方案 | **✓** |  |
 | [Outlook 的推廣銷售專案](./outreach-sales-engagement-for-outlook.md) | 外 展 | **✓** |  |
 | [Pexip Outlook 的一個](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |

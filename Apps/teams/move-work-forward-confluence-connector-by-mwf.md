@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Confluence 連接器的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f7ac53112ad08bdb90ae3601c13074d541d63428
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 21c6474d5b21537a4ff04705fd16b760d6698b73
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144742"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251029"
 ---
 # <a name="confluence-connector-by-mwf"></a>Confluence 連接器（按 MWF）
 
@@ -166,13 +166,13 @@ ms.locfileid: "62144742"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| ReadBasic | 委託 | 取得設定頁面的通道清單，以將通知傳送至通道。 |
->| Teams。ReadBasic。 All | 委託 | 若要取得設定頁面的小組清單，將通知傳送至小組的通道。 |
->| 電子郵件 | 委託 | 增強 Microsoft 與 Atlassian 之間的帳戶對應 |
->| TeamsAppInstallation.ReadForTeam | 委託 | 若要找出安裝 Confluence 連接器的團隊 |
->| User.Read | 委託 | 讀取基本的使用者資訊 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadBasic | 委託 | 取得設定頁面的通道清單，以將通知傳送至通道。 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| Teams。ReadBasic。 All | 委託 | 若要取得設定頁面的小組清單，將通知傳送至小組的通道。 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| TeamsAppInstallation.ReadForTeam | 委託 | 若要找出安裝 Confluence 連接器的團隊 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| User.Read | 委託 | 讀取基本的使用者資訊 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| 電子郵件 | 委託 | 增強 Microsoft 與 Atlassian 之間的帳戶對應 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
 
 >此應用程式沒有額外的 APIs。
 

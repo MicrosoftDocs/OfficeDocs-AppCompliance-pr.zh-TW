@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 公司瀏覽器的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c120830bc278323ad592ed71dd29a3c3dc54e6a5
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 13ab94d8c86c280c6d6b932d1db65180a7a6caa2
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147344"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254903"
 ---
 # <a name="company-navigator"></a>Company Navigator
 
@@ -168,22 +168,22 @@ Konica Minolta IT 解決方案所提供的資訊給 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 電子郵件 | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| Calendars.Read | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| 已讀取行事曆。共用 | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| Files.Read.All | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| Mail.Read | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| 已讀取的郵件。共用 | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| ReadBasic 所有 | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| offline_access | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| openid | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| 個人讀取 | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| 設定檔 | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| User.Read | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| User.ReadBasic.All | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
->| Sites.Read.All | 委託 | 讀取與應用程式使用案例相關的使用者資料 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| 已讀取行事曆。共用 | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Files.Read.All | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.Read | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| 已讀取的郵件。共用 | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| ReadBasic 所有 | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| 個人讀取 | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Sites.Read.All | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| User.Read | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| User.ReadBasic.All | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| 電子郵件 | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| offline_access | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| openid | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| 設定檔 | 委託 | 讀取與應用程式使用案例相關的使用者資料 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
 
 >此應用程式沒有額外的 APIs。
 

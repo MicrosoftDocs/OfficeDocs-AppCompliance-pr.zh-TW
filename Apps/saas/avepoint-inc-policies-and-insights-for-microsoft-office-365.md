@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 Microsoft Office 365 的原則 Insights 的安全性和符合性資訊資訊， &amp; 其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 306a0580cf91cc49c4a6f3cf814c831840c1b283
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 272be559137882c7f9f41ed46f2321d41aff9474
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155238"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252469"
 ---
 # <a name="policies-amp-insights-for-microsoft-office-365"></a>&amp;Microsoft Office 365 的原則 Insights
 
@@ -166,14 +166,14 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| FullControl 所有 | 應用程式 | 取得及更新網站集合和群組/小組&#8217; 網站的資訊。 |
->| User.Read.All | 應用程式 | 讀取所有使用者的設定 |
->| User.ReadWrite.All | 應用程式 | 讀取和寫入使用者的設定 |
->| Group.Read.All | 應用程式 | 讀取群組的成員和設定 |
->| Group.ReadWrite.All | 應用程式 | 更新群組的成員和設定 |
->| Directory.ReadWrite.All | 應用程式 |   讀取和寫入組織目錄中的使用者和群組資料。 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.ReadWrite.All | 應用程式 |   讀取和寫入組織目錄中的使用者和群組資料。 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.Read.All | 應用程式 | 讀取群組的成員和設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | 應用程式 | 更新群組的成員和設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| FullControl 所有 | 應用程式 | 取得及更新網站集合和群組/小組&#8217; 網站的資訊。 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read.All | 應用程式 | 讀取所有使用者的設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.ReadWrite.All | 應用程式 | 讀取和寫入使用者的設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
 >此應用程式沒有額外的 APIs。
 

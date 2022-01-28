@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Indeqa 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dfcbbe79fe653ca47dc7600b1737efafb6219283
-ms.sourcegitcommit: 3a357b6131b8459972e1aec73f2f795f9d674981
+ms.openlocfilehash: 055df47b5355222fe92520e940142f84b0b580b1
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2021
-ms.locfileid: "61176881"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251699"
 ---
 # <a name="indeqa"></a>Indeqa
 
@@ -162,7 +162,14 @@ Indeqa B.V. 提供此資訊。 關於此應用程式如何收集和儲存組織�
 | 您的應用程式是否會在程式碼中儲存任何認證？ |  |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
 
->此應用程式不會使用 Microsoft Graph。
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | 委託 | 我們需要使用者資訊才能管理 Easy2Meet 中的使用者和會議 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
+>| 電子郵件 | 委託 | 若要查看目前使用者的電子郵件 adres。 我們需要電子郵件 adres 才能傳送會議邀請 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
+>| openid | 委託 | 我們不會在這裡收集資料。 我們使用此來簽署使用者 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
+>| 設定檔 | 委託 | 我們需要使用者資訊才能管理 Easy2Meet 中的使用者和會議 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
 
 >此應用程式沒有額外的 APIs。
 

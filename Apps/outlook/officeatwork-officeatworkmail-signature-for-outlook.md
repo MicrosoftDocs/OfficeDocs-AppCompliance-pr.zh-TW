@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊郵件簽署的 Outlook，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9c2b253c143a1efa249f0e4ea14387664bb68834
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 32899c4a9734ef0afb996e7f609c042cba1172c0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155226"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254179"
 ---
 # <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork |Outlook 的郵件簽名
 
@@ -168,12 +168,12 @@ ms.locfileid: "62155226"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 委託 | 啟用登入 |
->| 設定檔 | 委託 | 啟用登入 |
->| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 |
->| User.Read | 委託 | 啟用顯示登入的使用者，啟用具有使用者屬性的動態郵件簽名 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 委託 | 啟用顯示登入的使用者，啟用具有使用者屬性的動態郵件簽名 | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| openid | 委託 | 啟用登入 | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| 設定檔 | 委託 | 啟用登入 | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
 
 >此應用程式沒有額外的 APIs。
 

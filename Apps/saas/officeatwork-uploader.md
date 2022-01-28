@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用於上載程式的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 810f6833d6a4d0845905cbdc03bbfe1338bba58d
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: cd4adc4d8a140c5adb664963ae66c0755d60b088
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62205708"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251209"
 ---
 # <a name="uploader"></a>上傳者
 
@@ -166,17 +166,17 @@ ms.locfileid: "62205708"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 委託 | 啟用登入 |
->| 設定檔 | 委託 | 啟用登入 |
->| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 |
->| User.Read | 委託 | 啟用已登入使用者的顯示 |
->| Files.ReadWrite.All | 委託 | 啟用檔的我的最愛、OneDrive 功能及上傳 |
->| Group.ReadWrite.All | 委託 | 啟用 Teams 功能 |
->| User.Read.All | 委託 | 啟用顯示使用者屬性 |
->| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的檔案 |
->| GroupMember Read。 All | 委託 | 啟用 Teams 功能 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 委託 | 啟用檔的我的最愛、OneDrive 功能及上傳 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| Group.ReadWrite.All | 委託 | 啟用 Teams 功能 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| GroupMember Read。 All | 委託 | 啟用 Teams 功能 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的檔案 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| User.Read | 委託 | 啟用已登入使用者的顯示 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| User.Read.All | 委託 | 啟用顯示使用者屬性 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| openid | 委託 | 啟用登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| 設定檔 | 委託 | 啟用登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
 
 >此應用程式沒有額外的 APIs。
 

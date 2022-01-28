@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊Office 的設計者，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: be2496d13d9ed083614d209f025edb663cc9980c
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 9169b9e5646d43de74746013eb7635342ba58e5f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62210962"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250759"
 ---
 # <a name="officeatwork--designer-for-office"></a>officeatwork |Office 的設計工具
 
@@ -167,19 +167,19 @@ ms.locfileid: "62210962"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 設定檔 | 委託 | 啟用登入 |
->| User.Read | 委託 | 啟用已登入使用者的顯示 |
->| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的資料和檔案 |
->| User.ReadBasic.All | 委託 | 啟用顯示使用者屬性 |
->| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 |
->| openid | 委託 | 啟用登入 |
->| User.Read.All | 委託 | 啟用顯示使用者屬性 |
->| Group.Read.All | 委託 | 啟用以群組為基礎的範圍資料存取 |
->| 連絡人。已讀取 | 委託 | 啟用連絡人的讀取 |
->| Files.Read | 委託 | 啟用 Microsoft 365 中儲存的檔案的讀取 |
->| Files.Read.All | 委託 | 啟用 Microsoft 365 中儲存的檔案的讀取 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| 連絡人。已讀取 | 委託 | 啟用連絡人的讀取 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read | 委託 | 啟用 Microsoft 365 中儲存的檔案的讀取 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read.All | 委託 | 啟用 Microsoft 365 中儲存的檔案的讀取 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Group.Read.All | 委託 | 啟用以群組為基礎的範圍資料存取 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的資料和檔案 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read | 委託 | 啟用已登入使用者的顯示 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read.All | 委託 | 啟用顯示使用者屬性 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.ReadBasic.All | 委託 | 啟用顯示使用者屬性 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| openid | 委託 | 啟用登入 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| 設定檔 | 委託 | 啟用登入 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
 
 >此應用程式沒有額外的 APIs。
 

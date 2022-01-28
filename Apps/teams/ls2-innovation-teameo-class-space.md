@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Teameo 類別空間的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8ece9fd050e95f6cbe54f6c5084544075b9ce272
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 66e9f66c89bcf14cd7dcd3eff22ff300f3ea7050
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147763"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253629"
 ---
 # <a name="teameo-class-space"></a>Teameo Class Space
 
@@ -169,9 +169,9 @@ LS2 創新已提供此資訊，此應用程式會如何收集和儲存組織資�
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| AppCatalog ReadWrite。 | 應用程式 | Gestion de Teams App 澆築 Espace Num&#233;rique |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| AppCatalog ReadWrite。 | 應用程式 | Gestion de Teams App 澆築 Espace Num&#233;rique | [05525b77-8ca6-462f-8902-15788cb405c6](https://docs.microsoft.com/microsoft-365-app-certification/azure/05525b77-8ca6-462f-8902-15788cb405c6) |
 
 >此應用程式沒有額外的 APIs。
 

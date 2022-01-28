@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊內容選擇 Office，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3170906e37a0ab361939bc5e658cc90504745379
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: ff8f3562f12751ec9f2df19bd2d30e1bfa0a7efa
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62205710"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250409"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork |Office 的內容選擇器
 
@@ -167,17 +167,17 @@ ms.locfileid: "62205710"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 委託 | 啟用登入 |
->| 設定檔 | 委託 | 啟用登入 |
->| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 |
->| User.Read | 委託 | 啟用已登入使用者的顯示 |
->| Files.ReadWrite.All | 委託 | 啟用我的最愛及 OneDrive 功能 |
->| Group.ReadWrite.All | 委託 | 啟用 Teams 功能 |
->| User.Read.All | 委託 | 啟用顯示使用者屬性 |
->| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的使用者範本檔案 |
->| GroupMember Read。 All | 委託 | 啟用 Teams 功能 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 委託 | 啟用我的最愛及 OneDrive 功能 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| Group.ReadWrite.All | 委託 | 啟用 Teams 功能 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| GroupMember Read。 All | 委託 | 啟用 Teams 功能 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的使用者範本檔案 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| User.Read | 委託 | 啟用已登入使用者的顯示 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| User.Read.All | 委託 | 啟用顯示使用者屬性 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| openid | 委託 | 啟用登入 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| 設定檔 | 委託 | 啟用登入 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
 
 >此應用程式沒有額外的 APIs。
 

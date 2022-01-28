@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Powow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 529f5acf9410a5ee1ed2b68308ccabbdde0f070e
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: f7c17510645c2c7b2fc25014e328b1dcefe0f06f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200735"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254749"
 ---
 # <a name="powow"></a>Powow
 
@@ -168,15 +168,15 @@ Powow AI 會提供此資訊，此應用程式會如何收集和儲存組織資�
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | 應用程式 | 用於「搜尋連接器」 (功能，可將 Powow 資料推入 Microsoft 索引，以在 Microsoft 服務中搜尋)  |
->| ExternalItem ReadWrite。 | 應用程式 | 用於「搜尋連接器」 (功能，可將 Powow 資料推入 Microsoft 索引，以在 Microsoft 服務中搜尋)  |
->| 電子郵件 | 委託 | 查看使用者的註冊和登入電子郵件地址 |
->| offline_access | 委託 | 在應用程式記憶體取使用者的資料 (追蹤行事曆更新)  |
->| openid | 委託 | 在中簽署使用者 |
->| 設定檔 | 委託 | 存取使用者的基本設定檔資訊以進行註冊 |
->| User.Read | 委託 | 登入和讀取用於註冊和登入的使用者設定檔 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ExternalItem ReadWrite。 | 應用程式 | 用於「搜尋連接器」 (功能，可將 Powow 資料推入 Microsoft 索引，以在 Microsoft 服務中搜尋)  | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| User.Read | 委託 | 登入和讀取用於註冊和登入的使用者設定檔 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| User.Read.All | 應用程式 | 用於「搜尋連接器」 (功能，可將 Powow 資料推入 Microsoft 索引，以在 Microsoft 服務中搜尋)  | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| 電子郵件 | 委託 | 查看使用者的註冊和登入電子郵件地址 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| offline_access | 委託 | 在應用程式記憶體取使用者的資料 (追蹤行事曆更新)  | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| openid | 委託 | 在中簽署使用者 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| 設定檔 | 委託 | 存取使用者的基本設定檔資訊以進行註冊 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
 
 >此應用程式沒有額外的 APIs。
 

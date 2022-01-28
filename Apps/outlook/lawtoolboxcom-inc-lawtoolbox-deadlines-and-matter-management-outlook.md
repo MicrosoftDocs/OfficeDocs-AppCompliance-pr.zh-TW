@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox 期限和 Outlook 相關事項的所有可用安全性和符合性資訊資訊，也就是其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9baa7ea9b51626f8d887d568b428a83999b77940
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 5ed6b61fae63ec4c4608133613e78a4a5dd29e88
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148121"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251819"
 ---
 # <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>LawToolBox 期限與事務管理-Outlook
 
@@ -162,7 +162,32 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 | 您的應用程式是否會在程式碼中儲存任何認證？ |  |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
->此應用程式不會使用 Microsoft Graph。
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | 委託 | 此許可權會限制存取使用者已具備 &#8211; 存取權的使用者&#8217;的連絡人，以供使用者檢索其自己的行事曆資訊。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| ReadWrite 的行事曆 | 委託 | 這種許可權會限制存取他們已具備 &#8211; 存取權的使用者&#8217;的連絡人，以供使用者檢索其自己的行事曆資訊和寫入行事曆。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| ReadWrite 共用的行事曆 | 委託 | 此許可權會限制存取使用者已具備 &#8211; 存取權的使用者&#8217;的連絡人，以供使用者檢索其自己的行事曆資訊。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 連絡人。 ReadWrite | 委託 | 此許可權可限制存取使用者已具備存取權的使用者&#8217;。  我們使用此許可權讓使用者能夠搜尋其 O365 連絡人，並新增至 LawToolBox &#8211; 我們不會自動新增任何連絡人 (如果您不想要手動新增此項功能和連絡人，可以撤銷此功能 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| ReadWrite 共用 | 委託 | 我們使用此許可權允許使用者搜尋共用的 O365 連絡人，並新增至 LawToolBox &#8211; 我們不會自動新增任何連絡人 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.AccessAsUser.All | 委託 | 我們在管理入口網站中使用，以從 O365 租使用者中取得使用者清單，以新增至您的帳戶 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.ReadWrite.All | 委託 | 我們在管理入口網站中使用，以從 O365 租使用者中取得使用者清單，以新增至您的帳戶 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read | 委託 | 這可讓增益集讀取及列出使用者已存取的使用者檔案。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read.All | 委託 | 我們使用此許可權讀取並列出使用者已具備存取權的使用者檔案。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite | 委託 | 我們從 Teams、群組和 OneDrive 中讀取檔案 (如果您撤銷此檔案，將會使我們的 addin 無法在我們的應用程式中列出重要檔)  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite.All | 委託 | 我們會從 Teams、群組和 OneDrive 中讀取檔案，以供您撤銷時 (如果您撤銷該檔案，就會防止 LTB 在我們的應用程式) 中列出重要檔案。  使用者只能使用 addin 讀取及列出使用者已存取的使用者檔案。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Group.ReadWrite.All | 委託 | GroupID，GroupName，GroupEmail | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Read | 委託 | 我們使用此許可權讀取在 outlook 增益集中的 PACER 封電子郵件，以自動開啟該問題，也就是從您的電子郵件中讀取連絡人，以新增至我們的連絡人系統。  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 郵件。 ReadWrite | 委託 | 我們使用此許可權讀取在 outlook 增益集中的 PACER 封電子郵件，以自動開啟該問題，也就是從您的電子郵件中讀取連絡人，以新增至我們的連絡人系統。  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| ReadWrite 共用 | 委託 | 我們使用此許可權讀取在 outlook 增益集中的 PACER 封電子郵件，以自動開啟該問題，也就是從您的電子郵件中讀取連絡人，以新增至我們的連絡人系統。  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 傳送郵件 | 委託 | 我們會使用這種傳送電子郵件做為使用者，讓使用者只對我們系統上具有存取權的資料傳送自己的報告 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| ReadWrite 共同作業 | 委託 | 此許可權會限制存取使用者已具備 &#8211; 存取權的使用者&#8217;。我們使用此許可權可讓使用者取回和更新自己的任務資訊。  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.Read | 委託 | 用於建議新增至會議或連絡人的最近的連絡人 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite | 委託 | 用於建議新增至會議或連絡人的最近的連絡人 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite.All | 委託 | 若要讀取 Teams API、建立 Teams、建立行事曆事件、建立頻道、Teams 檔案共用功能，則必須這麼做。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 電子郵件 | 委託 | Email，Office365 UserID，ObjectID，TenantID。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 設定檔 | 委託 | 這對 SSO 驗證是必要的，我們也會使用此許可權來取得儲存在 M365 租使用者上的影像和名稱，以供使用者知道其位於正確的 [工具箱] 中。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 >此應用程式沒有額外的 APIs。
 

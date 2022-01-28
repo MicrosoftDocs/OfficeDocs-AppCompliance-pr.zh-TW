@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，小組追蹤器的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c37c717b65e51dc0b6d561cef9e4efe3d3c95c32
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: cdb4c7dea2bfc330ddccbe58ad1f8405a9a419ef
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144550"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252202"
 ---
 # <a name="team-tracker"></a>Team Tracker
 
@@ -167,14 +167,14 @@ ms.locfileid: "62144550"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| ReadWrite 的行事曆 | 委託 | 一旦使用者設定了即將開始的周活動，小組追蹤程式就會根據他們的選取範圍更新使用者行事曆及其可用性。  |
->| 電子郵件 | 委託 | 用於驗證使用者電子郵件 |
->| MailboxSettings 讀取 | 委託 | 用於取得建立行事曆事件的時區 |
->| openid | 委託 | 允許使用者利用其 Office 365 帳戶登入 |
->| 設定檔 | 委託 | 對照使用者設定檔驗證使用者基本資訊 |
->| User.Read | 委託 | 對照使用者的設定檔驗證使用者資訊 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 委託 | 一旦使用者設定了即將開始的周活動，小組追蹤程式就會根據他們的選取範圍更新使用者行事曆及其可用性。  | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| MailboxSettings 讀取 | 委託 | 用於取得建立行事曆事件的時區 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| User.Read | 委託 | 對照使用者的設定檔驗證使用者資訊 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| 電子郵件 | 委託 | 用於驗證使用者電子郵件 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| openid | 委託 | 允許使用者利用其 Office 365 帳戶登入 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| 設定檔 | 委託 | 對照使用者設定檔驗證使用者基本資訊 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
 
 >此應用程式沒有額外的 APIs。
 

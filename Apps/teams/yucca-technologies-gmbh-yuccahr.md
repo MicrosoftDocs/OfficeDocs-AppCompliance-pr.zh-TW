@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: yuccaHR 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f9a2ad6cf983a58d761c1c97563a9f564c9667d8
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: f5e1475a1db71c51ac58a6bc062ce9e4b17e8ab3
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147353"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251492"
 ---
 # <a name="yuccahr"></a>yuccaHR
 
@@ -168,14 +168,14 @@ Yucca 技術 GmbH 給 Microsoft 所提供的資訊：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          |
->|:------------------------|:--------------------|:------------------------------------|
->| ReadWrite 的行事曆 | 應用程式 | 排程對應的各方的行事曆事件 |
->| ReadBasic | 應用程式 | 在 web 應用程式中顯示通道名稱 |
->| ChannelMember Read。 All | 應用程式 | 若要比對頻道內或其他頻道的人員 |
->| Group.Read.All | 應用程式 | 在 web 應用程式中顯示小組名稱 |
->| MailboxSettings 讀取 | 應用程式 | 若要取得使用者所需的語言，請在傳送郵件時 |
->| User.Read.All | 應用程式 | 需要有電子郵件以產生適應性卡片，以允許使用者直接聊天 |
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ReadWrite 的行事曆 | 應用程式 | 排程對應的各方的行事曆事件 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| ReadBasic | 應用程式 | 在 web 應用程式中顯示通道名稱 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| ChannelMember Read。 All | 應用程式 | 若要比對頻道內或其他頻道的人員 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Group.Read.All | 應用程式 | 在 web 應用程式中顯示小組名稱 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| MailboxSettings 讀取 | 應用程式 | 若要取得使用者所需的語言，請在傳送郵件時 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| User.Read.All | 應用程式 | 需要有電子郵件以產生適應性卡片，以允許使用者直接聊天 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
 
 >此應用程式沒有額外的 APIs。
 
