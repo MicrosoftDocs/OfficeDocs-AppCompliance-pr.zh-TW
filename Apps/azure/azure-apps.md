@@ -2,17 +2,17 @@
 title: Azure App IDs 安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/28/2022
+ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Azure App IDs 的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 92478d75e16c7675c5a13c93d44b991c8e439c78
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0a98c105305559b3147fec950560df0153e105ec
+ms.sourcegitcommit: 58f40775dd4adee3a6037a74e4ccd98823f4832c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260109"
+ms.lasthandoff: 02/01/2022
+ms.locfileid: "62302638"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App IDs 安全性與合規性
 

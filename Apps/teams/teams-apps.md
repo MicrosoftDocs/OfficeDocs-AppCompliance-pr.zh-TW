@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/28/2022
+ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 249db6850fbcb556600f4c546ef5c6c82bf273f7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f21b81f3898b89a3c7c935e00142b283d4830f2d
+ms.sourcegitcommit: 58f40775dd4adee3a6037a74e4ccd98823f4832c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252179"
+ms.lasthandoff: 02/01/2022
+ms.locfileid: "62304838"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -27,6 +27,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [ADI](./akari-solutions-limited-adi.md) | Akari Solutions Limited | **✓** |  |
 | [Adobe 標誌](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** |  |
 | [Agenda Boss](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
+| [有目標](./aimful.md) | 有目標 | **✓** |  |
 | [合金自助式助理](./alloy-software-self-service-assistant.md) | 合金軟體 | **✓** |  |
 | [Alvao 服務台](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [琥珀](./infeedo-amber.md) | inFeedo | **✓** |  |
