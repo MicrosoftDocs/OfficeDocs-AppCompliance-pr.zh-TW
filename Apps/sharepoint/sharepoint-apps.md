@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/01/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 6618e9a9a4f4750136e38ab5fb2c55a17babe09a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 84e054bf0b1ca6bf7b830af03fce008ee20a92cf
+ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254029"
+ms.lasthandoff: 02/02/2022
+ms.locfileid: "62313838"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -31,7 +31,7 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Konnect 電子郵件分析器](./konnect-email-parser.md) | Konnect 電子郵件 | **✓** |  |
 | [LifeWorks Viva 連線](./lifeworks-inc-viva-connections.md) | Lifeworks Inc。 | **✓** |  |
 | [閃電工具閃電線](./lightning-tools-conductor.md) | 閃電工具 | **✓** |  |
-| [officeatwork | SharePoint] 的範本選擇器 (./officeatwork-officeatworktemplate-chooser-for-sharepoint.md)  | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork-SharePoint 的範本選擇器](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [更聰明的事件預約](./smarter-business-solutions-gmbh-event-booking.md) | 更智慧的商務解決方案 GmbH | **✓** |  |
 | [分類](./accuracy-software-inc-taxonomy.md) | 準確性軟體 Inc.。 | **✓** |  |
