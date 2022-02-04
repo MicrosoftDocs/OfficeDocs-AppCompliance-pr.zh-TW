@@ -2,18 +2,12 @@
 title: 由 Communitio Corporation Communitio 的 TeamSticker 應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TeamSticker by Communitio 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 252d783969b65bce7ef3b1754b9b7439c1f19764
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253835"
 ---
 # <a name="teamsticker-by-communitio"></a>Communitio 的 TeamSticker
 
@@ -36,8 +30,8 @@ Communitio Corporation 提供給 Microsoft 的資訊：
 | ID | WA200000894 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Communitio Corporation |
-| 公司的網站 | [https://www.teamsuite.biz](https://www.teamsuite.biz) |
-| App 的使用條款 | [https://www.teamsuite.biz/terms/](https://www.teamsuite.biz/terms/) |
+| 公司的網站 | [https://communitio.jp](https://communitio.jp) |
+| App 的使用條款 | [https://teamsuite.biz/terms](https://teamsuite.biz/terms) |
 | 應用程式的核心功能 | 這是可從交談傳送的數位致謝卡。 |
 | 公司 headquarter 位置 | 日本 |
 | 應用程式資訊頁面 | |
