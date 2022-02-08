@@ -2,11 +2,17 @@
 title: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb 的 Azure 應用程式識別碼資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/03/2022
+ms.date: 02/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb 的安全性和符合性資訊資訊。
+ms.openlocfilehash: c6bc28b397163615370543b3f079ca658d5e426e
+ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 02/08/2022
+ms.locfileid: "62448157"
 ---
 # <a name="azure-app-id-2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb"></a>Azure App ID: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb
 
