@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/03/2022
+ms.date: 02/07/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: a81e97a2a2ce3f34530134eaa903b9187f0868a6
-ms.sourcegitcommit: 901a8fee9d5d98cb95fae6b024bff972f6011528
+ms.openlocfilehash: 5ec8da5c62190b239f21acfd32a0d04fddd488cb
+ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2022
-ms.locfileid: "62375751"
+ms.lasthandoff: 02/08/2022
+ms.locfileid: "62449247"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -64,6 +64,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [版面連結](./engage-squared-board-connect.md) | 使用方形 | **✓** |  |
 | [Booking Room Pro](./witivio-booking-room-pro.md) | Witivio | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
+| [BRAVO Workhub](./coeus-solutions-gmbh-bravo-workhub.md) | Coeus Solutions GmbH | **✓** |  |
 | [BravoNow](./spadeworx-software-services-bravonow.md) | SpadeWorx Software Services | **✓** |  |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  |
 | [亮色投票](./chat-apps-llc-bright-poll.md) | 聊天應用程式，LLC | **✓** |  |
@@ -123,6 +124,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
 | [Dubber 整合通話錄音](./dubber-unified-call-recording.md) | 配音器 | **✓** |  |
 | [簡單專案](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
+| [EasyLife 365](./easylife-365-ag.md) | EasyLife 365 AG | **✓** |  |
 | [eCademy Lernplattform](./cornelsen-ecademy-and-inside-gmbh-lernplattform.md) | GmbH 內部的 Cornelsen eCademy &amp; | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR（亞洲） Co.Ltd。 | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
@@ -287,6 +289,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [Powow](./powow-ai.md) | Powow AI | **✓** |  |
 | [Presentations AI](./infographfx-technologies-presentations-ai.md) | Infographfx Technologies | **✓** |  |
+| [價格監視器](./price-monitor.md) | &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#32593;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Proconnect for Sitecore](./subramanian-ramanathan-proconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** |  |
 | [ProdBot](./prodoscore-prodbot.md) | Prodoscore | **✓** |  |
@@ -305,8 +308,8 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [達到](./livetiles-reach.md) | LiveTiles | **✓** |  |
 | [即時翻譯工具](./fairuse-real-time-translator.md) | Fairuse | **✓** |  |
 | [提醒](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
-| [Reminderz](./chitchattr-reminderz.md) | ChitChattr | **✓** |  |
 | [researcHR](./researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
+| [Responsum](./responsum-inc.md) | Responsum Inc. | **✓** |  |
 | [ReTeam](./beremote-llc-reteam.md) | BeRemote LLC | **✓** |  |
 | [Rezolve.ai](./actionable-science-rezolveai.md) | 可採取動作的步驟 | **✓** |  |
 | [RFPIO bot](./rfpio-bot.md) | RFPIO | **✓** |  |
@@ -322,7 +325,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [SelfDrvn](./selfdrvn.md) | SelfDrvn | **✓** |  |
 | [Sensei Labs Conductor](./sensei-labs-inc-conductor.md) | Sensei Labs Inc. | **✓** |  |
 | [Senso](./senso.md) | Senso | **✓** |  |
-| [Sentry](./sentry.md) | Sentry | **✓** |  |
 | [SHL](./shl.md) | SHL | **✓** |  |
 | [Shortlinks](./chitchattr-shortlinks.md) | ChitChattr | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
