@@ -2,24 +2,23 @@
 title: MURAL 的應用程式資訊（按 MURAL）
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/07/2021
+ms.date: 02/10/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: MURAL 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 67a5424289d3c9e8ce90997fd67577e7d5d06e93
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 232dfe9848753a221d4a68590fa2c73138d39d24
+ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263757"
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62515169"
 ---
 # <a name="mural"></a>MURAL
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年9月22日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次於開發人員的更新：2022年2月9日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c738b607-88dd-4f16-aefe-6a824c65d25d" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381626" target="_blank">在 AppSource 中查看</a>
