@@ -2,17 +2,17 @@
 title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/01/2022
+ms.date: 02/10/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 9330a055563a23215b2aa4304427c7923e5fc28e
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: a8043dbd4451cea4854e34b6dde198e882a8a4ed
+ms.sourcegitcommit: 0c7519d574830d48260e4d39dffab3c5f96bc57c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62318229"
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62523622"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -31,7 +31,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [內容選擇器瀏覽器](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp。 | **✓** |  |
-| [Outlook 的 EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (南部太平洋) PTE 有限 | **✓** |  |
+| [Outlook 的 EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (南部太平洋) PTE 有限 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ice 連絡人中心](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** |  |
 | [iGlobe Microsoft 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [影像選擇器](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

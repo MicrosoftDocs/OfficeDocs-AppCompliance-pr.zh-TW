@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/08/2022
+ms.date: 02/10/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 75fde0de6b646be10c771fcec0b3c1ba43e84ceb
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: 8609b858ec61c9d5dc188944fb6b1cacf3e382eb
+ms.sourcegitcommit: 0c7519d574830d48260e4d39dffab3c5f96bc57c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62473594"
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62523610"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -89,6 +89,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Cloud Effective](./cloud-effective.md) | Cloud Effective | **✓** |  |
 | [Cloud Hub](./atwork-gmbh-cloud-hub.md) | atwork GmbH | **✓** |  |
 | [CloudLabs](./spektra-systems-llc-cloudlabs.md) | Spektra Systems LLC | **✓** |  |
+| [Clypp](./zesavi-gmbh-clypp.md) | Zesavi GmbH | **✓** |  |
 | [COCO](./hexaware-technologies-ltd-coco.md) | Hexaware Technologies Ltd. | **✓** |  |
 | [CodeStream](./codestream.md) | CodeStream | **✓** |  |
 | [CoffeePals](./carnduff-co-coffeepals.md) | Carnduff Co | **✓** |  |
@@ -213,6 +214,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [KUDO](./kudo-inc.md) | KUDO, Inc. | **✓** |  |
 | [Kudozza](./survivef5-gmbh-kudozza.md) | surviveF5 GmbH | **✓** |  |
 | [Kunjani](./faceboard-pty-ltd-kunjani.md) | FACEBOARD (PTY) 有限公司 | **✓** |  |
+| [Learnbee](./bsharp-sales-enablers-learnbee.md) | Bsharp 銷售推動 | **✓** |  |
 | [Lexion](./lexion.md) | Lexion | **✓** |  |
 | [LifeWorks](./lifeworks.md) | LifeWorks | **✓** |  |
 | [Link Spotter](./communardo-products-link-spotter.md) | Communardo Products | **✓** |  |
@@ -233,6 +235,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [Message Reminder](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
 | [MetaVisitor](./wafer-systems-metavisitor.md) | Wafer Systems | **✓** |  |
+| [MetaWorkspace](./wafer-systems-metaworkspace.md) | Wafer Systems | **✓** |  |
 | [MGR360](./mgr360.md) | MGR360 | **✓** |  |
 | [Mia](./mihcm-mia.md) | MiHCM | **✓** |  |
 | [Micromate](./paixon-gmbh-micromate.md) | Paixon GmbH | **✓** |  |
@@ -247,7 +250,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [使用 Jira 推展工作進度](./move-work-forward-with-jira.md) | 推展工作進度 | **✓** |  |
 | [MSPBots](./jexet-technologies-llc-mspbots.md) | Jexet Technologies LLC | **✓** |  |
 | [多重核准程式 LTAP](./ltapps-software-coltd-multi-approval-process.md) | LTAPPs SOFTWARE CO.，LTD | **✓** |  |
-| [MURAL](./mural.md) | MURAL | **✓** |  |
+| [MURAL](./mural.md) | MURAL | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Mybys](./facilis-mybys.md) | Facilis | **✓** |  |
 | [Myfone](./flexfone-myfone.md) | Flexfone | **✓** |  |
 | [MyHub](./avepoint-inc-myhub.md) | AvePoint, Inc. | **✓** |  |
@@ -326,6 +329,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [SelfDrvn](./selfdrvn.md) | SelfDrvn | **✓** |  |
 | [Sensei Labs Conductor](./sensei-labs-inc-conductor.md) | Sensei Labs Inc. | **✓** |  |
 | [Senso](./senso.md) | Senso | **✓** |  |
+| [WNI 的共用對話](./wni-shared-thread-by.md) | WNI | **✓** |  |
 | [SHL](./shl.md) | SHL | **✓** |  |
 | [Shortlinks](./chitchattr-shortlinks.md) | ChitChattr | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
@@ -373,6 +377,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Talview Interviews](./talview-inc-interviews.md) | Talview Inc | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
 | [Taskworld](./taskworld.md) | Taskworld | **✓** |  |
+| [Team Central](./atlassian-inc-team-central.md) | Atlassian, Inc. | **✓** |  |
 | [Team Tracker](./team-tracker-ltd.md) | Team Tracker Ltd | **✓** |  |
 | [Teamble](./teamble.md) | Teamble | **✓** |  |
 | [TeaMe Health Check Bot](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
@@ -442,5 +447,4 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [YAROOMS](./yarooms.md) | YAROOMS | **✓** |  |
 | [Yeeflow](./akmii-yeeflow.md) | Akmii | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
-| [Zesavi](./zesavi-gmbh.md) | Zesavi GmbH | **✓** |  |
 | [Zignals](./alight-zignals.md) | Alight | **✓** |  |
