@@ -1,48 +1,48 @@
 ---
-title: Workday 的應用程式資訊（按 Workday）
+title: Klett 的應用程式資訊，由 Ernst Klett Verlag GmbH
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 Workday 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: Klett 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6f8f8c4a1abeb514268797956b110f2a53fcd1e7
+ms.openlocfilehash: e1a5e3b691fb1face8b122f028146bb34e92a705
 ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795744"
+ms.locfileid: "62795766"
 ---
-# <a name="workday"></a>Workday
+# <a name="klett"></a>Klett
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新：2022年2月2日</p>
+<p>上次於開發人員更新：2021年12月8日</p>
 
-* <a href="https://teams.microsoft.com/l/app/aa4981ef-635f-4066-b260-97445a4b2819" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001555" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/e52ef0da-a602-479b-8ac4-f3e0398009e6" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003716" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 Workday 提供給 Microsoft 的資訊：
+Ernst Klett Verlag GmbH 提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Workday |
-| ID | WA200001555 |
+| 應用程式名稱 | Klett |
+| ID | WA200003716 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Workday |
-| 公司的網站 | [https://www.workday.com/en-us/homepage.html](https://www.workday.com/en-us/homepage.html) |
-| App 的使用條款 | [https://nw.myworkday.com/microsoftteams/post-license/](https://nw.myworkday.com/microsoftteams/post-license/) |
-| 應用程式的核心功能 | 將 Workday 新增至您的 Teams，以方便和不限摩擦的 HR 和財務工作！  如需應用程式安全性和資料隱私權的完整資訊，Workday 客戶應參考實際的工作區創新服務說明，以及 Workday Community 的自然工作區使用者群組。 |
-| 公司 headquarter 位置 | 美國地區 |
+| 合作夥伴公司名稱 | Ernst Klett Verlag GmbH |
+| 公司的網站 | [https://www.klett.de/index/](https://www.klett.de/index/) |
+| App 的使用條款 | [https://www.klett.de/inhalt/rechtliches/nutzungsbedingungen...](https://www.klett.de/inhalt/rechtliches/nutzungsbedingungen-fuer-digitale-inhalte-und-online-services/6931) |
+| 應用程式的核心功能 | Bequemer Zugriff auf 骰子 digitalen Produkte passend zum Schulbuch |
+| 公司 headquarter 位置 | 德國 |
 | 應用程式資訊頁面 | |
-| 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
-| 應用程式會使用哪一個主控雲端提供者？ | 其他 |
+| 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
+| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,21 +52,19 @@ ms.locfileid: "62795744"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 Workday 在 Workday 中提供，供 Workday 使用此應用程式如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊是由 Ernst Klett Verlag GmbH 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
-| App 是否支援 TLS 1.1 或更新版本？ | 是 |
+| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ | Microsoft 租使用者識別碼、使用者 AAD 物件識別碼、交談識別碼 |
+| 資料庫中儲存的資料為何？ |  |
 | 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ | 是 |
-| 在帳戶終止後，資料會保留多久？ | 小於30days |
-| 您是否有既定的資料存取管理程式？ | 是 |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 是 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ | 是 |
+| 您是否有既定的資料 rentention 與處置程式？ |  |
+| 在帳戶終止後，資料會保留多久？ |  |
+| 您是否有既定的資料存取管理程式？ |  |
+| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
+| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,21 +76,21 @@ ms.locfileid: "62795744"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否要在應用程式中執行年度滲透測試？ | 是 |
+| 您是否要在應用程式中執行年度滲透測試？ | 否 |
 | 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
 | 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls |
 | 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
-| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
-| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |
+| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 否 |
+| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 否 |
 | 您的環境是否有不受支援的作業系統或軟體？ | 否 |
-| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 否 |
+| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 是 |
 | 您的外部網路界限是否已安裝防火牆？ | 是 |
 | 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
 | 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 是 |
-| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
-| 啟用下列各要素驗證 (MFA) ： | CodeRepositories、DNSManagement、身分憑證 |
+| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 否 |
+| 啟用下列各要素驗證 (MFA) ： | Credential、DNSManagement、CodeRepositories |
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
-| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
+| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 否 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
 | 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
@@ -108,23 +106,23 @@ ms.locfileid: "62795744"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 否 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 否 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 是 |
-| 最近的 SOC1 認證日期 |  2021-09-30 |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您已完成哪一種 SOC 2 憑證？ |  type2 |
-| 最近的 SOC2 認證日期 |  2021-09-30 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 最近的 SOC1 認證日期 |   |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 您已完成哪一種 SOC 2 憑證？ | |
+| 最近的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 是 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 否 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 否 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
 | 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ | 不適用 |
 | App 是否已 (CSA 星) 認證？ | 否 |
@@ -139,14 +137,14 @@ ms.locfileid: "62795744"
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
 | 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
-| 隱私權原則 URL | https://www.workday.com/en-us/privacy.html |
+| 隱私權原則 URL | https://www.klett.de/datenschutz |
 | 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
 | 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
-| 應用程式是否有功能可在要求時刪除個人資料？ | 是 |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 不適用 |
-| App 是否提供個人資料，以更正或更新其個人資料？ | 是 |
+| 應用程式是否有功能可在要求時刪除個人資料？ | 否 |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 否 |
+| App 是否提供個人資料，以更正或更新其個人資料？ | 否 |
 | 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -163,7 +161,7 @@ ms.locfileid: "62795744"
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
-| 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
+| 您的應用程式是否會在程式碼中儲存任何認證？ | 是 |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
 >此應用程式不會使用 Microsoft Graph。
