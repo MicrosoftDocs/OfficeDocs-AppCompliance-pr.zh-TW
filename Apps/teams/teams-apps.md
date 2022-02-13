@@ -2,17 +2,17 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/10/2022
+ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 8609b858ec61c9d5dc188944fb6b1cacf3e382eb
-ms.sourcegitcommit: 0c7519d574830d48260e4d39dffab3c5f96bc57c
+ms.openlocfilehash: aa1c046fe494ec1fcdd047eae02f823e6dc89b2d
+ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62523610"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "62792484"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -41,6 +41,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [ARGUSnylar](./argus-data-insights-schweiz-ag-argusnylar.md) | ARGUS DATA INSIGHTS Schweiz AG | **✓** |  |
 | [Arrangr](./arrangr-inc.md) | Arrangr，Inc. | **✓** |  |
 | [Asa](./two-app-studio-pte-ltd-asa.md) | Two App Studio Pte Ltd. | **✓** |  |
+| [Asana](./asana.md) | Asana | **✓** |  |
 | [ASC Recording Insights](./asc-technologies-ag-recording-insights.md) | ASC Technologies AG | **✓** |  |
 | [組件](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
 | [Aster](./aster.md) | Aster | **✓** |  |
@@ -117,6 +118,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [決定](./decisions.md) | 決定 | **✓** |  |
 | [Degreed](./degreed.md) | Degreed | **✓** |  |
 | [DELTAoverC](./deltaoverc.md) | DELTAoverC | **✓** |  |
+| [辦公桌預約](./tns-consulting-aps-desk-reservations.md) | TNS 諮詢 ApS | **✓** |  |
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
 | [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [通訊群組清單專業人員](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
@@ -210,6 +212,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Keepass Pro](./witivio-keepass-pro.md) | Witivio | **✓** |  |
 | [Kippa](./klippas-technologies-inc-kippa.md) | KLIPPAS Technologies inc. | **✓** |  |
 | [Klaxoon](./klaxoon.md) | Klaxoon𶠁 | **✓** |  |
+| [Klett](./ernst-klett-verlag-gmbh.md) | Ernst Klett Verlag GmbH | **✓** |  |
 | [Koan](./koan-inc.md) | Koan， Inc. | **✓** |  |
 | [KUDO](./kudo-inc.md) | KUDO, Inc. | **✓** |  |
 | [Kudozza](./survivef5-gmbh-kudozza.md) | surviveF5 GmbH | **✓** |  |
