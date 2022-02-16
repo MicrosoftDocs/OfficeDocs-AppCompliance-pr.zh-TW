@@ -2,24 +2,24 @@
 title: OfficeTogether by OfficeTogether，Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/14/2022
+ms.date: 02/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: OfficeTogether 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 60fecadc5f9a2fc186e997a8115cf197ee05a2c3
-ms.sourcegitcommit: 9905237eb3270d099820cbf413d64b7cc066dc7c
+ms.openlocfilehash: f291b6d1586c5b119fb01eafc9a18ce867f63646
+ms.sourcegitcommit: e43a258f089034069a6101a3290dc315725762fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62811737"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "62832534"
 ---
 # <a name="officetogether"></a>OfficeTogether
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年9月9日</p>
+<p>上次於開發人員更新：2022年2月15日</p>
 
 * <a href="https://teams.microsoft.com/l/app/d75e21dd-41a9-498d-8585-f96a516e8989" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003767" target="_blank">在 AppSource 中查看</a>
@@ -170,18 +170,18 @@ OfficeTogether，Inc. 已提供此資訊。關於此應用程式如何收集和�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 包括 | 我們使用此許可權來管理員工的行事曆，例如在辦公室內同步處理的時間或管理會議室。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| Group.ReadWrite.All | 應用程式 | 針對進入 office 的所有使用者，我們會建立每一年的小組，讓使用者能夠聊天和談論 office。 需要有此許可權才能管理  | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| 顯示狀態。讀取 | 委託 | 用於同步處理員工的 OfficeTogether 狀態為 Teams。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| Team.ReadBasic.All | 應用程式 | 我們使用此許可權來管理建立的每日小組，例如封存。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| Teams。創建 | 應用程式 | 針對進入 office 的所有使用者，我們會建立每一年的小組，讓使用者能夠聊天和談論 office。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| TeamsAppInstallation ReadWriteSelfForUser 所有 | 應用程式 | 我們的應用程式為個人應用程式。 安裝到公司的單一使用者後，系統會自動安裝至相同公司內所有已註冊的 OfficeTogether 使用者。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| User.Read | 委託 | 以 SSO 加入小組電子郵件。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| User.ReadWrite.All | 應用程式 | 請參閱 TeamsAppInstallation。 若要為所有相關的使用者安裝 OfficeTogether，我們會掃描目錄，並符合使用者。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| 電子郵件 | 委託 | 以 SSO 加入小組電子郵件。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| offline_access | 委託 | 以 SSO 加入小組電子郵件。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| openid | 委託 | 以 SSO 加入小組電子郵件。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
->| 設定檔 | 委託 | 以 SSO 加入小組電子郵件。 | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| ReadWrite 的行事曆 | 包括 | 我們使用此許可權來管理員工的行事曆，例如在辦公室內同步處理的時間或管理會議室。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Group.ReadWrite.All | 應用程式 | 針對進入 office 的所有使用者，我們會建立每一年的小組，讓使用者能夠聊天和談論 office。 需要有此許可權才能管理  | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| 顯示狀態。讀取 | 委託 | 用於同步處理員工的 OfficeTogether 狀態為 Teams。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Team.ReadBasic.All | 應用程式 | 我們使用此許可權來管理建立的每日小組，例如封存。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Teams。創建 | 應用程式 | 針對進入 office 的所有使用者，我們會建立每一年的小組，讓使用者能夠聊天和談論 office。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| TeamsAppInstallation ReadWriteSelfForUser 所有 | 應用程式 | 我們的應用程式為個人應用程式。 安裝到公司的單一使用者後，系統會自動安裝至相同公司內所有已註冊的 OfficeTogether 使用者。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| User.Read | 委託 | 以 SSO 加入小組電子郵件。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| User.ReadWrite.All | 應用程式 | 請參閱 TeamsAppInstallation。 若要為所有相關的使用者安裝 OfficeTogether，我們會掃描目錄，並符合使用者。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| 電子郵件 | 委託 | 以 SSO 加入小組電子郵件。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| offline_access | 委託 | 以 SSO 加入小組電子郵件。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| openid | 委託 | 以 SSO 加入小組電子郵件。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| 設定檔 | 委託 | 以 SSO 加入小組電子郵件。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
 
 >此應用程式沒有額外的 APIs。
 
