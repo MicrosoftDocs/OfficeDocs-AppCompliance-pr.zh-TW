@@ -1,47 +1,47 @@
 ---
-title: adobe inc. 進行 Word 和 PowerPoint 之 Adobe 符號的應用程式資訊。
+title: 以 Idea2Innovation 為寬創意的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/20/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有可用的 Adobe 符號安全性和符合性資訊資訊，針對 Word 及 PowerPoint，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星登錄中的安全性/符合性資訊。
+description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊都是廣泛的創意、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 282dc7e773129f16a642b22865cd3a3849411947
+ms.openlocfilehash: 69e417f81896c284406c5408d20f9aff32ac09a2
 ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877800"
+ms.locfileid: "62877870"
 ---
-# <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word 和 PowerPoint
+# <a name="wide-ideas"></a>Wide Ideas
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年10月15日</p>
+<p>開發人員上次更新日期：2021年8月27日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104381155" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/2a64f929-bed9-44d9-aa65-d7b921889959" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000819" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Adobe Inc. 所提供的資訊給 Microsoft：
+由 Idea2Innovation 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Adobe Sign for Word 和 PowerPoint |
-| ID | WA104381155 |
-| 支援 Office 365 用戶端 | Word 2016 或更新版本的 mac、Word 網頁版、Word 2013 Service pack 1 或更新版本中 Windows、PowerPoint 2016 或更新版本的 mac、PowerPoint 網頁版、PowerPoint 2013 Service Pack 1 或更新版本 Windows |
-| 合作夥伴公司名稱 | Adobe Inc.。 |
-| 公司的網站 | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
-| App 的使用條款 | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
-| 應用程式的核心功能 | 當您為 Office 新增 Adobe Sign 時，請保持檔簽署工作流程快移。 現在，在 Office 應用程式（如 Word 及 PowerPoint）中，您可以簽署檔、傳送檔，以合法系結電子簽章和核准 &#8212; 全部都使用 Microsoft 偏好的電子簽名解決方案。 |
-| 公司 headquarter 位置 | 美國地區 |
+| 應用程式名稱 | Wide Ideas |
+| ID | WA200000819 |
+| 支援 Office 365 用戶端 | Microsoft Teams |
+| 合作夥伴公司名稱 | Idea2Innovation |
+| 公司的網站 | [https://getwideideas.com](https://getwideideas.com) |
+| App 的使用條款 | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474849364/Product_42949683744/Asset_0831a14b-e5df-4f0b-8385-3c06edaeceeb/GENERALTERMSANDCONDITIONSWideI.pdf) |
+| 應用程式的核心功能 | 廣泛的創意是以 Microsoft 365 雲端服務為基礎的靈活構思管理解決方案。 與 Microsoft Teams 完全整合，具有開放式創新功能，可讓企業共同作業，以找出最適合日常挑戰的思路。 廣泛的創意是市場上唯一的觀點管理軟體，可讓公司群組中的每個部門或業務單位都執行其自己的自訂程式，並共同分享整個組織的想法和最佳作法 |
+| 公司 headquarter 位置 | 瑞典 |
 | 應用程式資訊頁面 | |
-| 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
-| 應用程式會使用哪一個主控雲端提供者？ | AWS，Azure |
+| 用來執行應用程式的主控環境或服務模型為何？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,18 +51,16 @@ Adobe Inc. 所提供的資訊給 Microsoft：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織的資料，以及您的組織將會對應用程式所收集的資料所做的控制。
+此資訊是由 Idea2Innovation 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
-| App 是否支援 TLS 1.1 或更新版本？ |  |
+| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ |  |
 | 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
 | 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
+| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
 | 您是否有既定的資料存取管理程式？ |  |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
 | 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
@@ -78,8 +76,8 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要在應用程式中執行年度滲透測試？ | 是 |
-| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 否 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | TraditionalAntiMalware |
+| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ |  |
 | 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ |  |
 | 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ |  |
 | 您是否根據修補原則 Sla 來執行修補程式管理活動？ |  |
@@ -107,23 +105,23 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 否 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 否 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
 | 最近的 SOC1 認證日期 |   |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您已完成哪一種 SOC 2 憑證？ |   |
-| 最近的 SOC2 認證日期 |  2020-11-24 |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 您已完成哪一種 SOC 2 憑證？ | |
+| 最近的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 是 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
-| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 是 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 是 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 否 |
+| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
 | 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ |  |
 | App 是否已 (CSA 星) 認證？ | 否 |
@@ -136,7 +134,7 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ |  |
 | 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ |  |
 | 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ |  |
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 |  |
@@ -157,9 +155,10 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 |:----------------|:-------------|
 | 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 假 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 真 |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
-| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否支援條件式存取原則？ | 是 |
+| 列出支援的原則類型 | MFA |
 | 您的應用程式是否支援持續存取評估 (CAE)  |  |
 | 您的應用程式是否會在程式碼中儲存任何認證？ |  |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
@@ -168,11 +167,12 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 郵件。 ReadWrite | 委託 | 若要將附加的檔、寄件者和收件者電子郵件，以及郵件內容從電子郵件寫入為 Adobe sign，以進行簽章簽名。 這是為了儲存使用者時間，以 Adobe 符號重新輸入這些欄位。 在簽署合約後，我們會自動撰寫新的電子郵件，讓使用者傳送電子郵件通知給收件者交易已完成。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| 個人讀取 | 委託 | 若要在 [ &quot; 傳送以供 &quot; 簽章經驗] 中自動填滿電子郵件地址，請輸入一些初始字母，不需要使用者輸入整個電子郵件。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| User.Read | 委託 | 若要讀取使用者的設定檔並比對其設定檔 (基本上，他們的電子郵件和 userId) 到資料庫，讓他們可以使用 Adobe Sign。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | 委託 | 若要在目前的憑證到期時重新整理存取權杖。 例如，當使用者在 [傳送簽名 &quot; ] 視窗中並保持停用狀態的時間過長時，當使用者使用中 &quot; 時，我們需要重新整理新的權杖。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| openid | 委託 | 電子郵件和 UserId。 若要為使用者簽署，以確保其同意使用 Adobe Sign app 的許可權。  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| 通道。建立 | 委託 | 在團隊中建立通道。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Directory.Read.All | 委託 | 我們使用此專案列出客戶目錄中的使用者  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Group.Read.All | 委託 | 我們使用此來從 Microsoft Teams 讀取及同步處理團隊。 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsAppInstallation.ReadWriteForTeam | 委託 | 這是用來自動在 Teams 中安裝應用程式  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsTab。建立 | 委託 | 我們使用這項功能，在廣泛的創意所建立的頻道中，自動建立應用程式 (挑戰/搜尋創意) 索引標籤。 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| User.Read | 委託 | 用於透過 SSO 驗證使用者，以及同步處理使用者資料 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 
 >此應用程式沒有額外的 APIs。
 
