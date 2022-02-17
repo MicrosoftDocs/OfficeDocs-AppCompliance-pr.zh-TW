@@ -2,17 +2,17 @@
 title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/11/2022
+ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: afb3d94f99655b0bcbd2bd2a0deee220e02a886c
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: 7e971759974fa7f3b35e02338708aeb8f3897741
+ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62794054"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62875606"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -22,6 +22,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 |:--------|:------------|:----------------------:|:-------------:|
 | [系統管理員中心](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Buzzeasy Teams 的連絡人中心](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt。 | **✓** |  |
+| [CallCabinet Atmos 規範錄製和分析](./callcabinet-corporation-atmos-compliance-recording-and-analytics.md) | CallCabinet Corporation | **✓** |  |
 | [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
 | [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT 有限公司。 | **✓** |  |
 | [Microsoft Office 365 的雲端備份](./avepoint-inc-cloud-backup-for-microsoft-office-365.md) | AvePoint Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

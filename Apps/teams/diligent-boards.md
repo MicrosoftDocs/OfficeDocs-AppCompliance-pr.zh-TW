@@ -1,48 +1,48 @@
 ---
-title: Alvao 服務台的應用程式資訊，ALVAO s.r.o。
+title: Diligent Boards 的應用程式資訊 Diligent
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Alvao 服務台的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有適用于 Diligent Boards 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6023f014f3f5af7b7c2eae430b0e7d946849fd76
+ms.openlocfilehash: 6205a66b30297b44017da6646e3fe686c2492e8f
 ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877170"
+ms.locfileid: "62876021"
 ---
-# <a name="alvao-service-desk"></a>Alvao 服務台
+# <a name="diligent-boards"></a>Diligent Boards
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新：2022年2月8日</p>
+<p>上次於開發人員的更新日期：2021年11月9日</p>
 
-* <a href="https://teams.microsoft.com/l/app/6b9cc557-e24a-4744-a370-407e717f2195" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002488" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/df797265-8679-421c-a75c-3540540daf42" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003544" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-ALVAO 所提供的資訊 s.r.o。 至 Microsoft：
+由 Diligent 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Alvao 服務台 |
-| ID | WA200002488 |
+| 應用程式名稱 | Diligent Boards |
+| ID | WA200003544 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | ALVAO s.r.o. |
-| 公司的網站 | [https://www.alvao.com/en/](https://www.alvao.com/en/) |
-| App 的使用條款 | [https://doc.alvao.com/cs/10.4/alvao_service_desk/License%20...](https://doc.alvao.com/cs/10.4/alvao_service_desk/License%20terms%20for%20the%20software%20product%20ALVAO%20Service%20Desk%2010.4.pdf) |
-| 應用程式的核心功能 | 適用于內部服務小組的強大工具，是使用者的友好前端。 ALVAO 服務台為所有公司內的要求提供單一聯繫點。 方案提供者小組獲得工作負載的概覽、清除優先順序和改善的通訊。 |
-| 公司 headquarter 位置 | Czechia |
+| 合作夥伴公司名稱 | 勤奮 |
+| 公司的網站 | [https://www.diligent.com](https://www.diligent.com) |
+| App 的使用條款 | [https://diligent.com/terms-of-use](https://diligent.com/terms-of-use) |
+| 應用程式的核心功能 | Access Diligent&#8217;s Microsoft Teams 中的最佳管理軟體。 |
+| 公司 headquarter 位置 | 美國地區 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
-| 應用程式會使用哪一個主控雲端提供者？ | Azure |
+| 應用程式會使用哪一個主控雲端提供者？ | 其他 |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,17 +52,17 @@ ALVAO 所提供的資訊 s.r.o。 至 Microsoft：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-ALVAO s.r.o. 提供此資訊。 關於此應用程式如何收集和儲存組織資料，以及您的組織將會對應用程式收集的資料所做的控制。
+此資訊是由 Diligent 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
+| 資料庫中儲存的資料為何？ | Microsoft Teams 租使用者識別碼及 Teams 使用者識別碼 |
 | 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
+| 您是否有既定的資料 rentention 與處置程式？ | 是 |
+| 在帳戶終止後，資料會保留多久？ | 未保留 |
+| 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
 | 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
@@ -77,18 +77,18 @@ ALVAO s.r.o. 提供此資訊。 關於此應用程式如何收集和儲存組織
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要在應用程式中執行年度滲透測試？ | 是 |
-| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 否 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls |
+| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | TraditionalAntiMalware, ApplicationControls |
 | 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
 | 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
 | 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |
 | 您的環境是否有不受支援的作業系統或軟體？ | 否 |
-| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 否 |
-| 您的外部網路界限是否已安裝防火牆？ | 否 |
+| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 是 |
+| 您的外部網路界限是否已安裝防火牆？ | 是 |
 | 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
 | 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 是 |
 | 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
-| 啟用下列各要素驗證 (MFA) ： | CodeRepositories、認證 |
+| 啟用下列各要素驗證 (MFA) ： | CodeRepositories、DNSManagement、身分憑證 |
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
@@ -106,20 +106,20 @@ ALVAO s.r.o. 提供此資訊。 關於此應用程式如何收集和儲存組織
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
-| 最近的 SOC1 認證日期 |   |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
-| 您已完成哪一種 SOC 2 憑證？ | |
-| 最近的 SOC2 認證日期 | |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 是 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 是 |
+| 最近的 SOC1 認證日期 |  2021-04-08 |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
+| 您已完成哪一種 SOC 2 憑證？ |  type2 |
+| 最近的 SOC2 認證日期 |  2021-04-08 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 是 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
 | 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
 | 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
@@ -137,15 +137,15 @@ ALVAO s.r.o. 提供此資訊。 關於此應用程式如何收集和儲存組織
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
 | 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
-| 隱私權原則 URL | https://www.alvao.com/en/privacystatement |
+| 隱私權原則 URL | https://diligent.com/privacy-policy |
 | 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
 | 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
-| 應用程式是否有功能可在要求時刪除個人資料？ | 不適用 |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 不適用 |
-| App 是否提供個人資料，以更正或更新其個人資料？ | 不適用 |
-| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 不適用 |
+| 應用程式是否有功能可在要求時刪除個人資料？ | 是 |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 是 |
+| App 是否提供個人資料，以更正或更新其個人資料？ | 是 |
+| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -155,12 +155,12 @@ ALVAO s.r.o. 提供此資訊。 關於此應用程式如何收集和儲存組織
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
+| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 否 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 否 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
-| 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
+| 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
 | 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
