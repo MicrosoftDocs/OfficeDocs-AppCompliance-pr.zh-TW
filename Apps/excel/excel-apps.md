@@ -2,17 +2,17 @@
 title: Microsoft Excel 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 21d545e7774ebca9fd718f3d1709f296de6d1989
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9a85b4a03d4237fa3560b9fdb445d9fa157158f7
+ms.sourcegitcommit: 8af0be0295356438dbaa1dad225cfb390785b15c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256879"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62884437"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 應用程式安全性和合規性
 
@@ -38,3 +38,4 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
 | [Supermetrics](./supermetrics.md) | Supermetrics | **✓** |  |
 | [XBRL 會將資料存檔](./xbrl-us-filed-data.md) | XBRL 我們 | **✓** |  |
+| [Excel 的 ZEMA](./ze-powergroup-zema-for-excel.md) | ZE PowerGroup | **✓** |  |
