@@ -2,17 +2,17 @@
 title: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc 的 Azure 應用程式識別碼資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/17/2022
+ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 39c4c2962e68ec867db4a21e35d6de688782a885
-ms.sourcegitcommit: 8af0be0295356438dbaa1dad225cfb390785b15c
+ms.openlocfilehash: 064f976716025c8864d41e262f12ee323ef59d65
+ms.sourcegitcommit: 777bb0494027ce5382c2d0cb42415910c112b56e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62885401"
+ms.lasthandoff: 02/18/2022
+ms.locfileid: "62904180"
 ---
 # <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>Azure App ID: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 
