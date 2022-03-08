@@ -2,24 +2,24 @@
 title: Casedoc 的 Casedoc 虛擬聽覺應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 03/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Casedoc 虛擬聽覺的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 07119c707f97b9e1c47beaf49a0977cbdfb727fb
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7235bc36a986a6ff254525d130f5fbd77ef7e0ac
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253849"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63078057"
 ---
 # <a name="casedoc-virtual-hearing"></a>Casedoc Virtual Hearing
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年11月17日</p>
+<p>上次於開發人員的更新日期：2022年3月7日</p>
 
 * <a href="https://teams.microsoft.com/l/app/3e701664-cc46-49e4-b356-1a7ac6500998" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003164" target="_blank">在 AppSource 中查看</a>

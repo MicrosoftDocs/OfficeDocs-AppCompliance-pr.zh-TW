@@ -2,24 +2,24 @@
 title: Witivio Pro 連絡人的應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/30/2021
+ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 連絡人的所有可用安全性和符合性資訊資訊 Pro，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d509f5b18d833135ca0683720c264e5dc164b9a0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ca10bb626f33ce2c4b5bafc618c784b46fe3e1e7
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253309"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63080257"
 ---
 # <a name="contacts-pro"></a>Contacts Pro
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年11月29日</p>
+<p>上次於開發人員更新：2022年3月3日</p>
 
 * <a href="https://teams.microsoft.com/l/app/b4f85a61-fd95-49b8-8fb3-3cb473412407" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002804" target="_blank">在 AppSource 中查看</a>
@@ -38,7 +38,7 @@ ms.locfileid: "62253309"
 | 合作夥伴公司名稱 | Witivio |
 | 公司的網站 | [https://www.witivio.com](https://www.witivio.com) |
 | App 的使用條款 | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
-| 應用程式的核心功能 | 行事曆 Pro 是 Microsoft Teams 的共同作業行事曆。 將行事曆 Pro 新增到通道或聊天中，以使用其成員建立共用的行事曆。 |
+| 應用程式的核心功能 | [連絡人] Pro 是 Microsoft Teams 的共同合作連絡人應用程式。 |
 | 公司 headquarter 位置 | 法國 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
@@ -61,7 +61,7 @@ ms.locfileid: "62253309"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Contacts |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 愛爾蘭 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於60days |
 | 您是否有既定的資料存取管理程式？ | 是 |

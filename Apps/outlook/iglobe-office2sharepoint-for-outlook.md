@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Office2SharePoint Outlook 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 6efaedad38ff32528d4c8ed4f86c0408d9b1ba82
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: e6290d01f99f2ff446e47349e8f74392d7e3f9ce
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260979"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076897"
 ---
 # <a name="office2sharepoint-for-outlook"></a>Outlook 的 Office2SharePoint
 
@@ -36,7 +36,7 @@ ms.locfileid: "62260979"
 | 合作夥伴公司名稱 | iGlobe |
 | 公司的網站 | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | App 的使用條款 | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
-| 應用程式的核心功能 | Office2SharePoint-從 Outlook 中使用 SharePoint 和 Teams，並 Office 簡單的方式。 打破小組成員之間通訊的壁壘，使 SharePoint Teams 中的所有檔和電子郵件附件都具有可存取的狀態 &amp; 。 將電子郵件和郵件附件直接從 Outlook 儲存至任何裝置和平臺上 SharePoint 或 Teams。 Office2SharePoint 應用程式服務許可權層級會設定 Outlook 增益集和 Office 增益集。 |
+| 應用程式的核心功能 | Office2SharePoint-從 Outlook 中使用 SharePoint 和 Teams，並 Office 簡單的方式。 打破小組成員之間通訊的壁壘，使 SharePoint &amp; Teams 中的所有檔和電子郵件附件都具有可存取的狀態。 將電子郵件和郵件附件直接從 Outlook 儲存至任何裝置和平臺上 SharePoint 或 Teams。 Office2SharePoint 應用程式服務許可權層級會設定 Outlook 增益集和 Office 增益集。 |
 | 公司 headquarter 位置 | 丹麥 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
@@ -176,43 +176,6 @@ ms.locfileid: "62260979"
 >| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 >此應用程式沒有額外的 APIs。
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認證資訊
-
-| **Control** | **Microsoft 365 認證結果** |
-|:------------|:---------------------------------------|
-| [**應用程式安全性**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性漏洞評估審查 (DAST/SAST/滲透測試)  | 不適用 |
-| [**運作安全性**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-防毒程式 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-應用程式控制 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-風險排名 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-修補程式 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-防火牆 (或同等技術)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-Web 應用程式防火牆 (WAFs)  (選用)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全的軟體發展/部署 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入偵測及防護 (選用)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢查 (記錄資料)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
-| [**資料處理安全性 &amp; 隱私權**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;靜態資料 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留與處置 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,24 +2,24 @@
 title: Mia 的應用程式資訊（按 MiHCM）
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Mia 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 60f642920ebe8406b6b16bcdcf940dd986962ae6
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 1e8fa45f92c45f54d50ce94397eeb5a9adba49ca
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253609"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63079717"
 ---
 # <a name="mia"></a>Mia
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年9月21日</p>
+<p>上次於開發人員更新：2022年2月28日</p>
 
 * <a href="https://teams.microsoft.com/l/app/0b48e71e-8f46-46d8-a545-608295f000ac" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002417" target="_blank">在 AppSource 中查看</a>
@@ -38,7 +38,7 @@ ms.locfileid: "62253609"
 | 合作夥伴公司名稱 | MiHCM |
 | 公司的網站 | [https://mihcm.com](https://mihcm.com) |
 | App 的使用條款 | [https://mia.work/terms-of-use](https://mia.work/terms-of-use) |
-| 應用程式的核心功能 | Mia Workplace 虛擬助理可讓您的組織為您的所有 Microsoft Teams 使用者提供 personalised 虛擬 Assistant。 此 Microsoft Teams 的工作場所助理可協助您的組織提升生產力、改善員工參與、大量 HR 要求、工作相關服務要求、健康情況及其他方面的執行 &amp; 。 Mia ascertains 員工簽約（適用于常見 HR 服務/互動的無縫員工經驗）。 |
+| 應用程式的核心功能 | Mia Workplace 虛擬助理可讓您的組織為您的所有 Microsoft Teams 使用者提供 personalised 虛擬 Assistant。 此 Microsoft Teams 的工作場所助理可協助您的組織提升生產力、改善員工參與、大量 HR 要求、工作相關服務要求、健康 &amp; 情況及其他方面的執行。 Mia ascertains 員工簽約（適用于常見 HR 服務/互動的無縫員工經驗）。 |
 | 公司 headquarter 位置 | 斯里蘭卡 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
@@ -61,7 +61,7 @@ ms.locfileid: "62253609"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者行事曆事件，使用者時區 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 新加坡 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -118,7 +118,7 @@ ms.locfileid: "62253609"
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
 | 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |

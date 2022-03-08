@@ -2,17 +2,17 @@
 title: Microsoft Outlook 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 86006b608edc098b9c7e3abbcf49bfde1f89863f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5f6ff668bfcedb253042f02b965eb1eb75b7209b
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251339"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63078597"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 應用程式安全性與合規性
 
@@ -20,14 +20,13 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Outlook 的 Adobe Sign Add-In](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc.。 | **✓** |  |
+| [Outlook 的 Adobe Sign Add-In](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Altru 影片](./altru-videos.md) | Altru | **✓** |  |
 | [核准的連絡人行事曆](./approved-contact-calendars.md) | 已核准的連絡人 | **✓** |  |
 | [CI-簽名](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [Outlook 的 CodeTwo](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Commuty](./commuty.md) | Commuty | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
-| [Outlook 的 harmon.ie](./harmonie-corporation-for-outlook.md) | harmon.ie Corporation | **✓** |  |
 | [Outlook 的印象特徵碼](./impression-signatures-for-outlook.md) | 印記簽名 | **✓** |  |
 | [iPlanner Office 365 Planner 增益集 Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

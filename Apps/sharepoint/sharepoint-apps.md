@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/18/2022
+ms.date: 03/02/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 88bb3c11356e7b2bbd134bc8827fbabe165c8bde
-ms.sourcegitcommit: 0465c6dd3a2c42fb1fd785548654d5b7f2601adc
+ms.openlocfilehash: fe6dd680acdb2bac170a1be6c64fa251300312a9
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/19/2022
-ms.locfileid: "62909055"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076877"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
 
@@ -20,12 +20,14 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe 簽收 SharePoint](./adobe-inc-sign-for-sharepoint.md) | Adobe Inc.。 | **✓** |  |
+| [SharePoint 的 Adobe Acrobat 符號](./adobe-inc-acrobat-sign-for-sharepoint.md) | Adobe Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SharePoint 的 ArcGIS](./esri-inc-arcgis-for-sharepoint.md) | Esri，Inc.。 | **✓** |  |
 | [投標管理系統](./beyond-technologies-bid-management-system.md) | 超越技術 | **✓** |  |
 | [Bizagi Webpart](./bizagi-team-webparts.md) | Bizagi 小組 | **✓** |  |
+| [行事曆疊加](./cloudwell-calendar-overlay.md) | Cloudwell | **✓** |  |
 | [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SharePoint 的 HelloSign](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox inc.。 | **✓** |  |
+| [Ichicraft Boards-您的數位工作場所](./ichicraft-bv-boards-your-digital-workplace.md) | ichicraft b.v. | **✓** |  |
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe Microsoft Office 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect 電子郵件分析器](./konnect-email-parser.md) | Konnect 電子郵件 | **✓** |  |
@@ -34,5 +36,6 @@ microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [officeatwork-SharePoint 的範本選擇器](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [更聰明的事件預約](./smarter-business-solutions-gmbh-event-booking.md) | 更智慧的商務解決方案 GmbH | **✓** |  |
+| [社交方形討論論壇](./lightning-tools-social-squared-discussion-forums.md) | 閃電工具 | **✓** |  |
 | [分類](./accuracy-software-inc-taxonomy.md) | 準確性軟體 Inc.。 | **✓** |  |
 | [線上 SharePoint 的 Zynyo 符號](./zynyo-sign-for-sharepoint-online.md) | Zynyo | **✓** |  |
