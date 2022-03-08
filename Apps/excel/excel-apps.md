@@ -2,17 +2,17 @@
 title: Microsoft Excel 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/17/2022
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 9a85b4a03d4237fa3560b9fdb445d9fa157158f7
-ms.sourcegitcommit: 8af0be0295356438dbaa1dad225cfb390785b15c
+ms.openlocfilehash: fda740b5a043c820578322f179a763ad69a999e7
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62884437"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63075967"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 應用程式安全性和合規性
 
@@ -24,7 +24,6 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [NetSuite 的 CloudExtend 分析](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Forbury](./forbury-property.md) | Forbury 屬性 | **✓** |  |
-| [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
 | [印記簽名](./impression-signatures.md) | 印記簽名 | **✓** |  |
 | [Jira Cloud for Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
 | [Excel 的文字分析 MeaningCloud](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
@@ -32,8 +31,6 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [officeatwork-Office 的內容選擇器](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork-Office 的影像選擇器](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork-Office 的範本選擇器](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [QuickCells 圖形](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
-| [QuickCells Solvers](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [報表產生器](./adobe-inc-report-builder.md) | Adobe Inc.。 | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
 | [Supermetrics](./supermetrics.md) | Supermetrics | **✓** |  |

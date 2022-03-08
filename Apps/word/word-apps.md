@@ -2,17 +2,17 @@
 title: Microsoft Word 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/16/2022
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Word 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: b9fcddbf851ad99da87ae6f0e6a14d4e1e75c0c0
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: f8be48d49c0903bebf08570bfd7d623b488e176f
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877790"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63075867"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 應用程式安全性和合規性
 
@@ -20,14 +20,13 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Sign for Word 和 PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc.。 | **✓** |  |
+| [Word 和 PowerPoint 的 Adobe Acrobat 符號](./adobe-inc-acrobat-sign-for-word-and-powerpoint.md) | Adobe Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [AuditBoard 增益集](./auditboard-inc-add-in.md) | Auditboard，Inc.。 | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax-傳送傳真變得簡單 &amp; 安全](./cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft Cloud Office 增益集](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
-| [Office 的 harmon.ie](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
 | [印記簽名](./impression-signatures.md) | 印記簽名 | **✓** |  |
 | [LegalMind Word AddIn](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Loio 合約檢查軟體](./loio-inc-contract-review-software.md) | Loio Inc.。 | **✓** |  |
