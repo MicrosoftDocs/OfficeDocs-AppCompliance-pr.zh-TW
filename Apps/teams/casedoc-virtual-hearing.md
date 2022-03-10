@@ -2,18 +2,19 @@
 title: Casedoc 的 Casedoc 虛擬聽覺應用程式資訊
 ms.author: elmalova
 author: elenamalova
+ms.manager: tonybal
 ms.date: 03/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Casedoc 虛擬聽覺的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7235bc36a986a6ff254525d130f5fbd77ef7e0ac
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: b9d0b7d3800ad464cc49ab2afc7af483dd0de24b
+ms.sourcegitcommit: 0bd8c5bf11934d14ea75ec30388534345dcb02a5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63078057"
+ms.lasthandoff: 03/10/2022
+ms.locfileid: "63424641"
 ---
 # <a name="casedoc-virtual-hearing"></a>Casedoc Virtual Hearing
 
@@ -40,7 +41,7 @@ ms.locfileid: "63078057"
 | App 的使用條款 | [https://casedoc.com/wp-content/uploads/2021/07/Casedoc_Term...](https://casedoc.com/wp-content/uploads/2021/07/Casedoc_Terms_of_Use_2021.pdf) |
 | 應用程式的核心功能 | 將 Microsoft Teams 會議轉換為聽覺。 Microsoft Teams 使用者可用 |
 | 公司 headquarter 位置 | 冰島 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://casedoc.com/virtual-hearing-for-microsoft-teams](https://casedoc.com/virtual-hearing-for-microsoft-teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -57,14 +58,7 @@ ms.locfileid: "63078057"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,20 +161,20 @@ ms.locfileid: "63078057"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog ReadWrite。 | 委託 | 若要將應用程式目錄中的應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| ReadWrite 的行事曆 | 委託 | 若要能夠訂閱會議更新 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| ReadWrite 的行事曆 | 應用程式 | 若要能夠建立會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Directory.ReadWrite.All | 應用程式 | 若要建立與會議關聯的群組 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Files.ReadWrite.All | 委託 | 讓使用者將檔案上傳至會議群組 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Files.ReadWrite.All | 應用程式 | 讓應用程式將會議資料上傳到會議群組 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Group.ReadWrite.All | 應用程式 | 若要讓應用程式建立與會議關聯的群組 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| MailboxSettings 讀取 | 應用程式 | 讓應用程式讀取使用者時區 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| OnlineMeetings ReadWrite | 委託 | 啟用標記會議類型 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsAppInstallation.ReadForUser | 委託 | 若要將應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsAppInstallation.ReadWriteSelfForUser | 委託 | 若要將應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsTab。建立 | 委託 | 若要將應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsTab ReadWrite。 | 委託 | 若要將應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| User.Read.All | 應用程式 | 允許此應用程式在未登入的使用者中讀取使用者設定檔 | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| AppCatalog ReadWrite。 | 委託 | 若要將應用程式目錄中的應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| ReadWrite 的行事曆 | 委託 | 若要能夠訂閱會議更新 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| ReadWrite 的行事曆 | 應用程式 | 若要能夠建立會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Directory.ReadWrite.All | 應用程式 | 若要建立與會議關聯的群組 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Files.ReadWrite.All | 委託 | 讓使用者將檔案上傳至會議群組 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Files.ReadWrite.All | 應用程式 | 讓應用程式將會議資料上傳到會議群組 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Group.ReadWrite.All | 應用程式 | 若要讓應用程式建立與會議關聯的群組 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| MailboxSettings 讀取 | 應用程式 | 讓應用程式讀取使用者時區 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| OnlineMeetings ReadWrite | 委託 | 啟用標記會議類型 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsAppInstallation.ReadForUser | 委託 | 若要將應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | 委託 | 若要將應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsTab。建立 | 委託 | 若要將應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsTab ReadWrite。 | 委託 | 若要將應用程式新增至會議 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| User.Read.All | 應用程式 | 允許此應用程式在未登入的使用者中讀取使用者設定檔 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
 
 >此應用程式沒有額外的 APIs。
 

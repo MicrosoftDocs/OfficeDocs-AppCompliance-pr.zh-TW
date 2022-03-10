@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Streem 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a46f768877115fc10aec39a683ca630600623f73
-ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
+ms.openlocfilehash: 7a51d9881df2405737276cf50478a70456e0c5ba
+ms.sourcegitcommit: 0bd8c5bf11934d14ea75ec30388534345dcb02a5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62513087"
+ms.lasthandoff: 03/10/2022
+ms.locfileid: "63421581"
 ---
 # <a name="streem"></a>Streem
 
@@ -57,14 +57,7 @@ ms.locfileid: "62513087"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
