@@ -2,24 +2,25 @@
 title: 透過 Cloudwell 的行事曆覆蓋應用程式資訊
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/25/2022
+manager: tonybal
+ms.date: 03/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星形登錄中，行事曆覆蓋的所有可用安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: beabfa708d3a10d6bda1ca7df248dc5cd26784ba
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: a623b5e2887f0e08cdf5939e63dabd91ca47033a
+ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081121"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63454269"
 ---
 # <a name="calendar-overlay"></a>行事曆疊加
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2022年2月24日</p>
+<p>上次於開發人員的更新日期：2022年3月10日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003806" target="_blank">在 AppSource 中查看</a>
 
@@ -39,7 +40,7 @@ ms.locfileid: "63081121"
 | App 的使用條款 | [https://cwlicensingprod.blob.core.windows.net/termsofuse/St...](https://cwlicensingprod.blob.core.windows.net/termsofuse/StandardContractMarch2019.pdf) |
 | 應用程式的核心功能 | 「行事曆重疊」網頁元件可讓您在一個地方查看所有的 Microsoft SharePoint、Planner 及 Exchange 事件！ |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://cloudwell.io/products/calendar-overlay](https://cloudwell.io/products/calendar-overlay) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -61,8 +62,8 @@ ms.locfileid: "63081121"
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者的電子郵件地址、使用者租使用者識別碼 |
 | 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ | 否 |
-| 在帳戶終止後，資料會保留多久？ | 小於90days |
+| 您是否有既定的資料 rentention 與處置程式？ | 是 |
+| 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
 | 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |

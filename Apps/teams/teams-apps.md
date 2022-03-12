@@ -2,18 +2,18 @@
 title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
-ms.manager: tonybal
-ms.date: 03/09/2022
+manager: tonybal
+ms.date: 03/11/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 32cb2f9861d24964e4ec959c7f42be93ac6164b4
-ms.sourcegitcommit: 0bd8c5bf11934d14ea75ec30388534345dcb02a5
+ms.openlocfilehash: 1ecaf898df69efbd0cc2dcd7b1abbceb9e7f1cb5
+ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63421531"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63458206"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -60,6 +60,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Bedriftsnett](./unifon-as-bedriftsnett.md) | Unifon AS | **✓** |  |
 | [Beekast](./beekast.md) | Beekast | **✓** |  |
 | [Berrycast](./technologies-openmind-inc-les-berrycast.md) | Technologies Openmind Inc, Les | **✓** |  |
+| [BGA 通知](./honeywell-bga-notify.md) | Honeywell | **✓** |  |
 | [Bigfish](./breathe-india-advisors-pvt-ltd-bigfish.md) | Breathe India Advisors Pvt. Ltd. | **✓** |  |
 | [Bigger Brains eLearning](./biggerbrains-bigger-brains-elearning.md) | Biggerbrains | **✓** |  |
 | [Biz-Oin](./suzuyo-shinwart-corporation-biz-oin.md) | SUZUYO Shinwart Corporation | **✓** |  |
@@ -145,6 +146,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [員工推薦](./recruitday-inc-employee-referrals.md) | Recruitday Inc. | **✓** |  |
 | [Employee Training Management](./sharepointsapiens-employee-training-management.md) | SharePoint-Sapiens | **✓** |  |
 | [Empuls](./empuls.md) | Empuls | **✓** |  |
+| [ENA SmartUC Connector](./ena-smartuc-connector.md) | ENA | **✓** |  |
 | [Enboarder](./enboarder.md) | Enboarder | **✓** |  |
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
@@ -343,6 +345,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [SEFOS](./meaplus-ab-sefos.md) | Meaplus AB | **✓** |  |
 | [SelfDrvn](./selfdrvn.md) | SelfDrvn | **✓** |  |
 | [Senso](./senso.md) | Senso | **✓** |  |
+| [ServiceDesk Plus Cloud](./zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | **✓** |  |
 | [WNI 的共用對話](./wni-shared-thread-by.md) | WNI | **✓** |  |
 | [SHL](./shl.md) | SHL | **✓** |  |
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |

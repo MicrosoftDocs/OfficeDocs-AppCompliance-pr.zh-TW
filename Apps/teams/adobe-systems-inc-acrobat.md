@@ -2,21 +2,21 @@
 title: Adobe Systems Inc. 之 Adobe Acrobat 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
-ms.manager: tonybal
+manager: tonybal
 ms.date: 03/09/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，Adobe Acrobat 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3a2bf567352c8d039d02314f0a7909be84e28f7f
-ms.sourcegitcommit: 0bd8c5bf11934d14ea75ec30388534345dcb02a5
+ms.openlocfilehash: b94696ec95be7b58f03aaa048169e7c5b6cd89a0
+ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63425261"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63459316"
 ---
-# <a name="adobe-acrobat"></a>Adobe Acrobat
+# <a name="adobe-acrobat"></a>Adobe Acrobat Reader
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ Adobe Systems Inc. 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Adobe Acrobat |
+| 應用程式名稱 | Adobe Acrobat Reader |
 | ID | WA200002564 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Adobe Systems Inc. |
