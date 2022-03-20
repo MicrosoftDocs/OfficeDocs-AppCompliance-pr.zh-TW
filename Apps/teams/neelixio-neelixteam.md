@@ -2,18 +2,19 @@
 title: Neelix 的應用程式資訊（依 Neelix.IO）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Neelix 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ca9cdd0cbf9cd6c3a431e5b3864fcaf1170c8346
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 1af40c59e7c72991a3e127cb37996155f2c67499
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253589"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553172"
 ---
 # <a name="neelixteam"></a>Neelix.Team
 
@@ -40,8 +41,9 @@ ms.locfileid: "62253589"
 | App 的使用條款 | [https://www.neelix.io/terms-of-use-en](https://www.neelix.io/terms-of-use-en) |
 | 應用程式的核心功能 | Neelix 平臺會以完整的週期來管理意見反應迴圈。 使用者可以將不斷的經驗、追溯意見反應及 sentiment 到其團隊的日誌中。 |
 | 公司 headquarter 位置 | 澳洲 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.neelix.team](https://www.neelix.team) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62253589"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ ms.locfileid: "62253589"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 委託 | 應用程式會使用通道識別碼及名稱，為使用者提供從 MS Treams 傳送意見反應時管理其預設首選項的方便性。 | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| Team.ReadBasic.All | 委託 | app 使用小組識別碼及名稱，為使用者提供從 MS Treams 傳送意見反應時管理其預設首選項的方便性。 | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| 電子郵件 | 委託 | 電子郵件會在 Neelix 內做為使用者註冊的一部分使用。 初次註冊後，電子郵件會用於通知。  | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| offline_access | 委託 | 用於取得重新整理權杖 | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| 設定檔 | 委託 | 使用 Neelix 註冊時，使用者名稱是用來建立使用者帳戶。  | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| User.Read | 委託 | Bot 應用程式會使用使用者。已讀取，以便能夠傳送資訊使用者，讓 Neelix core platform 能夠識別使用者 | [bed170ee-dbd7-4efa-b48e-b0937ded1689](https://docs.microsoft.com/microsoft-365-app-certification/azure/bed170ee-dbd7-4efa-b48e-b0937ded1689) |
+>| ReadBasic | 委託 | 應用程式會使用通道識別碼及名稱，為使用者提供從 MS Treams 傳送意見反應時管理其預設首選項的方便性。 | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| Team.ReadBasic.All | 委託 | app 使用小組識別碼及名稱，為使用者提供從 MS Treams 傳送意見反應時管理其預設首選項的方便性。 | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| 電子郵件 | 委託 | 電子郵件會在 Neelix 內做為使用者註冊的一部分使用。 初次註冊後，電子郵件會用於通知。  | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| offline_access | 委託 | 用於取得重新整理權杖 | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| 設定檔 | 委託 | 使用 Neelix 註冊時，使用者名稱是用來建立使用者帳戶。  | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| User.Read | 委託 | Bot 應用程式會使用使用者。已讀取，以便能夠傳送資訊使用者，讓 Neelix core platform 能夠識別使用者 | [bed170ee-dbd7-4efa-b48e-b0937ded1689](../azure/bed170ee-dbd7-4efa-b48e-b0937ded1689.md) |
 
 >此應用程式沒有額外的 APIs。
 

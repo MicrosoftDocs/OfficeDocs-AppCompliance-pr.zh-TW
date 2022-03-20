@@ -2,18 +2,19 @@
 title: Fond 技術，Inc. Fond 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Fond 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3c2e40a9b2c35cade0dcb3e3eb551a0de4b541a1
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a161c87d59eb0e920d0bfd4f5b7a88f9d2ef863a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147429"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538151"
 ---
 # <a name="fond"></a>Fond
 
@@ -40,7 +41,7 @@ Fond 技術（Inc.）所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.fond.co/tos/](https://www.fond.co/tos/) |
 | 應用程式的核心功能 | 使用 Fond 慶祝您的同事成果 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://fond.co/products/features/fond-teams-integration/](https://fond.co/products/features/fond-teams-integration/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 

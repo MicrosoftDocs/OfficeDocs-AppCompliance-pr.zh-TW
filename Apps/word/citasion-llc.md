@@ -2,18 +2,19 @@
 title: Citasion 的應用程式資訊（按 Citasion LLC）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Citasion 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 17bd4600bec0112b1c528d0530ca540d5216ba7e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a8214179d3ae5929f2ee4aa4456b2172a8486289
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147327"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63537931"
 ---
 # <a name="citasion"></a>Citasion
 
@@ -39,7 +40,7 @@ ms.locfileid: "62147327"
 | App 的使用條款 | [https://citasion.com/legal/terms](https://citasion.com/legal/terms) |
 | 應用程式的核心功能 | 在您撰寫及引用的位置輕鬆管理您的參考 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://citasion.com/docs/write-with-citasion](https://citasion.com/docs/write-with-citasion) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | GCP |
 

@@ -2,18 +2,19 @@
 title: Indeqa 的應用程式資訊（按 Indeqa B.V.）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Indeqa 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 055df47b5355222fe92520e940142f84b0b580b1
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 015f67ecb3a532d0bb3c7bcfbca66de6e2e158a4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251699"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536531"
 ---
 # <a name="indeqa"></a>Indeqa
 
@@ -40,8 +41,9 @@ Indeqa 所提供的資訊 B.V。 至 Microsoft：
 | App 的使用條款 | [https://www.easy2meet.eu/hubfs/PDF%20contractueel/Easy2Meet...](https://www.easy2meet.eu/hubfs/PDF%20contractueel/Easy2Meet%20General%20Terms%20and%20Conditions%20Sept%202020%20EN.pdf) |
 | 應用程式的核心功能 | Easy2Meet-董事會會議軟體 |
 | 公司 headquarter 位置 | 荷蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.easy2meet.eu](https://www.easy2meet.eu) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Indeqa B.V. 提供此資訊。 關於此應用程式如何收集和儲存組織�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,10 +161,10 @@ Indeqa B.V. 提供此資訊。 關於此應用程式如何收集和儲存組織�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 委託 | 我們需要使用者資訊才能管理 Easy2Meet 中的使用者和會議 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
->| 電子郵件 | 委託 | 若要查看目前使用者的電子郵件 adres。 我們需要電子郵件 adres 才能傳送會議邀請 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
->| openid | 委託 | 我們不會在這裡收集資料。 我們使用此來簽署使用者 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
->| 設定檔 | 委託 | 我們需要使用者資訊才能管理 Easy2Meet 中的使用者和會議 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
+>| Directory.Read.All | 委託 | 我們需要使用者資訊才能管理 Easy2Meet 中的使用者和會議 | [286a2e24-18ad-432d-8698-694bcd77ecfc](../azure/286a2e24-18ad-432d-8698-694bcd77ecfc.md) |
+>| 電子郵件 | 委託 | 若要查看目前使用者的電子郵件 adres。 我們需要電子郵件 adres 才能傳送會議邀請 | [286a2e24-18ad-432d-8698-694bcd77ecfc](../azure/286a2e24-18ad-432d-8698-694bcd77ecfc.md) |
+>| openid | 委託 | 我們不會在這裡收集資料。 我們使用此來簽署使用者 | [286a2e24-18ad-432d-8698-694bcd77ecfc](../azure/286a2e24-18ad-432d-8698-694bcd77ecfc.md) |
+>| 設定檔 | 委託 | 我們需要使用者資訊才能管理 Easy2Meet 中的使用者和會議 | [286a2e24-18ad-432d-8698-694bcd77ecfc](../azure/286a2e24-18ad-432d-8698-694bcd77ecfc.md) |
 
 >此應用程式沒有額外的 APIs。
 

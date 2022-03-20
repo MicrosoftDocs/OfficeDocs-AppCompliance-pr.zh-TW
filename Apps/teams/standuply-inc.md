@@ -2,18 +2,19 @@
 title: Standuply by Standuply Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Standuply 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3b7292e010ad6e244f4d5e6cdddb9b357520ca94
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 84d9c34f023fd8e4a9247de46443b711b33472c8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252239"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63537961"
 ---
 # <a name="standuply"></a>Standuply
 
@@ -38,9 +39,9 @@ Standuply Inc. 所提供的資訊給 Microsoft：
 | 合作夥伴公司名稱 | Standuply Inc. |
 | 公司的網站 | [https://standuply.com](https://standuply.com) |
 | App 的使用條款 | [https://standuply.com/terms](https://standuply.com/terms) |
-| 應用程式的核心功能 | Standuply 可自動化管理程式，並提供 &amp; 系統的內部 Q，以提升小組的生產力水準。 |
+| 應用程式的核心功能 | Standuply 可自動化管理程式，並提供系統的內部 Q &amp; ，以提升小組的生產力水準。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://standuply.com](https://standuply.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
@@ -171,8 +172,8 @@ Standuply Inc. 所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| MailboxSettings 讀取 | 應用程式 | 在使用者的個別時區傳送報告 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](https://docs.microsoft.com/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176) |
->| User.Read | 委託 | 授權產品中的使用者 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](https://docs.microsoft.com/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176) |
+>| MailboxSettings 讀取 | 應用程式 | 在使用者的個別時區傳送報告 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](../azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176.md) |
+>| User.Read | 委託 | 授權產品中的使用者 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](../azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176.md) |
 
 >此應用程式沒有額外的 APIs。
 

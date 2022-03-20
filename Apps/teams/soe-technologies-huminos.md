@@ -2,18 +2,19 @@
 title: Huminos by SOE 技術所用的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: huminos 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8586f417df16a0ae41c246dea922a72a2ed7db2e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 30dbce16045e879e99bd888812aed7eab4116572
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263861"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539799"
 ---
 # <a name="huminos"></a>huminos
 
@@ -40,8 +41,9 @@ SOE 技術所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.myokr.co/terms](https://www.myokr.co/terms) |
 | 應用程式的核心功能 | 加速效能 |
 | 公司 headquarter 位置 | 印度 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.myokr.co](https://www.myokr.co) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ SOE 技術所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,11 +161,11 @@ SOE 技術所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 取得使用者行事曆的詳細資料，以在使用者行事曆中建立1:1 會議、更新或刪除 myOKR 平臺所建立，以及顯示閒置時間槽 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
->| User.Read | 委託 | 我們使用使用者 azure 物件識別碼，讓使用者使用 Microsoft 驗證針對電子郵件登入 myOKR 應用程式 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
->| User.Read.All | 應用程式 | 以 myOKR 平臺同步使用者資訊，並根據不同的使用者削減（如位置、部門經理），將 myOKR 應用程式分析顯示為系統管理員 &amp; | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
->| offline_access | 委託 | 使用者的 Azure active directory 識別碼 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
->| openid | 委託 | 我們使用使用者 azure 物件識別碼，使用 Microsoft 驗證讓使用者登入 myOKR 應用程式 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
+>| ReadWrite 的行事曆 | 委託 | 取得使用者行事曆的詳細資料，以在使用者行事曆中建立1:1 會議、更新或刪除 myOKR 平臺所建立，以及顯示閒置時間槽 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
+>| User.Read | 委託 | 我們使用使用者 azure 物件識別碼，讓使用者使用 Microsoft 驗證針對電子郵件登入 myOKR 應用程式 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
+>| User.Read.All | 應用程式 | 以 myOKR 平臺同步使用者資訊，並根據不同的使用者削減（如位置、部門 &amp; 經理），將 myOKR 應用程式分析顯示為系統管理員 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
+>| offline_access | 委託 | 使用者的 Azure active directory 識別碼 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
+>| openid | 委託 | 我們使用使用者 azure 物件識別碼，使用 Microsoft 驗證讓使用者登入 myOKR 應用程式 | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
 
 >此應用程式沒有額外的 APIs。
 

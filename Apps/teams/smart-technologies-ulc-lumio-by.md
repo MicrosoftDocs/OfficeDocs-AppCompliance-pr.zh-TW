@@ -2,18 +2,19 @@
 title: 透過 smart 技術 Lumio 之應用程式的應用程式資訊 ULC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Lumio 的所有可用安全性和符合性資訊資訊，如智慧、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b95a53379f8b5583982ca204452d0b41c1a375ba
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 56ca94ae97e1c5a6bcaf795d362ae8486428efdb
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255509"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536351"
 ---
 # <a name="lumio-by-smart"></a>SMART 的 Lumio
 
@@ -40,8 +41,9 @@ ULC 至 Microsoft 的智慧技術所提供的資訊：
 | App 的使用條款 | [https://www.smarttech.com/legal/sls-terms](https://www.smarttech.com/legal/sls-terms) |
 | 應用程式的核心功能 | 使用活動、評估和學生共同作業來轉換您的課程。 |
 | 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.smarttech.com/smart-learning-suite/](https://www.smarttech.com/smart-learning-suite/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS、GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ULC 至 Microsoft 的智慧技術所提供的資訊：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 保留 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ ULC 至 Microsoft 的智慧技術所提供的資訊：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 委託 | 資料用於驗證群組許可權未收集任何資料。  | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
->| Group.Read.All | 委託 | appart 的群組是用來確認其是否為學生或教師群組的一部分，以便決定功能。 未收集任何資料。  | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
+>| Directory.Read.All | 委託 | 資料用於驗證群組許可權未收集任何資料。  | [14cf575a-fae2-48e2-af39-e3448d3a48bb](../azure/14cf575a-fae2-48e2-af39-e3448d3a48bb.md) |
+>| Group.Read.All | 委託 | appart 的群組是用來確認其是否為學生或教師群組的一部分，以便決定功能。 未收集任何資料。  | [14cf575a-fae2-48e2-af39-e3448d3a48bb](../azure/14cf575a-fae2-48e2-af39-e3448d3a48bb.md) |
 
 >此應用程式沒有額外的 APIs。
 

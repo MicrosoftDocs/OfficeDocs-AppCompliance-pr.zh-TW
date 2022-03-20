@@ -2,18 +2,19 @@
 title: MindManager 的應用程式資訊（按 Corel）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MindManager 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0a16728e162bcb826e10c4d45cefa8c8fc466210
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b0b6ce5943adb753144befa014902074fc2fb4f8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263956"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536551"
 ---
 # <a name="mindmanager"></a>MindManager
 
@@ -42,6 +43,7 @@ ms.locfileid: "62263956"
 | 公司 headquarter 位置 | 加拿大 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62263956"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ ms.locfileid: "62263956"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage 傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
->| [交談]。傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
->| Files.ReadWrite | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
->| Sites.ReadWrite.All | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
->| User.Read | 委託 | 設定檔資料：識別使用者並顯示其設定檔 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
->| offline_access | 委託 | 這樣一來，我們便可在需要時，將檔案重新儲存回其原始的位置以供使用者日後使用。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| ChannelMessage 傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
+>| [交談]。傳送 | 委託 | 在 MindManager 檔案中所進行之變更的相關資訊，然後可以將其發佈為郵件 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
+>| Files.ReadWrite | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
+>| Sites.ReadWrite.All | 委託 | 網站清單、資料夾清單、檔案中繼資料、檔內容-若為檔案瀏覽器，使用者可以流覽其檔案，以開啟 MindManager (。 mmap) 檔案。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
+>| User.Read | 委託 | 設定檔資料：識別使用者並顯示其設定檔 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
+>| offline_access | 委託 | 這樣一來，我們便可在需要時，將檔案重新儲存回其原始的位置以供使用者日後使用。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
 
 >此應用程式沒有額外的 APIs。
 

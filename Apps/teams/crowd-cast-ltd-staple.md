@@ -2,18 +2,19 @@
 title: 按使用中強制轉換的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊，都是針對書編目、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7bd998858872f838e12e10b4b1e6aef2a0cc61b2
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: fa799418e4943907303d516fe75de9ccf0ab3a1e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260639"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538181"
 ---
 # <a name="staple"></a>Staple
 
@@ -40,8 +41,9 @@ ms.locfileid: "62260639"
 | App 的使用條款 | [https://go.microsoft.com](https://go.microsoft.com) |
 | 應用程式的核心功能 | 使用即時費用管理變更您的工作樣式。 在您的公司中，您可以輕鬆地送出費用提交、核准和追蹤的書。 與 Microsoft 服務連結，以輕鬆與我們的產品互動。 |
 | 公司 headquarter 位置 | 日本 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://intercom.help/staple/ja](https://intercom.help/staple/ja) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS，Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62260639"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,11 +161,11 @@ ms.locfileid: "62260639"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 已讀取組織。全部 | 應用程式 | 用於收集租使用者識別碼。用於確定以我們的平臺進行驗證的使用者是特定租使用者的成員。 | [ac9ca94a-e666-4f61-959a-12c063e13e69](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac9ca94a-e666-4f61-959a-12c063e13e69) |
->| TeamsAppInstallation ReadWriteSelfForUser 所有 | 應用程式 | Teams 應用程式會自行安裝至使用者的團隊 | [ac9ca94a-e666-4f61-959a-12c063e13e69](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac9ca94a-e666-4f61-959a-12c063e13e69) |
->| AppCatalog Read。 All | 委託 | 讀取使用者的應用程式目錄，以查看是否已安裝團隊應用程式。 | [bbdcd676-7448-453c-bec7-70e5384bc290](https://docs.microsoft.com/microsoft-365-app-certification/azure/bbdcd676-7448-453c-bec7-70e5384bc290) |
->| User.Read | 委託 | 用來讀取使用者的識別碼，以確保郵件傳送給正確的使用者。 | [bbdcd676-7448-453c-bec7-70e5384bc290](https://docs.microsoft.com/microsoft-365-app-certification/azure/bbdcd676-7448-453c-bec7-70e5384bc290) |
->| openid | 委託 | 登入使用者以閱讀其基本設定檔資訊 | [bbdcd676-7448-453c-bec7-70e5384bc290](https://docs.microsoft.com/microsoft-365-app-certification/azure/bbdcd676-7448-453c-bec7-70e5384bc290) |
+>| 已讀取組織。全部 | 應用程式 | 用於收集租使用者識別碼。用於確定以我們的平臺進行驗證的使用者是特定租使用者的成員。 | [ac9ca94a-e666-4f61-959a-12c063e13e69](../azure/ac9ca94a-e666-4f61-959a-12c063e13e69.md) |
+>| TeamsAppInstallation ReadWriteSelfForUser 所有 | 應用程式 | Teams 應用程式會自行安裝至使用者的團隊 | [ac9ca94a-e666-4f61-959a-12c063e13e69](../azure/ac9ca94a-e666-4f61-959a-12c063e13e69.md) |
+>| AppCatalog Read。 All | 委託 | 讀取使用者的應用程式目錄，以查看是否已安裝團隊應用程式。 | [bbdcd676-7448-453c-bec7-70e5384bc290](../azure/bbdcd676-7448-453c-bec7-70e5384bc290.md) |
+>| User.Read | 委託 | 用來讀取使用者的識別碼，以確保郵件傳送給正確的使用者。 | [bbdcd676-7448-453c-bec7-70e5384bc290](../azure/bbdcd676-7448-453c-bec7-70e5384bc290.md) |
+>| openid | 委託 | 登入使用者以閱讀其基本設定檔資訊 | [bbdcd676-7448-453c-bec7-70e5384bc290](../azure/bbdcd676-7448-453c-bec7-70e5384bc290.md) |
 
 >此應用程式沒有額外的 APIs。
 

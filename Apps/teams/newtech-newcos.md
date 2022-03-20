@@ -2,18 +2,19 @@
 title: NewCOS 的應用程式資訊（按 Newtech）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: NewCOS 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b2e8ddbb3f8367babe739e5c594bddb2e1be6cd7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 79af71d34d1cf31eee39bcd2d6029ad1a53bfc7a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260499"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539978"
 ---
 # <a name="newcos"></a>NewCOS
 
@@ -40,8 +41,9 @@ ms.locfileid: "62260499"
 | App 的使用條款 | [https://newtech.com.ar/termsofservice](https://newtech.com.ar/termsofservice) |
 | 應用程式的核心功能 | 快速、輕鬆且以服務模式部署智慧通訊解決方案。 NewCOS 平臺可讓您快速地執行、管理、監視及支援您的安裝，而不需要干預它。  我們會與您合作，以取得採用技術的處理常式。 我們輕鬆調整當今共同作業工作區中的變更。 透過採用 Microsoft 365，我們可以加速組織內的數位轉換過程。  |
 | 公司 headquarter 位置 | 阿根廷 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://N.A](https://N.A) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62260499"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 保留 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ ms.locfileid: "62260499"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 設定檔 | 包括 | 在應用程式許可權上進行驗證時，會使用此資料 | [07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e](https://docs.microsoft.com/microsoft-365-app-certification/azure/07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e) |
->| openid | 包括 | Microsoft Teams 使用方式、報告和管理 | [ea4de024-dd5f-4d3e-a092-3b8de6c64200](https://docs.microsoft.com/microsoft-365-app-certification/azure/ea4de024-dd5f-4d3e-a092-3b8de6c64200) |
+>| 設定檔 | 包括 | 在應用程式許可權上進行驗證時，會使用此資料 | [07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e](../azure/07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e.md) |
+>| openid | 包括 | Microsoft Teams 使用方式、報告和管理 | [ea4de024-dd5f-4d3e-a092-3b8de6c64200](../azure/ea4de024-dd5f-4d3e-a092-3b8de6c64200.md) |
 
 >此應用程式沒有額外的 APIs。
 

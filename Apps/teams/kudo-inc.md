@@ -2,20 +2,21 @@
 title: KUDO by KUDO，Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: KUDO 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b7d1c38cf0137ea827850e465ede6904d9d95ed9
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
+ms.openlocfilehash: 2c8de1e3ddebd338d1da9d310761db6a1d4ddf6d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62338023"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553192"
 ---
-# <a name="kudo"></a>工藤
+# <a name="kudo"></a>KUDO
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ KUDO，Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 工藤 |
+| 應用程式名稱 | KUDO |
 | ID | WA200003295 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | KUDO, Inc. |
@@ -42,7 +43,6 @@ KUDO，Inc. 提供給 Microsoft 的資訊：
 | 公司 headquarter 位置 | 美國地區 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,18 +2,19 @@
 title: JobPts by Semos Cloud Soultions 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: JobPts 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8ec2e00f3a7f7896ffce3e73b5ba3c3308992070
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a6a604e6fba711b2b5b6ae415a7ec89d0aa0df1f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250964"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63537981"
 ---
 # <a name="jobpts"></a>JobPts
 
@@ -40,8 +41,9 @@ ms.locfileid: "62250964"
 | App 的使用條款 | [https://semoscloud.com/terms-of-use/](https://semoscloud.com/terms-of-use/) |
 | 應用程式的核心功能 | 在未離開 MsTeams 的情況下，輕鬆地識別同事是否順利完成工作 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://semoscloud.com/product/jobpts](https://semoscloud.com/product/jobpts) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62250964"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,11 +162,11 @@ ms.locfileid: "62250964"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 讀取基本公司資訊 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
->| 電子郵件 | 委託 | 這用於使用 JobPts 工具中的使用者來對應 AzureAD 使用者 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
->| offline_access | 委託 | 維護資料的存取權 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
->| openid | 委託 | 若要使使用者能夠使用他們的工作帳戶登入 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
->| 設定檔 | 委託 | 若要 JobPts，以查看使用者 (使用者名稱的基本資訊)  | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
+>| User.Read | 委託 | 讀取基本公司資訊 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| 電子郵件 | 委託 | 這用於使用 JobPts 工具中的使用者來對應 AzureAD 使用者 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| offline_access | 委託 | 維護資料的存取權 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| openid | 委託 | 若要使使用者能夠使用他們的工作帳戶登入 | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| 設定檔 | 委託 | 若要 JobPts，以查看使用者 (使用者名稱的基本資訊)  | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
 
 >此應用程式沒有額外的 APIs。
 

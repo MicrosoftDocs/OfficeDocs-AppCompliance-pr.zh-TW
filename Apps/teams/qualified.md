@@ -2,18 +2,19 @@
 title: 以限定方式限定的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊，如有資格，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 50617e8d23c4c427129f01a6a5a0a566ccc232a0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 624758886c85e56f6c6eefc8ec0b22259c09125f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250979"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539869"
 ---
 # <a name="qualified"></a>符合資格
 
@@ -40,8 +41,9 @@ ms.locfileid: "62250979"
 | App 的使用條款 | [https://www.qualified.com/legal/terms-of-service](https://www.qualified.com/legal/terms-of-service) |
 | 應用程式的核心功能 | 合格的潛在客戶抵達網站時，立即提醒銷售代表 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.qualified.com/university-guide/microsoft-teams-...](https://www.qualified.com/university-guide/microsoft-teams-integration) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Heroku |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62250979"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 保留 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ ms.locfileid: "62250979"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 應用程式 | 允許我們選取要通知的通道 | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
->| Team.ReadBasic.All | 應用程式 | 可讓我們尋找所有小組的所有管道，以允許我們選取要通知的頻道 | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
+>| ReadBasic | 應用程式 | 允許我們選取要通知的通道 | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](../azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c.md) |
+>| Team.ReadBasic.All | 應用程式 | 可讓我們尋找所有小組的所有管道，以允許我們選取要通知的頻道 | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](../azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c.md) |
 
 >此應用程式沒有額外的 APIs。
 

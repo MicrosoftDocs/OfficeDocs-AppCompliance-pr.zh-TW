@@ -2,18 +2,19 @@
 title: Nailted by NAILTED 應用程式的應用程式資訊 S.L。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Nailted 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6db76106efdc61b69c911ef889242f2fca72fc90
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 390a2efaa3aff44b1343645041c091b662c8e726
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254849"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553182"
 ---
 # <a name="nailted"></a>Nailted
 
@@ -38,7 +39,7 @@ NAILTED 應用程式 S.L. 提供的資訊 至 Microsoft：
 | 合作夥伴公司名稱 | NAILTED APP S.L. |
 | 公司的網站 | [https://nailted.com](https://nailted.com) |
 | App 的使用條款 | [https://nailted.com/legal/terms](https://nailted.com/legal/terms) |
-| 應用程式的核心功能 | 現代人員 HR 小組的員工參與平臺 &amp; 。 |
+| 應用程式的核心功能 | 現代人員 &amp; HR 小組的員工參與平臺。 |
 | 公司 headquarter 位置 | 西班牙 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
@@ -170,11 +171,11 @@ NAILTED 應用程式已提供此資訊 S.L。 關於此應用程式如何收集�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 應用程式 | 用來存取群組。 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
->| TeamsAppInstallation.ReadWriteForUser | 應用程式 | 使用者可以選擇要安裝應用程式的使用者。 所以，我們使用此許可權 instal 應用程式 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
->| User.Read.All | 應用程式 | 用於讀取使用者資訊 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
->| 電子郵件 | 應用程式 | 存取員工的電子郵件，以便進行同步處理 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
->| offline_access | 應用程式 | 當使用者未線上時，我們會使用此許可權來存取 api，以便能夠同步處理員工及安裝應用程式 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| Directory.Read.All | 應用程式 | 用來存取群組。 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
+>| TeamsAppInstallation.ReadWriteForUser | 應用程式 | 使用者可以選擇要安裝應用程式的使用者。 所以，我們使用此許可權 instal 應用程式 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
+>| User.Read.All | 應用程式 | 用於讀取使用者資訊 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
+>| 電子郵件 | 應用程式 | 存取員工的電子郵件，以便進行同步處理 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
+>| offline_access | 應用程式 | 當使用者未線上時，我們會使用此許可權來存取 api，以便能夠同步處理員工及安裝應用程式 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
 
 >此應用程式沒有額外的 APIs。
 

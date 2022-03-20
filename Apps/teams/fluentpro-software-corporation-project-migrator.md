@@ -2,18 +2,19 @@
 title: FluentPro 軟體公司 Project 遷移程式的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中 Project 遷移器、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊及安全性/符合性資訊的所有可用安全性和符合性資訊資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d575f58d47edb104deba3138697d8c948e35e980
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5a46cd25678376abbb92734b3fd4a36292687fb9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250112"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540009"
 ---
 # <a name="project-migrator"></a>Project Migrator
 
@@ -40,8 +41,9 @@ FluentPro 軟體公司所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://projectmigrator.com/terms-of-use](https://projectmigrator.com/terms-of-use) |
 | 應用程式的核心功能 | Project 遷移程式是一種自動化的資料移轉軟體。 它支援多種遷移案例，包含最常用的專案管理系統，例如 Microsoft Planner、Trello、Asana、Microsoft Project Online、Project for Web、Monday.com 和 Smartsheets 遷移。 Project 遷移程式完全自動化、便於使用、雲端架構和閃電軟體，可協助公司在最常用的專案管理工具間遷移專案。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://help.fluentpro.com/147404-project-migrator](https://help.fluentpro.com/147404-project-migrator) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ FluentPro 軟體公司所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在2weeks 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,13 +161,13 @@ FluentPro 軟體公司所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 委託 | 讀取群組及其成員資格，以便遷移至其他租使用者。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| Group.ReadWrite.All | 委託 | 群組名稱、成員、計畫及任務。 使用群組、計畫及任務資訊進行 Planner 資料移轉。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| Sites.ReadWrite.All | 委託 | 遷移 MS Planner 任務附件的 SharePoint 檔。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.Read | 委託 | 用來儲存毫秒規劃器遷移摘要資訊連結至帳戶的 UPN。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.ReadBasic.All | 委託 | 使用使用者資訊來遷移 MS Planner 工作指派和群組成員資格。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| offline_access | 委託 | 重新整理和存取權杖會使用 access 毫秒規劃器資料。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.Read | 委託 | 名字、姓氏、公司名稱、電話、公司電子郵件。 用於註冊和驗證程式的資料。 | [c36d31a2-8de1-4eb5-9e7d-01da45244c04](https://docs.microsoft.com/microsoft-365-app-certification/azure/c36d31a2-8de1-4eb5-9e7d-01da45244c04) |
+>| Directory.Read.All | 委託 | 讀取群組及其成員資格，以便遷移至其他租使用者。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| Group.ReadWrite.All | 委託 | 群組名稱、成員、計畫及任務。 使用群組、計畫及任務資訊進行 Planner 資料移轉。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| Sites.ReadWrite.All | 委託 | 遷移 MS Planner 任務附件的 SharePoint 檔。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.Read | 委託 | 用來儲存毫秒規劃器遷移摘要資訊連結至帳戶的 UPN。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.ReadBasic.All | 委託 | 使用使用者資訊來遷移 MS Planner 工作指派和群組成員資格。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| offline_access | 委託 | 重新整理和存取權杖會使用 access 毫秒規劃器資料。 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.Read | 委託 | 名字、姓氏、公司名稱、電話、公司電子郵件。 用於註冊和驗證程式的資料。 | [c36d31a2-8de1-4eb5-9e7d-01da45244c04](../azure/c36d31a2-8de1-4eb5-9e7d-01da45244c04.md) |
 
 >此應用程式沒有額外的 APIs。
 

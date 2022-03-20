@@ -2,18 +2,19 @@
 title: PagerDuty by PagerDuty，Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: PagerDuty 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ce084b52bb1159f417649bc8283cab4a1edc8f34
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8b41c097db43cbce711f7a06dc44147e3aa367cd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263929"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539929"
 ---
 # <a name="pagerduty"></a>PagerDuty
 
@@ -40,8 +41,9 @@ PagerDuty，Inc. 提供給 Microsoft 的資訊：
 | App 的使用條款 | [https://www.pagerduty.com/service-terms-use/](https://www.pagerduty.com/service-terms-use/) |
 | 應用程式的核心功能 | 磁片磁碟機即時作業：直接從 Teams 觸發、查看、認可及解決事件。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.pagerduty.com/integrations/microsoft-teams](https://www.pagerduty.com/integrations/microsoft-teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ PagerDuty，Inc. 已提供此資訊。關於此應用程式如何收集和儲存
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 保留 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,26 +161,26 @@ PagerDuty，Inc. 已提供此資訊。關於此應用程式如何收集和儲存
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| OnlineMeetings ReadWrite | 委託 | 從會議建立/取得回應，我們使用的欄位如下： join_web_url、audioConferencing。 需要這些欄位來顯示使用者在會議中連線的會議或替代方式的連結。 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsAppInstallation.ReadForTeam | 委託 | 使用將 pagerduty 應用程式新增至聊天。 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsAppInstallation ReadWriteForTeam 所有 | 委託 | 使用將 pagerduty 應用程式新增至聊天。 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsTab ReadWrite。 | 委託 | 使用將 pagerduty 應用程式新增為會議中的索引標籤 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| User.Read | 委託 | 使用資料：識別碼、userPrincipalName。它是用來讓 microsoft 團隊使用者將他們新增至會議做為參與者 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| User.ReadBasic.All | 委託 | 使用資料：識別碼、userPrincipalName。它是用來讓 microsoft 團隊使用者將他們新增至會議做為參與者 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| 電子郵件 | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| offline_access | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| openid | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| 設定檔 | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| OnlineMeetings ReadWrite | 委託 | 從會議建立/取得回應，我們使用的欄位如下： join_web_url、audioConferencing。 需要這些欄位來顯示使用者在會議中連線的會議或替代方式的連結。 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsAppInstallation.ReadForTeam | 委託 | 使用將 pagerduty 應用程式新增至聊天。 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsAppInstallation ReadForTeam 所有 | 委託 | 使用將 pagerduty 應用程式新增至聊天。 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsTab ReadWrite。 | 委託 | 使用將 pagerduty 應用程式新增為會議中的索引標籤 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| User.Read | 委託 | 使用資料：識別碼、userPrincipalName。它是用來讓 microsoft 團隊使用者將他們新增至會議做為參與者 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| User.ReadBasic.All | 委託 | 使用資料：識別碼、userPrincipalName。它是用來讓 microsoft 團隊使用者將他們新增至會議做為參與者 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| 電子郵件 | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| offline_access | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| openid | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| 設定檔 | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
+>| OnlineMeetings ReadWrite | 委託 | 從會議建立/取得回應，我們使用的欄位如下： join_web_url、audioConferencing。 需要這些欄位來顯示使用者在會議中連線的會議或替代方式的連結。 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsAppInstallation.ReadForTeam | 委託 | 使用將 pagerduty 應用程式新增至聊天。 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsAppInstallation ReadWriteForTeam 所有 | 委託 | 使用將 pagerduty 應用程式新增至聊天。 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsTab ReadWrite。 | 委託 | 使用將 pagerduty 應用程式新增為會議中的索引標籤 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| User.Read | 委託 | 使用資料：識別碼、userPrincipalName。它是用來讓 microsoft 團隊使用者將他們新增至會議做為參與者 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| User.ReadBasic.All | 委託 | 使用資料：識別碼、userPrincipalName。它是用來讓 microsoft 團隊使用者將他們新增至會議做為參與者 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| 電子郵件 | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| offline_access | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| openid | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| 設定檔 | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| OnlineMeetings ReadWrite | 委託 | 從會議建立/取得回應，我們使用的欄位如下： join_web_url、audioConferencing。 需要這些欄位來顯示使用者在會議中連線的會議或替代方式的連結。 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsAppInstallation.ReadForTeam | 委託 | 使用將 pagerduty 應用程式新增至聊天。 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsAppInstallation ReadForTeam 所有 | 委託 | 使用將 pagerduty 應用程式新增至聊天。 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsTab ReadWrite。 | 委託 | 使用將 pagerduty 應用程式新增為會議中的索引標籤 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| User.Read | 委託 | 使用資料：識別碼、userPrincipalName。它是用來讓 microsoft 團隊使用者將他們新增至會議做為參與者 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| User.ReadBasic.All | 委託 | 使用資料：識別碼、userPrincipalName。它是用來讓 microsoft 團隊使用者將他們新增至會議做為參與者 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| 電子郵件 | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| offline_access | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| openid | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| 設定檔 | 委託 | 使用授權和權杖要求。 使用資料： access_token、refresh_token、expires_in、範圍 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
 
 >此應用程式沒有額外的 APIs。
 

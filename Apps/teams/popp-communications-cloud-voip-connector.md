@@ -2,18 +2,19 @@
 title: POPP Cloud VoIP Connector 的應用程式資訊（透過 POPP 通訊）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 POPP 雲端 VoIP 連接器的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 500cfe209fd6b11281f786d23d351c1c06493452
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e340bbfadf05d9c204ae5766a631265804e11c33
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263928"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553072"
 ---
 # <a name="popp-cloud-voip-connector"></a>POPP Cloud VoIP Connector
 
@@ -42,6 +43,7 @@ POPP 與 Microsoft 的通訊所提供的資訊：
 | 公司 headquarter 位置 | 美國地區 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ POPP 與 Microsoft 的通訊所提供的資訊：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,11 +162,11 @@ POPP 與 Microsoft 的通訊所提供的資訊：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember Read。 All | 委託 | 使用者 IDs 及顯示目前通道之成員的名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的通道成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
->| 聊天室讀取 | 委託 |  收集或使用的資料為何？ 新增論證，以收集或使用資料。 使用者 IDs 及顯示目前交談的成員名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的聊天成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
->| TeamMember Read。 All | 委託 | 使用者 IDs 及顯示目前小組成員的名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的小組成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
->| User.Read.All | 委託 |  收集或使用的資料為何？ 新增論證，以收集或使用資料。 使用者的商務和行動電話號碼。 這是必要的動作，才能啟動這些號碼的撥打電話。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
->| openid | 委託 | 使用者的授權權杖，用來授權應用程式，以存取其所列的其他 Graph API 端點。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
+>| ChannelMember Read。 All | 委託 | 使用者 IDs 及顯示目前通道之成員的名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的通道成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| Chat.Read | 委託 |  收集或使用的資料為何？ 新增論證，以收集或使用資料。 使用者 IDs 及顯示目前交談的成員名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的聊天成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| TeamMember Read。 All | 委託 | 使用者 IDs 及顯示目前小組成員的名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的小組成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| User.Read.All | 委託 |  收集或使用的資料為何？ 新增論證，以收集或使用資料。 使用者的商務和行動電話號碼。 這是必要的動作，才能啟動這些號碼的撥打電話。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| openid | 委託 | 使用者的授權權杖，用來授權應用程式，以存取其所列的其他 Graph API 端點。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
 
 >此應用程式沒有額外的 APIs。
 

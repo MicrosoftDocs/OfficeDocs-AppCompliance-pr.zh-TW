@@ -2,18 +2,19 @@
 title: Avaamo IT 助理的應用程式資訊 Avaamo
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Avaamo IT 助理的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0f30a4022ffa131170a28a9d9a63f011061f9344
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 32b5b6a92620e7b1dd25f58cde68cf68e5669028
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148048"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538281"
 ---
 # <a name="avaamo-it-assistant"></a>Avaamo IT Assistant
 
@@ -40,7 +41,7 @@ ms.locfileid: "62148048"
 | App 的使用條款 | [https://avaamo.ai/tos/](https://avaamo.ai/tos/) |
 | 應用程式的核心功能 | 可立即解決 Microsoft Office 365 支援查詢的智慧會話助理。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.avaamo.ai/who-is-avaamo/](https://www.avaamo.ai/who-is-avaamo/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
