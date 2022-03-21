@@ -2,20 +2,21 @@
 title: TNS 諮詢 Ap 的桌面保留應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和合規性資訊，供服務台保留、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 035dae1da20fbef01d60b29b88f3eae5032e9939
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: 05e91d98155dd60b6ebe6027f310cc17fc7a1d0b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795770"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541221"
 ---
-# <a name="desk-reservations"></a>桌面預訂
+# <a name="desk-reservations"></a>辦公桌預約
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +33,10 @@ TNS 諮詢 Ap 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 桌面預訂 |
+| 應用程式名稱 | 辦公桌預約 |
 | ID | WA200003532 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | TNS 諮詢 Ap |
+| 合作夥伴公司名稱 | TNS 諮詢 ApS |
 | 公司的網站 | [https://www.meetingroommap.net](https://www.meetingroommap.net) |
 | App 的使用條款 | [https://www.meetingroommap.net/home/TermsAndConditions](https://www.meetingroommap.net/home/TermsAndConditions) |
 | 應用程式的核心功能 | 為辦公桌或其他對應的專案進行預留。 |
@@ -61,7 +62,7 @@ TNS 諮詢 Ap 會提供此資訊，告知您此應用程式如何收集和儲存
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Registrering 預約的電子郵件。 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 荷蘭 ()  |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -170,9 +171,9 @@ TNS 諮詢 Ap 會提供此資訊，告知您此應用程式如何收集和儲存
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite | 委託 | 讀取和寫入應用程式佈建檔 (儲存預設 floorplan + locattion)  | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
->| TeamMember Read。 All | 委託 | 查看相同團隊之其他成員的預留。 | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
->| User.Read | 委託 | 登入和讀取電子郵件以登錄預約 | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
+>| Files.ReadWrite | 委託 | 讀取和寫入應用程式佈建檔 (儲存預設 floorplan + locattion)  | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
+>| TeamMember Read。 All | 委託 | 查看相同團隊之其他成員的預留。 | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
+>| User.Read | 委託 | 登入和讀取電子郵件以登錄預約 | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
 
 >此應用程式沒有額外的 APIs。
 

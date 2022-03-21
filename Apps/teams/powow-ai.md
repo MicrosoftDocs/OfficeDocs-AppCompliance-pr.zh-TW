@@ -2,18 +2,19 @@
 title: Powow 的應用程式資訊（按 Powow AI）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Powow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f7c17510645c2c7b2fc25014e328b1dcefe0f06f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: cd622100438c6006083e38e65e83e1c986ebf358
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254749"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541611"
 ---
 # <a name="powow"></a>Powow
 
@@ -40,7 +41,7 @@ ms.locfileid: "62254749"
 | App 的使用條款 | [https://www.powow.ai/legal/tos.pdf](https://www.powow.ai/legal/tos.pdf) |
 | 應用程式的核心功能 | Powow 是一種 SaaS 平臺，可 unleashes 商務會議中的 AI 功能。 它會使用專有的 AI 演算法來 transcribe 和分析會議，將其轉換成可行動的洞察力。 Powow 可讓組織員工參加更少的會議，同時透過會議探索、分析和共同作業取得生產力。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://powow-ai.zendesk.com/hc/en-us](https://powow-ai.zendesk.com/hc/en-us) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure，GCP |
 
@@ -170,13 +171,13 @@ Powow AI 會提供此資訊，此應用程式會如何收集和儲存組織資�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ExternalItem ReadWrite。 | 應用程式 | 用於「搜尋連接器」 (功能，可將 Powow 資料推入 Microsoft 索引，以在 Microsoft 服務中搜尋)  | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| User.Read | 委託 | 登入和讀取用於註冊和登入的使用者設定檔 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| User.Read.All | 應用程式 | 用於「搜尋連接器」 (功能，可將 Powow 資料推入 Microsoft 索引，以在 Microsoft 服務中搜尋)  | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| 電子郵件 | 委託 | 查看使用者的註冊和登入電子郵件地址 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| offline_access | 委託 | 在應用程式記憶體取使用者的資料 (追蹤行事曆更新)  | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| openid | 委託 | 在中簽署使用者 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| 設定檔 | 委託 | 存取使用者的基本設定檔資訊以進行註冊 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| ExternalItem ReadWrite。 | 應用程式 | 用於「搜尋連接器」 (功能，可將 Powow 資料推入 Microsoft 索引，以在 Microsoft 服務中搜尋)  | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| User.Read | 委託 | 登入和讀取用於註冊和登入的使用者設定檔 | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| User.Read.All | 應用程式 | 用於「搜尋連接器」 (功能，可將 Powow 資料推入 Microsoft 索引，以在 Microsoft 服務中搜尋)  | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| 電子郵件 | 委託 | 查看使用者的註冊和登入電子郵件地址 | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| offline_access | 委託 | 在應用程式記憶體取使用者的資料 (追蹤行事曆更新)  | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| openid | 委託 | 在中簽署使用者 | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| 設定檔 | 委託 | 存取使用者的基本設定檔資訊以進行註冊 | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
 
 >此應用程式沒有額外的 APIs。
 

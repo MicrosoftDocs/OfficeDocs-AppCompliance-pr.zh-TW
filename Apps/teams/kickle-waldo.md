@@ -2,18 +2,19 @@
 title: Waldo 的應用程式資訊（按 Kickle）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Waldo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 026b0c789bde0a63b1db4fee93db57a7a8d0ce35
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 279776cc15292afad762ed37fd990113be9c353d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259469"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542951"
 ---
 # <a name="waldo"></a>Waldo
 
@@ -40,8 +41,9 @@ ms.locfileid: "62259469"
 | App 的使用條款 | [https://hellowaldo.app/terms-and-conditions](https://hellowaldo.app/terms-and-conditions) |
 | 應用程式的核心功能 | 服務台預約、停車場保留。 Flex office 和 homeworking 進行簡化！ |
 | 公司 headquarter 位置 | 法國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://hellowaldo.app/takeatour/](https://hellowaldo.app/takeatour/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62259469"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,11 +161,11 @@ ms.locfileid: "62259469"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 委託 | 根據您的聊天記錄，Waldo 會識別您的同事。 在此後使用此清單，可在 [行事曆] 視圖中顯示狀態。 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
->| User.Read | 委託 | 這項許可權是由 Microsoft Graph 工具組的元件人員使用 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
->| User.ReadBasic.All | 委託 | 這項許可權是由 Microsoft Graph 工具組的元件人員使用 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
->| offline_access | 委託 | 由應用程式用來代表使用者進行背景工作 (更新權杖以進行驗證)  | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
->| openid | 委託 | 驗證所需 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7) |
+>| ReadBasic | 委託 | 根據您的聊天記錄，Waldo 會識別您的同事。 在此後使用此清單，可在 [行事曆] 視圖中顯示狀態。 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](../azure/c71a6f53-cf0c-426d-a826-cedae8b073f7.md) |
+>| User.Read | 委託 | 這項許可權是由 Microsoft Graph 工具組的元件人員使用 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](../azure/c71a6f53-cf0c-426d-a826-cedae8b073f7.md) |
+>| User.ReadBasic.All | 委託 | 這項許可權是由 Microsoft Graph 工具組的元件人員使用 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](../azure/c71a6f53-cf0c-426d-a826-cedae8b073f7.md) |
+>| offline_access | 委託 | 由應用程式用來代表使用者進行背景工作 (更新權杖以進行驗證)  | [c71a6f53-cf0c-426d-a826-cedae8b073f7](../azure/c71a6f53-cf0c-426d-a826-cedae8b073f7.md) |
+>| openid | 委託 | 驗證所需 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](../azure/c71a6f53-cf0c-426d-a826-cedae8b073f7.md) |
 
 >此應用程式沒有額外的 APIs。
 

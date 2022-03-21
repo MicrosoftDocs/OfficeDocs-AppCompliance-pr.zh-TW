@@ -2,18 +2,19 @@
 title: Workday 的應用程式資訊（按 Workday）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Workday 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6f8f8c4a1abeb514268797956b110f2a53fcd1e7
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: 5d9ac08e26f620dd2dcdb0e7ceb5d5cc51c066a5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795744"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542061"
 ---
 # <a name="workday"></a>Workday
 
@@ -40,7 +41,7 @@ ms.locfileid: "62795744"
 | App 的使用條款 | [https://nw.myworkday.com/microsoftteams/post-license/](https://nw.myworkday.com/microsoftteams/post-license/) |
 | 應用程式的核心功能 | 將 Workday 新增至您的 Teams，以方便和不限摩擦的 HR 和財務工作！  如需應用程式安全性和資料隱私權的完整資訊，Workday 客戶應參考實際的工作區創新服務說明，以及 Workday Community 的自然工作區使用者群組。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://nw.myworkday.com/microsoftteams/](https://nw.myworkday.com/microsoftteams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
 | 應用程式會使用哪一個主控雲端提供者？ | 其他 |
 
@@ -61,7 +62,7 @@ ms.locfileid: "62795744"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Microsoft 租使用者識別碼、使用者 AAD 物件識別碼、交談識別碼 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |

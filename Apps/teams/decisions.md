@@ -2,18 +2,19 @@
 title: 依決策決定的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可供決策的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 78bb80e67214a26172c6f83f57d8614fb8c9e518
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0353886df853f0916252e41e8829214ce1e0a4d5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259739"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544941"
 ---
 # <a name="decisions"></a>決定
 
@@ -40,7 +41,7 @@ ms.locfileid: "62259739"
 | App 的使用條款 | [https://www.meetingdecisions.com/terms-of-service](https://www.meetingdecisions.com/terms-of-service) |
 | 應用程式的核心功能 | 使用議程產生器、紀要範本，以及在 Teams 內內建的方式，進行會議計數。 |
 | 公司 headquarter 位置 | 挪威 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.meetingdecisions.com](https://www.meetingdecisions.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,23 +171,23 @@ ms.locfileid: "62259739"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 用於從使用者&#8217;的行事曆讀取資訊，以啟用會議清單和搜尋等功能。 當專案從決策中刪除時，也可讓使用者選擇從行事曆刪除特定會議。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| 聊天室 ReadWrite | 委託 | 用來傳送投票的決議決策，並直接對 Microsoft Teams 會議聊天建立個別議程專案的發言人清單。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Directory.Read.All | 委託 | 用於在註冊時收集 Office 365 租使用者的基本資訊，例如租使用者名稱和驗證的網域。 驗證群組成員資格也是必要的。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Files.Read.All | 委託 | 用於讀取與使用者共用的檔案，以將這些檔案合併至 PDF 會議簿。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Files.ReadWrite.All | 委託 | 用來為使用者提供個人檔批註的支援。 批註的檔案是私下儲存在使用者&#8217;s 商務用 OneDrive 中。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Group.ReadWrite.All | 委託 | 用於在 Office 365 群組中建立資料夾結構，以供會議議程、相關檔案和群組交談&#8217;s SharePoint 網站。   附注：決策的使用者永遠不會存取任何資源 (例如，群組) 尚未存取組織 Office 365 租使用者的許可權。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| 傳送郵件 | 委託 | 用來允許使用者決定傳送會議參與者通知，例如議事日程更新，以及共同撰寫者的會議連結。 電子郵件會移至會議參與者或會議擁有者所選取的通訊群組清單。 所有傳送的通知和電子郵件都會以決策使用者的方式積極完成。  附注：這不會讓使用者透過決策來存取其收件匣。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| MailboxSettings 讀取 | 委託 | 用於識別使用者&#8217;的語言喜好設定。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| 記事。 ReadWrite | 委託 | 用於為會議設定私人筆記本，以做筆記並準備備註和問題。 您也可以將群組會議紀要儲存在其共用 OneNote 筆記本中（應該是群組選擇使用 OneNote。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Sites.ReadWrite.All | 委託 | 用於建立會議資訊的私人通道中的資料夾結構。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| 工作。 ReadWrite | 委託 | 用於將工作和決策同步處理至 Microsoft Planner。 它也可讓使用者將工作和決策匯出至 Excel。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsAppInstallation.ReadWriteForUser | 委託 | 需要以程式設計方式在聊天中安裝決策應用程式。 在為會議經驗新增 [決策] 索引標籤之前，必須先這麼做。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsAppInstallation ReadWriteForUser 所有 | 委託 | 需要以程式設計方式在聊天中安裝決策應用程式。 在為會議經驗新增 [決策] 索引標籤之前，必須先這麼做。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsTab。建立 | 委託 | 需要在 Teams 中新增 [會議/通道] 索引標籤。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsTab Read。 All | 委託 | 需要檢查是否已安裝索引標籤。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| User.ReadBasic.All | 委託 | 用來顯示群組成員和外部參與者的名字和姓氏、相片和電子郵件地址。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| 設定檔 | 委託 | 用於登入。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
+>| ReadWrite 的行事曆 | 委託 | 用於從使用者&#8217;的行事曆讀取資訊，以啟用會議清單和搜尋等功能。 當專案從決策中刪除時，也可讓使用者選擇從行事曆刪除特定會議。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| 聊天室 ReadWrite | 委託 | 用來傳送投票的決議決策，並直接對 Microsoft Teams 會議聊天建立個別議程專案的發言人清單。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Directory.Read.All | 委託 | 用於在註冊時收集 Office 365 租使用者的基本資訊，例如租使用者名稱和驗證的網域。 驗證群組成員資格也是必要的。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Files.Read.All | 委託 | 用於讀取與使用者共用的檔案，以將這些檔案合併至 PDF 會議簿。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Files.ReadWrite.All | 委託 | 用來為使用者提供個人檔批註的支援。 批註的檔案是私下儲存在使用者&#8217;s 商務用 OneDrive 中。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Group.ReadWrite.All | 委託 | 用於在 Office 365 群組中建立資料夾結構，以供會議議程、相關檔案和群組交談&#8217;s SharePoint 網站。   附注：決策的使用者永遠不會存取任何資源 (例如，群組) 尚未存取組織 Office 365 租使用者的許可權。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| 傳送郵件 | 委託 | 用來允許使用者決定傳送會議參與者通知，例如議事日程更新，以及共同撰寫者的會議連結。 電子郵件會移至會議參與者或會議擁有者所選取的通訊群組清單。 所有傳送的通知和電子郵件都會以決策使用者的方式積極完成。  附注：這不會讓使用者透過決策來存取其收件匣。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| MailboxSettings 讀取 | 委託 | 用於識別使用者&#8217;的語言喜好設定。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| 記事。 ReadWrite | 委託 | 用於為會議設定私人筆記本，以做筆記並準備備註和問題。 您也可以將群組會議紀要儲存在其共用 OneNote 筆記本中（應該是群組選擇使用 OneNote。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Sites.ReadWrite.All | 委託 | 用於建立會議資訊的私人通道中的資料夾結構。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| 工作。 ReadWrite | 委託 | 用於將工作和決策同步處理至 Microsoft Planner。 它也可讓使用者將工作和決策匯出至 Excel。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsAppInstallation.ReadWriteForUser | 委託 | 需要以程式設計方式在聊天中安裝決策應用程式。 在為會議經驗新增 [決策] 索引標籤之前，必須先這麼做。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsAppInstallation ReadWriteForUser 所有 | 委託 | 需要以程式設計方式在聊天中安裝決策應用程式。 在為會議經驗新增 [決策] 索引標籤之前，必須先這麼做。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsTab。建立 | 委託 | 需要在 Teams 中新增 [會議/通道] 索引標籤。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsTab Read。 All | 委託 | 需要檢查是否已安裝索引標籤。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| User.ReadBasic.All | 委託 | 用來顯示群組成員和外部參與者的名字和姓氏、相片和電子郵件地址。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| 設定檔 | 委託 | 用於登入。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如相關的資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e10502dc12daa3bf5c64fbc9bf59f06168d56105
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: ee5b3a7dda8caaefd5584af648d1a177058695b1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470150"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544161"
 ---
-# <a name="solo"></a>獨奏
+# <a name="solo"></a>Solo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,10 +33,10 @@ Teladoc，Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 獨奏 |
+| 應用程式名稱 | Solo |
 | ID | WA200003826 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Teladoc，Inc.。 |
+| 合作夥伴公司名稱 | Teladoc, Inc. |
 | 公司的網站 | [https://www.teladochealth.com/platform/](https://www.teladochealth.com/platform/) |
 | App 的使用條款 | [https://www.teladochealth.com/terms-and-conditions/](https://www.teladochealth.com/terms-and-conditions/) |
 | 應用程式的核心功能 | 具有可設定服務和患者工作流程的虛擬護理平臺。 |
@@ -62,7 +62,7 @@ Teladoc，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 承租人的使用者識別碼及租使用者識別碼 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -171,15 +171,15 @@ Teladoc，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog Read。 All | 委託 | 取得 sidepanel 應用程式的目錄應用程式識別碼，並將其安裝在排程的 telehealth 約會中 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| CallRecords Read。 All | 應用程式 | 確定呼叫品質與 telehealth 約會相關的電話 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| OnlineMeetings ReadWrite | 委託 | 在自訂應用程式中安裝主機 sidePanel 及加入患者 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| TeamsActivity.Send | 應用程式 | Telehealth 約會的會話結束信號。 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| User.Read | 委託 | 從 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| 電子郵件 | 委託 | 從 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| offline_access | 委託 | 從 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| openid | 委託 | 從 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| 設定檔 | 委託 | oid 及 tid 是用來在單核帳戶和 Teams 帳戶之間進行對應，所以 Teams 中的醫師都可以查看他們的 telehealth 約會。 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| AppCatalog Read。 All | 委託 | 取得 sidepanel 應用程式的目錄應用程式識別碼，並將其安裝在排程的 telehealth 約會中 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| CallRecords Read。 All | 應用程式 | 確定呼叫品質與 telehealth 約會相關的電話 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| OnlineMeetings ReadWrite | 委託 | 在自訂應用程式中安裝主機 sidePanel 及加入患者 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| TeamsActivity.Send | 應用程式 | Telehealth 約會的會話結束信號。 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| User.Read | 委託 | 從 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| 電子郵件 | 委託 | 從 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| offline_access | 委託 | 從 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| openid | 委託 | 從 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| 設定檔 | 委託 | oid 及 tid 是用來在單核帳戶和 Teams 帳戶之間進行對應，所以 Teams 中的醫師都可以查看他們的 telehealth 約會。 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
 
 >此應用程式沒有額外的 APIs。
 

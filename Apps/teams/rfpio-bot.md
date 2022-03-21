@@ -2,18 +2,19 @@
 title: RFPIO bot 的應用程式資訊（按 RFPIO）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: RFPIO bot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 43c1514c359dd9fd93aa4da69bb20fb4571a2edd
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9abd11980f77598157ded749fa2f28b6dfa4dba1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259340"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544251"
 ---
 # <a name="rfpio-bot"></a>RFPIO bot
 
@@ -40,8 +41,9 @@ ms.locfileid: "62259340"
 | App 的使用條款 | [https://www.rfpio.com/terms-of-service/](https://www.rfpio.com/terms-of-service/) |
 | 應用程式的核心功能 | RFPIO 是一流的 RFP 回應管理解決方案，以及業界第一個支援 AI 功能的 RFP 軟體，由世界上的某些 smartest 公司所信任，可管理 RFPs、RFIs、安全性問卷及 DDQs 的回應。  |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.rfpio.com/product/](https://www.rfpio.com/product/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure、AWS、GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62259340"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

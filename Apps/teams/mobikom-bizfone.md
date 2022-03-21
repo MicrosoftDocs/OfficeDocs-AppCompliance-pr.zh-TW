@@ -2,18 +2,19 @@
 title: Bizfone 的應用程式資訊（按 MobiKOM）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Bizfone 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 740e2a10bd8cdb386743fe75d3f92283ff2e5a7c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 1f82b83e22087308409362f06564f19bd6d0f8bc
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259379"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542911"
 ---
 # <a name="bizfone"></a>Bizfone
 
@@ -40,8 +41,9 @@ ms.locfileid: "62259379"
 | App 的使用條款 | [https://mobikom.dk/salgs-og-leveringsbetingelser/](https://mobikom.dk/salgs-og-leveringsbetingelser/) |
 | 應用程式的核心功能 | H&#229;ndter dine telefonopkald i Teams，og f&#229; overblik 以上的 dine kolleger。 |
 | 公司 headquarter 位置 | 丹麥 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://mobikom.dk/faq/](https://mobikom.dk/faq/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure，SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62259379"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,10 +162,10 @@ ms.locfileid: "62259379"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 委託 | 可讓使用者向同事顯示其 calandar 的行事曆，以及使用會議來設定其電話語音 | [1dd6ac57-e6f0-4995-a57f-b6d074c16e11](https://docs.microsoft.com/microsoft-365-app-certification/azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11) |
->| 連絡人。已讀取 | 委託 | 如果使用者想要在應用程式中顯示使用者連絡人，讓使用者可以更輕鬆地撥號聯繫 | [1dd6ac57-e6f0-4995-a57f-b6d074c16e11](https://docs.microsoft.com/microsoft-365-app-certification/azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11) |
->| User.Read | 委託 | 此應用程式中的使用者已讀取是用來識別的目的。 | [1dd6ac57-e6f0-4995-a57f-b6d074c16e11](https://docs.microsoft.com/microsoft-365-app-certification/azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11) |
->| User.Read | 委託 | 我們不會儲存資料。 應用程式只用于驗證目的 | [fc8f7563-e8ea-4b6d-9622-82775a21a35a](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a) |
+>| Calendars.Read | 委託 | 可讓使用者向同事顯示其 calandar 的行事曆，以及使用會議來設定其電話語音 | [1dd6ac57-e6f0-4995-a57f-b6d074c16e11](../azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11.md) |
+>| 連絡人。已讀取 | 委託 | 如果使用者想要在應用程式中顯示使用者連絡人，讓使用者可以更輕鬆地撥號聯繫 | [1dd6ac57-e6f0-4995-a57f-b6d074c16e11](../azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11.md) |
+>| User.Read | 委託 | 此應用程式中的使用者已讀取是用來識別的目的。 | [1dd6ac57-e6f0-4995-a57f-b6d074c16e11](../azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11.md) |
+>| User.Read | 委託 | 我們不會儲存資料。 應用程式只用于驗證目的 | [fc8f7563-e8ea-4b6d-9622-82775a21a35a](../azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a.md) |
 
 >此應用程式沒有額外的 APIs。
 

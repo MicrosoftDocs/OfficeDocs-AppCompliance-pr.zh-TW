@@ -2,18 +2,19 @@
 title: HitHorizons 的應用程式資訊（按 FinStat s.r.o.）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: HitHorizons 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: da7a27a1ff6410931c5694bb4abefe5add31ab52
-ms.sourcegitcommit: 2e7d3c3ce21db674e9964db4a0b5b8794e74142f
+ms.openlocfilehash: 9d02dc0133d4d880b7f8953f0ee378048d0abda5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62831941"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541751"
 ---
 # <a name="hithorizons"></a>HitHorizons
 
@@ -40,7 +41,7 @@ FinStat 所提供的資訊 s.r.o。 至 Microsoft：
 | App 的使用條款 | [https://www.hithorizons.com/legal/terms-and-conditions](https://www.hithorizons.com/legal/terms-and-conditions) |
 | 應用程式的核心功能 | 從歐洲存取超過 75M + 公司的 HitHorizons 資料庫，並在 Microsoft Teams 以外的範圍記憶體取 |
 | 公司 headquarter 位置 | 斯洛伐克 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.hithorizons.com/services/microsoft/teams](https://www.hithorizons.com/services/microsoft/teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -57,14 +58,7 @@ FinStat s.r.o. 提供此資訊。 關於此應用程式如何收集和儲存組�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

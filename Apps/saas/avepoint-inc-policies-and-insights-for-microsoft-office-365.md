@@ -1,21 +1,22 @@
 ---
-title: AvePoint inc. Microsoft Office 365 之原則 Insights 的應用程式資訊 &amp; 。
+title: AvePoint inc. Microsoft Office 365 之原則 &amp; Insights 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: 所有適用于 Microsoft Office 365 的原則 Insights 的安全性和符合性資訊資訊， &amp; 其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有適用于 Microsoft Office 365 的原則 &amp; Insights 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 272be559137882c7f9f41ed46f2321d41aff9474
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 162bf8c7e05c1caf07bd40a6fa32d2ad216b1cb0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252469"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541411"
 ---
-# <a name="policies-amp-insights-for-microsoft-office-365"></a>&amp;Microsoft Office 365 的原則 Insights
+# <a name="policies-amp-insights-for-microsoft-office-365"></a>Microsoft Office 365 的原則 &amp; Insights
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>上次於開發人員更新：2021年10月26日</p>
@@ -30,14 +31,14 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | &amp;Microsoft Office 365 的原則 Insights |
+| 應用程式名稱 | Microsoft Office 365 的原則 &amp; Insights |
 | ID | avepoint 原則-insights_mo365_byol |
 | 合作夥伴公司名稱 | AvePoint Inc.。 |
 | 公司的網站 | [https://www.avepoint.com](https://www.avepoint.com) |
 | App 的使用條款 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 | 應用程式的核心功能 | 取得安全性洞察力，並將自動化原則套用至 Teams、群組、SharePoint 及 OneDrive |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.avepoint.com/products/cloud/policies-insights-m...](https://www.avepoint.com/products/cloud/policies-insights-microsoft-365) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -168,12 +169,12 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.ReadWrite.All | 應用程式 |   讀取和寫入組織目錄中的使用者和群組資料。 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.Read.All | 應用程式 | 讀取群組的成員和設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | 應用程式 | 更新群組的成員和設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| FullControl 所有 | 應用程式 | 取得及更新網站集合和群組/小組&#8217; 網站的資訊。 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read.All | 應用程式 | 讀取所有使用者的設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.ReadWrite.All | 應用程式 | 讀取和寫入使用者的設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.ReadWrite.All | 應用程式 |   讀取和寫入組織目錄中的使用者和群組資料。 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.Read.All | 應用程式 | 讀取群組的成員和設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | 應用程式 | 更新群組的成員和設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| FullControl 所有 | 應用程式 | 取得及更新網站集合和群組/小組&#8217; 網站的資訊。 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read.All | 應用程式 | 讀取所有使用者的設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.ReadWrite.All | 應用程式 | 讀取和寫入使用者的設定 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,12 +2,19 @@
 title: 由 Communitio Corporation Communitio 的 TeamSticker 應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TeamSticker by Communitio 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 5b9b32b4cb3b7967fb747eb3a813b3680bdb57da
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540571"
 ---
 # <a name="teamsticker-by-communitio"></a>Communitio 的 TeamSticker
 
@@ -34,7 +41,7 @@ Communitio Corporation 提供給 Microsoft 的資訊：
 | App 的使用條款 | [https://teamsuite.biz/terms](https://teamsuite.biz/terms) |
 | 應用程式的核心功能 | 這是可從交談傳送的數位致謝卡。 |
 | 公司 headquarter 位置 | 日本 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://teamsuite.biz/teamsticker](https://teamsuite.biz/teamsticker) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -164,13 +171,13 @@ Communitio Corporation 已提供此資訊，讓您瞭解此應用程式如何收
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamMember Read。 All | 應用程式 |  ，以選取您要傳送卡片的人員。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| TeamMember Read。 All | 委託 |  ，以選取您要傳送卡片的人員。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read | 委託 | 以取得登入使用者的設定檔資訊。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read.All | 應用程式 |  ，以選取您要傳送卡片的人員。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read.All | 委託 |  ，以選取您要傳送卡片的人員。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| openid | 委託 |  登入。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| 設定檔 | 委託 | 以取得登入使用者的設定檔資訊。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| TeamMember Read。 All | 應用程式 |  ，以選取您要傳送卡片的人員。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| TeamMember Read。 All | 委託 |  ，以選取您要傳送卡片的人員。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read | 委託 | 以取得登入使用者的設定檔資訊。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read.All | 應用程式 |  ，以選取您要傳送卡片的人員。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read.All | 委託 |  ，以選取您要傳送卡片的人員。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| openid | 委託 |  登入。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| 設定檔 | 委託 | 以取得登入使用者的設定檔資訊。 | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
 
 >此應用程式沒有額外的 APIs。
 

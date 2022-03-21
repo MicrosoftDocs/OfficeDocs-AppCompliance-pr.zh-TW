@@ -2,18 +2,19 @@
 title: Meetgeek by AIVISION 產品的應用程式資訊 SRL
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Meetgeek 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 334a0658f1ce5403153bd1c94849148dce45ce8c
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
+ms.openlocfilehash: b020c5d318f563a9431ab68db48cb0af206c21f3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62335853"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543721"
 ---
 # <a name="meetgeek"></a>Meetgeek
 
@@ -35,12 +36,12 @@ AIVISION 產品所提供的資訊 SRL 至 Microsoft：
 | 應用程式名稱 | Meetgeek |
 | ID | WA200003720 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | AIVISION 產品 SRL |
+| 合作夥伴公司名稱 | AIVISION PRODUCTS SRL |
 | 公司的網站 | [https://meetgeek.ai](https://meetgeek.ai) |
 | App 的使用條款 | [https://meetgeek.ai/terms](https://meetgeek.ai/terms) |
 | 應用程式的核心功能 | 最大化線上會議的生產力！ 自動記錄、transcribe、共用摘要和存取會議見解。 |
 | 公司 headquarter 位置 | 羅馬尼亞 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://meetgeek.ai](https://meetgeek.ai) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,17 +171,17 @@ AIVISION 產品所提供的資訊 SRL 至 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 同步處理使用者的行事歷數據 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| OnlineMeetings ReadWrite | 委託 | 同步處理使用者的線上會議 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| User.Read | 委託 | 識別登入的使用者 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| 電子郵件 | 委託 | 識別登入的使用者 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| offline_access | 委託 | 同步處理使用者的行事歷數據 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| openid | 委託 | 識別登入的使用者 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| 設定檔 | 委託 | 識別登入的使用者 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| AccessMedia 所有 | 委託 | 觸發 Meetgeek bot 以加入使用者的 MS Teams 通話 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| 呼叫。 Initiate 所有 | 委託 | 觸發 Meetgeek bot 以加入使用者的 MS Teams 通話 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| InitiateGroupCall 所有 | 委託 | 觸發 Meetgeek bot 以加入使用者的 MS Teams 通話 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| JoinGroupCall 所有 | 委託 | 觸發 Meetgeek bot 以加入使用者的 MS Teams 通話 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
+>| ReadWrite 的行事曆 | 委託 | 同步處理使用者的行事歷數據 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| OnlineMeetings ReadWrite | 委託 | 同步處理使用者的線上會議 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| User.Read | 委託 | 識別登入的使用者 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| 電子郵件 | 委託 | 識別登入的使用者 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| offline_access | 委託 | 同步處理使用者的行事歷數據 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| openid | 委託 | 識別登入的使用者 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| 設定檔 | 委託 | 識別登入的使用者 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| AccessMedia 所有 | 委託 | 觸發 Meetgeek bot 以加入使用者的 MS Teams 通話 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| 呼叫。 Initiate 所有 | 委託 | 觸發 Meetgeek bot 以加入使用者的 MS Teams 通話 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| InitiateGroupCall 所有 | 委託 | 觸發 Meetgeek bot 以加入使用者的 MS Teams 通話 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| JoinGroupCall 所有 | 委託 | 觸發 Meetgeek bot 以加入使用者的 MS Teams 通話 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
 
 >此應用程式沒有額外的 APIs。
 

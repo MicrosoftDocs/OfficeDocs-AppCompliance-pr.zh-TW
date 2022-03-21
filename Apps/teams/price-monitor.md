@@ -2,18 +2,19 @@
 title: " &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#32593;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 的價格監視器應用程式資訊"
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和相容性資訊，如價格監視器、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 586bea883b8b07f23b291825209bf995de0f7df7
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: 4b0cceef60fd51b0c69f030911d3c4e53c5b84d9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449863"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541591"
 ---
 # <a name="price-monitor"></a>價格監視器
 
@@ -42,7 +43,6 @@ ms.locfileid: "62449863"
 | 公司 headquarter 位置 | 中國 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

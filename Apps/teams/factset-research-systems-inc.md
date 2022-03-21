@@ -2,18 +2,19 @@
 title: FactSet by FactSet 調研系統 Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: FactSet 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3db3bb16e76bf8c863792994d786dd650674dd2c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 67451837e062c3c8730e438530b0f20e163097b7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263917"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543001"
 ---
 # <a name="factset"></a>FactSet
 
@@ -42,6 +43,7 @@ FactSet 調查系統 Inc. 提供給 Microsoft 的資訊：
 | 公司 headquarter 位置 | 美國地區 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure，SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ FactSet 調研系統 Inc. 已提供此資訊。關於此應用程式如何收集
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +161,7 @@ FactSet 調研系統 Inc. 已提供此資訊。關於此應用程式如何收集
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 應用程式 | 用於驗證及記錄的名稱和電子郵件、用於主動訊息傳送的交談識別碼 | [95fb5da0-6ced-4247-9d62-294f8fcb75df](https://docs.microsoft.com/microsoft-365-app-certification/azure/95fb5da0-6ced-4247-9d62-294f8fcb75df) |
+>| User.Read | 應用程式 | 用於驗證及記錄的名稱和電子郵件、用於主動訊息傳送的交談識別碼 | [95fb5da0-6ced-4247-9d62-294f8fcb75df](../azure/95fb5da0-6ced-4247-9d62-294f8fcb75df.md) |
 
 >此應用程式沒有額外的 APIs。
 

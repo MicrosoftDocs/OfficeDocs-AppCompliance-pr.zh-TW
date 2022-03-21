@@ -2,18 +2,19 @@
 title: Genesys cloud Services，inc. 的 Genesys cloud CX Teams 整合的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，Genesys 雲端 CX Teams 整合、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 673c8bbc637288ae5c92c3367445893586523af9
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 81ddd4b2bcaaf688b5a95d6351673d3cad19a352
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081194"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541821"
 ---
 # <a name="genesys-cloud-cx-teams-integration"></a>Genesys 雲端 CX Teams 整合
 
@@ -38,7 +39,7 @@ ms.locfileid: "63081194"
 | App 的使用條款 | [https://help.mypurecloud.com/articles/global-genesys-cloud-...](https://help.mypurecloud.com/articles/global-genesys-cloud-service-terms-and-conditions/) |
 | 應用程式的核心功能 | Genesys 雲端 CX&#8482; Microsoft Teams 的整合 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://appsource.microsoft.com/en-us/product/web-apps/gene...](https://appsource.microsoft.com/en-us/product/web-apps/genesyslabs.genesys-cloud_teams_integration) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
@@ -59,7 +60,7 @@ Genesys 雲端服務（Inc.）會提供此資訊，其是關於此應用程式�
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者設定檔資料 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -169,7 +170,7 @@ Genesys 雲端服務（Inc.）會提供此資訊，其是關於此應用程式�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 目前狀態為 [已讀取]。 | 包括 | 連絡人中心代理程式必須能夠查看其同事在轉接電話通話之前的狀態 | [728ece5a-0f26-4c43-9705-cea9debe3fb5](https://docs.microsoft.com/microsoft-365-app-certification/azure/728ece5a-0f26-4c43-9705-cea9debe3fb5) |
+>| 目前狀態為 [已讀取]。 | 包括 | 連絡人中心代理程式必須能夠查看其同事在轉接電話通話之前的狀態 | [728ece5a-0f26-4c43-9705-cea9debe3fb5](../azure/728ece5a-0f26-4c43-9705-cea9debe3fb5.md) |
 
 >此應用程式沒有額外的 APIs。
 

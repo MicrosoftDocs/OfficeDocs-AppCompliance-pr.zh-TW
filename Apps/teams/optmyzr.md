@@ -2,18 +2,19 @@
 title: Optmyzr 的應用程式資訊（按 Optmyzr）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Optmyzr 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2148921184a437b4abedc7c68ff257389df6c1d0
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 9db6120ea0f998f2875f9f30686079bd4f752af9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148045"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542161"
 ---
 # <a name="optmyzr"></a>Optmyzr
 
@@ -40,7 +41,7 @@ ms.locfileid: "62148045"
 | App 的使用條款 | [https://www.optmyzr.com/information/terms-of-use/](https://www.optmyzr.com/information/terms-of-use/) |
 | 應用程式的核心功能 | https://www.optmyzr.com/information/terms-of-use/ |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.optmyzr.com/capabilities/reporting/](https://www.optmyzr.com/capabilities/reporting/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 

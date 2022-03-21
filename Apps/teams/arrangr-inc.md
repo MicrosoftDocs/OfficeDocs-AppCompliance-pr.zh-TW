@@ -2,18 +2,19 @@
 title: Arrangr by Arrangr，Inc. 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Arrangr 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1f1798cd6741c6cafdd33defe8b8e713ac58eab5
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 01efc28d2ed0fc6c4510124d7a040beff7fe4c4e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155194"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540611"
 ---
 # <a name="arrangr"></a>Arrangr
 
@@ -40,7 +41,7 @@ Arrangr，Inc. 提供給 Microsoft 的資訊：
 | App 的使用條款 | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
 | 應用程式的核心功能 | Arrangr 是適用于任何會議的智慧整合調度程式。 無論是親自或遠端、1:1 或群組，Arrangr 都很簡單又快。 Arrangr 與 Microsoft calendar 整合，以輕鬆且快速地封鎖忙碌時間、協助形象化您的日程，並確定您的會議已放在行事曆中。 此外，我們的 Teams 整合功能可讓您輕鬆地與小組成員共用邀請、在 Teams 內發起新的會議，以及從 Teams] 索引標籤中追蹤 Arrangr 會議。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://arrangr.com/welcome](https://arrangr.com/welcome) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | GCP |
 

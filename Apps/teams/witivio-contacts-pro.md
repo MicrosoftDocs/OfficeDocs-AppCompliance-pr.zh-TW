@@ -2,18 +2,19 @@
 title: Witivio Pro 連絡人的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 連絡人的所有可用安全性和符合性資訊資訊 Pro，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ca10bb626f33ce2c4b5bafc618c784b46fe3e1e7
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 9c5744d35076dbe6453a54dae466f99856e23030
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080257"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544131"
 ---
 # <a name="contacts-pro"></a>Contacts Pro
 
@@ -61,7 +62,7 @@ ms.locfileid: "63080257"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Contacts |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 愛爾蘭 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於60days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -170,11 +171,11 @@ ms.locfileid: "63080257"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| 電子郵件 | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| offline_access | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| openid | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| 設定檔 | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
+>| User.Read | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| 電子郵件 | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| offline_access | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| openid | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| 設定檔 | 委託 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
 
 >此應用程式沒有額外的 APIs。
 

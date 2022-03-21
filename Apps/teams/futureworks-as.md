@@ -2,12 +2,19 @@
 title: Futureworks 的應用程式資訊，Futureworks 為
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Futureworks 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 51b026466d7cda06fa1a768fc0c88933d801497f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541691"
 ---
 # <a name="futureworks"></a>Futureworks
 
@@ -29,12 +36,12 @@ Futureworks 提供給 Microsoft 的資訊：
 | 應用程式名稱 | Futureworks |
 | ID | WA200003510 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Futureworks 為 |
+| 合作夥伴公司名稱 | Futureworks AS |
 | 公司的網站 | [https://app.futureworks.com](https://app.futureworks.com) |
 | App 的使用條款 | [https://www.futureworks.com/terms-of-service](https://www.futureworks.com/terms-of-service) |
 | 應用程式的核心功能 | 目標與效能管理平臺，根據 OKR 的目標和重要結果而定。 |
 | 公司 headquarter 位置 | 挪威 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://futureworks.no](https://futureworks.no) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | 其他 |
 
@@ -51,14 +58,7 @@ Futureworks 提供此資訊的方式，就是此應用程式如何收集和儲�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

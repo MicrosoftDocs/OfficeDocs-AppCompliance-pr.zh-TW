@@ -2,18 +2,19 @@
 title: Smartnotation 的應用程式資訊（按 Smartnotation B.V.）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Smartnotation 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 48cc7581b8cc98f47f75baa193bb059586bd0131
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ce1c0cf26337622c5b66068a6e3f98004173318b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260399"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544201"
 ---
 # <a name="smartnotation"></a>Smartnotation
 
@@ -40,8 +41,9 @@ Smartnotation 所提供的資訊 B.V。 至 Microsoft：
 | App 的使用條款 | [https://www.smartnotation.com/public/tos.pdf](https://www.smartnotation.com/public/tos.pdf) |
 | 應用程式的核心功能 | Smartnotation 是一種便於使用、具有語音功能的會議紀要解決方案。 您的記事、動作和決策都很容易管理，且您的資訊永遠可用。 全部都不必要的開銷，讓您和您的小組能夠專注于您的核心業務。 您可以使用 MS Teams 完全整合 Smartnotation。 新增連接器以取得特定專案的所有重要更新、新記事、動作和決策的通知，設定索引標籤，或直接使用 Smartnotation。 |
 | 公司 headquarter 位置 | 荷蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.smartnotation.com/landing/integrations/](https://www.smartnotation.com/landing/integrations/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Totaaldomein B.V. |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Smartnotation B.V. 提供此資訊。 關於此應用程式如何收集和儲存
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

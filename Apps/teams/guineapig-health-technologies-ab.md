@@ -2,18 +2,19 @@
 title: GuineaPig by GuineaPig Health 技術 AB 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: GuineaPig 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dbd872c0f919c8141d41771470546a5b75ae56b0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bfbb46e2fa94292848778af8fa76a6596fd8276a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257819"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543941"
 ---
 # <a name="guineapig"></a>GuineaPig
 
@@ -40,7 +41,7 @@ GuineaPig 健康情況技術所提供的資訊 AB 至 Microsoft：
 | App 的使用條款 | [https://www.guineapig.app/terms-and-conditions](https://www.guineapig.app/terms-and-conditions) |
 | 應用程式的核心功能 | GuineaPig 可協助您的小組保持狀況良好、快樂，並且涉嫌從事實際 &amp; 的隨選健身和工作的短路。 |
 | 公司 headquarter 位置 | 瑞典 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://guineapig.app](https://guineapig.app) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | GCP |
 
@@ -170,7 +171,7 @@ GuineaPig 健康情況技術 AB 會提供此資訊，讓您瞭解此應用程式
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 我們正在使用使用者。讀取以閱讀如使用者名稱的資訊，以便在聊天和索引標籤等中使用。請流覽 https://www.guineapig.app/privacy-policy 以取得詳細描述。 | [d6a2090f-1447-456b-bd5f-121e4efd8c89](https://docs.microsoft.com/microsoft-365-app-certification/azure/d6a2090f-1447-456b-bd5f-121e4efd8c89) |
+>| User.Read | 委託 | 我們正在使用使用者。讀取以閱讀如使用者名稱的資訊，以便在聊天和索引標籤等中使用。請流覽 https://www.guineapig.app/privacy-policy 以取得詳細描述。 | [d6a2090f-1447-456b-bd5f-121e4efd8c89](../azure/d6a2090f-1447-456b-bd5f-121e4efd8c89.md) |
 
 >此應用程式沒有額外的 APIs。
 

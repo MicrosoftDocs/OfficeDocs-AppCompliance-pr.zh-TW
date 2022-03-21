@@ -2,18 +2,19 @@
 title: Netskope 的應用程式資訊，由 Netskope Microsoft Teams
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Netskope Microsoft Teams 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c4c65c048423c0f0e7bc1c1b396dd832cbebf341
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b99ebb361f002a5ebb3a161d0b12d0eab8457689
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254000"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542441"
 ---
 # <a name="netskope-for-microsoft-teams"></a>Microsoft Teams 的 Netskope
 
@@ -38,9 +39,8 @@ ms.locfileid: "62254000"
 | App 的使用條款 | [https://www.netskope.com/subscription-terms/](https://www.netskope.com/subscription-terms/) |
 | 應用程式的核心功能 | Netskope 具有業界&#8217;唯一的解決方案，具有整合的市場領先 CASB、下一代 SWG、遠端瀏覽器隔離、雲端防火牆、公開雲端安全性，以及以單一平臺為一個平臺的「零信任」私人存取-Netskope Security Cloud。  除了這些模組化功能之外，Netskope 還提供額外的安全性 microservices，可以新增以進一步微調客戶的安全性狀況，例如我們的高級 DLP、加密及威脅防護功能。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://docs.netskope.com](https://docs.netskope.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,21 +169,21 @@ ms.locfileid: "62254000"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage Read。 All | 應用程式 | 在通道郵件和文章上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| ChannelMessage UpdatePolicyViolation 所有 | 應用程式 | 在通道郵件和文章上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| 已閱讀的聊天室。所有 | 應用程式 | 在通道/DM 聊天上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| ReadBasic | 應用程式 | 在通道/DM 聊天上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| 聊天室 ReadWrite | 應用程式 | 在通道/DM 聊天上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| UpdatePolicyViolation | 應用程式 | 在通道郵件和文章上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Directory.Read.All | 應用程式 | 使用者成員資格識別與可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Files.Read.All | 應用程式 | DLP on MSTeams 中發佈的檔案 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Files.ReadWrite.All | 應用程式 | DLP on MSTeams 中發佈的檔案 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Group.Read.All | 應用程式 | 群組識別及可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| GroupMember Read。 All | 應用程式 | 群組識別及可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Reports。已讀取。所有 | 應用程式 | 報告和可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Sites.Read.All | 應用程式 | 小組 SharePoint 網站 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| TeamsActivity 讀取 | 應用程式 | 使用者活動的原則 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| User.Read.All | 應用程式 | 使用者識別與可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| ChannelMessage Read。 All | 應用程式 | 在通道郵件和文章上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| ChannelMessage UpdatePolicyViolation 所有 | 應用程式 | 在通道郵件和文章上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| 已閱讀的聊天室。所有 | 應用程式 | 在通道/DM 聊天上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| ReadBasic | 應用程式 | 在通道/DM 聊天上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| 聊天室 ReadWrite | 應用程式 | 在通道/DM 聊天上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| UpdatePolicyViolation | 應用程式 | 在通道郵件和文章上的 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Directory.Read.All | 應用程式 | 使用者成員資格識別與可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Files.Read.All | 應用程式 | DLP on MSTeams 中發佈的檔案 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Files.ReadWrite.All | 應用程式 | DLP on MSTeams 中發佈的檔案 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Group.Read.All | 應用程式 | 群組識別及可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| GroupMember Read。 All | 應用程式 | 群組識別及可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Reports。已讀取。所有 | 應用程式 | 報告和可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Sites.Read.All | 應用程式 | 小組 SharePoint 網站 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| TeamsActivity 讀取 | 應用程式 | 使用者活動的原則 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| User.Read.All | 應用程式 | 使用者識別與可見度 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
 
 >此應用程式沒有額外的 APIs。
 

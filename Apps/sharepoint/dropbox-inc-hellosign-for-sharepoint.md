@@ -2,18 +2,19 @@
 title: HelloSign 的應用程式資訊，由 Dropbox inc. SharePoint。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: HelloSign SharePoint 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4f35be46f70d1efd5bb0cdbd030f78cc82c67e23
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: df22a223c5f19a022abff6559d7b0a9fc69dae5a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256809"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541801"
 ---
 # <a name="hellosign-for-sharepoint"></a>SharePoint 的 HelloSign
 
@@ -39,7 +40,7 @@ Dropbox inc. 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://hellosign.com/terms](https://hellosign.com/terms) |
 | 應用程式的核心功能 | HelloSign 包含 eSignature、數位工作流程和電子傳真解決方案的&#8217;s 數位工作流程平臺 &#8211; &#8212; 可協助超過80000的客戶，而數百萬的人員可更快速地進行商務用。 我們可協助我們的客戶更快速地完成交易，以輕鬆的方式使用板載新員工、完成檔而不會發生錯誤等等。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.hellosign.com/integrations](https://www.hellosign.com/integrations) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
@@ -169,9 +170,9 @@ Dropbox inc. 所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | 應用程式 | 將電子簽署的檔案上傳回 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
->| Sites.ReadWrite.All | 應用程式 | 將電子簽署的檔案上傳回 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
->| User.Read | 委託 | 若要取得使用者的電子郵件 | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| Files.ReadWrite.All | 應用程式 | 將電子簽署的檔案上傳回 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
+>| Sites.ReadWrite.All | 應用程式 | 將電子簽署的檔案上傳回 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
+>| User.Read | 委託 | 若要取得使用者的電子郵件 | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
 
 >此應用程式沒有額外的 APIs。
 

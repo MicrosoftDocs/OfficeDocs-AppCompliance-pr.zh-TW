@@ -2,18 +2,19 @@
 title: 員工訓練管理的應用程式資訊 SharePoint |Sapiens
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，以供員工訓練管理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cdd7844ce0032e3dc78c042b101699d7d3cbeb64
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0719f804e27b055affd633c164508122cdaa7267
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250919"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542151"
 ---
 # <a name="employee-training-management"></a>Employee Training Management
 
@@ -40,8 +41,9 @@ SharePoint | 所提供的資訊Sapiens 至 Microsoft：
 | App 的使用條款 | [https://addins.sharepointsapiens.com/licensing/services-agr...](https://addins.sharepointsapiens.com/licensing/services-agreement.html) |
 | 應用程式的核心功能 | 「員工訓練管理」增益集可讓組織和管理員工繼續進行專業開發，讓每個人都能輕鬆進行。 您可以從設定及排程訓練事件、管理學員及其工作分派和登記，以追蹤成就和意見反應，所有專案都會涵蓋。 增益集可協助您履行相容性法規和安全性原則。 它可讓您指派必要的訓練、追蹤成績、管理到期程度，以及更多。 |
 | 公司 headquarter 位置 | 奧地利 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.sharepointsapiens.com/employee-training-managem...](https://www.sharepointsapiens.com/employee-training-management-office365/documentation/teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ SharePoint | 所提供的資訊Sapiens 至 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +161,7 @@ SharePoint | 所提供的資訊Sapiens 至 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.ReadBasic.All | 委託 | Exchange 會議室和資源的電子郵件地址和名稱，以啟用會議室和資源預約 | [9e8e113c-8a08-4606-b08a-de4decc7252f](https://docs.microsoft.com/microsoft-365-app-certification/azure/9e8e113c-8a08-4606-b08a-de4decc7252f) |
+>| User.ReadBasic.All | 委託 | Exchange 會議室和資源的電子郵件地址和名稱，以啟用會議室和資源預約 | [9e8e113c-8a08-4606-b08a-de4decc7252f](../azure/9e8e113c-8a08-4606-b08a-de4decc7252f.md) |
 
 >此應用程式沒有額外的 APIs。
 

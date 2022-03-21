@@ -2,18 +2,19 @@
 title: 依 Appfluence Inc. 的優先順序清單應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 在 CSA 星型登錄中，所有可用的安全性和合規性資訊，如優先順序矩陣、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d61d0f5f988aa8756ae884ce06676456eca49719
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b20417603c916fa6756952e728d2783fb29b8b17
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251829"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543761"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -37,8 +38,9 @@ ms.locfileid: "62251829"
 | App 的使用條款 | [https://appfluence.com/eula](https://appfluence.com/eula) |
 | 應用程式的核心功能 | 優先順序矩陣是一個專案、任務和優先順序管理解決方案，可建立實際的實際來源，以協調小組所需執行的所有工作。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS，Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,14 +55,7 @@ Appfluence Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -163,15 +158,15 @@ Appfluence Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 委託 | 只有在將新使用者新增至帳戶時，才會儲存電子郵件。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| User.ReadBasic.All | 委託 | 只有在將新使用者新增至帳戶時，才會儲存電子郵件。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| offline_access | 委託 | 我們會儲存登入權杖，以便代表使用者執行要求 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| Files.Read.All | 委託 | 除非使用者明確且故意會建立連結至原始檔案的優先順序矩陣專案，否則不會儲存任何檔案資訊。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| User.Read | 委託 | 基本的使用者設定檔資訊 (顯示名稱、名字、姓氏、電子郵件、頭像) 由我們儲存。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| openid | 委託 | 我們會儲存 SSO 連線，以指出使用者的登入模式。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| Calendars.Read | 委託 | 少量的行事曆事件會變成儲存在我們系統中的任務。 | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
->| Mail.Read | 委託 | 我們會儲存系統中建立的任務，並提供原始郵件的連結。 | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
->| 工作。讀取 | 委託 | 有些 Outlook 的/Planner 工作會在我們的系統中複寫，以協助新的使用者。 | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Calendars.Read | 委託 | 只有在將新使用者新增至帳戶時，才會儲存電子郵件。 | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| User.ReadBasic.All | 委託 | 只有在將新使用者新增至帳戶時，才會儲存電子郵件。 | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| offline_access | 委託 | 我們會儲存登入權杖，以便代表使用者執行要求 | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| Files.Read.All | 委託 | 除非使用者明確且故意會建立連結至原始檔案的優先順序矩陣專案，否則不會儲存任何檔案資訊。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| User.Read | 委託 | 基本的使用者設定檔資訊 (顯示名稱、名字、姓氏、電子郵件、頭像) 由我們儲存。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| openid | 委託 | 我們會儲存 SSO 連線，以指出使用者的登入模式。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| Calendars.Read | 委託 | 少量的行事曆事件會變成儲存在我們系統中的任務。 | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
+>| Mail.Read | 委託 | 我們會儲存系統中建立的任務，並提供原始郵件的連結。 | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
+>| 工作。讀取 | 委託 | 有些 Outlook 的/Planner 工作會在我們的系統中複寫，以協助新的使用者。 | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
 
 >此應用程式沒有額外的 APIs。
 

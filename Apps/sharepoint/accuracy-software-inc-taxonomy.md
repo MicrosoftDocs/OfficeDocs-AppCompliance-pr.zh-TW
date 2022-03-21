@@ -2,18 +2,19 @@
 title: 依準確性軟體 Inc. 分類的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可供分類的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1106b9e00a94d133c167b04bb31e4bc71c060c73
-ms.sourcegitcommit: 0465c6dd3a2c42fb1fd785548654d5b7f2601adc
+ms.openlocfilehash: 3adb6387e276e8f6a9827262227bb759514eebde
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/19/2022
-ms.locfileid: "62909065"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543741"
 ---
 # <a name="taxonomy"></a>分類
 
@@ -39,7 +40,7 @@ ms.locfileid: "62909065"
 | App 的使用條款 | [https://accuracysoftware.ca/taxonomy-terms-of-service](https://accuracysoftware.ca/taxonomy-terms-of-service) |
 | 應用程式的核心功能 | 分類可讓您使用一種有效的方式來管理您的檔案分類計畫，其方式是讓具有不同利益相關者的 IM 專業人員共同建立、審閱及發佈檔計畫給整個組織。 此外，分類法可讓您產生 M365 保留標籤匯出，您可以匯入至 Microsoft 規範中心，並以您可以匯入至 SharePoint 字詞儲存區的字片語格式匯出檔案計畫。 |
 | 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.accuracysoftware.ca/taxonomy-sharepoint-webpart/](https://www.accuracysoftware.ca/taxonomy-sharepoint-webpart/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | 用戶端 SharePoint 租使用者 |
 
@@ -58,7 +59,7 @@ ms.locfileid: "62909065"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 檔計畫分類資料 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 加拿大 |
 | 您是否有既定的資料 rentention 與處置程式？ | 否 |
 | 在帳戶終止後，資料會保留多久？ | 未保留 |
 | 您是否有既定的資料存取管理程式？ | 否 |

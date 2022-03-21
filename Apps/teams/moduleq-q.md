@@ -2,18 +2,19 @@
 title: Q 的應用程式資訊 ModuleQ
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Q 的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3cdacc2f1ad638dd13bad6af4434a816eb419bb7
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: 88e9d369057d62e1c5588380b79731637964ae5c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62317009"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544341"
 ---
 # <a name="q"></a>Q
 
@@ -40,9 +41,8 @@ ms.locfileid: "62317009"
 | App 的使用條款 | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 | 應用程式的核心功能 | Q 像是受信任的同事一樣，追蹤您的客戶焦點，並傳送您必須查看的商務資訊，您必須先加以詢問。 由從 Thomson Reuters ModuleQ AI 和知識 Graph 供電。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://moduleq.com/product](https://moduleq.com/product) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,11 +169,11 @@ ms.locfileid: "62317009"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 應用程式 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| Group.Read.All | 委託 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| Mail.Read | 應用程式 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| User.Read | 委託 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| User.Read.All | 委託 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Calendars.Read | 應用程式 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
+>| Group.Read.All | 委託 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
+>| Mail.Read | 應用程式 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
+>| User.Read | 委託 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
+>| User.Read.All | 委託 | 產品功能所需。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
 
 >此應用程式沒有額外的 APIs。
 

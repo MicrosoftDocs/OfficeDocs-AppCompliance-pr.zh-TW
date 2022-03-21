@@ -2,18 +2,19 @@
 title: SEFOS by Meaplus AB 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SEFOS 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cc937876c3c714ba07587691d4a0e88f458d994c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f54e6aefaf7a820e0c6bdad991fe9643d6bfba8b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256499"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541241"
 ---
 # <a name="sefos"></a>SEFOS
 
@@ -40,8 +41,9 @@ Meaplus AB 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.meaplus.com/wp-content/uploads/2020/02/Meaplus-...](https://www.meaplus.com/wp-content/uploads/2020/02/Meaplus-end_user_agreement.pdf) |
 | 應用程式的核心功能 | 將加密資訊傳送給任何人！ 您決定收件者應該如何自行識別。 |
 | 公司 headquarter 位置 | 瑞典 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://sefos.se/en/sefos-i-teams/](https://sefos.se/en/sefos-i-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Meaplus AB 會提供此資訊，讓您瞭解此應用程式如何收集及儲存
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,14 +161,14 @@ Meaplus AB 會提供此資訊，讓您瞭解此應用程式如何收集及儲存
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 代表使用者建立會議 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| 傳送郵件 | 委託 | 傳送會議邀請 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| MailboxSettings 讀取 | 委託 | 收集已驗證使用者的時區 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| 個人讀取 | 委託 | 在驗證的使用者 adressbook 中搜尋 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| User.Read | 委託 | 登入並讀取使用者設定檔 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| 電子郵件 | 委託 | 在 SEFOS 中識別使用者的電子郵件地址。 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| openid | 委託 | 簽署使用者 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| 設定檔 | 委託 | 讀取使用者設定檔 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
+>| ReadWrite 的行事曆 | 委託 | 代表使用者建立會議 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| 傳送郵件 | 委託 | 傳送會議邀請 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| MailboxSettings 讀取 | 委託 | 收集已驗證使用者的時區 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| 個人讀取 | 委託 | 在驗證的使用者 adressbook 中搜尋 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| 電子郵件 | 委託 | 在 SEFOS 中識別使用者的電子郵件地址。 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| openid | 委託 | 簽署使用者 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| 設定檔 | 委託 | 讀取使用者設定檔 | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,18 +2,19 @@
 title: MIPA 的應用程式資訊-您的個人助理 iGlobe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 MIPA 的安全性和符合性資訊資訊-您的個人助理、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8961677ca8b9906703fd4787fcbd1ded1bfb1784
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 363071c30bb3eb9a11a970d70f3688e9900eb552
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63076847"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544451"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - 您的個人助理
 
@@ -39,8 +40,9 @@ ms.locfileid: "63076847"
 | App 的使用條款 | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 | 應用程式的核心功能 | MIPA-我的智慧個人助理-MIPA 提供一種簡單的視覺方式，以組織及管理每日活動和工作。 MIPA 用於 Outlook 和 Teams。 使用 iGlobe CRM MIPA 的組織也會與 iGlobe CRM 整合。 MIPA 應用程式服務許可權層級是針對 Outlook 和 iGlobe CRM 整合，設定 Teams 和 MIPA 的 MIPA。  |
 | 公司 headquarter 位置 | 丹麥 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://mipa.iglobe.dk/Support](https://mipa.iglobe.dk/Support) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ ms.locfileid: "63076847"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,26 +161,63 @@ ms.locfileid: "63076847"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| MailboxSettings ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| 電子郵件 | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| offline_access | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| openid | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| 設定檔 | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| 郵件。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| MailboxSettings ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| 工作。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| 電子郵件 | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| offline_access | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| openid | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| 設定檔 | 委託 | 不會儲存應用程式資料庫中的資料。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
 
 >此應用程式沒有額外的 APIs。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性漏洞評估審查 (DAST/SAST/滲透測試)  | 不適用 |
+| [**運作安全性**](../docs/certification-submission-guide.md#operational-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-防毒程式 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-風險排名 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-修補程式 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-防火牆 (或同等技術)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-Web 應用程式防火牆 (WAFs)  (選用)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全的軟體發展/部署 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入偵測及防護 (選用)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢查 (記錄資料)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;靜態資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留與處置 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

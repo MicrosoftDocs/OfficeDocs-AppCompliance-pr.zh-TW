@@ -2,18 +2,19 @@
 title: WorkInSync 的應用程式資訊（按 MoveInSync）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: WorkInSync 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: aa528136089b1ff6e54f24a82a0184bef58ee233
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e8620c57d74d71649ed418f08fd8e634c7de47d6
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255649"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543591"
 ---
 # <a name="workinsync"></a>WorkInSync
 
@@ -38,10 +39,11 @@ ms.locfileid: "62255649"
 | 合作夥伴公司名稱 | MoveInSync |
 | 公司的網站 | [https://www.workinsync.io](https://www.workinsync.io) |
 | App 的使用條款 | [https://www.workinsync.io/terms-and-condition/](https://www.workinsync.io/terms-and-condition/) |
-| 應用程式的核心功能 | WorkInSync 可讓組織輕鬆規劃為 &amp; 您的 office 執行彈性的服務台預約模型。  作為員工，您可以：-建立及管理服務台預約-上班打卡時，當您在 clockin &amp; /clockouts &amp; 方案中工作時，當您可以在管道內容中安裝的 [小組活動] 索引標籤上，您可以-查看整個小組在組織中的狀態-搜尋中，是否有 &amp; 特定同事的工作 |
+| 應用程式的核心功能 | WorkInSync 可讓組織輕鬆規劃 &amp; 為您的 office 執行彈性的服務台預約模型。  作為員工，您可以：-建立及管理服務台預約-上班打卡時，當您在 clockin/clockouts &amp; 方案中工作 &amp; 時，當您可以在管道內容中安裝的 [小組活動] 索引標籤上，您可以-查看整個小組在組織中的狀態-搜尋中，是否有特定同事的工作 &amp; |
 | 公司 headquarter 位置 | 印度 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.workinsync.io/teams-app-for-workinsync/](https://www.workinsync.io/teams-app-for-workinsync/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62255649"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,16 +162,16 @@ ms.locfileid: "62255649"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 委託 | 1. 取得可傳遞群組成員的詳細資料。 安裝在通道內容中時，它們會用於「小組活動」索引標籤 ' 中。 2. 若要取得組織中使用者的使用者設定檔詳細資料 &amp;  清單。 當 [小組活動] 索引標籤安裝在個人內容中時，會使用這些專案，因為如果人員 API 失敗 (非 outlook 使用者)  | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| 個人讀取 | 委託 | 若要取得與 [已登入的使用者以顯示于小組活動] 索引標籤密切相關的人員，請安裝在個人內容中。 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| 顯示狀態。讀取 | 委託 | 若要取得個人和通道內容中 [小組活動] 索引標籤的使用者清單狀態資訊 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| 目前狀態為 [已讀取]。 | 委託 | 若要取得個人和通道內容中 [小組活動] 索引標籤的使用者清單狀態資訊 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| User.Read.All | 應用程式 | 用於取得任何使用者的報表管理員資訊，以傳送預約及簽出/結帳通知給管理員 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| User.ReadBasic.All | 委託 | 用於讀取員工的設定檔照片 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| 電子郵件 | 委託 | 需要使用 Teams 用戶端程式庫取得 SSO token | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| offline_access | 委託 | 需要使用 Teams 用戶端程式庫取得 SSO token | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| openid | 委託 | 需要使用 Teams 用戶端程式庫取得 SSO token | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| 設定檔 | 委託 | 需要使用 Teams 用戶端程式庫取得 SSO token | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
+>| Directory.Read.All | 委託 | 1. 取得可傳遞群組成員的詳細資料。 安裝在通道內容中時，它們會用於「小組活動」索引標籤 ' 中。 2. 若要取得組織中使用者的使用者設定檔詳細資料 &amp;  清單。 當 [小組活動] 索引標籤安裝在個人內容中時，會使用這些專案，因為如果人員 API 失敗 (非 outlook 使用者)  | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| 個人讀取 | 委託 | 若要取得與 [已登入的使用者以顯示于小組活動] 索引標籤密切相關的人員，請安裝在個人內容中。 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| 顯示狀態。讀取 | 委託 | 若要取得個人和通道內容中 [小組活動] 索引標籤的使用者清單狀態資訊 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| 目前狀態為 [已讀取]。 | 委託 | 若要取得個人和通道內容中 [小組活動] 索引標籤的使用者清單狀態資訊 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| User.Read.All | 應用程式 | 用於取得任何使用者的報表管理員資訊，以傳送預約及簽出/結帳通知給管理員 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| User.ReadBasic.All | 委託 | 用於讀取員工的設定檔照片 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| 電子郵件 | 委託 | 需要使用 Teams 用戶端程式庫取得 SSO token | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| offline_access | 委託 | 需要使用 Teams 用戶端程式庫取得 SSO token | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| openid | 委託 | 需要使用 Teams 用戶端程式庫取得 SSO token | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| 設定檔 | 委託 | 需要使用 Teams 用戶端程式庫取得 SSO token | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
 
 >此應用程式沒有額外的 APIs。
 

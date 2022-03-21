@@ -2,18 +2,19 @@
 title: Qbo 的應用程式資訊（按 Unscrambl）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: qbo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f48255e8f29512bfc18a9d9c1a3d079829d31769
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a02dec60c2eb9ab25fce28ac45271629b4700011
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147385"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542681"
 ---
 # <a name="qbo"></a>qbo
 
@@ -40,7 +41,7 @@ ms.locfileid: "62147385"
 | App 的使用條款 | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
 | 應用程式的核心功能 | qbo，由 Unscrambl qbo insights 提供，使用一流 NLP 進行分析。 使用者輸入問題和 qbo 曲面貼齊中最相關的真知灼見和視覺化效果。 使用者可以主動與同事進行共同作業，在簡報的板上進行決策及捕獲調查。 qbo 可讓組織中的每個人進行資料導向決策。 qbo 會直接連線至某個範圍的雲端或內部部署來源，而且可以透過 Microsoft Teams 或瀏覽器來存取。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://qbo.ai](https://qbo.ai) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 

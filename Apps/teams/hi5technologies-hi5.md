@@ -2,18 +2,19 @@
 title: Hi5 的應用程式資訊（按 Hi5Technologies）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Hi5 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 534732a91e12817bcdce28524b3ecf4c8f179128
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a279eee6fac65e3df53e2884618babc658bf45fe
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255759"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542231"
 ---
 # <a name="hi5"></a>Hi5
 
@@ -40,8 +41,9 @@ ms.locfileid: "62255759"
 | App 的使用條款 | [https://www.get5.io/terms](https://www.get5.io/terms) |
 | 應用程式的核心功能 | 使用持續性識別和意見來解除文化。 Hi5 是一項超級輕鬆、有趣的應用程式，可讓管理員和對等人提供 &amp; 接收認可。 哪些人&#8217;執行很出色的工作？ &#8217;s 簡單-讓他們 Hi5，並分享成功的慶祝！ 小組成員可以授與對等或小組認可、查看 Hi5 Leaderboard 等等。 |
 | 公司 headquarter 位置 | 南非 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://help.get5.io](https://help.get5.io) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62255759"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,11 +161,11 @@ ms.locfileid: "62255759"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
->| 電子郵件 | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
->| offline_access | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
->| openid | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
->| 設定檔 | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| User.Read | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](../azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md) |
+>| 電子郵件 | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](../azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md) |
+>| offline_access | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](../azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md) |
+>| openid | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](../azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md) |
+>| 設定檔 | 委託 | 我們只會將使用者會話資訊從 Teams 儲存，使用者必須透過新增通知來核准此資訊， (可以隨時) 。 不會儲存其他資訊。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](../azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md) |
 
 >此應用程式沒有額外的 APIs。
 

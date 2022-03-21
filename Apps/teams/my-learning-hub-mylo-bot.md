@@ -2,18 +2,19 @@
 title: Mylo Bot 的應用程式資訊 Learning Hub
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Mylo Bot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9b3ea6be4b276b80916313c6614982074e8ea99c
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: f921397b188f7e23ebe5322acb729e73c6397e6e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081190"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542881"
 ---
 # <a name="mylo-bot"></a>Mylo Bot
 
@@ -35,7 +36,7 @@ ms.locfileid: "63081190"
 | 應用程式名稱 | Mylo Bot |
 | ID | WA200003783 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 我的 Learning Hub |
+| 合作夥伴公司名稱 | 我的學習中樞網站 |
 | 公司的網站 | [https://mylearninghub.com](https://mylearninghub.com) |
 | App 的使用條款 | [https://mylearninghub.com/files/terms_and_conditions.pdf](https://mylearninghub.com/files/terms_and_conditions.pdf) |
 | 應用程式的核心功能 | 協助員工在需要的地方尋找相關的教學內容。 |
@@ -57,14 +58,7 @@ ms.locfileid: "63081190"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,7 +72,7 @@ ms.locfileid: "63081190"
 |:----------------|:-------------|
 | 您是否要在應用程式中執行年度滲透測試？ | 是 |
 | 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ |  |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls |
 | 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
 | 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
 | 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |

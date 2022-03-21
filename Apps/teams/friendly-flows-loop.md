@@ -2,18 +2,19 @@
 title: 依友好流程迴圈的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，環路的所有可用安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f8cada6257ed15ad8372eb3acffc53e3c94d2d54
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d0afe53f65cba8d0045f8b3506f7d20421e15dec
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250096"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541721"
 ---
 # <a name="loop"></a>Loop
 
@@ -40,7 +41,7 @@ ms.locfileid: "62250096"
 | App 的使用條款 | [https://friendlyflows.com/terms-of-use/](https://friendlyflows.com/terms-of-use/) |
 | 應用程式的核心功能 | 將人員放在適當的時間來處理專案。 |
 | 公司 headquarter 位置 | 荷蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://friendlyflows.com/loop/](https://friendlyflows.com/loop/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,9 +171,9 @@ ms.locfileid: "62250096"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 驗證 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](https://docs.microsoft.com/microsoft-365-app-certification/azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76) |
->| 電子郵件 | 委託 | 註冊 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](https://docs.microsoft.com/microsoft-365-app-certification/azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76) |
->| 設定檔 | 委託 | 驗證 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](https://docs.microsoft.com/microsoft-365-app-certification/azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76) |
+>| User.Read | 委託 | 驗證 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](../azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76.md) |
+>| 電子郵件 | 委託 | 註冊 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](../azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76.md) |
+>| 設定檔 | 委託 | 驗證 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](../azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76.md) |
 
 >此應用程式沒有額外的 APIs。
 

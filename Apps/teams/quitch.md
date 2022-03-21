@@ -2,18 +2,19 @@
 title: Quitch 的應用程式資訊（按 Quitch）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Quitch 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6de959937655902f2b569e42a4cbdce30561079d
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 5b7aa8cfefd8b7a41443ad7bb82c3aeab50269e1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235778"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541231"
 ---
 # <a name="quitch"></a>Quitch
 
@@ -40,7 +41,7 @@ ms.locfileid: "62235778"
 | App 的使用條款 | [https://quitch.com/user-terms-of-service/](https://quitch.com/user-terms-of-service/) |
 | 應用程式的核心功能 | Microsoft Teams 會議的互動測驗 |
 | 公司 headquarter 位置 | 澳洲 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://quitch.com/microsoft-teams/](https://quitch.com/microsoft-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 

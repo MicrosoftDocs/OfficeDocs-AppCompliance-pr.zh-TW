@@ -2,18 +2,19 @@
 title: Eloops 的應用程式資訊（按 Eloops）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Eloops 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 89f2f5e8b920ab0cfb572fb0db779eb8eede1a13
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 21d4dd8c2ff1e25aff1c7175ae7865d5a9360c66
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252339"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544761"
 ---
 # <a name="eloops"></a>Eloops
 
@@ -40,7 +41,7 @@ ms.locfileid: "62252339"
 | App 的使用條款 | [https://eloops.com/terms-of-service/](https://eloops.com/terms-of-service/) |
 | 應用程式的核心功能 | 員工簽約平臺可以運作，但&#8217;不像是正常運作 |
 | 公司 headquarter 位置 | 以色列 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://eloops.com/microsoft-teams-integration-help-center/](https://eloops.com/microsoft-teams-integration-help-center/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
@@ -59,14 +60,7 @@ ms.locfileid: "62252339"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,7 +163,7 @@ ms.locfileid: "62252339"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 我們使用使用者&#8217;的名字和姓氏來簽署 SSO 流程上的名稱 | [431a9917-9c32-480e-a584-6c149e7b7213](https://docs.microsoft.com/microsoft-365-app-certification/azure/431a9917-9c32-480e-a584-6c149e7b7213) |
+>| User.Read | 委託 | 我們使用使用者&#8217;的名字和姓氏來簽署 SSO 流程上的名稱 | [431a9917-9c32-480e-a584-6c149e7b7213](../azure/431a9917-9c32-480e-a584-6c149e7b7213.md) |
 
 >此應用程式沒有額外的 APIs。
 

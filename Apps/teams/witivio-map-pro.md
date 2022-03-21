@@ -2,18 +2,19 @@
 title: Witivio Pro 對應的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，對應 Pro 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f2c2f42e39532b69cfbe3638b9ff6f3064658de4
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 45c418313420adbda7d9105383157a64025465bb
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255409"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541551"
 ---
 # <a name="map-pro"></a>Map Pro
 
@@ -40,7 +41,7 @@ ms.locfileid: "62255409"
 | App 的使用條款 | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
 | 應用程式的核心功能 | Map Pro 是用於顯示任何通道中之地圖的 Microsoft Teams 應用程式。 |
 | 公司 headquarter 位置 | 法國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.teams-pro.com/en/browse-apps/map-pro/](https://www.teams-pro.com/en/browse-apps/map-pro/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,11 +171,11 @@ ms.locfileid: "62255409"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
->| 電子郵件 | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
->| offline_access | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
->| openid | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
->| 設定檔 | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
+>| User.Read | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
+>| 電子郵件 | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
+>| offline_access | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
+>| openid | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
+>| 設定檔 | 委託 | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
 
 >此應用程式沒有額外的 APIs。
 

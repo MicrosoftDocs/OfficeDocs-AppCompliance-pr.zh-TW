@@ -2,18 +2,19 @@
 title: 以 ComputerTalk 為冰連絡人中心的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/01/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和合規性資訊資訊，都是 ice 連絡人中心、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e7644512a85323d061045b78e9af976676c36fc7
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: c5616500028e8dc1e4975c3eafac08513e08b5fa
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62316164"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542461"
 ---
 # <a name="ice-contact-center"></a>ice 連絡人中心
 
@@ -38,9 +39,8 @@ ms.locfileid: "62316164"
 | App 的使用條款 | [https://www.computer-talk.com/product/enterprise-contact-ce...](https://www.computer-talk.com/product/enterprise-contact-center/ice-contact-center-for-teams) |
 | 應用程式的核心功能 | ice 提供連絡人中心作為服務功能，包括呼叫路由、記錄、監控和報告。 |
 | 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.computer-talk.com/product/enterprise-contact-ce...](https://www.computer-talk.com/product/enterprise-contact-center/ice-contact-center-for-teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

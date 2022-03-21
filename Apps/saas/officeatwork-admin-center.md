@@ -2,18 +2,19 @@
 title: Officeatwork 的系統管理員中心應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于系統管理中心的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 092853eb1798395c8b4f707ba2e89d048f780fd3
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 56b14cae295b676356dcfa12426b4803ac8856fa
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255832"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542411"
 ---
 # <a name="admin-center"></a>系統管理員中心
 
@@ -37,7 +38,7 @@ ms.locfileid: "62255832"
 | App 的使用條款 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 | 應用程式的核心功能 | 在一個集中位置管理及設定所有的 officeatwork 應用程式和 Add-Ins。 |
 | 公司 headquarter 位置 | 瑞士 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -56,14 +57,7 @@ ms.locfileid: "62255832"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -168,12 +162,12 @@ ms.locfileid: "62255832"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 委託 | 啟用同意狀態的顯示 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Group.Read.All | 委託 | 啟用限制文件庫的物件 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Sites.Read.All | 委託 | 啟用建立文件庫的驗證 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| User.Read | 委託 | 啟用已登入使用者的顯示 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| User.ReadBasic.All | 委託 | 啟用使用者屬性的顯示 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| openid | 委託 | 啟用登入 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Directory.Read.All | 委託 | 啟用同意狀態的顯示 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| Group.Read.All | 委託 | 啟用限制文件庫的物件 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| Sites.Read.All | 委託 | 啟用建立文件庫的驗證 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| User.Read | 委託 | 啟用已登入使用者的顯示 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| User.ReadBasic.All | 委託 | 啟用使用者屬性的顯示 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| openid | 委託 | 啟用登入 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,18 +2,19 @@
 title: Mailbutler 的應用程式資訊（按 Mailbutler）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Mailbutler 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a2ddc871a1be8a15f2f1de222349b8a80f224ddd
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 9b3ff23c3e8a8f27c53101116930f73f456f1d34
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200558"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540921"
 ---
 # <a name="mailbutler"></a>Mailbutler
 
@@ -39,7 +40,7 @@ ms.locfileid: "62200558"
 | App 的使用條款 | [https://www.mailbutler.io/terms-and-conditions](https://www.mailbutler.io/terms-and-conditions) |
 | 應用程式的核心功能 | Mailbutler 是一種電子郵件外掛程式，可提供您最大化生產力和保持電子郵件點所需的一切。 Mailbutler 提供許多有用、生產力提升的功能，您可以在您的收件匣中正確存取。 其功能可協助您改善客戶的交流、保持品牌、優化電子郵件遊戲，以及更多。 |
 | 公司 headquarter 位置 | 德國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.mailbutler.io](https://www.mailbutler.io) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 

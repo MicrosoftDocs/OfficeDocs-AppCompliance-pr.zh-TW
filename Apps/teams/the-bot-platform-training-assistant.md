@@ -2,18 +2,19 @@
 title: Bot 平臺的訓練助理應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于訓練小幫手的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e644d66f69da228ff7de892d309d09de0e6a4a41
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: bf18fbe8cbd5d492378f873901293088c11c7b2c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147950"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541561"
 ---
 # <a name="training-assistant"></a>訓練助理
 

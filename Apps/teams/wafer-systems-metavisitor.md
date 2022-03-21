@@ -2,18 +2,19 @@
 title: MetaVisitor by Wafer 系統的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MetaVisitor 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b918e81d2cdc8217bb82a776335a5eef9b1d1b07
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 88c34dc0fb55fa05dc4587f4c345bb0eea13920d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253329"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543361"
 ---
 # <a name="metavisitor"></a>MetaVisitor
 
@@ -169,7 +170,7 @@ Wafer 系統會提供此資訊，此應用程式會如何收集和儲存組織�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 應用程式 | &#23637;&#31034;&#29992;&#25143;&#20449;&#24687; | [43067020-c59f-49f8-a532-e84ed3bb5f4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/43067020-c59f-49f8-a532-e84ed3bb5f4e) |
+>| User.Read | 應用程式 | &#23637;&#31034;&#29992;&#25143;&#20449;&#24687; | [43067020-c59f-49f8-a532-e84ed3bb5f4e](../azure/43067020-c59f-49f8-a532-e84ed3bb5f4e.md) |
 
 >此應用程式沒有額外的 APIs。
 

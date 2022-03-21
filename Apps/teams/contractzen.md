@@ -2,18 +2,19 @@
 title: ContractZen 的應用程式資訊（按 ContractZen）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ContractZen 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3ba2af3606c470bb4a5f15e636ca069f9ff722d7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ace467613e349d8ea2d4c900b41c3097f238b303
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257953"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542261"
 ---
 # <a name="contractzen"></a>ContractZen
 
@@ -40,7 +41,7 @@ ms.locfileid: "62257953"
 | App 的使用條款 | [https://my.contractzen.com/Terms](https://my.contractzen.com/Terms) |
 | 應用程式的核心功能 | 用於高級合約管理、董事會會議管理、實體管理、電子簽名及虛擬資料聊天室的安全控管軟體 (VDR)  |
 | 公司 headquarter 位置 | 芬蘭 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://appsource.microsoft.com/en-US/product/office/wa2000...](https://appsource.microsoft.com/en-US/product/office/wa200001389) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,7 +171,7 @@ ms.locfileid: "62257953"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 若要能夠使用使用者設定檔資訊 | [0492ead3-ee26-40df-9757-d95cc693d856](https://docs.microsoft.com/microsoft-365-app-certification/azure/0492ead3-ee26-40df-9757-d95cc693d856) |
+>| User.Read | 委託 | 若要能夠使用使用者設定檔資訊 | [0492ead3-ee26-40df-9757-d95cc693d856](../azure/0492ead3-ee26-40df-9757-d95cc693d856.md) |
 
 >此應用程式沒有額外的 APIs。
 

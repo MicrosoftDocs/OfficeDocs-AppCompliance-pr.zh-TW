@@ -2,18 +2,19 @@
 title: Lucca 的應用程式資訊（按 Lucca）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Lucca 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0251a16c4bd3096e89d08cd21a80f8b559774f22
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ea4cbf66e6218350477a0e3c26758abc989626f3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255675"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542961"
 ---
 # <a name="lucca"></a>Lucca
 
@@ -42,6 +43,7 @@ ms.locfileid: "62255675"
 | 公司 headquarter 位置 | 法國 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62255675"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,14 +161,14 @@ ms.locfileid: "62255675"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember Read。 All | 委託 | 不收集任何資料。 我們使用這些篩選器來篩選要顯示的計畫。 只有通道中的使用者才會顯示其規劃 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
->| 聊天室 ReadWrite | 應用程式 | 不收集或使用任何資料。 應用程式只張貼包含一天 absentees 的郵件 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
->| Group.Read.All | 應用程式 | 我們收集的 GroupId，以瞭解應用程式應以 absentees 傳送郵件的群組。  | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
->| User.Read | 委託 | 用於登入使用者 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
->| User.Read.All | 應用程式 | 用於讀取使用者設定檔 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
->| 電子郵件 | 委託 | 用於將電子郵件顯示在 [應用程式] 索引標籤 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
->| openid | 委託 | 用於登入使用者 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
->| 設定檔 | 委託 | 用於將使用者設定檔顯示在 [應用程式] 索引標籤 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](https://docs.microsoft.com/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d) |
+>| ChannelMember Read。 All | 委託 | 不收集任何資料。 我們使用這些篩選器來篩選要顯示的計畫。 只有通道中的使用者才會顯示其規劃 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](../azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md) |
+>| 聊天室 ReadWrite | 應用程式 | 不收集或使用任何資料。 應用程式只張貼包含一天 absentees 的郵件 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](../azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md) |
+>| Group.Read.All | 應用程式 | 我們收集的 GroupId，以瞭解應用程式應以 absentees 傳送郵件的群組。  | [53628f6a-ac66-4fde-8945-d639c8da4c0d](../azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md) |
+>| User.Read | 委託 | 用於登入使用者 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](../azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md) |
+>| User.Read.All | 應用程式 | 用於讀取使用者設定檔 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](../azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md) |
+>| 電子郵件 | 委託 | 用於將電子郵件顯示在 [應用程式] 索引標籤 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](../azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md) |
+>| openid | 委託 | 用於登入使用者 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](../azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md) |
+>| 設定檔 | 委託 | 用於將使用者設定檔顯示在 [應用程式] 索引標籤 | [53628f6a-ac66-4fde-8945-d639c8da4c0d](../azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md) |
 
 >此應用程式沒有額外的 APIs。
 

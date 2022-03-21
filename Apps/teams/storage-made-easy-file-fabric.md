@@ -2,18 +2,19 @@
 title: 儲存體所做的檔案架構應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，檔案 Fabric 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7000bee22c385c2c4909d60c7c7db13e81e83181
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: c39801f2fdaa87790782b310a0121492d8cd07ef
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260405"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542781"
 ---
 # <a name="file-fabric"></a>File Fabric
 
@@ -40,8 +41,9 @@ ms.locfileid: "62260405"
 | App 的使用條款 | [https://www.storagemadeeasy.com/terms](https://www.storagemadeeasy.com/terms) |
 | 應用程式的核心功能 | 搜尋、流覽、編輯和共用儲存在 Azure 檔案、Azure Blob 儲存體和其他儲存體上的檔案。 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://docs.storagemadeeasy.com/microsoft-teams](https://docs.storagemadeeasy.com/microsoft-teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | SelfHosted，Azure，AWS，GCP，IBMCloud，使用者可能會連接 Wasabi、Backblaze、Cloudian、Dropbox、Box.com、Salesforce、S3 相容、FTP 和 WebDAV 服務 |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62260405"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在2weeks 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ ms.locfileid: "62260405"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite | 應用程式 | 使用者透過應用程式下載、上傳或編輯指定的檔案時，可讀取或寫入檔案資料。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
->| Sites.ReadWrite.All | 應用程式 | 針對所有使用者&#8217;的檔案和資料夾收集的中繼資料，提供所有檔服務的同盟查看。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
+>| Files.ReadWrite | 應用程式 | 使用者透過應用程式下載、上傳或編輯指定的檔案時，可讀取或寫入檔案資料。 | [0752d800-857f-49bd-87eb-e60985516c67](../azure/0752d800-857f-49bd-87eb-e60985516c67.md) |
+>| Sites.ReadWrite.All | 應用程式 | 針對所有使用者&#8217;的檔案和資料夾收集的中繼資料，提供所有檔服務的同盟查看。 | [0752d800-857f-49bd-87eb-e60985516c67](../azure/0752d800-857f-49bd-87eb-e60985516c67.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,18 +2,19 @@
 title: Heedify 的應用程式資訊（按 Heedify）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Heedify 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 692b53d85d3d4e9e2984147575fdff0a702d193a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d45ae00313e1b138b72fff8647931a6062955d61
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257799"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543691"
 ---
 # <a name="heedify"></a>Heedify
 
@@ -170,11 +171,11 @@ ms.locfileid: "62257799"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 委託 | 接待員在轉接通話或與客戶在電話上共用資訊之前，需要檢查使用者行事曆 | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
->| 連絡人。 ReadWrite | 委託 | 應用程式必須能夠將連絡人新增至使用者 (代理人) 並讀取其連絡人，也就是  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
->| ReadWrite 共用 | 委託 | 應用程式必須能夠與其他使用者 (代理人一起新增共用連絡人) 並讀取其共用連絡人。  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
->| 目前狀態為 [已讀取]。 | 委託 | 連絡人中心代理程式需要目前狀態資訊，以便更好地管理通話和連絡人，尤其是在來電轉接案例中。  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
->| User.Read.All | 委託 | 若要管理連絡人，已登入的使用者必須能夠流覽使用者並讀取其資訊，包括 departement 和管理員 (，以防接待員)   | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
+>| Calendars.Read | 委託 | 接待員在轉接通話或與客戶在電話上共用資訊之前，需要檢查使用者行事曆 | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
+>| 連絡人。 ReadWrite | 委託 | 應用程式必須能夠將連絡人新增至使用者 (代理人) 並讀取其連絡人，也就是  | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
+>| ReadWrite 共用 | 委託 | 應用程式必須能夠與其他使用者 (代理人一起新增共用連絡人) 並讀取其共用連絡人。  | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
+>| 目前狀態為 [已讀取]。 | 委託 | 連絡人中心代理程式需要目前狀態資訊，以便更好地管理通話和連絡人，尤其是在來電轉接案例中。  | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
+>| User.Read.All | 委託 | 若要管理連絡人，已登入的使用者必須能夠流覽使用者並讀取其資訊，包括 departement 和管理員 (，以防接待員)   | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
 
 >此應用程式沒有額外的 APIs。
 

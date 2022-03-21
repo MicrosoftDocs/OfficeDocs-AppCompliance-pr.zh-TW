@@ -2,18 +2,19 @@
 title: Hugo 的應用程式資訊（按 Hugo）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Hugo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 408d46c4352292e2c5ad4320675f0283fc65dc16
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d05c1839ed59c6308ab621f6e3114e262e6f4e4a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147962"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542971"
 ---
 # <a name="hugo"></a>Hugo
 
@@ -40,9 +41,8 @@ ms.locfileid: "62147962"
 | App 的使用條款 | [https://www.hugo.team/terms](https://www.hugo.team/terms) |
 | 應用程式的核心功能 | Hugo 是為使用 Microsoft Teams 的小組設計的會議、記事和工作 &#8211; 的一個位置。 Hugo 的以行事曆為中心的筆記記錄平臺可讓您和您的小組一個集中式會議議程和記事、工作和動作 &#8211; 所有由您所接觸的連絡人及公司自動組織，並聯機至您每天使用的 20 + 應用程式。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.hugo.team/teams](https://www.hugo.team/teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

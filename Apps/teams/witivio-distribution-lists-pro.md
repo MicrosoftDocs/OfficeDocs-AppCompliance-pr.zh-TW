@@ -2,18 +2,19 @@
 title: Witivio Pro 之通訊群組清單的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 通訊群組清單的所有可用安全性和符合性資訊資訊 Pro，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7b9e7dfb19e16df4388dde7664cb71724df963de
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 478b0fd266bebf07e809b2e2957bec5d89a15509
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259229"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543321"
 ---
 # <a name="distribution-lists-pro"></a>通訊群組清單專業人員
 
@@ -170,13 +171,13 @@ ms.locfileid: "62259229"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 委託 | 清單通訊群組清單 | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| 目前狀態為 [已讀取]。 | 委託 | 檢查清單中的人員是否存在 | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| User.Read | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| 電子郵件 | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| offline_access | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| openid | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
->| 設定檔 | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
+>| Group.Read.All | 委託 | 清單通訊群組清單 | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| 目前狀態為 [已讀取]。 | 委託 | 檢查清單中的人員是否存在 | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| User.Read | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| 電子郵件 | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| offline_access | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| openid | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
+>| 設定檔 | 委託 | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](../azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,12 +2,19 @@
 title: Elmah.io 的應用程式資訊（按 elmah.io）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: elmah.io 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: e3250fd5c8cbbc90aeaf33766f70bbb5b5573343
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544781"
 ---
 # <a name="elmahio"></a>elmah.io
 
@@ -34,7 +41,7 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 | App 的使用條款 | [https://elmah.io/legal/terms-of-use/](https://elmah.io/legal/terms-of-use/) |
 | 應用程式的核心功能 | elmah.io 是 .NET 網頁程式開發人員的錯誤記錄和正常運作監控服務。 elmah.io 會與所有主要網頁和記錄框架整合，並提供跨 web、Windows 及行動應用程式的廣泛監控體驗。 |
 | 公司 headquarter 位置 | 丹麥 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://docs.elmah.io/elmah-io-apps-teams/](https://docs.elmah.io/elmah-io-apps-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure，Aws |
 

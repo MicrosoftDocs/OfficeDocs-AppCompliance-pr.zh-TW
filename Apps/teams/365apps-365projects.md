@@ -2,12 +2,19 @@
 title: 365Projects 的應用程式資訊（按365Apps）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 365Projects 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 6a55ea670ee4fa1a1aed5c0968d477245e2a5712
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541341"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -35,7 +42,7 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 | 應用程式的核心功能 | 讓您的專案 &amp; Microsoft Teams 在一起
 建立 Project，將其連線至現有/新通道 |
 | 公司 headquarter 位置 | 澳洲 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://365projects.app](https://365projects.app) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -162,8 +169,8 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 工作。 ReadWrite | 委託 | 讀取和更新 planner 任務 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
->| User.Read | 委託 | 讀取使用者電子郵件 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| 工作。 ReadWrite | 委託 | 讀取和更新 planner 任務 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](../azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md) |
+>| User.Read | 委託 | 讀取使用者電子郵件 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](../azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md) |
 
 >此應用程式沒有額外的 APIs。
 

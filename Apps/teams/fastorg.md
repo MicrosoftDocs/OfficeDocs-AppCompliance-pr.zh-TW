@@ -2,18 +2,19 @@
 title: FastOrg 的應用程式資訊 &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: FastOrg 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 59fef5c8e9a5013bf7fea045fdc0e759b66950fc
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 2c31f6db2caf41880f93cc702fa4b9ee713fbb4c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200683"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542981"
 ---
 # <a name="fastorg"></a>FastOrg
 
@@ -40,9 +41,8 @@ ms.locfileid: "62200683"
 | App 的使用條款 | [https://www.dynamics365.cn/termofuse](https://www.dynamics365.cn/termofuse) |
 | 應用程式的核心功能 | &#33258;&#23450;&#20041;&#21019;&#24314;&#20225;&#19994;&#32452;&#32455;&#26550;&#26500;&#32479;&#19968;&#31649;&#29702;&#65292;&#24555;&#36895;&#22312;Microsoft Teams&#25214;&#21040;&#21516;&#20107;&#65292;&#20449;&#24687;&#20934;&#30830;&#12289;&#26041;&#20415;&#26597;&#38405;&#12290;&#23454;&#29616;&#32452;&#32455;&#26550;&#26500;&#25153;&#24179;&#21270;&#12289;&#21487;&#35270;&#21270;&#12290; |
 | 公司 headquarter 位置 | 中國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.dynamics365.cn/fastorgs](https://www.dynamics365.cn/fastorgs) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

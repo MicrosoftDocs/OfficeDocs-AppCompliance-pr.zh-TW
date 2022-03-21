@@ -2,18 +2,19 @@
 title: Ataira 的應用程式資訊 Power BI 協同作業
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，如 Power BI 共同作業、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0a9910819ced16e17b9205aaf4e0b6b89be22d67
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 21f5d2a0738a062bf227efeb55e6a260bbfb7009
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254905"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541791"
 ---
 # <a name="power-bi-collaboration"></a>Power BI 共同作業
 
@@ -40,8 +41,9 @@ ms.locfileid: "62254905"
 | App 的使用條款 | [https://www.ataira.com/TermsofUse](https://www.ataira.com/TermsofUse) |
 | 應用程式的核心功能 | Ataira 增益集可讓您查看 Power BI 的儀表板和報告。 將通知傳送給您的公司群組和團隊、新增後續動作、嵌入 Power BI 公用連結、將批註新增至報告中的資料點，以及將資料檔當做資料來源新增至您的 Power BI 報告和即時更新。 讓您的商務智慧小組能夠更緊密地在一個位置的商務智慧工作進行共同作業。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.ataira.com/Microsoft/PowerBI/Collaboration](https://www.ataira.com/Microsoft/PowerBI/Collaboration) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62254905"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,7 +162,7 @@ ms.locfileid: "62254905"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 也是 ChannelMessage 的許可權。請傳送 ReadBasic。所有的使用者. 讀取。 這些可用來允許使用者選取 Teams 群組和通知通道 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5) |
+>| User.Read | 委託 | 也是 ChannelMessage 的許可權。請傳送 ReadBasic。所有的使用者. 讀取。 這些可用來允許使用者選取 Teams 群組和通知通道 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](../azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) |
 
 >此應用程式沒有額外的 APIs。
 

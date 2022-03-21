@@ -2,18 +2,19 @@
 title: Moneypenny 依 CALLITECH 限制的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Moneypenny 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f40e36c1025e03a250505be381ff811dce0aa95b
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 4b7e370285a211225c888b1796e20c89453fc1a3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255819"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540591"
 ---
 # <a name="moneypenny"></a>Moneypenny
 
@@ -170,8 +171,8 @@ CALLITECH 提供此資訊的方式是限制此應用程式如何收集和儲存�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AccessMedia 所有 | 應用程式 | 若要將媒體從 Bot 傳輸至 Teams 使用者 | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](https://docs.microsoft.com/microsoft-365-app-certification/azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1) |
->| 呼叫。 Initiate 所有 | 應用程式 | 透過 Bot 撥打 Teams 使用者 | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](https://docs.microsoft.com/microsoft-365-app-certification/azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1) |
+>| AccessMedia 所有 | 應用程式 | 若要將媒體從 Bot 傳輸至 Teams 使用者 | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](../azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1.md) |
+>| 呼叫。 Initiate 所有 | 應用程式 | 透過 Bot 撥打 Teams 使用者 | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](../azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1.md) |
 
 >此應用程式沒有額外的 APIs。
 

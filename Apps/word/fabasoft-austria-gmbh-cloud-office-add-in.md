@@ -2,18 +2,19 @@
 title: Fabasoft 奧地利 GmbH 的 Fabasoft Cloud Office 增益集的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Fabasoft Cloud Office 增益集、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊的所有可用安全性和符合性資訊資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ebd7a4f5bc9b99a84178204862d6be573d962365
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: ffa37aebbe02e7583b967712fc1ce6ca96dc36e9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200747"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541201"
 ---
 # <a name="fabasoft-cloud-office-add-in"></a>Fabasoft Cloud Office 增益集
 
@@ -39,9 +40,8 @@ Fabasoft 奧地利 GmbH 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.fabasoft.com/terms-of-use](https://www.fabasoft.com/terms-of-use) |
 | 應用程式的核心功能 | 從 Fabasoft Business Process Cloud 共用您的商務資料 |
 | 公司 headquarter 位置 | 奧地利 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.fabasoft.com/fabasoft-business-process-cloud](https://www.fabasoft.com/fabasoft-business-process-cloud) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +56,7 @@ Fabasoft 奧地利 GmbH 所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

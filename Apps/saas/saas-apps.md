@@ -3,17 +3,17 @@ title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/11/2022
+ms.date: 03/17/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 9a851a30b2f80f7ba63d707a0db5b7c23e09acb8
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 0ae1c24acacfb5e6977c0f766f2abbf937d6369b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63458296"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540641"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -58,6 +58,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Talkdesk Microsoft Teams 連接器](./talkdesk-inc-microsoft-teams-connector.md) | Talkdesk，Inc.。 | **✓** |  |
 | [範本選擇程式](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [範本選擇器瀏覽器](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [對 Teams 影片的 Theta Lake 錄製 &amp; 符合性](./theta-lake-recording-and-compliance-for-teams-video.md) | Theta Lake | **✓** |  |
 | [上傳者](./officeatwork-uploader.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [驗證](./officeatwork-verifier.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [廣泛的創意-創新軟體](./wide-ideasidea2innovation-ideas-innovation-software.md) | 廣泛的創意/Idea2Innovation | **✓** |  |

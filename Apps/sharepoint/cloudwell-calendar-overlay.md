@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星形登錄中，行事曆覆蓋的所有可用安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a623b5e2887f0e08cdf5939e63dabd91ca47033a
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 9cf8d0d45c519fb22188b220bd2dff932f834591
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63454269"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543131"
 ---
 # <a name="calendar-overlay"></a>行事曆疊加
 
@@ -61,7 +61,7 @@ ms.locfileid: "63454269"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者的電子郵件地址、使用者租使用者識別碼 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |

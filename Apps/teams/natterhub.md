@@ -2,18 +2,19 @@
 title: Natterhub 的應用程式資訊（按 Natterhub）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Natterhub 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fd0c03b20732f7f83d9d6738779f011a4272d6db
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8cce96e9f542f1b9ed160f9cfb83b01c073f8239
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256485"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544301"
 ---
 # <a name="natterhub"></a>Natterhub
 
@@ -40,7 +41,7 @@ ms.locfileid: "62256485"
 | App 的使用條款 | [https://natterhub.com/legal](https://natterhub.com/legal) |
 | 應用程式的核心功能 | Natterhub 是線上安全性和媒體 literacy hub。 其設計目的是教育學生陳舊的5-11，以安全且精通線上，Natterhub 使用以 impactful 互動課程和活動為目標的封閉、沉浸式社交媒體樣式平臺。 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://natterhub.com](https://natterhub.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
@@ -171,12 +172,12 @@ ms.locfileid: "62256485"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| EduAssignments ReadWrite | 委託 | 建立工作分派提交所需 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| User.Read | 委託 | 讀取使用者的名字和姓氏時必須填寫的名字 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| 電子郵件 | 委託 | 我們需要此許可權，使用者才能收到事務性電子郵件 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| offline_access | 委託 | 送出指派提交的必要 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| openid | 委託 | 識別使用者所需 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| 設定檔 | 委託 | 讀取使用者的名字和姓氏時必須填寫的名字 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| EduAssignments ReadWrite | 委託 | 建立工作分派提交所需 | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| User.Read | 委託 | 讀取使用者的名字和姓氏時必須填寫的名字 | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| 電子郵件 | 委託 | 我們需要此許可權，使用者才能收到事務性電子郵件 | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| offline_access | 委託 | 送出指派提交的必要 | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| openid | 委託 | 識別使用者所需 | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| 設定檔 | 委託 | 讀取使用者的名字和姓氏時必須填寫的名字 | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
 
 >此應用程式沒有額外的 APIs。
 

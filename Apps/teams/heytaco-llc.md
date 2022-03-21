@@ -2,18 +2,19 @@
 title: HeyTaco by HeyTaco 的應用程式資訊，LLC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: HeyTaco 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 43fa80b9334baaeb92d699ae6993e29fe44944e4
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
+ms.openlocfilehash: 1d409065a274e91d20b61fcd4e913bbaddd70f27
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62337979"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543671"
 ---
 # <a name="heytaco"></a>HeyTaco
 
@@ -35,7 +36,7 @@ ms.locfileid: "62337979"
 | 應用程式名稱 | HeyTaco |
 | ID | WA200001346 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | HeyTaco、LLC |
+| 合作夥伴公司名稱 | HeyTaco, LLC |
 | 公司的網站 | [https://www.heytaco.chat](https://www.heytaco.chat) |
 | App 的使用條款 | [https://www.heytaco.chat/terms](https://www.heytaco.chat/terms) |
 | 應用程式的核心功能 | HeyTaco！ 透過 inspiring 積極的通訊，以及透過辨識、欣賞和獎勵，以協助建立更強大的公司文化。 每天，每個人都有5個 tacos 可授與其他小組成員。 Tacos 會提供給您感激和辨識所有來自小型 wins 的專案，以獲得大量的成就。 然後，使用者可以使用其應計 tacos 來兌換您已建立的激動人心的個人或小組獎勵。 |
@@ -168,9 +169,9 @@ ms.locfileid: "62337979"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 電子郵件 | 委託 | 若要組織使用者資料 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
->| openid | 委託 | 允許人員登入索引標籤 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
->| 設定檔 | 委託 | 儲存使用者的設定檔資訊 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| 電子郵件 | 委託 | 若要組織使用者資料 | [be8d11cf-265a-4974-9912-4ff28c29fc21](../azure/be8d11cf-265a-4974-9912-4ff28c29fc21.md) |
+>| openid | 委託 | 允許人員登入索引標籤 | [be8d11cf-265a-4974-9912-4ff28c29fc21](../azure/be8d11cf-265a-4974-9912-4ff28c29fc21.md) |
+>| 設定檔 | 委託 | 儲存使用者的設定檔資訊 | [be8d11cf-265a-4974-9912-4ff28c29fc21](../azure/be8d11cf-265a-4974-9912-4ff28c29fc21.md) |
 
 >此應用程式沒有額外的 APIs。
 
