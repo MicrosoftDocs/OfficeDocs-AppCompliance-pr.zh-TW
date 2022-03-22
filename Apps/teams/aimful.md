@@ -2,20 +2,21 @@
 title: Aimful 的應用程式資訊（按 Aimful）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Aimful 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ec08bb1f91c332cd0cde36d199566a4b06cc4816
-ms.sourcegitcommit: 58f40775dd4adee3a6037a74e4ccd98823f4832c
+ms.openlocfilehash: ec3fbf394e219d7d7b3b108e70186510bd6d6a31
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2022
-ms.locfileid: "62306060"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551632"
 ---
-# <a name="aimful"></a>Aimful
+# <a name="aimful"></a>有目標
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,15 +33,15 @@ ms.locfileid: "62306060"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Aimful |
+| 應用程式名稱 | 有目標 |
 | ID | WA200003698 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Aimful |
+| 合作夥伴公司名稱 | 有目標 |
 | 公司的網站 | [https://aimful.io](https://aimful.io) |
 | App 的使用條款 | [https://aimful.io/terms-and-conditions/](https://aimful.io/terms-and-conditions/) |
 | 應用程式的核心功能 | Aimful 鼓勵小組或公司中的會議文化環境轉換  |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://aimful.io/how-it-works/](https://aimful.io/how-it-works/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
@@ -170,8 +171,8 @@ ms.locfileid: "62306060"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 存取行事曆事件 | [93544582-de9c-42a0-baa5-df3d25e9bd48](https://docs.microsoft.com/microsoft-365-app-certification/azure/93544582-de9c-42a0-baa5-df3d25e9bd48) |
->| MailboxSettings 讀取 | 委託 | 存取使用者的時區 | [93544582-de9c-42a0-baa5-df3d25e9bd48](https://docs.microsoft.com/microsoft-365-app-certification/azure/93544582-de9c-42a0-baa5-df3d25e9bd48) |
+>| ReadWrite 的行事曆 | 委託 | 存取行事曆事件 | [93544582-de9c-42a0-baa5-df3d25e9bd48](../azure/93544582-de9c-42a0-baa5-df3d25e9bd48.md) |
+>| MailboxSettings 讀取 | 委託 | 存取使用者的時區 | [93544582-de9c-42a0-baa5-df3d25e9bd48](../azure/93544582-de9c-42a0-baa5-df3d25e9bd48.md) |
 
 >此應用程式沒有額外的 APIs。
 

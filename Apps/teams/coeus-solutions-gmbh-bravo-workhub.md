@@ -2,18 +2,19 @@
 title: BRAVO Workhub 的應用程式資訊，由 Coeus 方案 GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: BRAVO Workhub 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c42e3e6cd8cefbcd58be7b43a68600fd312a4922
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: b920f758182f748d97b7002f05bf680102a874b0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449867"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551592"
 ---
 # <a name="bravo-workhub"></a>BRAVO Workhub
 
@@ -35,7 +36,7 @@ Coeus 解決方案所提供的資訊 GmbH 至 Microsoft：
 | 應用程式名稱 | BRAVO Workhub |
 | ID | WA200003694 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Coeus 解決方案 GmbH |
+| 合作夥伴公司名稱 | Coeus Solutions GmbH |
 | 公司的網站 | [https://getbravo.io](https://getbravo.io) |
 | App 的使用條款 | [https://getbravo.io/terms-and-conditions](https://getbravo.io/terms-and-conditions) |
 | 應用程式的核心功能 | 使用與 BRAVO 的 Microsoft Teams 整合，讓對等獎勵輕鬆。 |

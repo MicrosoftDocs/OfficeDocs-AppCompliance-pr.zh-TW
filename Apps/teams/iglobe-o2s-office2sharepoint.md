@@ -2,18 +2,19 @@
 title: O2S-Office2SharePoint 的應用程式資訊（由 iGlobe）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: O2S-Office2SharePoint 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 16ad82f70ea0765da6910cc5073bb4dbdfc1cd00
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: fcb03e4fa1b956f1d5ae49282d15372e9b8fa701
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63075507"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551482"
 ---
 # <a name="o2s---office2sharepoint"></a>O2S - Office2SharePoint
 
@@ -39,7 +40,7 @@ ms.locfileid: "63075507"
 | App 的使用條款 | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
 | 應用程式的核心功能 | 跨 Microsoft Teams、SharePoint、Outlook、Office 和 OneDrive 提供整合的 Microsoft 365 使用者體驗，讓您的日常工作變得更容易。  |
 | 公司 headquarter 位置 | 丹麥 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://o2s.iglobe.dk](https://o2s.iglobe.dk) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -56,14 +57,7 @@ ms.locfileid: "63075507"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -168,17 +162,54 @@ ms.locfileid: "63075507"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.Read.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.ReadWrite.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.Read.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.ReadWrite.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| 管理的網站。所有 | 委託 | 允許應用程式代表登入的使用者在所有網站集合中建立或刪除文件庫和清單。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Read.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.ReadWrite.All | 委託 | 取得許可權並取得網站與清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| User.Read | 委託 | 若要取得使用者 SharePoint 網站、OneDrive 和群組網站。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.AccessAsUser.All | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Directory.Read.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Directory.ReadWrite.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Group.Read.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Group.ReadWrite.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| 管理的網站。所有 | 委託 | 允許應用程式代表登入的使用者在所有網站集合中建立或刪除文件庫和清單。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.Read.All | 委託 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.ReadWrite.All | 委託 | 取得許可權並取得網站與清單。 建立資料夾、取得檔及儲存檔案。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| User.Read | 委託 | 若要取得使用者 SharePoint 網站、OneDrive 和群組網站。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
 
 >此應用程式沒有額外的 APIs。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性漏洞評估審查 (DAST/SAST/滲透測試)  | 不適用 |
+| [**運作安全性**](../docs/certification-submission-guide.md#operational-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-防毒程式 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-風險排名 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-修補程式 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-防火牆 (或同等技術)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-Web 應用程式防火牆 (WAFs)  (選用)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全的軟體發展/部署 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入偵測及防護 (選用)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢查 (記錄資料)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;靜態資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留與處置 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

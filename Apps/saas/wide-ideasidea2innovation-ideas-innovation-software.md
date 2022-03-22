@@ -2,18 +2,19 @@
 title: 廣泛創意-創新軟體的應用程式資訊，寬創意/Idea2Innovation
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于廣泛創意-創新軟體的安全性和合規性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d5bbf1d032d5537dab0775522f80d83a472db661
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 60d577d402e68c31f10ed0e5f73ea92f047dfc73
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251199"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550822"
 ---
 # <a name="wide-ideas---innovation-software"></a>廣泛的創意-創新軟體
 
@@ -40,7 +41,6 @@ ms.locfileid: "62251199"
 | 公司 headquarter 位置 | 瑞典 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -168,12 +168,12 @@ ms.locfileid: "62251199"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 通道。建立 | 委託 | 可讓整個觀點的系統管理中心，代表登入的使用者在任何小組中建立通道。  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| Directory.Read.All | 委託 | 可讓整個觀點的系統管理中心讀取組織中的資料&#8217;s 目錄，例如使用者、群組和應用程式 | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| Group.Read.All | 委託 | 允許廣泛的創意系統管理中心列出群組，並代表登入的使用者讀取其屬性和所有群組成員資格 | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| TeamsAppInstallation.ReadWriteForTeam | 委託 | 可讓整個觀點的系統管理中心讀取、安裝、升級和卸載已登入的使用者可以存取之小組中的 Teams 應用程式。  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| TeamsTab。建立 | 委託 |  可讓寬創意的系統管理中心，代表登入的使用者在 Microsoft Teams 中的任何小組中建立索引標籤。 | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| User.Read | 委託 | 允許使用者登入廣泛的創意系統管理中心，並允許此應用程式讀取登入使用者的設定檔。  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| 通道。建立 | 委託 | 可讓整個觀點的系統管理中心，代表登入的使用者在任何小組中建立通道。  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| Directory.Read.All | 委託 | 可讓整個觀點的系統管理中心讀取組織中的資料&#8217;s 目錄，例如使用者、群組和應用程式 | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| Group.Read.All | 委託 | 允許廣泛的創意系統管理中心列出群組，並代表登入的使用者讀取其屬性和所有群組成員資格 | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| TeamsAppInstallation.ReadWriteForTeam | 委託 | 可讓整個觀點的系統管理中心讀取、安裝、升級和卸載已登入的使用者可以存取之小組中的 Teams 應用程式。  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| TeamsTab。建立 | 委託 |  可讓寬創意的系統管理中心，代表登入的使用者在 Microsoft Teams 中的任何小組中建立索引標籤。 | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| User.Read | 委託 | 允許使用者登入廣泛的創意系統管理中心，並允許此應用程式讀取登入使用者的設定檔。  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
 
 >此應用程式沒有額外的 APIs。
 

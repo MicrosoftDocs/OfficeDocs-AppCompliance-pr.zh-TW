@@ -2,18 +2,19 @@
 title: Powell 軟體 Teams 之 Powell 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Powell Teams 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4ba6c53634c49e2609769315ea94efefedc4e43a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7245730e77597a9d22c387f3001990786ea1f827
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259344"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550071"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -38,10 +39,11 @@ Powell 軟體所提供的資訊給 Microsoft：
 | 合作夥伴公司名稱 | Powell Software |
 | 公司的網站 | [https://www.powell-software.com](https://www.powell-software.com) |
 | App 的使用條款 | [https://powell-software.com/en/powell-teams-terms-of-use/](https://powell-software.com/en/powell-teams-terms-of-use/) |
-| 應用程式的核心功能 | Powell Teams 應用程式提供所有公司員工的智慧儀表板，協助他們輕鬆組織標籤 &amp; 所有小組，以找出最重要的促銷公司小組，最後使用預先定義的以角色為基礎的小組範本，以節省時間。 您也可以使用 API，在 Powell Teams 資料庫 (中檢索及使用資料集 https://docapiteams.powell-software.com) 。最後也可以使用 Power Automate 邏輯應用程式和的連接器 (https://docs.microsoft.com/en-us/connectors/powellteams) |
+| 應用程式的核心功能 | Powell Teams 應用程式提供所有公司員工的智慧儀表板，協助他們輕鬆組織 &amp; 標籤所有小組，以找出最重要的促銷公司小組，最後使用預先定義的以角色為基礎的小組範本，以節省時間。 您也可以使用 API，在 Powell Teams 資料庫 (https://docapiteams.powell-software.com) 中檢索及使用資料集。最後也可以使用 Power Automate 邏輯應用程式和的連接器 (https://docs.microsoft.com/en-us/connectors/powellteams) |
 | 公司 headquarter 位置 | 法國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Powell 軟體會提供此資訊，此應用程式是關於此應用程式如何�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ Powell 軟體會提供此資訊，此應用程式是關於此應用程式如何�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Group.ReadWrite.All | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| 已讀取記事。所有 | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| ReadWrite。 | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Sites.Read.All | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| User.Read.All | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
+>| Directory.AccessAsUser.All | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Group.ReadWrite.All | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| 已讀取記事。所有 | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| ReadWrite。 | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Sites.Read.All | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| User.Read.All | 委託 | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
 
 >此應用程式沒有額外的 APIs。
 

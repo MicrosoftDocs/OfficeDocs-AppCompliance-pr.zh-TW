@@ -2,18 +2,19 @@
 title: DewMaker Design，Inc. 的防火牆助理應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星形登錄中，防火牆助理的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e9cf30e4f4b283cb1da66dfb40e5a3c9745901c6
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: ef5b9990a4c9cd5338172c45b61f5612f1d4f54a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62477521"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550251"
 ---
 # <a name="firewall-assistant"></a>防火牆助理
 
@@ -35,12 +36,12 @@ DewMaker 設計，Inc. 提供給 Microsoft 的資訊：
 | 應用程式名稱 | 防火牆助理 |
 | ID | WA200003363 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | DewMaker 設計，Inc.。 |
+| 合作夥伴公司名稱 | DewMaker Design, Inc. |
 | 公司的網站 | [https://dewmaker.com](https://dewmaker.com) |
 | App 的使用條款 | [https://teamwell.services/terms.html](https://teamwell.services/terms.html) |
 | 應用程式的核心功能 | 使用 Microsoft Teams 進行 Azure SQL Server 防火牆規則的自我服務管理。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://firewallassistant.com](https://firewallassistant.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 

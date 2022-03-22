@@ -2,18 +2,19 @@
 title: 365的應用程式資訊-依 Advantive 的 QA
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 365-QA 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a0150c10a05a04039a8d7c9132caea0a63068b4d
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 58553b5a12cc0c6d17710bce98179385582fc8d9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200559"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551652"
 ---
 # <a name="365-qa"></a>365-QA
 
@@ -40,7 +41,7 @@ ms.locfileid: "62200559"
 | App 的使用條款 | [https://www.advantive.be/terms-of-service-en/](https://www.advantive.be/terms-of-service-en/) |
 | 應用程式的核心功能 | Advantive 是 ICT 專業人員的 enthusiastic 小組，其使用 Microsoft 技術來開發及實施創新的 ICT 解決方案。 我們會根據標準 Microsoft 功能提供高品質的建議、產品和服務。 這可讓 Adventive&#8217;s 客戶提高效率，並利用快速變化的情況。 我們的核心業務是提供服務，包含建議、開發、實施、專案支援和維護。 |
 | 公司 headquarter 位置 | 比利時 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.advantive.be/365-qa-how-to/](https://www.advantive.be/365-qa-how-to/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -57,14 +58,7 @@ ms.locfileid: "62200559"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

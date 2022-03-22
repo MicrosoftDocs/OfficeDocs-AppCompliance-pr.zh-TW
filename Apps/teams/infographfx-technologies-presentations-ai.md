@@ -2,18 +2,19 @@
 title: 透過 Infographfx 技術之簡報 AI 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用於簡報 AI 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 72498844d44ff523c76e5f79f69ddffc28ad648b
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 31add03f9e3670ada62ebb123abc34b266ecdb88
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260611"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550091"
 ---
 # <a name="presentations-ai"></a>Presentations AI
 

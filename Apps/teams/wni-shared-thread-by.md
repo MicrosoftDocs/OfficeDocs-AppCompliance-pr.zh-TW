@@ -2,20 +2,21 @@
 title: 共用執行緒的應用程式資訊，由 WNI 依 WNI
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/09/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 共用執行緒的所有可用安全性和符合性資訊資訊 WNI，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2a67cbfa1249229304794d1c6e6e2165c9d7fe80
-ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
+ms.openlocfilehash: eece113c1b859fee7c1e196019be37412f021a8d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62512618"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551232"
 ---
-# <a name="shared-thread-by-wni"></a>透過 WNI 的共用執行緒
+# <a name="shared-thread-by-wni"></a>WNI 的共用對話
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ ms.locfileid: "62512618"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 透過 WNI 的共用執行緒 |
+| 應用程式名稱 | WNI 的共用對話 |
 | ID | WA200003755 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | WNI |
@@ -40,7 +41,7 @@ ms.locfileid: "62512618"
 | App 的使用條款 | [https://www.wni.app/terms](https://www.wni.app/terms) |
 | 應用程式的核心功能 | 會在 Microsoft Teams 通道中建立交談，該頻道可以與其他 Microsoft Teams 通道中的交談連結，或在寬限時間內的執行緒。  設定後，  |
 | 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.wni.app/shared-thread/](https://www.wni.app/shared-thread/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -61,7 +62,7 @@ ms.locfileid: "62512618"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者設定檔資料 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 加拿大 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |

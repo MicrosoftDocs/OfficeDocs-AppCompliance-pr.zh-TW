@@ -2,18 +2,19 @@
 title: 透過閃電工具進行社交方形討論論壇的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于社交方形論壇的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 692c53d52f0a31717b2f263d8d3b452c1bf7e540
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ddb338b61c19918ab32409b55256349e40c265fa
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081129"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551682"
 ---
 # <a name="social-squared-discussion-forums"></a>社交方形討論論壇
 
@@ -39,7 +40,7 @@ ms.locfileid: "63081129"
 | App 的使用條款 | [https://lightningtools.com/lightning-tools-social-squared-c...](https://lightningtools.com/lightning-tools-social-squared-client-side-web-part-software-license-agreement) |
 | 應用程式的核心功能 | Microsoft Teams 和 Microsoft SharePoint 的討論區應用程式 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://lightningtools.com/product/social-squared-sharepoin...](https://lightningtools.com/product/social-squared-sharepoint-discussion-board) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -56,14 +57,7 @@ ms.locfileid: "63081129"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,9 +161,9 @@ ms.locfileid: "63081129"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | 應用程式 | 若要為群組成員訂閱論壇文章 | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| 目前狀態為 [已讀取]。 | 應用程式 | 在討論區使用者設定檔中顯示使用者目前狀態 | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| User.ReadBasic.All | 應用程式 | 決定使用者的頭銜和電子郵件的通知 | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
+>| Group.ReadWrite.All | 應用程式 | 若要為群組成員訂閱論壇文章 | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| 目前狀態為 [已讀取]。 | 應用程式 | 在討論區使用者設定檔中顯示使用者目前狀態 | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| User.ReadBasic.All | 應用程式 | 決定使用者的頭銜和電子郵件的通知 | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
 
 >此應用程式沒有額外的 APIs。
 

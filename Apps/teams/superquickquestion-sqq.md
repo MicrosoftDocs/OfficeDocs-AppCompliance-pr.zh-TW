@@ -2,18 +2,19 @@
 title: SQQ 的應用程式資訊（按 SuperQuickQuestion）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SQQ 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0dfeb1cc7cf0cbc593cb2cfa2f897bd299963236
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d9a92e995202636c4a5439385b89a217b570747d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251658"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550051"
 ---
 # <a name="sqq"></a>SQQ
 
@@ -40,7 +41,7 @@ ms.locfileid: "62251658"
 | App 的使用條款 | [https://superquickquestion.com/termsofuse](https://superquickquestion.com/termsofuse) |
 | 應用程式的核心功能 | SuperQuickQuestion 是一種即時的一對一影片會議平臺，具有60秒的時間限制。 我們想要鼓勵更具成效的交談、避免不必要的會議，以及協助您增加您的行事曆速度並回收您的行事曆速度（一次一分鐘）。 當有人在會議中花費大量時間進行會議，而有十二個人企圖相互交談時，可能會證實、更長的會議不一定要有更多的共同作業，而且&#8217;的 SQQ 可提供協助。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://superquickquestion.com/UserGuide/msteams](https://superquickquestion.com/UserGuide/msteams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,9 +171,9 @@ ms.locfileid: "62251658"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 委託 | 取得聊天中的參與者人數 | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
->| User.Read | 委託 | 讀取使用者租使用者名稱 | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
->| openid | 委託 | 登入來自應用程式的使用者，以存取 Graph 端點 | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
+>| ReadBasic | 委託 | 取得聊天中的參與者人數 | [25379fc8-577f-4935-b681-6f027977fbe3](../azure/25379fc8-577f-4935-b681-6f027977fbe3.md) |
+>| User.Read | 委託 | 讀取使用者租使用者名稱 | [25379fc8-577f-4935-b681-6f027977fbe3](../azure/25379fc8-577f-4935-b681-6f027977fbe3.md) |
+>| openid | 委託 | 登入來自應用程式的使用者，以存取 Graph 端點 | [25379fc8-577f-4935-b681-6f027977fbe3](../azure/25379fc8-577f-4935-b681-6f027977fbe3.md) |
 
 >此應用程式沒有額外的 APIs。
 

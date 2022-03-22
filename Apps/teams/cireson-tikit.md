@@ -2,18 +2,19 @@
 title: Tikit 的應用程式資訊（按 Cireson）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Tikit 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 69551224968b55d4e3731f02b0578157a15bd038
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ae9c1f81ddd6caf63faf498bb8691fcf2f638328
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259834"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552192"
 ---
 # <a name="tikit"></a>Tikit
 
@@ -40,7 +41,7 @@ ms.locfileid: "62259834"
 | App 的使用條款 | [https://tikit.ai/terms-service/](https://tikit.ai/terms-service/) |
 | 應用程式的核心功能 | 專為 Teams 建立的 Microsoft-First 票證 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://tikit.ai](https://tikit.ai) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -171,15 +172,15 @@ ms.locfileid: "62259834"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 委託 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| Directory.Read.All | 委託 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| Group.Read.All | 包括 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| User.Read | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| User.Read.All | 應用程式 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| User.ReadBasic.All | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| 電子郵件 | 委託 | 登入許可權 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| openid | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
->| 設定檔 | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Directory.AccessAsUser.All | 委託 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
+>| Directory.Read.All | 委託 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
+>| Group.Read.All | 包括 | 用於讀取應用程式中 RBAC 的角色指派 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
+>| User.Read | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
+>| User.Read.All | 應用程式 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
+>| User.ReadBasic.All | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
+>| 電子郵件 | 委託 | 登入許可權 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
+>| openid | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
+>| 設定檔 | 委託 | 登入 | [b13c40ee-e073-459e-96b5-3f3cca046a37](../azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md) |
 
 >此應用程式沒有額外的 APIs。
 

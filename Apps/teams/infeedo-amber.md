@@ -2,18 +2,19 @@
 title: 以 inFeedo 為琥珀色的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如琥珀色光，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 40f2b84e7ae47179d05f2f9164ca0531d6232d9c
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 82e5db9628dd3cf37ed3dea01ea47c402fbea466
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148029"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550201"
 ---
 # <a name="amber"></a>琥珀
 
@@ -40,7 +41,7 @@ ms.locfileid: "62148029"
 | App 的使用條款 | [https://infeedo.com/terms-and-conditions](https://infeedo.com/terms-and-conditions) |
 | 應用程式的核心功能 | 員工經驗平臺 |
 | 公司 headquarter 位置 | 印度 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://help.infeedo.com/docs](https://help.infeedo.com/docs) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
@@ -57,14 +58,7 @@ ms.locfileid: "62148029"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -155,16 +149,16 @@ ms.locfileid: "62148029"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 否 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 否 |
+| 您的應用程式會與 Microsoft Identity Platform (Azure AD) 整合，以進行單一登入、API 存取等等？ | 否 |
+| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？ | 否 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
 | 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
-| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
->此應用程式不會使用 Microsoft Graph。
+>此應用程式不使用 Microsoft Graph。
 
 >此應用程式沒有額外的 APIs。
 

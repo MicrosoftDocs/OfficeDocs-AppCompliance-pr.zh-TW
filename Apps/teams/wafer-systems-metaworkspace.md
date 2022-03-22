@@ -2,18 +2,19 @@
 title: MetaWorkspace by Wafer 系統的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MetaWorkspace 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2ff321cba44fc8a215d4e34a4137f04f0df61b9b
-ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
+ms.openlocfilehash: ec73594e395334bbd1d2a50bad2ba80881be87b1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62510542"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551242"
 ---
 # <a name="metaworkspace"></a>MetaWorkspace
 
@@ -61,7 +62,7 @@ Wafer 系統會提供此資訊，此應用程式會如何收集和儲存組織�
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者名稱、電子郵件 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 中國 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 未保留 |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -169,7 +170,7 @@ Wafer 系統會提供此資訊，此應用程式會如何收集和儲存組織�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 應用程式 | &#23637;&#31034;&#29992;&#25143;&#20449;&#24687; | [43067020-c59f-49f8-a532-e84ed3bb5f4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/43067020-c59f-49f8-a532-e84ed3bb5f4e) |
+>| User.Read | 應用程式 | &#23637;&#31034;&#29992;&#25143;&#20449;&#24687; | [43067020-c59f-49f8-a532-e84ed3bb5f4e](../azure/43067020-c59f-49f8-a532-e84ed3bb5f4e.md) |
 
 >此應用程式沒有額外的 APIs。
 

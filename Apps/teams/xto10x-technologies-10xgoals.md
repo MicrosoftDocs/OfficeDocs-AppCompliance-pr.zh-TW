@@ -2,18 +2,19 @@
 title: 10xGoals by xto10x 技術所用的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 10xGoals 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8acb2ece81bdc708a312f6f8b2edcde4f5c8f017
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2fda37a1743a20fe894b402abf7435a4438374fa
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259194"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551212"
 ---
 # <a name="10xgoals"></a>10xGoals
 
@@ -40,8 +41,9 @@ Xto10x 技術所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.xto10x.com/security/terms-of-use/](https://www.xto10x.com/security/terms-of-use/) |
 | 應用程式的核心功能 | 10xGoals 是一種工具，可利用小組範圍的焦點、對齊、共同作業和可見度，推動策略的執行。 透過 10xGoals &lt; &gt; Microsoft Teams 整合，一種方式可以在這裡管理整個執行。 首先，使用者可以接受/拒絕/謝絕對其所指派目標的意見，以更好地管理其時間。 若要使用此應用程式，使用者必須具備使用中10xGoals 訂閱。 |
 | 公司 headquarter 位置 | 印度 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.xto10x.com/10xgoals/](https://www.xto10x.com/10xgoals/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Xto10x 技術所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 保留 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ Xto10x 技術所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 應用程式 | 使用者已回遷電子郵件和 azure 識別碼，讓應用程式可以主動為組織的所有使用者安裝應用程式。  | [950aa4fb-0583-4b13-9b5f-bbc92b9cc376](https://docs.microsoft.com/microsoft-365-app-certification/azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376) |
->| TeamsAppInstallation ReadWriteSelfForUser 所有 | 應用程式 | 這是必要的，讓應用程式可以為系統管理員提取已安裝的 teamsAppDefinition，然後為組織的所有使用者主動自行安裝。  | [950aa4fb-0583-4b13-9b5f-bbc92b9cc376](https://docs.microsoft.com/microsoft-365-app-certification/azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376) |
+>| Directory.Read.All | 應用程式 | 使用者已回遷電子郵件和 azure 識別碼，讓應用程式可以主動為組織的所有使用者安裝應用程式。  | [950aa4fb-0583-4b13-9b5f-bbc92b9cc376](../azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md) |
+>| TeamsAppInstallation ReadWriteSelfForUser 所有 | 應用程式 | 這是必要的，讓應用程式可以為系統管理員提取已安裝的 teamsAppDefinition，然後為組織的所有使用者主動自行安裝。  | [950aa4fb-0583-4b13-9b5f-bbc92b9cc376](../azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md) |
 
 >此應用程式沒有額外的 APIs。
 

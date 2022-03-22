@@ -2,18 +2,19 @@
 title: Weekdone by Weekdone 有限公司的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Weekdone 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 985903d0dc0fec410280778ff78febee9139aa6b
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: a6d5ef2562dae0f88aa3e9683aaf20296603bee4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200715"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550472"
 ---
 # <a name="weekdone"></a>Weekdone
 
@@ -40,7 +41,7 @@ ms.locfileid: "62200715"
 | App 的使用條款 | [https://weekdone.com/terms-of-service](https://weekdone.com/terms-of-service) |
 | 應用程式的核心功能 | 查看和更新每週簽入和 OKRs，並取得更新通知 |
 | 公司 headquarter 位置 | 愛沙尼亞 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://weekdone.com/integrations/microsoft-teams](https://weekdone.com/integrations/microsoft-teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | 其他 |
 

@@ -2,18 +2,19 @@
 title: Captivate Hub 的應用程式資訊，由 Captivate IO 有限公司
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Captivate Hub 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b6e6f108456dff5759d7b7b0505fd9d33fd97a56
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b809799dd2d5f20b347005d164218055462318dc
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155266"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551622"
 ---
 # <a name="the-captivate-hub"></a>Captivate 中樞
 
@@ -40,7 +41,7 @@ ms.locfileid: "62155266"
 | App 的使用條款 | [https://captivat.io/tos](https://captivat.io/tos) |
 | 應用程式的核心功能 | Captivate Hub 是一種無程式碼的可擴展系統，其設計目的是為了支援跨多個管道的人體/機器交談。 它支援多廠商數位助理和許多即時聊天解決方案。 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://manual.captivat.io/docs/teams](https://manual.captivat.io/docs/teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | IBMCloud |
 

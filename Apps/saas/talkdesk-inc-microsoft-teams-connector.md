@@ -2,18 +2,19 @@
 title: Talkdesk，inc. Talkdesk Microsoft Teams Connector 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Talkdesk Microsoft Teams Connector 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8f64011c4e6d1e5a7cfa385a89925bcac27ca6b8
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: dd59c9e9902f0c3dbd975efc711cc4c63dfa2f5f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795768"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550391"
 ---
 # <a name="talkdesk-microsoft-teams-connector"></a>Talkdesk Microsoft Teams 連接器
 
@@ -59,7 +60,7 @@ Talkdesk，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | User Profile Data-First name、Last name、email address、phone number |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 未保留 |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -167,8 +168,8 @@ Talkdesk，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read.All | 委託 | 需要收集 MS Teams 使用者的設定檔資料 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
->| offline_access | 委託 | 即使當授與存取權的使用者未登入時，也可讓應用程式查看資料。 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
+>| User.Read.All | 委託 | 需要收集 MS Teams 使用者的設定檔資料 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
+>| offline_access | 委託 | 即使當授與存取權的使用者未登入時，也可讓應用程式查看資料。 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
 
 >此應用程式沒有額外的 APIs。
 

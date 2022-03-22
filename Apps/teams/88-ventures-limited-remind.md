@@ -2,18 +2,19 @@
 title: 以 88 Ventures 為限之提醒的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 71d37c38b4cc3bdcc92182b4063061146d34c0dd
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 17592dc196ffc2e17e62af60708c718dc68ee523
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255029"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550682"
 ---
 # <a name="remind"></a>提醒
 
@@ -40,7 +41,7 @@ ms.locfileid: "62255029"
 | App 的使用條款 | [https://teamsreminder.app/#terms](https://teamsreminder.app/#terms) |
 | 應用程式的核心功能 | 提醒您自己或小組成員重要會議、待辦事項或甚至生日。 設定個人提醒、群組聊天提醒或頻道提醒。 您甚至可以設定週期性提醒 (例如，小組會議每星期一上午9點) ！ |
 | 公司 headquarter 位置 | 香港 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://teamsreminder.app](https://teamsreminder.app) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | 其他 |
 
@@ -167,7 +168,7 @@ ms.locfileid: "62255029"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 委託 | 當系統管理員搜尋使用者以指派授權時使用。 這項功能的使用方式完全選用，在一般應用程式使用期間不是必要的。 | [88546d4f-9973-4716-98e4-cd181c04bc2d](https://docs.microsoft.com/microsoft-365-app-certification/azure/88546d4f-9973-4716-98e4-cd181c04bc2d) |
+>| Directory.Read.All | 委託 | 當系統管理員搜尋使用者以指派授權時使用。 這項功能的使用方式完全選用，在一般應用程式使用期間不是必要的。 | [88546d4f-9973-4716-98e4-cd181c04bc2d](../azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md) |
 
 >此應用程式沒有額外的 APIs。
 

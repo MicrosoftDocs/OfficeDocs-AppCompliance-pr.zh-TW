@@ -2,18 +2,19 @@
 title: 'Summize 助理的應用程式資訊，Summize (有限公司) '
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Summize 助理的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7a886aeb6df7bf971fc1c4b79ff27b3c0ca4e87f
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 5b1537da99739171f0240ce2debebb007e9d7d3f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147404"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551342"
 ---
 # <a name="summize-assistant"></a>Summize Assistant
 

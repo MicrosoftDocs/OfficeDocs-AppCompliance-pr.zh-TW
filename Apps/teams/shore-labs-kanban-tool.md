@@ -2,18 +2,19 @@
 title: 透過 Shore Labs 取得的看板工具應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有適用于看板工具的安全性和合規性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7f2e2c3677a81a6d838fe46ca5c52178294a9b33
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: da12e6a803deb9fd8c0ba31f44da77a28397c18e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253449"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551432"
 ---
 # <a name="kanban-tool"></a>Kanban Tool
 
@@ -40,8 +41,9 @@ Shore Labs 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://kanbantool.com/policy/terms-of-service](https://kanbantool.com/policy/terms-of-service) |
 | 應用程式的核心功能 | 在看板版塊上顯示工作和追蹤時間。 |
 | 公司 headquarter 位置 | 波蘭 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://kanbantool.com](https://kanbantool.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS、SelfHosted、GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Shore Labs 會提供此資訊，此應用程式會如何收集和儲存組織資
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ Shore Labs 會提供此資訊，此應用程式會如何收集和儲存組織資
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 電子郵件 | 委託 | 用於通訊的使用者電子郵件地址、識別的身分識別及傳送通知。 | [4e820d60-9e62-403c-accd-857b987cc13c](https://docs.microsoft.com/microsoft-365-app-certification/azure/4e820d60-9e62-403c-accd-857b987cc13c) |
->| Team.ReadBasic.All | 委託 | 使用者是直接成員之團隊的識別碼和名稱。 它們是用來自動指派使用者以在看板工具中更正的群組。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
->| User.Read | 委託 | 已登入使用者的基本公司資訊。 它是用來填入新帳戶的帳戶詳細資料，並辨識屬於您組織的使用者，以便提供單一 Sign-On 功能。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
->| offline_access | 委託 | 在使用者登入時，允許「以 Microsoft 進行登錄」功能及同步處理您已授予應用程式存取權的資料同步處理。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
->| openid | 委託 | 開啟識別碼權杖，可讓使用者透過「使用 Microsoft 登入」按鈕，利用其工作或學校帳戶登入應用程式。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
->| 設定檔 | 委託 | 在看板工具中 autopopulate 的使用者名稱，並保持與 Microsoft Teams 中的變更同步處理。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
+>| 電子郵件 | 委託 | 用於通訊的使用者電子郵件地址、識別的身分識別及傳送通知。 | [4e820d60-9e62-403c-accd-857b987cc13c](../azure/4e820d60-9e62-403c-accd-857b987cc13c.md) |
+>| Team.ReadBasic.All | 委託 | 使用者是直接成員之團隊的識別碼和名稱。 它們是用來自動指派使用者以在看板工具中更正的群組。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
+>| User.Read | 委託 | 已登入使用者的基本公司資訊。 它是用來填入新帳戶的帳戶詳細資料，並辨識屬於您組織的使用者，以便提供單一 Sign-On 功能。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
+>| offline_access | 委託 | 在使用者登入時，允許「以 Microsoft 進行登錄」功能及同步處理您已授予應用程式存取權的資料同步處理。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
+>| openid | 委託 | 開啟識別碼權杖，可讓使用者透過「使用 Microsoft 登入」按鈕，利用其工作或學校帳戶登入應用程式。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
+>| 設定檔 | 委託 | 在看板工具中 autopopulate 的使用者名稱，並保持與 Microsoft Teams 中的變更同步處理。 | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
 
 >此應用程式沒有額外的 APIs。
 

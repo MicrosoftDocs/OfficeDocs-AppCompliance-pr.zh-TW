@@ -2,20 +2,21 @@
 title: 適用于 OOO RD17 的完美 Wiki 應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于完美 Wiki 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2eab3751f755b6ed2826a7f9b0aa964608811a26
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: c635cc3f035977baba211e7d6faa77ce461923d7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081020"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551982"
 ---
-# <a name="perfect-wiki"></a>完美 Wiki
+# <a name="perfect-wiki"></a>Perfect Wiki
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ ms.locfileid: "63081020"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 完美 Wiki |
+| 應用程式名稱 | Perfect Wiki |
 | ID | WA200001679 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | OOO RD17 |
@@ -40,8 +41,9 @@ ms.locfileid: "63081020"
 | App 的使用條款 | [https://docs.google.com/document/d/e/2PACX-1vTMQNAdgN7xy6n9...](https://docs.google.com/document/d/e/2PACX-1vTMQNAdgN7xy6n9tNvhDe8Sb2AF8A9v8jfG3gJ503cXzIq1nr_Zbq5aShN0mU49fvADgKZ8a58Oha-C/pub) |
 | 應用程式的核心功能 | Microsoft Teams 的功能豐富 Wiki |
 | 公司 headquarter 位置 |  () 的俄語同盟 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://perfectwikiforteams.com](https://perfectwikiforteams.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure，GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "63081020"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,9 +161,9 @@ ms.locfileid: "63081020"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 委託 | ChannelId 與 channelName，我們會取得 it 資訊，在應用程式中顯示使用者 | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
->| Team.ReadBasic.All | 委託 | 我們取得使用者的 teamId 並取得小組名稱 | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
->| User.Read | 委託 | userId，用來瞭解使用者已登入 | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
+>| ReadBasic | 委託 | ChannelId 與 channelName，我們會取得 it 資訊，在應用程式中顯示使用者 | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
+>| Team.ReadBasic.All | 委託 | 我們取得使用者的 teamId 並取得小組名稱 | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
+>| User.Read | 委託 | userId，用來瞭解使用者已登入 | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,18 +2,19 @@
 title: Panopto 的應用程式資訊（按 Panopto）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Panopto 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6d2911ad283739a05d33a8a3cc3488d641d8e612
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 7c21c0743767e42dc79153dbf07c54ad480f89f5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081021"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551972"
 ---
 # <a name="panopto"></a>Panopto
 
@@ -59,7 +60,7 @@ ms.locfileid: "63081021"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Teams 會議錄製和 Teams 通道上的中繼資料。 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |

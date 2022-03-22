@@ -2,16 +2,16 @@
 title: 何謂 Microsoft 365 認證？
 author: orionomalley
 ms.author: oromalle
-description: Microsoft 365認證詳細資料
+description: Microsoft 365 認證詳細資料
 keywords: 應用程式證明 microsoft 365 認證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: e41a9c0d09fec10b0034e7da5e8a335cbc4473fc
-ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
+ms.openlocfilehash: 47f479258f2bb944cf30665c4479bb151523a561
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60719555"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63697383"
 ---
 # <a name="what-is-microsoft-365-certification"></a>何謂 Microsoft 365 認證？
 
@@ -41,15 +41,15 @@ Microsoft 365 憑證是設計用來向客戶示範，其應用程式已針對來
 應用程式認證是透過一套應用程式的安全性和合規性框架、程式及程式的綜合評估中心審查及核准，取得。 
 
 已驗證的應用程式已在下列三個網域中評估：
-1.  [**Application Security**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security)
-1.  [**運作安全性/安全部署**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security)
-1.  [**資料處理安全性和隱私權**]( https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy)
+1.  [**Application Security**]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#application-security)
+1.  [**運作安全性/安全部署**]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#operational-security)
+1.  [**資料處理安全性和隱私權**]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy)
 
 雖然參與是選用的，但當應用程式取得認證時，它會向使用者表明已完成大量的安全性檢查，而且可以透過客戶資料加以信任。 如需嚴格程式 Isv 的完整詳細資料，必須進行以成為驗證。 請參閱[Microsoft 365 認證提交指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)。
 
-## <a name="microsoft-365-certification-scope"></a>Microsoft 365認證範圍
+## <a name="microsoft-365-certification-scope"></a>Microsoft 365 憑證範圍
 
-Microsoft 365認證適用于與下列 Microsoft 產品整合的所有應用程式：
+Microsoft 365 認證適用于與下列 Microsoft 產品整合的所有應用程式：
 - Teams
 - Word
 - Excel
@@ -58,7 +58,7 @@ Microsoft 365認證適用于與下列 Microsoft 產品整合的所有應用程�
 - SharePoint
 - Project
 - OneNote
-- 透過 Partner Center 中的商業市場發佈的 **Webapps** (SaaS 的應用程式目前是私人預覽，如果您有興趣參加，請填寫此 [表單](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 ) 
+- 透過 (**Webapps** 中的商業市場發佈的應用程式 SaaS 使用者目前是私人預覽，如果您有興趣參與，請填寫此 [表單](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)。
 
 ## <a name="program-benefits"></a>方案優點
 參與和完成 Microsoft 365 憑證可為 IT 系統管理員和開發人員提供巨大的好處：
@@ -84,8 +84,8 @@ Microsoft 365 憑證標誌會顯示已針對 Microsoft 所提出的控制，meti
 下列語句必須伴隨標誌：「具有 Microsoft 365 憑證標誌的應用程式表示此應用程式已取得 Microsoft 365 認證。 除了應用程式安全性之外，此程式還會回顧應用程式發行者所採用的做法和程式。 當客戶資料受到應用程式發行者的控制，您可以完全放心，Microsoft 已驗證應用程式是否會以安全且安全的方式來處理。
 
 
-### <a name="learn-more"></a>深入瞭解
-* [Microsoft 365應用程式規範計畫概述](~/overview.md)  
+### <a name="learn-more"></a>深入了解
+* [Microsoft 365 應用程式規範計畫概述](~/overview.md)  
 * [完成 Microsoft 365 認證](~/docs/certification.md)  
-* [Microsoft 365認證提交指南](~/docs/certification-submission-guide.md)
+* [Microsoft 365 認證提交指南](~/docs/certification-submission-guide.md)
 

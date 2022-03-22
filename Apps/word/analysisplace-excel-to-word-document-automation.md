@@ -2,18 +2,19 @@
 title: AnalysisPlace 的應用程式資訊 Excel 對 Word 檔自動化
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Excel 至 Word 檔自動化的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ede1a98c44b8d6e71a12069c15065f7499bb5e2
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ceb3175ecfbe45b33fe7c1fe62ae59e62f00d7ad
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63075287"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551222"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel 對 Word 檔自動化
 
@@ -39,7 +40,7 @@ ms.locfileid: "63075287"
 | App 的使用條款 | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
 | 應用程式的核心功能 | AnalysisPlace 提供服務，以自動化 Microsoft Office 檔的更新 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://analysisplace.com/Document-Automation](https://analysisplace.com/Document-Automation) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -60,7 +61,7 @@ ms.locfileid: "63075287"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者名稱、使用者電子郵件地址、組織租使用者識別碼 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |

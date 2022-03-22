@@ -2,18 +2,19 @@
 title: Insights Inc. 對同事的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，如其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c05c00736ba08bdcb663342ca6a692ead21ac83c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d1860bcfddfdc3de17b409014ff6a1a68cdf6286
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257829"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552882"
 ---
 # <a name="fellow"></a>Fellow
 
@@ -42,6 +43,7 @@ Insights inc. 對 Microsoft 所提供的資訊：
 | 公司 headquarter 位置 | 加拿大 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Insights inc. 對 Microsoft 所提供的資訊：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,16 +161,16 @@ Insights inc. 對 Microsoft 所提供的資訊：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 包括 | 與使用者的行事曆相連，讓他們能夠對資料做筆記。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| ReadBasic | 委託 | 我們會收集使用者是其成員的通道名稱，以便向他們顯示可傳送附注的頻道清單。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Directory.Read.All | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 我們使用目錄資料來同步處理使用者清單，並自動布建帳戶。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Group.Read.All | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 我們使用目錄資料來同步處理使用者清單，並自動布建帳戶。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| 個人讀取 | 委託 | 會收集使用者的連絡人，在特定連絡人 displayNames 和電子郵件地址。 這是在同事內使用，提供邀請邀請加入附注/共用附注的使用者清單。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| 已讀取的人員。所有 | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 會收集使用者的連絡人，在特定連絡人 displayNames 和電子郵件地址。 這是在同事內使用，提供邀請邀請加入附注/共用附注的使用者清單。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Team.ReadBasic.All | 委託 | 會收集使用者所屬的小組清單。 這是為了讓使用者能夠將記事從同事傳送給小組的目的。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| User.Read | 委託 | 收集基本的使用者資訊。 使用者名稱、電子郵件、職稱。 此資訊用於建立使用者帳戶及公司帳戶的同事。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| User.Read.All | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 我們使用目錄資料來同步處理使用者清單，並自動布建帳戶。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| offline_access | 委託 | 使用者的重新整理權杖，以維持透過其他範圍所收集的資料存取權。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
+>| ReadWrite 的行事曆 | 包括 | 與使用者的行事曆相連，讓他們能夠對資料做筆記。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| ReadBasic | 委託 | 我們會收集使用者是其成員的通道名稱，以便向他們顯示可傳送附注的頻道清單。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Directory.Read.All | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 我們使用目錄資料來同步處理使用者清單，並自動布建帳戶。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Group.Read.All | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 我們使用目錄資料來同步處理使用者清單，並自動布建帳戶。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| 個人讀取 | 委託 | 會收集使用者的連絡人，在特定連絡人 displayNames 和電子郵件地址。 這是在同事內使用，提供邀請邀請加入附注/共用附注的使用者清單。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| 已讀取的人員。所有 | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 會收集使用者的連絡人，在特定連絡人 displayNames 和電子郵件地址。 這是在同事內使用，提供邀請邀請加入附注/共用附注的使用者清單。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Team.ReadBasic.All | 委託 | 會收集使用者所屬的小組清單。 這是為了讓使用者能夠將記事從同事傳送給小組的目的。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read | 委託 | 收集基本的使用者資訊。 使用者名稱、電子郵件、職稱。 此資訊用於建立使用者帳戶及公司帳戶的同事。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read.All | 應用程式 | 只有在整個組織執行系統管理員安裝時，才會收集此資料。 我們使用目錄資料來同步處理使用者清單，並自動布建帳戶。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| offline_access | 委託 | 使用者的重新整理權杖，以維持透過其他範圍所收集的資料存取權。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
 
 >此應用程式沒有額外的 APIs。
 

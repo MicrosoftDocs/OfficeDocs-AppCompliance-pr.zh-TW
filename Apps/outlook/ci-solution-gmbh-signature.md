@@ -2,18 +2,19 @@
 title: Ci 方案 GmbH CI-Signature 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星形登錄中，CI 簽名的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d27b884bb1f00621168de74a91a05706489bde5f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 59d1e42c220015bfcb77202b0524b85e71607d2c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251379"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550832"
 ---
 # <a name="ci-signature"></a>CI-Signature
 
@@ -39,8 +40,9 @@ Ci 解決方案 GmbH 提供給 Microsoft 的資訊：
 | App 的使用條款 | [https://www.ci-solution.com/agb](https://www.ci-solution.com/agb) |
 | 應用程式的核心功能 | 在 CI-Sign 伺服器端使用 Outlook 和 OWA 中所產生的可見簽章，以及在伺服器端新增特徵碼的方式，CI-Disclaimer 以符合公司身分識別需求和法律要求的需求。  |
 | 公司 headquarter 位置 | 德國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.ci-solution.com/support/de/](https://www.ci-solution.com/support/de/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Ci 解決方案 GmbH 提供給 Microsoft 的資訊：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

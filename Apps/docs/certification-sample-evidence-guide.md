@@ -2,16 +2,17 @@
 title: Microsoft 365 憑證-範例證據指南
 author: OrionOmalley
 ms.author: oromalle
+manager: tonybal
 description: Microsoft 365 認證證據提交範例手冊概述
 keywords: 應用程式認證證明 Microsoft 365 憑證 appSource 證據提交指導方針範例
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 5e619ffe1f89f675b473f90dead3c0bc550ae41a
-ms.sourcegitcommit: 7975c249abac22ca1a8c7c9b592d4404bea10cf4
+ms.openlocfilehash: c5d300bf840a3357664a4365d0073bb211cad5ff
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61151818"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63697863"
 ---
 # <a name="microsoft-365-certification---sample-evidence-guide"></a>Microsoft 365 憑證-範例證據指南
 
@@ -22,7 +23,7 @@ ms.locfileid: "61151818"
 請注意：用來滿足需求的實際介面、螢幕擷取畫面及檔會因產品使用、系統設定和內部程式而異。 此外，請注意，必須要有原則或程式檔，才能傳送實際的檔，而不是在一些範例中所顯示的螢幕擷取畫面。 
 
 在認證中有兩個區段需要提交：
-1. [**初始檔提交：**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/initialdocumentsubguide) 限定評估範圍所需的一小部分高層級檔。
+1. [**初始檔提交：**](../docs/initialdocumentsubguide.md) 限定評估範圍所需的一小部分高層級檔。
 1. **證據提交：** 針對您的認證評估，每個範圍中的每個控制項所需的完整證據集合。 
 
 ## <a name="structure"></a>結構 
@@ -66,13 +67,13 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針範例：證明已評估的環境中的 AV 使用中實例正在執行。 為範例中的 _每個裝置_ 提供一個螢幕擷取畫面，以支援使用防毒程式、防毒軟體使用中，或者如果您有一個集中式管理主控台用於防病毒，您可能可以從該管理主控台進行示範。 如果使用管理主控台，請務必在已抽樣裝置連線及運作的螢幕擷取畫面中進行證據。
 
-- 證據範例1：下列螢幕擷取畫面已從 Azure Security Center 取得;它會顯示已在名為 MSPGPRODAZUR01 的 VM 上部署反惡意程式碼擴充 &quot; &quot; 。
+- 證據範例1：下列螢幕擷取畫面已從 Azure Security Center 取得;它會顯示已在名為 &quot; MSPGPRODAZUR01 &quot; 的 VM 上部署反惡意程式碼擴充。
 
 ![圖片](../media/UserGuidePhotos/Control-No-2.png)
 
 - 證據範例2
 
-下列螢幕擷取畫面已從 Windows 10 裝置中取得，顯示 &quot; &quot; 為主機名 &quot; CLARANET-SBU-WM 開啟即時保護 &quot; 。
+下列螢幕擷取畫面已從 Windows 10 裝置中取得，顯示 &quot; 為主機名 &quot; CLARANET-SBU-WM &quot; 開啟即時保護 &quot; 。
 
 ![圖片](../media/UserGuidePhotos/Control-No-2-1.png)
 
@@ -84,7 +85,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：從每個抽樣裝置提供防病毒記錄檔，顯示每天都會套用更新。
 
-- 範例證據：下列螢幕擷取畫面顯示每日至少一次的 Microsoft Defender 更新，只須顯示 &#39;事件2000，Windows Defender&#39; 是更新。 會顯示主機名稱，顯示已從範圍內系統 &quot; CLARANET-SBU-WM 中取得 &quot; 。
+- 範例證據：下列螢幕擷取畫面顯示每日至少一次的 Microsoft Defender 更新，只須顯示 &#39;事件2000，Windows Defender&#39; 是更新。 會顯示主機名稱，顯示已從範圍內系統 &quot; CLARANET-SBU-WM &quot; 中取得。
 
 ![圖片](../media/UserGuidePhotos/Control-No-3.png)
 
@@ -98,7 +99,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：針對支援防病毒的範例中的 _每個裝置_ ，提供一個螢幕擷取畫面，顯示該防毒程式已在裝置上執行，並已設定為可供 (即時掃描) 掃描， **或** 提供顯示定期掃描的螢幕擷取畫面，以供每日掃描使用，則會設定警示，以及範例中 _每個裝置_ 的最後一個掃描日期。
 
-- 範例證據：下列螢幕擷取畫面顯示已針對主機 &quot; CLARANET-SBU-WM 啟用即時保護 &quot; 。
+- 範例證據：下列螢幕擷取畫面顯示已針對主機 &quot; CLARANET-SBU-WM &quot; 啟用即時保護。
 
 ![圖片](../media/UserGuidePhotos/Control-No-4.png)
 
@@ -164,7 +165,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 ![圖片](../media/UserGuidePhotos/Control-No-9-2.png)
 
-此最後的螢幕擷取畫面會顯示在 &quot; &quot; 上述螢幕擷取畫面內的範圍內伺服器 DBSERVER1 位於 OU 內。
+此最後的螢幕擷取畫面會顯示在上述螢幕擷取畫面內的範圍內伺服器 &quot; DBServer1 &quot; 位於 OU 內。
 
 ![圖片](../media/UserGuidePhotos/Control-No-9-3.png)
 
@@ -238,7 +239,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：提供範例中的 _每個裝置_ 的螢幕擷取畫面，以及支援的軟體元件，顯示已隨所記錄的修補程式安裝。
 
-- 範例證據：下列螢幕擷取畫面顯示在「範圍系統元件 &quot; CLARANET-SBU-WM」中 &quot; 執行 Windows 更新的修補原則。
+- 範例證據：下列螢幕擷取畫面顯示在「範圍系統元件 &quot; CLARANET-SBU-WM &quot; 」中執行 Windows 更新的修補原則。
 
 ![圖片](../media/UserGuidePhotos/Control-No-14.png)
 
@@ -280,7 +281,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 目的：弱點掃描會尋找組織中電腦系統、網路及 web 應用程式中可能的弱點，以找出可能導致安全性破壞及敏感性資料洩密的洞。 行業標準和政府法規等是弱點掃描通常是必要的，例如 PCI DSS (支付卡行業資料安全性標準) 。
 
-- 依安全性度量的報表，依安全性 &quot; [衡量，已將2020安全性度量值導向至 PCI DSS 相容性](https://info.securitymetrics.com/pci-guide-2020) &quot; 狀態，這平均是從組織被發現攻擊者遭到威脅以危及系統安全的時間內，平均所用的 &#39;166 天。 一旦遭到損害，攻擊者會在平均127天記憶體取機密資料&#39; 因此，此控制項的目的在於識別範圍內環境內的潛在安全性弱點。
+- 依安全性度量 &quot; 的報表，依安全性衡量，已[將2020安全性度量值導向至 PCI DSS 相容性](https://info.securitymetrics.com/pci-guide-2020) &quot; 狀態，這平均是從組織被發現攻擊者遭到威脅以危及系統安全的時間內，平均所用的 &#39;166 天。 一旦遭到損害，攻擊者會在平均127天記憶體取機密資料&#39; 因此，此控制項的目的在於識別範圍內環境內的潛在安全性弱點。
 
 - 證據指導方針：針對在過去12個月內已執行的每個&#39;季度，提供完整掃描報告 (s) 。 報告應該清楚地陳述目標，以驗證是否包含完整公開公開，以及每個內部子網的適用位置。 提供 **每個** 季度的 **所有** 掃描報告。
 
@@ -292,7 +293,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：提供適當的偽像 (例如，螢幕擷取畫面) 顯示從漏洞掃描中發現的漏洞範例會隨著上述控制項13中已提供的修補程式視窗而修正。
 
-- 範例證據：下列螢幕擷取畫面顯示在此範例中名為 THOR)  (單一機器的對範圍環境進行的掃描， &quot; &quot; 顯示在2021年8月2日的漏洞。
+- 範例證據：下列螢幕擷取畫面顯示在此範例中名為 &quot; THOR &quot;)  (單一機器的對範圍環境進行的掃描，顯示在2021年8月2日的漏洞。
 
 ![圖片](../media/UserGuidePhotos/Control-No-17.png)
 
@@ -308,7 +309,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 **控制編號18：** 提供原則檔，以控制防火牆管理的作法與程式。
 
-- 目的：防火牆是分層安全性 (防禦深入) 策略中的重要第一行為，可保護環境不受信任的網路區域。 防火牆一般會根據 IP 位址和通訊協定/埠來控制流量流量，更多功能的防火牆也可以透過 &quot; &quot; 檢查應用程式流量，以根據所存取的應用程式來保護應用程式流量，以防禦誤用、弱點和威脅，以提供額外的應用層防禦。 這些保護措施只是防火牆的設定，因此很強的防火牆原則和支援程式必須已具備，以確保它們已設定為能夠適當地保護內部資產。 例如，具有規則的防火牆，允許所有來源到任何目的地的所有流量，都只是做為路由器。
+- 目的：防火牆是分層安全性 (防禦深入) 策略中的重要第一行為，可保護環境不受信任的網路區域。 防火牆一般會根據 IP 位址和通訊協定/埠來控制流量流量，更多功能的防火牆也可以透過檢查應用程式流量，以根據所存取的應用程式來保護應用程式流量，以防禦誤用、弱點和威脅，以提供額外 &quot; 的應用層 &quot; 防禦。 這些保護措施只是防火牆的設定，因此很強的防火牆原則和支援程式必須已具備，以確保它們已設定為能夠適當地保護內部資產。 例如，具有規則的防火牆，允許所有來源到任何目的地的所有流量，都只是做為路由器。
 
 - 證據的範例：提供您完整的防火牆原則/程式支援檔。 本檔應涵蓋下列所有適用于您環境的最佳作法和任何其他最佳作法。
 
@@ -370,9 +371,9 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 **控制23：** 提供顯而易見的證據，表明防火牆規則基本設定為丟棄未明確定義的流量。
 
-- 目的：大多數防火牆會以自頂向下的方式處理規則，以嘗試及尋找符合規則。 如果規則相符，將會套用該規則的動作，而且會停止所有進一步的規則處理。 如果找不到符合的規則，預設會拒絕流量。 此控制項的目的在於，如果防火牆沒有找到符合的規則時，不&#39;預設會丟棄流量，則規則基底必須在 &quot; &quot; **所有** 防火牆清單的結尾包含 [拒絕所有規則]。 這是為了確保在處理規則時，防火牆會將&#39;預設值變成預設允許狀態，從而允許明確定義的流量&#39;。
+- 目的：大多數防火牆會以自頂向下的方式處理規則，以嘗試及尋找符合規則。 如果規則相符，將會套用該規則的動作，而且會停止所有進一步的規則處理。 如果找不到符合的規則，預設會拒絕流量。 此控制項的目的在於，如果防火牆沒有找到符合的規則時，不&#39;預設會丟棄流量，則規則基底必須在 **所有** 防火牆清單的結尾包含 &quot; [拒絕所有 &quot; 規則]。 這是為了確保在處理規則時，防火牆會將&#39;預設值變成預設允許狀態，從而允許明確定義的流量&#39;。
 
-- 證據指導方針：證據可以透過防火牆設定或以顯示顯示「拒絕所有規則」的所有防火牆規則的方式提供， &quot; &quot; 如果防火牆丟棄&#39;的流量預設符合規則，則會提供所有防火牆規則的螢幕擷取畫面，並提供廠商管理員指南的連結，以強調預設情況下，防火牆會丟棄所有未符合的流量。
+- 證據指導方針：證據可以透過防火牆設定或以顯示顯示「拒絕所有 &quot; 規則」的所有防火牆規則 &quot; 的方式提供，如果防火牆丟棄&#39;的流量預設符合規則，則會提供所有防火牆規則的螢幕擷取畫面，並提供廠商管理員指南的連結，以強調預設情況下，防火牆會丟棄所有未符合的流量。
 
 - 範例證據：以下是 WatchGuard 防火牆規則基底的螢幕擷取畫面，它會示範未設定任何規則以允許所有流量。 結束時，WatchGuard 將會丟棄不會符合預設值&#39;的流量，因此沒有任何拒絕規則。
 
@@ -391,7 +392,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 - 範例證據：下列螢幕擷取畫面顯示 [SSLScan](https://github.com/rbsec/sslscan) 對照 TCP 埠8080上 WatchGuard 防火牆的 Web 系統管理介面輸出。 這會顯示 TLS 1.2 或更新版本，並使用最低的 AES 128bit 加密密碼。
 ![Picture](../media/UserGuidePhotos/Control-No-24.png)
 
-**附注**： WatchGuard 防火牆也支援使用 SSH (tcp 埠 4118) 和 WatchGuard 系統管理員 (TCP 埠 4105 4117) 的管理功能 &amp; 。 您也需要提供這些非主控台管理介面的證據。
+**附注**： WatchGuard 防火牆也支援使用 SSH (tcp 埠 4118) 和 WatchGuard 系統管理員 (TCP 埠 4105 &amp; 4117) 的管理功能。 您也需要提供這些非主控台管理介面的證據。
 
 **控制項25：** 提供您執行防火牆規則檢查的 demonstratable 證據，至少每6個月。
 
@@ -442,7 +443,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：透過設定匯出或螢幕擷取畫面提供設定證據，顯示支援及設定 SSL 卸載。
 
-- 範例證據：在 Azure 應用程式閘道內，設定 SSL 攔截器已啟用 SSL 卸載，請參閱 [TLS 終止與應用程式閘道 Microsoft 檔頁面的端對端 Tls 概述](https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview) 。 下列螢幕擷取畫面顯示此設定的 Contoso 實際執行 Azure 應用程式閘道。
+- 範例證據：在 Azure 應用程式閘道內，設定 SSL 攔截器已啟用 SSL 卸載，請參閱 [TLS 終止與應用程式閘道 Microsoft 檔頁面的端對端 Tls 概述](https://docs.microsoft.com/azure/application-gateway/ssl-overview) 。 下列螢幕擷取畫面顯示此設定的 Contoso 實際執行 Azure 應用程式閘道。
 
 ![圖片](../media/UserGuidePhotos/Control-No-27.png)
 
@@ -630,7 +631,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：從程式碼存放庫中的螢幕擷取畫面提供證據，以將存取限制于所需的個別人員，包含不同的許可權。
 
-- 範例證據：下列螢幕擷取畫面顯示 &quot; GitLab 中的 Customers &quot; 專案成員，也就是 Contoso &quot; 客戶入口網站 &quot; 。 如螢幕擷取畫面所示，使用者有不同的 &quot; 角色 &quot; 可限制對專案的存取。
+- 範例證據：下列螢幕擷取畫面顯示 GitLab 中的 Customers &quot; 專案成員 &quot; ，也就是 Contoso &quot; 客戶入口網站 &quot; 。 如螢幕擷取畫面所示，使用者有不同 &quot; 的角色 &quot; 可限制對專案的存取。
 
 ![圖片](../media/UserGuidePhotos/Control-No-38.png)
 
@@ -642,7 +643,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 目的：使用者帳戶繼續由威脅演員的目標，而且常常是資料受損的來源。 透過設定過高的帳戶，組織不僅會增加 &#39;特權&#39; 帳戶的集區，威脅者可以利用此集區來執行資料破壞，但也可能增加成功利用可能需要特定許可權才能成功之弱點的風險。
 
--  BeyondTrust 會每年產生一年 &quot; Microsoft 漏洞報告 &quot; ，它會分析 microsoft 的安全性弱點，以及這些弱點的詳細資料，這些弱點是具有系統管理員許可權的使用者帳戶。 在最近的博客文章中， &quot; [新的 Microsoft 漏洞報告會顯示 48% YoY &amp; 提高漏洞的隱患](https://www.beyondtrust.com/blog/entry/microsoft-vulnerabilities-report)：在 Internet Explorer 中，您可以使用最低許可權 &quot; 、90% 的重大漏洞加以緩解，100並在 Microsoft Outlook 中消除 Microsoft Edge% 的嚴重弱點85，以消除系統管理員許可權來緩解。 為了支援安全帳戶管理，組織必須確保支援的原則和程式可提升安全性最佳作法，並遵循這些威脅加以緩解。
+-  BeyondTrust 會每年產生一 &quot; 年 Microsoft 漏洞報告 &quot; ，它會分析 microsoft 的安全性弱點，以及這些弱點的詳細資料，這些弱點是具有系統管理員許可權的使用者帳戶。 在最近的博客文章 &quot; 中，[新的 Microsoft 漏洞報告會顯示 48% YoY 提高漏洞的隱患 &amp; ](https://www.beyondtrust.com/blog/entry/microsoft-vulnerabilities-report)：在 Internet Explorer 中，您可以使用最低許可權 &quot; 、90% 的重大漏洞加以緩解，100並在 Microsoft Outlook 中消除 Microsoft Edge% 的嚴重弱點85，以消除系統管理員許可權來緩解。 為了支援安全帳戶管理，組織必須確保支援的原則和程式可提升安全性最佳作法，並遵循這些威脅加以緩解。
 
 - 證據指導方針：提供已記錄的原則和程式檔，涵蓋您的帳戶管理慣例。 涵蓋的主題至少應該對齊 Microsoft 365 憑證中的控制項。
 
@@ -660,19 +661,19 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：有多種方式可以收集證據以支援此控制項。 所有系統元件上已設定之使用者的螢幕擷取畫面都有説明，亦即，Linux/etc/shadow 和/etc/passwd 檔案的螢幕擷取畫面會協助示範帳戶是否已停用。 請注意，請透過觀察密碼雜湊開始使用不正確字元（例如 &#39;！） &#39; 指出密碼是無法使用的，否則會需要/etc/shadow 檔案以示範帳戶已真正停用。 建議只會停用一些密碼的幾個字元，並將其重設為密文。 其他選項適用于 screensharing 會話，其中 assessor 可以手動嘗試預設認證，例如，在 Dell iDRAC 上的上述討論中，assessor 需要嘗試使用預設認證來驗證所有的 Dell iDRAC 介面。
 
-- 範例證據：下列螢幕擷取畫面顯示為內部範圍系統元件 &quot; CLARANET-SBU-WM 設定的使用者帳戶 &quot; 。 顯示數個預設帳戶;管理員、DefaultAccount 及來賓，但下列螢幕擷取畫面顯示這些帳戶已停用。
+- 範例證據：下列螢幕擷取畫面顯示為內部範圍系統元件 &quot; CLARANET-SBU-WM &quot; 設定的使用者帳戶。 顯示數個預設帳戶;管理員、DefaultAccount 及來賓，但下列螢幕擷取畫面顯示這些帳戶已停用。
 
 ![圖片](../media/UserGuidePhotos/Control-No-40.png)
 
-下一個螢幕擷取畫面顯示在範圍內的系統元件 &quot; CLARANET-SBU-WM 中已停用系統管理員帳戶 &quot; 。
+下一個螢幕擷取畫面顯示在範圍內的系統元件 &quot; CLARANET-SBU-WM &quot; 中已停用系統管理員帳戶。
 
 ![圖片](../media/UserGuidePhotos/Control-No-40-1.png)
 
-下一個螢幕擷取畫面顯示在範圍內系統元件 &quot; CLARANET-SBU-WM 中已停用來賓帳戶 &quot; 。
+下一個螢幕擷取畫面顯示在範圍內系統元件 &quot; CLARANET-SBU-WM &quot; 中已停用來賓帳戶。
 
 ![圖片](../media/UserGuidePhotos/Control-No-40-2.png)
 
-下一個螢幕擷取畫面顯示 DefaultAccount 在範圍內的系統元件 &quot; CLARANET-SBU-WM 中已停用 &quot; 。
+下一個螢幕擷取畫面顯示 DefaultAccount 在範圍內的系統元件 &quot; CLARANET-SBU-WM &quot; 中已停用。
 
 ![圖片](../media/UserGuidePhotos/Control-No-40-3.png)
 
@@ -714,11 +715,11 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 - 至少5個密碼的密碼歷史記錄
 - 強制使用強式密碼
 
-- 目的：如已討論，使用者認證通常是企圖存取組織&#39;環境之威脅者的攻擊目標。 強式密碼原則的目的在於嘗試並強制使用者挑選強式密碼，以減輕威脅演員可以強力強制執行的機率。 新增 &quot; 或其他適當的緩解措施的目的 &quot; 在於承認組織可能會執行其他安全性措施，以協助保護使用者認證（如 &quot; [NIST 特殊出版物 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)） &quot; 。
+- 目的：如已討論，使用者認證通常是企圖存取組織&#39;環境之威脅者的攻擊目標。 強式密碼原則的目的在於嘗試並強制使用者挑選強式密碼，以減輕威脅演員可以強力強制執行的機率。 新增 &quot; 或其他適當的緩解措施 &quot; 的目的在於承認組織可能會執行其他安全性措施，以協助保護使用者認證（ &quot; 如[NIST 特殊出版物 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) &quot; ）。
 
-- 證據指導方針：證實強式密碼原則的證據可能是組織群組原則物件或本機安全性原則帳戶原則的螢幕擷取畫面格式 &quot; 。請à密碼原則 &quot; 和 &quot; 帳戶原則à帳戶鎖定原則 &quot; 設定。 證據取決於所用的技術;例如，對於 Linux，它可能是/etc/pam.d/common-password config 檔案，針對 BitBucket 中的 [ &quot; 驗證原則] &quot; 區段 ([https://support.atlassian.com/security-and-access-policies/docs/manage-your-password-policy/](https://support.atlassian.com/security-and-access-policies/docs/manage-your-password-policy/)) 等等。
+- 證據指導方針：證實強式密碼原則的證據可能是組織群組原則物件或本機安全性原則 &quot; 帳戶原則的螢幕擷取畫面格式。請à密碼原則 &quot; 和 &quot; 帳戶原則à帳戶鎖定原則 &quot; 設定。 證據取決於所用的技術;例如，對於 Linux，它可能是/etc/pam.d/common-password config 檔案，針對 BitBucket 中的 [ &quot; 驗證原則 &quot; ] 區段 ([https://support.atlassian.com/security-and-access-policies/docs/manage-your-password-policy/](https://support.atlassian.com/security-and-access-policies/docs/manage-your-password-policy/)) 等等。
 
-- 證據範例：下列的證據顯示 &quot; &quot; 在內部範圍系統元件 &quot; CLARANET-SBU-WM 的本機安全性原則中設定的密碼原則 &quot; 。
+- 證據範例：下列的證據顯示在內部範圍系統元件 &quot; CLARANET-SBU-WM &quot; 的本機安全性原則 &quot; 中 &quot; 設定的密碼原則。
 
 ![圖片](../media/UserGuidePhotos/Control-No-43.png)
 
@@ -738,19 +739,19 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：透過顯示可包含伺服器、程式碼存放庫、雲端管理平臺、Active Directory、防火牆等等之範圍內系統元件中所設定之使用者帳戶的螢幕擷取畫面方式來辨識證據。
 
-- 範例證據：下列螢幕擷取畫面顯示為內部範圍系統元件 &quot; CLARANET-SBU-WM 設定的使用者帳戶 &quot; 。
+- 範例證據：下列螢幕擷取畫面顯示為內部範圍系統元件 &quot; CLARANET-SBU-WM &quot; 設定的使用者帳戶。
 
 ![圖片](../media/UserGuidePhotos/Control-No-44.png)
 
-下一個螢幕擷取畫面顯示在範圍內的系統元件 &quot; CLARANET-SBU-WM 中已停用系統管理員帳戶 &quot; 。
+下一個螢幕擷取畫面顯示在範圍內的系統元件 &quot; CLARANET-SBU-WM &quot; 中已停用系統管理員帳戶。
 
 ![圖片](../media/UserGuidePhotos/Control-No-44-1.png)
 
-下一個螢幕擷取畫面顯示在範圍內系統元件 &quot; CLARANET-SBU-WM 中已停用來賓帳戶 &quot; 。
+下一個螢幕擷取畫面顯示在範圍內系統元件 &quot; CLARANET-SBU-WM &quot; 中已停用來賓帳戶。
 
 ![圖片](../media/UserGuidePhotos/Control-No-44-2.png)
 
-下一個螢幕擷取畫面顯示 DefaultAccount 在範圍內的系統元件 &quot; CLARANET-SBU-WM 中已停用 &quot; 。
+下一個螢幕擷取畫面顯示 DefaultAccount 在範圍內的系統元件 &quot; CLARANET-SBU-WM &quot; 中已停用。
 
 ![圖片](../media/UserGuidePhotos/Control-No-44-3.png)
 
@@ -777,11 +778,11 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 - 將帳戶限制在 Active Directory 中的一組電腦上，
 - 將帳戶設定為互動式登入不&#39;允許，
 - 設定極其複雜的密碼
-- 若為 Active Directory，請啟用該 &quot; 帳戶是敏感的，而且無法委派 &quot; 旗標。 下列文章中討論的 &quot; [持卡人資料環境的相關文章和共用 Active Directory](https://pciramblings.com/2019/12/13/segmentation-and-shared-active-directory-of-a-cardholder-data-environment/)中討論這些技術 &quot; 。
+- 若為 Active Directory，請啟用該帳戶是敏感的 &quot; ，而且無法委派 &quot; 旗標。 下列文章中討論的持卡人資料環境 &quot; 的相關文章 &quot; [和共用 Active Directory](https://pciramblings.com/2019/12/13/segmentation-and-shared-active-directory-of-a-cardholder-data-environment/)中討論這些技術。
 
 - 範例證據：有多種方式可強化服務帳戶，其將取決於每個個別的環境。 適用于您環境的機制，會在帳戶管理原則/程式檔中記錄下來，以協助複查此證據。 以下是一些可以採用的機制：
 
-下列螢幕擷取畫面顯示 &#39;帳戶是敏感的，且已在服務帳戶 &quot; \_ 生產 SQL 服務帳戶上選取 [以委派方式&#39;] 選項 &quot; 。
+下列螢幕擷取畫面顯示 &#39;帳戶是敏感的，且已在服務帳戶 &quot; \_ 生產 SQL 服務帳戶 &quot; 上選取 [以委派方式&#39;] 選項。
 
 ![圖片](../media/UserGuidePhotos/Control-No-46.png)
 
@@ -808,7 +809,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 ![圖片](../media/UserGuidePhotos/Control-No-47.png)
 
-這個螢幕擷取畫面顯示已啟用其他驗證服務器，此伺服器會指向 &quot; &quot; &#39;雙核預設路由&#39; 驗證領域的雙核-LDAP。
+這個螢幕擷取畫面顯示已啟用其他驗證服務器，此伺服器會指向 &quot; &#39;雙核預設路由&#39; 驗證領域的雙核-LDAP &quot; 。
 
 ![圖片](../media/UserGuidePhotos/Control-No-47-1.png)
 
@@ -832,11 +833,11 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：顯示遠端存取技術、RDP、SSH 和 Web 系統管理介面之加密設定的螢幕擷取畫面可提供證據。 針對 Web 系統管理介面，Qualys SSL 實驗室掃描器 (若可公開存取（亦即雲端管理介面），) 可使用 SaaS 碼存放庫或 SSL VPN 連線。
 
-- 範例證據：下列的證據顯示 &quot; Webserver01 &quot; 設定為 &#39;高層級的 RDP 加密層級 &quot; 。 如解說文字所示，這是使用強大的128位加密 (，這是 Microsoft Windows RDP 的最高層次。
+- 範例證據：下列的證據顯示 Webserver01 &quot; 設定為 &#39;高層級 &quot; 的 RDP 加密層級 &quot; 。 如解說文字所示，這是使用強大的128位加密 (，這是 Microsoft Windows RDP 的最高層次。
 
 ![圖片](../media/UserGuidePhotos/Control-No-48.png)
 
-下列證據也顯示 RDP transport security 已設定為使用 TLS 1.0 在 &quot; Webserver01 (上， &quot; 這是 Windows 伺服器) 的最高。
+下列證據也顯示 RDP transport security 已設定為使用 TLS 1.0 在 Webserver01 &quot; (上 &quot; ，這是 Windows 伺服器) 的最高。
 
 ![圖片](../media/UserGuidePhotos/Control-No-48-1.png)
 
@@ -902,7 +903,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 ![圖片](../media/UserGuidePhotos/Control-No-52-1.png)
 
-下列螢幕擷取畫面顯示 &quot; Proxy 動作套用 &quot; 至 &#39;輸入 \_ Bot \_ 流量&#39; 規則，用來開啟內容檢查。
+下列螢幕擷取畫面顯示 &quot; Proxy 動作 &quot; 套用至 &#39;輸入 \_ Bot \_ 流量&#39; 規則，用來開啟內容檢查。
 
 ![圖片](../media/UserGuidePhotos/Control-No-52-2.png)
 
@@ -1002,11 +1003,11 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 範例證據指導方針：每個抽樣裝置和相關的任何系統元件都應該提供以螢幕擷取畫面或設定設定為證據的證據，以示範設定記錄的方式，以確保已捕獲這些類型的安全性事件。
 
-- 證據1：下列螢幕擷取畫面顯示稱為 VICTIM1-WINDOWS 的其中一個抽樣裝置的設定設定 &quot; &quot; 。 這些設定會顯示 &#39;本機安全性原則中啟用的各種審核設定，而不限本機原則，則會使 [審核原則]&#39; 設定。
+- 證據1：下列螢幕擷取畫面顯示稱為 &quot; VICTIM1-WINDOWS &quot; 的其中一個抽樣裝置的設定設定。 這些設定會顯示 &#39;本機安全性原則中啟用的各種審核設定，而不限本機原則，則會使 [審核原則]&#39; 設定。
 
 ![圖片](../media/UserGuidePhotos/Control-No-56.png)
 
-接下來的螢幕擷取畫面會顯示一個事件，其中的使用者已從其中一個稱為 VICTIM1-WINDOWS 的抽樣裝置清除事件記錄 &quot; &quot; 。
+接下來的螢幕擷取畫面會顯示一個事件，其中的使用者已從其中一個稱為 &quot; VICTIM1-WINDOWS &quot; 的抽樣裝置清除事件記錄。
 
 ![圖片](../media/UserGuidePhotos/Control-No-56-1.png)
 
@@ -1027,7 +1028,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針範例：證據應該顯示所有系統元件的記錄範例，顯示這些類型的安全性事件。 記錄檔應包含以上所列的所有資訊。
 
-- 範例證據：下列螢幕擷取畫面顯示來自範圍內系統元件 SEGSVR02 的 Windows 事件檢視器中的安全性事件的資訊 &quot; &quot; 。
+- 範例證據：下列螢幕擷取畫面顯示來自範圍內系統元件 &quot; SEGSVR02 &quot; 的 Windows 事件檢視器中的安全性事件的資訊。
 
 ![圖片](../media/UserGuidePhotos/Control-No-57.png)
 
@@ -1057,7 +1058,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 證據指導方針：證據應該是透過螢幕擷取畫面或設定設定提供，示範記錄已設定立即 (或關閉，以立即) 傳送至位於 DMZ 以外的集中式記錄解決方案。 我們現在只會尋找記錄傳送至集中式記錄解決方案所需的時間，因為將記錄傳送至集中式記錄解決方案所需的時間越長，在運送之前，treat 主角必須篡改本機記錄的時間就越多。
 
-- 範例證據： Contoso DMZ 系統利用 NXLog 來傳送記錄檔。 下列螢幕擷取畫面顯示在 7S65PN dmz jumpbox 上執行的 &#39;nxlog&#39; 服務， &quot; &quot; 用來管理所有的 DMZ 伺服器。
+- 範例證據： Contoso DMZ 系統利用 NXLog 來傳送記錄檔。 下列螢幕擷取畫面顯示在 7S65PN &quot; dmz jumpbox 上 &quot; 執行的 &#39;nxlog&#39; 服務，用來管理所有的 DMZ 伺服器。
 
 ![圖片](../media/UserGuidePhotos/Control-No-59.png)
 
@@ -1065,7 +1066,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 ![圖片](../media/UserGuidePhotos/Control-No-59-1.png)
 
-下列 NXLog (URL [https://nxlog.co/documentation/nxlog-user-guide/modes.html](https://nxlog.co/documentation/nxlog-user-guide/modes.html)) 會顯示透過下列解壓縮即時記錄傳送：
+下列 NXLog ([https://nxlog.co/documentation/nxlog-user-guide/modes.html](https://nxlog.co/documentation/nxlog-user-guide/modes.html) URL) 會顯示透過下列解壓縮即時記錄傳送：
 
 ![圖片](../media/UserGuidePhotos/Control-No-59-2.png)
 
@@ -1107,7 +1108,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 **控制62：** 提供原則檔，以控制記錄檢查的做法和程式。
 
-- 意向：由 IBM 所述的 &quot; [資料洩密報告成本所組成](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/)的報告。 2020 &quot; 強調，識別及包含資料洩密的平均時間可能會花費280days，這是一種惡意威脅者（報告為315days）所造成的破壞。 在報告的資料破壞平均成本為數百萬美元時，此資料洩密週期很重要，這一點很重要，就是將曝光時段降至最低，也就是減少威脅者必須對環境中的資料進行 exfiltrate 的時間範圍。 透過縮短此視窗，組織可以降低資料洩密的整體成本。
+- 意向：由 IBM &quot; 所述的[資料洩密報告成本所組成](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/)的報告。 2020 &quot; 強調，識別及包含資料洩密的平均時間可能會花費280days，這是一種惡意威脅者（報告為315days）所造成的破壞。 在報告的資料破壞平均成本為數百萬美元時，此資料洩密週期很重要，這一點很重要，就是將曝光時段降至最低，也就是減少威脅者必須對環境中的資料進行 exfiltrate 的時間範圍。 透過縮短此視窗，組織可以降低資料洩密的整體成本。
 
 - 透過實施強大的審閱及警示程式，組織可更好地發現資料洩密生命週期中的破壞程度，以最大限度降低組織對組織的影響。 此外，強大的程式可能會協助識別違規嘗試，讓組織能夠加強安全性防護機制，以降低此增加的威脅，以進一步減少攻擊活動遭到攻破的機率。
 
@@ -1123,7 +1124,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 - 目的：此控制的目的在於確定每日記錄審閱都會執行。這對於識別任何可能不會由設定為提供安全性事件警示的警示腳本/查詢所挑選的異常，都很重要。
 
-- 證據指導方針：證據通常是透過螢幕擷取畫面或 screenshare 提供，示範即將進行記錄檔檢查。 這可能是透過每天完成的表單，或 JIRA 或 DevOps 票證的方式，其相關的批註會發佈到顯示這一天執行。 例如，每週一次的 JIRA 票據可能會建立每 &quot; 日記錄審閱每日一次的記錄審閱，每日2021年6月當 &quot; 有人發佈每日記錄檔的結果。 如果已標記任何異常，則可以在這個相同的票證中記錄這種情況，以示範單一 JIRA 中的下一個控制項。
+- 證據指導方針：證據通常是透過螢幕擷取畫面或 screenshare 提供，示範即將進行記錄檔檢查。 這可能是透過每天完成的表單，或 JIRA 或 DevOps 票證的方式，其相關的批註會發佈到顯示這一天執行。 例如，每週一次的 JIRA 票據可能會建立 &quot; 每日記錄審閱每日一次的記錄審閱，每日 2021 &quot; 年6月當有人發佈每日記錄檔的結果。 如果已標記任何異常，則可以在這個相同的票證中記錄這種情況，以示範單一 JIRA 中的下一個控制項。
 
 - 如果使用的是自動工具，則可以提供螢幕擷取畫面證據來示範所設定的自動化，並提供額外的證據，以顯示自動化已執行，並且有人查看的是自動輸出。
 
@@ -1165,7 +1166,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 **控制65：** 提供原則檔，以控制安全性事件警示的作法與程式。
 
-- 目的：警示應該用於重要的安全性事件，這些事件需要從組織立即回應，因為可能是發生環境破壞和/或資料破壞的情況。 應記錄警示處理常式的強大程式，以確保以一致且可重複的方式執行這一過程。 這將有助於減少 &quot; 資料洩密週期的 &quot; 時程表。
+- 目的：警示應該用於重要的安全性事件，這些事件需要從組織立即回應，因為可能是發生環境破壞和/或資料破壞的情況。 應記錄警示處理常式的強大程式，以確保以一致且可重複的方式執行這一過程。 這將有助於減少資料洩密週期 &quot; 的 &quot; 時程表。
 
 - 證據指導方針：提供組織的原則和程式檔，涵蓋安全性事件警示最佳作法。
 
@@ -1286,7 +1287,7 @@ Application Security domain 控制項可以使用過去12個月內發出的滲�
 
 針對所有組織而言，安全性事件回應很重要，因為這樣可以縮短組織所花費的時間，以包含安全性事件，並限制組織對資料 exfiltration 的暴露層級。 透過制定完整且詳細的安全性事件回應方案，可從識別到包含時間的時間中大幅減少這項曝光量。
 
-由 IBM 所舉報的 &quot; [資料洩密報告成本所組成的報告 2020](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/) &quot; 會強調平均，包含破壞的時間是73days。 此外，同一個報告可識別遭受破壞之組織的最大成本節約器，其為事件回應準備，提供平均 $2000000 成本節約。
+由 IBM &quot; 所舉報的[資料洩密報告成本所組成](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/)的報告 2020 &quot; 會強調平均，包含破壞的時間是73days。 此外，同一個報告可識別遭受破壞之組織的最大成本節約器，其為事件回應準備，提供平均 $2000000 成本節約。
 
 組織應該遵循使用業界標準架構（例如 ISO 27001、NIST、SOC 2、PCI DSS 等）進行安全性合規性的最佳作法。
 
@@ -1354,13 +1355,13 @@ IRP 變更記錄會顯示在2021年7月執行的 tabletop 運動後所進行的�
 
 由於 M365 開發的應用程式/增益集的連線需求，因此會透過公用網路（亦即網際網路）進行通訊。 因此，傳輸中的資料必須受到適當的保護。 本節涵蓋透過網際網路的資料通訊保護。
 
-**控制任何1：** 提供 TLS 設定符合或超過 [Tls 設定檔設定需求](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#appendix-a)內之加密需求的 demonstratable 證據。
+**控制任何1：** 提供 TLS 設定符合或超過 [Tls 設定檔設定需求](../docs/certification-submission-guide.md#appendix-a)內之加密需求的 demonstratable 證據。
 
 - 目的：此控制項的目的是為了確保您的組織所消耗的 M365 資料安全地傳輸。 TLS 設定檔設定會定義 TLS 特有的需求，以協助確保流量免受中間人攻擊的保護。
 
 - 證據指導方針：證據的最簡單方法是針對 **所有** 網頁攔截器執行 [Qualys SSL 伺服器測試](https://www.ssllabs.com/ssltest/)工具，包括在非標準埠上執行的任何網頁攔截器。
 
-- 請記得勾選 [ &quot; 不要在板上顯示結果] &quot; 選項，這會停止將 URL 新增至網站。
+- 請記得勾選 &quot; [不要在板 &quot; 上顯示結果] 選項，這會停止將 URL 新增至網站。
 
 - 您也可以提供證據，以示範 TLS 設定檔設定需求內的個別檢查。 您可以使用設定設定，以及腳本和軟體工具，協助提供某些特定設定的證據，亦即會停用 TLS 壓縮。
 
@@ -1408,11 +1409,11 @@ IRP 變更記錄會顯示在2021年7月執行的 tabletop 運動後所進行的�
 
 **控制項3：** 提供 demonstratable 證據，以在所有網站上啟用 TLS HTTP 嚴格傳輸安全性並設定為 >= 15552000。
 
-- 意向： HTTP Strict Transport Security (HSTS) 是一種安全性機制，其設計目的是透過以「嚴格-Transport-安全性」的 HTTPS 回應標頭欄位的方式強制執行 TLS 連線，以保護網站不受中間人攻擊 &quot; &quot; 。
+- 意向： HTTP Strict Transport Security (HSTS) 是一種安全性機制，其設計目的是透過以「嚴格-Transport-安全性 &quot; 」的 HTTPS 回應標頭欄位 &quot; 的方式強制執行 TLS 連線，以保護網站不受中間人攻擊。
 
 - 證據準則範例：這可以是透過 Qualys SSL 實驗工具或其他工具和網頁瀏覽器增益集的證據。
 
-- 範例證據：下列螢幕擷取畫面透過稱為 [www.microsoft.com](http://www.microsoft.com/) 網站 &#39;HTTP 標頭 Spy&#39; 的網頁瀏覽器增益集來顯示。
+- 範例證據：下列螢幕擷取畫面透過稱為 [www.microsoft.com](https://www.microsoft.com/) 網站 &#39;HTTP 標頭 Spy&#39; 的網頁瀏覽器增益集來顯示。
 
 ![圖片](../media/UserGuidePhotos/Security-Domain-Control-No-3.png)
 
@@ -1424,15 +1425,15 @@ IRP 變更記錄會顯示在2021年7月執行的 tabletop 運動後所進行的�
 
 - 目的：一些舊的加密演算法是已知的一些密碼弱點，可增加威脅者在不知道金鑰的情況下，可對資料進行解密的機率。 因此，此控制項的目的是確保只使用業界公認的加密演算法來保護儲存的 M365 資料。
 
-- 證據指導方針：透過螢幕擷取畫面可提供證據，顯示要用來保護資料庫中的 M365 資料和其他儲存位置的加密。 證據應該會示範 Microsoft 365 憑證的[加密設定檔設定需求](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#appendix-b)所在的加密設定。
+- 證據指導方針：透過螢幕擷取畫面可提供證據，顯示要用來保護資料庫中的 M365 資料和其他儲存位置的加密。 證據應該會示範 Microsoft 365 憑證的[加密設定檔設定需求](../docs/certification-submission-guide.md#appendix-b)所在的加密設定。
 
-- 範例證據：下列螢幕擷取畫面顯示 Contoso 資料庫上已啟用 TDE (透明資料加密) 。 第二個螢幕擷取畫面顯示 Microsoft doc 頁面 &#39;[SQL Database、SQL Managed 實例和 azure Synapse 分析&#39; 的透明資料加密](https://docs.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview?view=sql-server-ver15&amp;tabs=azure-portal)，顯示 azure TDE 使用 AES 256 加密。
+- 範例證據：下列螢幕擷取畫面顯示 Contoso 資料庫上已啟用 TDE (透明資料加密) 。 第二個螢幕擷取畫面顯示 Microsoft doc 頁面 &#39;[SQL Database、SQL Managed 實例和 azure Synapse 分析&#39; 的透明資料加密](https://docs.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?view=sql-server-ver15&amp;tabs=azure-portal)，顯示 azure TDE 使用 AES 256 加密。
 
 ![圖片](../media/UserGuidePhotos/Security-Domain-Control-No-4.png)
 
 ![圖片](../media/UserGuidePhotos/Security-Domain-Control-No-4-1.png)
 
-- 證據2：下列螢幕擷取畫面顯示 Azure 儲存體設定 blob 和檔案的加密的。 下列螢幕擷取畫面顯示 [Microsoft 檔] 頁面 &quot; [Azure 儲存體靜態資料的加密](https://docs.microsoft.com/en-gb/azure/storage/common/storage-service-encryption)， &quot; 顯示此 Azure 儲存體使用 AES-256 加密。
+- 證據2：下列螢幕擷取畫面顯示 Azure 儲存體設定 blob 和檔案的加密的。 下列螢幕擷取畫面顯示 [Microsoft 檔] 頁面 &quot; Azure 儲存體靜態 &quot; [資料的加密](https://docs.microsoft.com/azure/storage/common/storage-service-encryption)，顯示此 Azure 儲存體使用 AES-256 加密。
 
 ![圖片](../media/UserGuidePhotos/Security-Domain-Control-No-4-2.png)
 
@@ -1460,13 +1461,13 @@ IRP 變更記錄會顯示在2021年7月執行的 tabletop 運動後所進行的�
 
 ### <a name="data-retention-and-disposal"></a>資料保留與處置
 
-因為 Isv 會利用和儲存 M365 資料，所以威脅者可能會危及 ISV 環境的危險。 若要將此風險降至最低，組織應該只保留傳送服務所需的資料，而不是 &quot; 未來可能使用的資料 &quot; 。 此外，只要提供資料已捕獲的服務，只應該保留資料。 應定義資料保留，並與使用者進行通訊。 資料超過定義的保留期限後，必須加以安全刪除，這樣才能重新建立或復原資料。
+因為 Isv 會利用和儲存 M365 資料，所以威脅者可能會危及 ISV 環境的危險。 若要將此風險降至最低，組織應該只保留傳送服務所需的資料，而不是未來可能 &quot; 使用的資料 &quot; 。 此外，只要提供資料已捕獲的服務，只應該保留資料。 應定義資料保留，並與使用者進行通訊。 資料超過定義的保留期限後，必須加以安全刪除，這樣才能重新建立或復原資料。
 
 **控制編號7：** 提供 demonstratable 證據，以正式建立已核准和記錄的資料保留期間。
 
 - 目的：已記錄的和遵循的保留原則很重要，不僅是為了符合某些法律義務，例如資料隱私權法規，但不限於一般資料保護規定 (EU GDPR) 和資料保護法案 (UK DPA 2018) ，但也是限制組織的風險。 透過瞭解組織的資料需求，以及商務執行其功能所需的資料長度，組織可以確保資料在其有用性到期之後正確地加以處置。 透過減少所儲存的資料量，組織會在資料洩漏時，減少所公開的資料量。 這會限制整體影響。
 
-- 組織通常只會儲存資料，因為這&#39;很 &quot; 不錯 &quot; ，但如果組織沒有&#39;需要用來執行其服務或業務職能的資料，則資料應該不會儲存，因為這會使組織面臨非必要的風險增加。
+- 組織通常只會儲存資料，因為這&#39;&quot; 很不錯，但如果組織沒有&#39;需要用 &quot; 來執行其服務或業務職能的資料，則資料應該不會儲存，因為這會使組織面臨非必要的風險增加。
 
 - 證據指導方針：提供完整的資料保留原則，明確說明資料 (必須涵蓋所有資料類型) 應該保留，讓業務可以執行其業務功能。
 
@@ -1486,7 +1487,7 @@ IRP 變更記錄會顯示在2021年7月執行的 tabletop 運動後所進行的�
 
 **注意：** 任何個人敏感的客戶資料都應該 redacted 在螢幕擷取畫面內。
 
-- 範例證據：下列證據會顯示 SQL 查詢，顯示在 &#39;DATE TRANSACTION&#39; 欄位上以遞增順序排序的資料庫資料表內容 \_ ，以顯示資料庫中的最舊記錄。 這應該是兩個月舊的資料，而不是&#39;超過所定義的保留期間。
+- 範例證據：下列證據會顯示 SQL 查詢，顯示在 &#39;DATE \_ TRANSACTION&#39; 欄位上以遞增順序排序的資料庫資料表內容，以顯示資料庫中的最舊記錄。 這應該是兩個月舊的資料，而不是&#39;超過所定義的保留期間。
 
 ![圖片](../media/UserGuidePhotos/Security-Domain-Control-No-8.png)
 
@@ -1574,7 +1575,7 @@ IRP 變更記錄會顯示在2021年7月執行的 tabletop 運動後所進行的�
 
 - 證據指導方針：可以透過螢幕擷取畫面提供證據，以顯示授與抽樣人員的資料和/或加密金鑰存取權限。 證據必須涵蓋所有的資料位置。
 
-- 範例證據：這個螢幕擷取畫面會顯示授與使用者 John Smith 的許可權，這些許可權會 &quot; &quot; 根據此相同使用者的核准要求，與上一個控制項的證據相同。
+- 範例證據：這個螢幕擷取畫面會顯示授與使用者 &quot; John Smith &quot; 的許可權，這些許可權會根據此相同使用者的核准要求，與上一個控制項的證據相同。
 
 ![圖片](../media/UserGuidePhotos/Security-Domain-Control-No-12.png)
 
@@ -1699,32 +1700,32 @@ IRP 變更記錄會顯示在2021年7月執行的 tabletop 運動後所進行的�
 
 上述 Azure 圖像顯示如何將 Azure 設定為符合 GDPR 後端環境中所儲存之資料的相容性需求。 您 _可以從 Azure 藍圖進行自訂或建立_ 的原則 () 可讓 ISV 確定用戶端&#39;的資料儲存正確，而且只有設定的計量和警示可供設定，以確保相容性，並在合規性管理員儀表板上顯示不相容的資料或使用者存取權。
 
-書
+書籍
 
  (Murdoch 2018) Blue Team 手冊：事件回應 Edition：網路安全事件回應程式的緊縮欄位指南。 第二版，Publisher： CreateSpace 獨立發行平臺。
 
 參考
 
-- 您可以在 [https://www.actionfraud.police.uk/](https://www.actionfraud.police.uk/) 08/02/21) 上存取的「動作欺詐」網路罪犯報告： (。
+- 您可以在 08/02/21) 上存取的「動作欺詐」網路罪犯報告： [https://www.actionfraud.police.uk/](https://www.actionfraud.police.uk/) (。
 - 歐盟。  (2021) 可用資料控制器的 GDPR 檢查清單： [https://gdpr.eu/checklist/](https://gdpr.eu/checklist/) (于 01/02/21) 存取。
 - Microsoft.  (2018) 事件記錄 (Windows 安裝程式) 可用： docs.microsoft.com/en-us/windows/win32/msi/event-logging (： 23/12/20) 。
 - 肯定的技術。  (2020) 如何處理安全的軟體發展，請參閱： [https://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-approach-secure-software-development/](https://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-approach-secure-software-development/) (可存取： 21/12/20) 。
 - 規章 (歐盟) 2016/679 的歐洲 Parliament 及理事會的理事會的2016理事會的法務人員，保護一般人員處理個人資料的處理，以及這類資料的自由移動，以及 repealing 指令 95/46/EC (一般資料保護法規)  () 2016 的文字，請參閱： [https://www.legislation.gov.uk/eur/2016/679/contents](https://www.legislation.gov.uk/eur/2016/679/contents) (存取： 11/01/2021) 。
-- 安全性度量。  (2020) 針對 PCI DSS 規範的安全性度量指南。 可用位置： [https://info.securitymetrics.com/pci-guide-2020](https://info.securitymetrics.com/pci-guide-2020) (存取： 01/06/21) 。
+- 安全性度量。  (2020) 針對 PCI DSS 規範的安全性度量指南。 可用位置 [https://info.securitymetrics.com/pci-guide-2020](https://info.securitymetrics.com/pci-guide-2020) ： (存取： 01/06/21) 。
 - Williams 中可用的 OWASP 風險排名： [https://owasp.org/www-community/OWASP\_Risk\_Rating\_Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) (存取： 08/12/20) 。
-- Qualys.  (2014) SSL 實驗室：信任的新分數 (T) 及不相符 (M) 可用的問題： [https://blog.qualys.com/product-tech/2014/06/17/ssl-labs-new-grades-for-trust-t-and-mismatch-m-issues](https://blog.qualys.com/product-tech/2014/06/17/ssl-labs-new-grades-for-trust-t-and-mismatch-m-issues) (存取： 29/01/21) 。
-- NIST SP800-61r2： [https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) (于 24/01/21) 上存取的電腦安全性性事件處理指南：可用。
+- Qualys.  (2014) SSL 實驗室：信任的新分數 (T) 及不相符 (M) 可用的 [https://blog.qualys.com/product-tech/2014/06/17/ssl-labs-new-grades-for-trust-t-and-mismatch-m-issues](https://blog.qualys.com/product-tech/2014/06/17/ssl-labs-new-grades-for-trust-t-and-mismatch-m-issues) 問題： (存取： 29/01/21) 。
+- NIST SP800-61r2： (于 24/01/21) 上存取的電腦安全性性事件處理指南： [https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) 可用。
 
 **從 Microsoft 檔取得的影像**
 
 - [https://www.sans.org/information-security-policy/](https://www.sans.org/information-security-policy/) (18/02/21) 上的 Accessedd。
-- [https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy](https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy) 在 16/02/21) 上存取 (。
-- [https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview) 在 17/02/21) 上存取 (。
-- [https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy](https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy) 在 22/02/21) 上存取 (。
-- [https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts](https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts) 在 24/02/21) 上存取 (。
-- [https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts](https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts) 在 24/02/21) 上存取 (。
+- [https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy](https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy) 在 16/02/21) 上存取 (。
+- [https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-overview](https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-overview) 在 17/02/21) 上存取 (。
+- [https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy](https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy) 在 22/02/21) 上存取 (。
+- [https://docs.microsoft.com/azure/security-center/security-center-managing-and-responding-alerts](https://docs.microsoft.com/azure/security-center/security-center-managing-and-responding-alerts) 在 24/02/21) 上存取 (。
+- [https://docs.microsoft.com/azure/security-center/security-center-managing-and-responding-alerts](https://docs.microsoft.com/azure/security-center/security-center-managing-and-responding-alerts) 在 24/02/21) 上存取 (。
 - [https://microsoft.github.io/AzureTipsAndTricks/blog/tip272.html](https://microsoft.github.io/AzureTipsAndTricks/blog/tip272.html)
-- [https://docs.microsoft.com/en-gb/azure/information-protection/what-is-information-protection](https://docs.microsoft.com/en-gb/azure/information-protection/what-is-information-protection)
-- [https://docs.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal](https://docs.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal)
-- [https://docs.microsoft.com/en-us/azure/governance/policy/assign-policy-portal](https://docs.microsoft.com/en-us/azure/governance/policy/assign-policy-portal)
-- [https://docs.microsoft.com/en-us/azure/azure-sql/database/threat-detection-configure](https://docs.microsoft.com/en-us/azure/azure-sql/database/threat-detection-configure)
+- [https://docs.microsoft.com/azure/information-protection/what-is-information-protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [https://docs.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal](https://docs.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal)
+- [https://docs.microsoft.com/azure/governance/policy/assign-policy-portal](https://docs.microsoft.com/azure/governance/policy/assign-policy-portal)
+- [https://docs.microsoft.com/azure/azure-sql/database/threat-detection-configure](https://docs.microsoft.com/azure/azure-sql/database/threat-detection-configure)

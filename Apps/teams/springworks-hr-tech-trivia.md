@@ -2,18 +2,19 @@
 title: Trivia 的應用程式資訊（按 Springworks HR Tech）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Trivia 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d6cb39b076b113828b5018eb557a1c2ee54c4004
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b16a3197e930934e927b55e67d4a5ee98e33182a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148024"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551411"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -40,9 +41,8 @@ Springworks HR 技術所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://trivia.springworks.in/tnc](https://trivia.springworks.in/tnc) |
 | 應用程式的核心功能 | 一起玩的小組，bonds 更好。 透過 Trivia，與您的小組成員一起播放即時測驗和測驗題，並透過社交工工間的社交工工上的債券與證券。 Trivia&#8217;s 功能套件：測驗-在 MCQ 格式測驗中為您的團隊競爭，Word 測驗題只是重新整理字母，以形成有意義的單字，並 (不) 常見的觀點-Stir 在您的小組中使用有趣投票的部分 controversy |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.springworks.in/trivia](https://www.springworks.in/trivia) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

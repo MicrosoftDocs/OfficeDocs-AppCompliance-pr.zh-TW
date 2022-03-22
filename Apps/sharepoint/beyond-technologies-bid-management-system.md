@@ -2,18 +2,19 @@
 title: 投標管理系統的應用程式資訊，不只是技術
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于出價管理系統的安全性和合規性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7089e7f666dd8c601c5d585f0cec7ce20a613b3e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: e8209c8ebf341b736bad0e7d8c4143139db6a151
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155178"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550692"
 ---
 # <a name="bid-management-system"></a>投標管理系統
 
@@ -39,9 +40,8 @@ ms.locfileid: "62155178"
 | App 的使用條款 | [https://www.beyondintranet.com/eula](https://www.beyondintranet.com/eula) |
 | 應用程式的核心功能 | SharePoint 已制定計畫書管理/出價管理軟體，以數位化出價活動。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.beyondintranet.com/bid-management-software](https://www.beyondintranet.com/bid-management-software) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

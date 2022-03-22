@@ -2,18 +2,19 @@
 title: Luware Nimbus for Luware AG Microsoft Teams 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Luware Nimbus 的所有可用安全性和符合性資訊資訊 Microsoft Teams，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1d64355be961a730caf60af7fd12bcb0326ade34
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f5fbd82c09e9560a600191a9d5001f148b93f685
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252416"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550401"
 ---
 # <a name="luware-nimbus-for-microsoft-teams"></a>Luware 的 Nimbus （Microsoft Teams）
 
@@ -38,7 +39,7 @@ Luware AG 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://luware.com/en/agreements/saas/](https://luware.com/en/agreements/saas/) |
 | 應用程式的核心功能 | Nimbus 會將通話佇列、presenced 型路由、報告功能及切換面板新增至 Teams |
 | 公司 headquarter 位置 | 瑞士 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://luware.com/en/solution/advanced-routing-for-microso...](https://luware.com/en/solution/advanced-routing-for-microsoft-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -168,19 +169,19 @@ Luware AG 會提供此資訊，讓您瞭解此應用程式如何收集及儲存�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 委託 | 語音應答主控台：已登入使用者的 [讀取行事曆] 顯示具有約會的行事曆 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| 已讀取行事曆。共用 | 委託 | 語音應答主控台：閱讀共用的行事曆以顯示約會的行事曆 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| 連絡人。已讀取 | 委託 | 語音應答主控台：搜尋登入使用者的 Exchange 連絡人 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Contacts。已讀取。共用 | 委託 | 語音應答主控台：在共用 Exchange 連絡人中搜尋 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| GroupMember Read。 All | 應用程式 | 取得小組成員、讀取安全性群組 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| 目前狀態為 [已讀取]。 | 委託 | 在語音應答主控台頁面上的連絡人搜尋顯示目前狀態 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.Read | 委託 | 從登入的使用者) 取得 UserInformation ( | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.Read.All | 包括 | Nimbus 應用程式-取得 CallerInformation。 在接觸中心的內部通話上，我們會進行反向查閱，讓我們能夠將該資訊顯示給代理人。 在 [語音應答主控台] 中 (委派的許可權) 我們會搜尋整個內部目錄，以進行傳輸目標。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.ReadBasic.All | 委託 | 有限使用者搜尋 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| AccessMedia 所有 | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) ：訂閱 DTMF 色調，客戶實際上可以在 IVR 中選取其位置。 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| 呼叫。 Initiate 所有 | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) ：撥打代理程式  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| InitiateGroupCall 所有 | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) ：撥打代理程式  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| JoinGroupCall 所有 | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) ：加入提升的呼叫以播放宣告 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
+>| Calendars.Read | 委託 | 語音應答主控台：已登入使用者的 [讀取行事曆] 顯示具有約會的行事曆 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| 已讀取行事曆。共用 | 委託 | 語音應答主控台：閱讀共用的行事曆以顯示約會的行事曆 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| 連絡人。已讀取 | 委託 | 語音應答主控台：搜尋登入使用者的 Exchange 連絡人 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts。已讀取。共用 | 委託 | 語音應答主控台：在共用 Exchange 連絡人中搜尋 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| GroupMember Read。 All | 應用程式 | 取得小組成員、讀取安全性群組 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| 目前狀態為 [已讀取]。 | 委託 | 在語音應答主控台頁面上的連絡人搜尋顯示目前狀態 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.Read | 委託 | 從登入的使用者) 取得 UserInformation ( | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.Read.All | 包括 | Nimbus 應用程式-取得 CallerInformation。 在接觸中心的內部通話上，我們會進行反向查閱，讓我們能夠將該資訊顯示給代理人。 在 [語音應答主控台] 中 (委派的許可權) 我們會搜尋整個內部目錄，以進行傳輸目標。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.ReadBasic.All | 委託 | 有限使用者搜尋 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| AccessMedia 所有 | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) ：訂閱 DTMF 色調，客戶實際上可以在 IVR 中選取其位置。 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| 呼叫。 Initiate 所有 | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) ：撥打代理程式  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| InitiateGroupCall 所有 | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) ：撥打代理程式  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| JoinGroupCall 所有 | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) ：加入提升的呼叫以播放宣告 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
 
 >此應用程式沒有額外的 APIs。
 

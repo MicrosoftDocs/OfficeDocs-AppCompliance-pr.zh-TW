@@ -2,18 +2,19 @@
 title: Luware AG Microsoft Teams 之 Luware 規範錄製的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Luware 合規性錄製的所有可用安全性和符合性資訊資訊 Microsoft Teams，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ffbb28358351271e0028f0b9deec76e3ca6c6a8c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e32f3e36370bc94250831178d88183ee6b0d2264
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251310"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550411"
 ---
 # <a name="luware-compliance-recording-for-microsoft-teams"></a>Microsoft Teams 的 Luware 相容性錄製
 
@@ -38,7 +39,7 @@ Luware AG 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://luware.com/en/agreements/saas/](https://luware.com/en/agreements/saas/) |
 | 應用程式的核心功能 | 雲端解決方案，可協助您捕獲、封存、分析及取回所有的通訊模式。 |
 | 公司 headquarter 位置 | 瑞士 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://luware.com/en/solution/microsoft-teams-recording/](https://luware.com/en/solution/microsoft-teams-recording/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -168,17 +169,17 @@ Luware AG 會提供此資訊，讓您瞭解此應用程式如何收集及儲存�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AccessMedia 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| 呼叫。 Initiate 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| InitiateGroupCall 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| JoinGroupCall 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| JoinGroupCallasGuest 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| Group.Read.All | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| GroupMember Read。 All | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| OnlineMeetings Read。 All | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| OnlineMeetings ReadWrite。 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| User.Read | 委託 | 單一登入 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
->| User.Read.All | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| AccessMedia 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| 呼叫。 Initiate 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| InitiateGroupCall 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| JoinGroupCall 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| JoinGroupCallasGuest 所有 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| Group.Read.All | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| GroupMember Read。 All | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| OnlineMeetings Read。 All | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| OnlineMeetings ReadWrite。 | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| User.Read | 委託 | 單一登入 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
+>| User.Read.All | 應用程式 | Teams 錄製 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](../azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad.md) |
 
 >此應用程式沒有額外的 APIs。
 

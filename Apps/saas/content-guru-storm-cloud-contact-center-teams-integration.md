@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: 風暴雲端連絡人中心所有可用的安全性和符合性資訊資訊 Teams 整合、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6e4c79749325a66c6a9537e23257f2131ac9acf1
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 37d301bcbab0c389e87eb49fcb8b7c86a01cd00b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459782"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551692"
 ---
 # <a name="storm-cloud-contact-center-teams-integration"></a>風暴 Cloud Contact Center Teams 整合
 
@@ -41,7 +41,6 @@ ms.locfileid: "63459782"
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
 | 應用程式資訊頁面 | [https://www.contentguru.com/microsoft-teams-integration/](https://www.contentguru.com/microsoft-teams-integration/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

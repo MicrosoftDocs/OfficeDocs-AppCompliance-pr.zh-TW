@@ -2,18 +2,19 @@
 title: Witivio 的行事曆應用程式資訊 Pro
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的 [行事曆] 安全性和符合性資訊資訊，如「行事曆」 Pro、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c759b85ec56745d7df22f3b4a85696a27d726120
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: cd77513cdd572cf8176c4bce70d0f749f35b04c2
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250039"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552822"
 ---
 # <a name="calendar-pro"></a>行事曆專業版
 
@@ -42,6 +43,7 @@ ms.locfileid: "62250039"
 | 公司 headquarter 位置 | 法國 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62250039"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ ms.locfileid: "62250039"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 使用資料 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| User.ReadBasic.All | 委託 | 使用資料 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| 電子郵件 | 委託 | 使用電子郵件 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| offline_access | 委託 | 使用資料 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| openid | 委託 | 驗證 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| 設定檔 | 委託 | 使用資料 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
+>| User.Read | 委託 | 使用資料 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](../azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md) |
+>| User.ReadBasic.All | 委託 | 使用資料 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](../azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md) |
+>| 電子郵件 | 委託 | 使用電子郵件 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](../azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md) |
+>| offline_access | 委託 | 使用資料 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](../azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md) |
+>| openid | 委託 | 驗證 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](../azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md) |
+>| 設定檔 | 委託 | 使用資料 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](../azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md) |
 
 >此應用程式沒有額外的 APIs。
 

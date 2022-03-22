@@ -2,18 +2,19 @@
 title: 以平方方式連線的版塊應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有適用于主機板連線的安全性和合規性資訊資訊，以及其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 91d88db95de0991f7ccb65f9e19e276fce27158c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5327ac45a97b2a0cade740eecbcbc38971ec3243
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263804"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550602"
 ---
 # <a name="board-connect"></a>版面連結
 
@@ -40,8 +41,9 @@ ms.locfileid: "62263804"
 | App 的使用條款 | [https://boardconnect.app/terms](https://boardconnect.app/terms) |
 | 應用程式的核心功能 | 董事會連線協助組織更有效率地執行會議。 與 Microsoft 小組相關的 Microsoft Teams 應用程式，可讓組織建立會議、管理議程、投票、檔等等。 該應用程式也會與 Outlook 的行事曆和 office 365 群組整合，以建立新的行事曆事件，並協助 secretaries organising 和管理事件。 |
 | 公司 headquarter 位置 | 澳洲 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://boardconnect.app](https://boardconnect.app) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62263804"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ ms.locfileid: "62263804"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 若要讓應用程式更新使用者行事曆，以反映透過應用程式提交的其董事會會議出席回應回應。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| Group.ReadWrite.All | 委託 | 若要允許此應用程式建立、更新和刪除群組行事曆事件。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| 管理的網站。所有 | 委託 | 若要允許此應用程式建立清單和文件庫，管理清單專案並管理小組網站集合上的檔。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| User.Read | 委託 | 允許使用者登入應用程式，並讓應用程式讀取目前登入使用者的設定檔。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| User.ReadBasic.All | 委託 | 若要讓應用程式代表登入的使用者讀取其他使用者的基本配置檔案屬性集合，以便在應用程式中顯示。 這包括顯示名稱、名字和姓氏、電子郵件地址及照片。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| offline_access | 委託 | 若要讓應用程式取得重新整理權杖，可在目前的更新權杖到期時，用來取得新的訪問權杖。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| ReadWrite 的行事曆 | 委託 | 若要讓應用程式更新使用者行事曆，以反映透過應用程式提交的其董事會會議出席回應回應。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| Group.ReadWrite.All | 委託 | 若要允許此應用程式建立、更新和刪除群組行事曆事件。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| 管理的網站。所有 | 委託 | 若要允許此應用程式建立清單和文件庫，管理清單專案並管理小組網站集合上的檔。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| User.Read | 委託 | 允許使用者登入應用程式，並讓應用程式讀取目前登入使用者的設定檔。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| User.ReadBasic.All | 委託 | 若要讓應用程式代表登入的使用者讀取其他使用者的基本配置檔案屬性集合，以便在應用程式中顯示。 這包括顯示名稱、名字和姓氏、電子郵件地址及照片。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| offline_access | 委託 | 若要讓應用程式取得重新整理權杖，可在目前的更新權杖到期時，用來取得新的訪問權杖。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
 
 >此應用程式沒有額外的 APIs。
 

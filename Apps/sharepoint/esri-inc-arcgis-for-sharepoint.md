@@ -2,18 +2,19 @@
 title: ArcGIS 的應用程式資訊，由 Esri，inc. SharePoint。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ArcGIS SharePoint 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 14034e3d6c413ad8d88db2165a569b774445e07a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 114dbf2119c3b4d3110f60cf3ca158b7672c9098
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252425"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552972"
 ---
 # <a name="arcgis-for-sharepoint"></a>SharePoint 的 ArcGIS
 
@@ -39,8 +40,9 @@ Esri，Inc. 提供給 Microsoft 的資訊：
 | App 的使用條款 | [https://www.esri.com/en-us/legal/terms/master-agreement-pro...](https://www.esri.com/en-us/legal/terms/master-agreement-product) |
 | 應用程式的核心功能 | ArcGIS Online 包括一套應用程式、具有數千個主題的授權對應及資料、現代化對應工具，您需要在資料中呈現有意義的模式、分析，以及在您的資料中探索有意義的模式，以及讓每個人都能輕鬆地管理人員和內容，以及讓每個人都能建立及共用地圖。 ArcGIS 可讓您組織中的每個人都能夠在任何位置（隨時隨地）發現、使用、建立和共用對應。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.esri.com/en-us/about/esri-partner-network/our-p...](https://www.esri.com/en-us/about/esri-partner-network/our-partners/global-alliances/microsoft-esri/overview) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure，AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Esri，Inc. 已提供此資訊。關於此應用程式如何收集和儲存組�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

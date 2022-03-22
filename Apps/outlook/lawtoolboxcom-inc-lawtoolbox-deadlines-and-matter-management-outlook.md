@@ -1,28 +1,28 @@
 ---
-title: LawToolBox 期限 &amp; 事項管理的應用程式資訊，由 LawToolBox.com inc. Outlook。
+title: LawToolBox.com inc. Outlook 的 LawToolBox 期限和事務管理的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/11/2022
+ms.date: 03/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有可用的安全性和符合性資訊，以 LawToolBox 期限 &amp; 事項管理-Outlook、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: LawToolBox 期限和 Outlook 相關事項的所有可用安全性和符合性資訊資訊，也就是其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c15a934f25c3f7650d2fd7ac927029f8a08e2b56
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: b1bf6d736341aef40ae0087ef005f490a37db23f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459186"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552422"
 ---
-# <a name="lawtoolbox-deadlines-amp-matter-management---outlook"></a>LawToolBox 期限 &amp; 事項管理-Outlook
+# <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>LawToolBox 期限與事務管理-Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2022年3月7日</p>
+<p>上次於開發人員的更新日期：2022年3月15日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104120953" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003103" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
@@ -32,8 +32,8 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | LawToolBox 期限 &amp; 事項管理-Outlook |
-| ID | WA104120953 |
+| 應用程式名稱 | LawToolBox 期限與事務管理-Outlook |
+| ID | WA200003103 |
 | 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
 | 合作夥伴公司名稱 | LawToolBox.com Inc. |
 | 公司的網站 | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
@@ -61,7 +61,7 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 電子郵件，UPN，名稱，groupid，群組電子郵件，tenantid，使用者物件識別碼 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -171,22 +171,38 @@ LawToolBox.com Inc. 所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | 應用程式 | 使用此許可權是為了讓一般使用者不會受到限制，而且可能會設定超過250個群組 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa) |
->| User.ReadWrite.All | 應用程式 | 此許可權用於從目錄讀取使用者相關資訊，並允許使用者對 LawToolBox 管理入口網站進行存取，以將人員新增至不是其成員的群組。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa) |
->| ReadWrite 的行事曆 | 委託 | 此許可權可讓使用者取回自己的行事曆資訊。  使用者只可以使用此應用程式，透過開啟 Outlook 行事歷來找回自己的行事曆資訊 (所能找回的資訊，)  | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| 連絡人。 ReadWrite | 委託 | 此許可權可用以允許使用者搜尋 Microsoft 365 Outlook 連絡人，並新增至連絡人管理系統 &#8211; 連絡人永遠不會自動新增 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| ReadWrite 共用 | 委託 | 此許可權可用以允許使用者搜尋共用的 M365 連絡人，並新增為連絡人管理系統的連絡人。 &#8211; 不會自動新增連絡人。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Files.ReadWrite | 委託 | LawToolBox 讀取及寫入會議 Teams、群組和 OneDrive 中的檔案 (如果使用者撤銷此許可權，它會防止 LTB 從範本建立資料夾及檔案，並在我們的應用程式中列出重要檔)  | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Group.ReadWrite.All | 委託 | 若要讀取 Teams API、建立 Teams、建立行事曆事件、建立頻道，必須具備此許可權，然後按一下 [外部檔案共用功能]。  需要管理群組。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Mail.Read | 委託 | 此許可權是用來在 outlook 增益集中讀取 PACER 封電子郵件，以自動開啟該功能，也就是從電子郵件讀取連絡人。  如果使用者撤銷此許可權，他們將無法在其收件匣的電子郵件中新增電子郵件連絡人給我們的連絡人系統。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| 傳送郵件 | 委託 | 此許可權用於以使用者的身分傳送電子郵件，例如，使用者可以自行自行傳送重要期限圖表。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| MailboxSettings ReadWrite | 委託 | 此許可權用來用標籤標記電子郵件，指出已使用該應用程式將其儲存至群組資料夾。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| ReadWrite。 | 委託 | 此許可權可讓使用者將選取的資料與案例附注、期限圖表或事項視為相關的 OneNote。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| OnlineMeetings ReadWrite | 委託 | 此許可權可用以簡化建立及管理會議，以及使用出席者角色建議出席者的建議 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| 個人讀取 | 委託 | 使用此許可權可讓使用者使用 Microsoft AI 搜尋共用的 M365 連絡人，並新增至 LawToolBox 連絡人管理系統，並建議新增至應用程式連絡人管理系統的人員 &#8211; 我們不會自動新增任何連絡人。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| User.Read | 委託 | 讀取使用者 (的基本資訊（例如名稱、電子郵件、時區) ，以便系統管理員可以將精確的使用者新增至系統）時，此許可權是必要的。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| 電子郵件 | 委託 | 此許可權可讓應用程式讀取電子郵件，讓使用者能夠從其收件匣的電子郵件收集電子郵件連絡人資訊，此許可權也可讓應用程式使用 pacer 的資訊來讀取電子郵件，讓應用程式可以使用 PACER docket 編號以預設開啟相關案例。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| 設定檔 | 委託 | 這是 SSO 驗證 (LawToolBox 不要求寫入您的設定檔的許可權) 此許可權是使用者使用單一登入授權登入 LAWTOOLBOX 應用程式所需的許可權。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
+>| ReadWrite 的行事曆 | 委託 | 此許可權可讓使用者取回自己的行事曆資訊。  使用者只可以使用此應用程式，透過開啟 Outlook 行事歷來找回自己的行事曆資訊 (所能找回的資訊，)  | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| 連絡人。 ReadWrite | 委託 | 此許可權可用以允許使用者搜尋 Microsoft 365 Outlook 連絡人，並新增至連絡人管理系統 &#8211; 連絡人永遠不會自動新增 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| ReadWrite 共用 | 委託 | 此許可權可用以允許使用者搜尋共用的 M365 連絡人，並新增為連絡人管理系統的連絡人。 &#8211; 不會自動新增連絡人。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Files.ReadWrite | 委託 | LawToolBox 讀取及寫入會議 Teams、群組和 OneDrive 中的檔案 (如果使用者撤銷此許可權，它會防止 LTB 從範本建立資料夾及檔案，並在我們的應用程式中列出重要檔)  | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Group.ReadWrite.All | 委託 | 若要讀取 Teams API、建立 Teams、建立行事曆事件、建立頻道，必須具備此許可權，然後按一下 [外部檔案共用功能]。  需要管理群組。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Group.ReadWrite.All | 應用程式 | 使用此許可權是為了讓一般使用者不會受到限制，而且可能會設定超過250個群組 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Mail.Read | 委託 | 此許可權是用來在 outlook 增益集中讀取 PACER 封電子郵件，以自動開啟該功能，也就是從電子郵件讀取連絡人。  如果使用者撤銷此許可權，他們將無法在其收件匣的電子郵件中新增電子郵件連絡人給我們的連絡人系統。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| 傳送郵件 | 委託 | 此許可權用於以使用者的身分傳送電子郵件，例如，使用者可以自行自行傳送重要期限圖表。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| MailboxSettings ReadWrite | 委託 | 此許可權用來用標籤標記電子郵件，指出已使用該應用程式將其儲存至群組資料夾。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| ReadWrite。 | 委託 | 此許可權可讓使用者將選取的資料與案例附注、期限圖表或事項視為相關的 OneNote。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| OnlineMeetings ReadWrite | 委託 | 此許可權可用以簡化建立及管理會議，以及使用出席者角色建議出席者的建議 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| 個人讀取 | 委託 | 使用此許可權可讓使用者使用 Microsoft AI 搜尋共用的 M365 連絡人，並新增至 LawToolBox 連絡人管理系統，並建議新增至應用程式連絡人管理系統的人員 &#8211; 我們不會自動新增任何連絡人。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| User.Read | 委託 | 讀取使用者 (的基本資訊（例如名稱、電子郵件、時區) ，以便系統管理員可以將精確的使用者新增至系統）時，此許可權是必要的。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| User.ReadWrite.All | 應用程式 | 此許可權用於從目錄讀取使用者相關資訊，並允許使用者對 LawToolBox 管理入口網站進行存取，以將人員新增至不是其成員的群組。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| 電子郵件 | 委託 | 此許可權可讓應用程式讀取電子郵件，讓使用者能夠從其收件匣的電子郵件收集電子郵件連絡人資訊，此許可權也可讓應用程式使用 pacer 的資訊來讀取電子郵件，讓應用程式可以使用 PACER docket 編號以預設開啟相關案例。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| 設定檔 | 委託 | 這是 SSO 驗證 (LawToolBox 不要求寫入您的設定檔的許可權) 此許可權是使用者使用單一登入授權登入 LAWTOOLBOX 應用程式所需的許可權。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| ReadWrite 的行事曆 | 委託 | 此許可權可讓使用者取回自己的行事曆資訊。  使用者只可以使用此應用程式，透過開啟 Outlook 行事歷來找回自己的行事曆資訊 (所能找回的資訊，)  | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 連絡人。 ReadWrite | 委託 | 此許可權可用以允許使用者搜尋 Microsoft 365 Outlook 連絡人，並新增至連絡人管理系統 &#8211; 連絡人永遠不會自動新增 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| ReadWrite 共用 | 委託 | 此許可權可用以允許使用者搜尋共用的 M365 連絡人，並新增為連絡人管理系統的連絡人。 &#8211; 不會自動新增連絡人。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Files.ReadWrite | 委託 | LawToolBox 讀取及寫入會議 Teams、群組和 OneDrive 中的檔案 (如果使用者撤銷此許可權，它會防止 LTB 從範本建立資料夾及檔案，並在我們的應用程式中列出重要檔)  | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Group.ReadWrite.All | 委託 | 若要讀取 Teams API、建立 Teams、建立行事曆事件、建立頻道，必須具備此許可權，然後按一下 [外部檔案共用功能]。  需要管理群組。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Group.ReadWrite.All | 應用程式 | 使用此許可權是為了讓一般使用者不會受到限制，而且可能會設定超過250個群組 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Mail.Read | 委託 | 此許可權是用來在 outlook 增益集中讀取 PACER 封電子郵件，以自動開啟該功能，也就是從電子郵件讀取連絡人。  如果使用者撤銷此許可權，他們將無法在其收件匣的電子郵件中新增電子郵件連絡人給我們的連絡人系統。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 傳送郵件 | 委託 | 此許可權用於以使用者的身分傳送電子郵件，例如，使用者可以自行自行傳送重要期限圖表。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| MailboxSettings ReadWrite | 委託 | 此許可權用來用標籤標記電子郵件，指出已使用該應用程式將其儲存至群組資料夾。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| ReadWrite。 | 委託 | 此許可權可讓使用者將選取的資料與案例附注、期限圖表或事項視為相關的 OneNote。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| OnlineMeetings ReadWrite | 委託 | 此許可權可用以簡化建立及管理會議，以及使用出席者角色建議出席者的建議 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 個人讀取 | 委託 | 使用此許可權可讓使用者使用 Microsoft AI 搜尋共用的 M365 連絡人，並新增至 LawToolBox 連絡人管理系統，並建議新增至應用程式連絡人管理系統的人員 &#8211; 我們不會自動新增任何連絡人。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| User.Read | 委託 | 讀取使用者 (的基本資訊（例如名稱、電子郵件、時區) ，以便系統管理員可以將精確的使用者新增至系統）時，此許可權是必要的。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| User.ReadWrite.All | 應用程式 | 此許可權用於從目錄讀取使用者相關資訊，並允許使用者對 LawToolBox 管理入口網站進行存取，以將人員新增至不是其成員的群組。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 電子郵件 | 委託 | 此許可權可讓應用程式讀取電子郵件，讓使用者能夠從其收件匣的電子郵件收集電子郵件連絡人資訊，此許可權也可讓應用程式使用 pacer 的資訊來讀取電子郵件，讓應用程式可以使用 PACER docket 編號以預設開啟相關案例。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 設定檔 | 委託 | 這是 SSO 驗證 (LawToolBox 不要求寫入您的設定檔的許可權) 此許可權是使用者使用單一登入授權登入 LAWTOOLBOX 應用程式所需的許可權。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
 
 >此應用程式沒有額外的 APIs。
 

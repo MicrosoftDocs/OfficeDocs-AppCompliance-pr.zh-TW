@@ -2,18 +2,19 @@
 title: MS365 的 Onna 探索應用程式資訊 Onna
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 MS365 的 Onna 探索的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 042ce6df25c6b4cda31ef0c4931f1d6fd00e3f25
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 2e0981baa9445bfc2c5b75b9863bfee2e2f692d4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147369"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552222"
 ---
 # <a name="onna-discovery-for-ms365"></a>MS365 的 Onna 探索
 
@@ -38,7 +39,7 @@ ms.locfileid: "62147369"
 | App 的使用條款 | [https://onna.com/master-subscription-agreement](https://onna.com/master-subscription-agreement) |
 | 應用程式的核心功能 | Onna 可為 Microsoft 365 提供 defensible 資料收集、搜尋及及早案例評估 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://onna.com/features](https://onna.com/features) |
 | 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
 | 應用程式會使用哪一個主控雲端提供者？ | GCP、Aws |
 

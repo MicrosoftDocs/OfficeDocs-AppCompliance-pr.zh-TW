@@ -2,18 +2,19 @@
 title: 依 Oktopost 的社交倡議應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于社交倡議的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d2512c15493639790c1853f00dfe005ae32cfbb7
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: c4715e95265d4edd96b51fa8b59e5535eef892d4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155245"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552012"
 ---
 # <a name="social-advocacy"></a>Social Advocacy
 
@@ -40,7 +41,7 @@ ms.locfileid: "62155245"
 | App 的使用條款 | [https://www.oktopost.com/terms](https://www.oktopost.com/terms) |
 | 應用程式的核心功能 | Oktopost 是 B2B 的社交媒體管理和員工倡議平臺。 透過 Oktopost，您可以在單一位置管理、監視和度量所有的社交媒體活動。 Oktopost 有兩個核心解決方案： 1) 社交媒體管理，包括發佈、監控、分析、參與和 2) 員工人員倡議，讓市場人員可以管理員工的社交共用方案。 Oktopost 獨特價值主張也可讓市場人員整合社交資料與行銷堆疊。 |
 | 公司 headquarter 位置 | 以色列 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.oktopost.com](https://www.oktopost.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
@@ -57,14 +58,7 @@ ms.locfileid: "62155245"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

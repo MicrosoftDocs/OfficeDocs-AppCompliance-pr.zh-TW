@@ -2,18 +2,19 @@
 title: Geekbot by Geekbot 有限公司的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Geekbot 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 97f44a41e15c0462df6d7a7f4c8e1d5044045ca2
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: fccb298433526e7f7e1e873754ae0ad4f3db3b23
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147853"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552842"
 ---
 # <a name="geekbot"></a>Geekbot
 
@@ -40,7 +41,7 @@ ms.locfileid: "62147853"
 | App 的使用條款 | [https://geekbot.com/tos/](https://geekbot.com/tos/) |
 | 應用程式的核心功能 | 執行非同步 standups、追溯和調查，並跨時區共用小組知識。 |
 | 公司 headquarter 位置 | 賽普勒斯 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://help.geekbot.com/en/](https://help.geekbot.com/en/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure，GCP |
 

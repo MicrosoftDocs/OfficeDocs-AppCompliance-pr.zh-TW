@@ -2,18 +2,19 @@
 title: SuitePro-G by IQar 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SuitePro-G 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a436df31649d7f73d34650e3c0e3bac4119ce9cc
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3d98560d9a350e118543b17c54293ba215e7bb1b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263961"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551452"
 ---
 # <a name="suitepro-g"></a>SuitePro-G
 
@@ -40,7 +41,7 @@ ms.locfileid: "62263961"
 | App 的使用條款 | [https://iqar-france.fr/cgu](https://iqar-france.fr/cgu) |
 | 應用程式的核心功能 | SuitePro-G est 取消 outil collaboratif et intuitif 澆築 la gestion de votre portefeuille de projets。 Connectez votre outil de pilotage de projets en 3 cliques et gardez une &#233;quipe projet impliqu&#233;e，organis&#233;e et connect&#233;e。  SuitePro-G 是一種協同的共同作業解決方案，可讓您管理專案產品群組。 連線專案管理工具時按一下3次，讓專案小組參與、組織及連線。  |
 | 公司 headquarter 位置 | 法國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://admin.suiteprog.com/Terms](https://admin.suiteprog.com/Terms) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
 | 應用程式會使用哪一個主控雲端提供者？ | SelfHosted |
 
@@ -57,14 +58,7 @@ ms.locfileid: "62263961"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

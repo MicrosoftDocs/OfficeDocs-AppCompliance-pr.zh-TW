@@ -2,18 +2,19 @@
 title: 由兩個應用程式工作室 Pte 有限公司所進行之 Asa 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，如 Asa、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8f013b62a43dac2f47db54a436cdd9ada14271ab
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: cec09e7d578d5e8a8033725b5470d1cc67d0bed4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147367"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551282"
 ---
 # <a name="asa"></a>Asa
 
@@ -40,7 +41,7 @@ ms.locfileid: "62147367"
 | App 的使用條款 | [https://asa.team/terms](https://asa.team/terms) |
 | 應用程式的核心功能 | 遠端工作區管理工具 |
 | 公司 headquarter 位置 | 新加坡 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://asa.team](https://asa.team) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | GCP |
 

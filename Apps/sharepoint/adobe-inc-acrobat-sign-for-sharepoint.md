@@ -2,18 +2,19 @@
 title: adobe inc. 用於 SharePoint adobe Acrobat 符號的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有可用於 SharePoint Adobe Acrobat 符號的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4839a19d8a616ae4d5e71850c28e6eefaca3028a
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: d7c8f5754741fc8443bfc25443918267333cd0f7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081130"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550792"
 ---
 # <a name="adobe-acrobat-sign-for-sharepoint"></a>SharePoint 的 Adobe Acrobat 符號
 
@@ -38,8 +39,9 @@ Adobe Inc. 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 | 應用程式的核心功能 | 將 Adobe 簽署新增至 Teams，使檔簽署工作流程的移動速度更快。 現在，在 Teams 中，您可以簽署檔、傳送檔，以合法系結電子簽章和核准 &#8212; 所有檔都使用 Microsoft 偏好的電子簽名解決方案。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://helpx.adobe.com/sign/using/microsoft-sharepoint-use...](https://helpx.adobe.com/sign/using/microsoft-sharepoint-user-guide.html) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +159,7 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 委託 | 取得使用者角色，並驗證使用者是否授與應用程式功能的特定許可權。 | [99a3ad8d-8682-4f2a-9c2c-b4b27e99585c](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c) |
+>| Directory.Read.All | 委託 | 取得使用者角色，並驗證使用者是否授與應用程式功能的特定許可權。 | [99a3ad8d-8682-4f2a-9c2c-b4b27e99585c](../azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c.md) |
 
 >此應用程式沒有額外的 APIs。
 
