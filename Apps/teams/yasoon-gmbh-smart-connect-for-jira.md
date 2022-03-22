@@ -2,18 +2,19 @@
 title: Jira 的應用程式資訊，由 yasoon GmbH 的智慧連線
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Jira 之 Smart 連線的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2f8db5fc4087ece98bf19f20ff3b91ab96875ed0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: af133a525bc0809ecea134167b6a24b95b8c45d4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252062"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545841"
 ---
 # <a name="smart-connect-for-jira"></a>Jira 的 Smart Connect
 
@@ -38,10 +39,11 @@ ms.locfileid: "62252062"
 | 合作夥伴公司名稱 | yasoon GmbH |
 | 公司的網站 | [https://www.yasoon.com](https://www.yasoon.com) |
 | App 的使用條款 | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
-| 應用程式的核心功能 | yasoon 著重于提供 &amp; Atlassian 與 Microsoft 服務之間的智慧、深層安全的整合。 我們提供的工具會以 Atlassian Jira 連接 Outlook 和 Teams。 Jira 應用程式的 Microsoft Teams 可協助軟體和商務小組搭配運作，方法是將 Teams 聊天和交談連線至 Jira 問題。 |
+| 應用程式的核心功能 | yasoon 著重于提供 Atlassian 與 Microsoft 服務之間的智慧、深層 &amp; 安全的整合。 我們提供的工具會以 Atlassian Jira 連接 Outlook 和 Teams。 Jira 應用程式的 Microsoft Teams 可協助軟體和商務小組搭配運作，方法是將 Teams 聊天和交談連線至 Jira 問題。 |
 | 公司 headquarter 位置 | 德國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://yasoon.com/microsoft-teams-for-jira/](https://yasoon.com/microsoft-teams-for-jira/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62252062"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,15 +161,15 @@ ms.locfileid: "62252062"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 委託 | 使用此許可權可讓使用者在 Jira 中選取此連接通道的其中一個。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage Read。群組 | 應用程式 | 允許此應用程式在 Jira 中顯示連結的通道訊息。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage 傳送 | 委託 | 不使用任何資料，此 API 是用來讓使用者從 Jira 回復通道郵件。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelSettings Read。群組 | 應用程式 | 用於查閱通道的詳細資訊。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| 聊天室 ReadWrite | 委託 | 用於允許使用者新增新的回復到聊天，以及從 Jira 查看聊天訊息。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Member Read。 Group | 應用程式 | 用於許可權檢查，可讓應用程式驗證使用者的小組成員資格。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Team.ReadBasic.All | 委託 | 使用此許可權可讓使用者在 Jira 中選取這其中一個加入的團隊。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| TeamSettings Read。群組 | 應用程式 | 允許應用程式讀取小組設定，以考慮某些預設值。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| User.ReadBasic.All | 委託 | 允許使用者選取通道郵件中的「同事」至「@-提及」 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ReadBasic | 委託 | 使用此許可權可讓使用者在 Jira 中選取此連接通道的其中一個。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelMessage Read。群組 | 應用程式 | 允許此應用程式在 Jira 中顯示連結的通道訊息。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelMessage 傳送 | 委託 | 不使用任何資料，此 API 是用來讓使用者從 Jira 回復通道郵件。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelSettings Read。群組 | 應用程式 | 用於查閱通道的詳細資訊。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| 聊天室 ReadWrite | 委託 | 用於允許使用者新增新的回復到聊天，以及從 Jira 查看聊天訊息。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| Member Read。 Group | 應用程式 | 用於許可權檢查，可讓應用程式驗證使用者的小組成員資格。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| Team.ReadBasic.All | 委託 | 使用此許可權可讓使用者在 Jira 中選取這其中一個加入的團隊。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| TeamSettings Read。群組 | 應用程式 | 允許應用程式讀取小組設定，以考慮某些預設值。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| User.ReadBasic.All | 委託 | 允許使用者選取通道郵件中的「同事」至「@-提及」 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
 
 >此應用程式沒有額外的 APIs。
 

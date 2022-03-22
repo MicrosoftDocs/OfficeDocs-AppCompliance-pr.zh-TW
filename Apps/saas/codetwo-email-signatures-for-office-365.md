@@ -2,18 +2,19 @@
 title: CodeTwo 的應用程式資訊，由 CodeTwo Office 365 的電子郵件簽名
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CodeTwo Microsoft Cloud App Security Office 365 的電子郵件簽章的所有可用安全性和符合性資訊資訊，其資料處理原則，其應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84b557eb3ae79dcc747bb4d3d1492e2963a13da1
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 4662ec055aa9c74c091d8a2dffc648215bd5e676
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080069"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546141"
 ---
 # <a name="codetwo-email-signatures-for-office-365"></a>CodeTwo Office 365 的電子郵件簽名
 
@@ -38,7 +39,7 @@ ms.locfileid: "63080069"
 | App 的使用條款 | [https://www.codetwo.com/license-agreement](https://www.codetwo.com/license-agreement) |
 | 應用程式的核心功能 | CodeTwo Office 365 的電子郵件簽章是以 Azure 為基礎的雲端服務，可對從任何電子郵件用戶端 &amp; 裝置傳送的郵件新增自動電子郵件簽名、法律免責聲明和署名。 它可讓人員 (管理員或委派的使用者) 或小組，以集中管理 Microsoft 365 (Office 365) 組織中的電子郵件簽名。 在將電子郵件傳送) 或直接在使用者輸入 Outlook 中傳送電子郵件之後，就可以將簽章新增至雲端 (。 |
 | 公司 headquarter 位置 | 波蘭 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.codetwo.com/email-signatures/](https://www.codetwo.com/email-signatures/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -59,7 +60,7 @@ ms.locfileid: "63080069"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者設定檔資料 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -168,16 +169,16 @@ ms.locfileid: "63080069"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 它也可讓應用程式讀取已登入使用者的基本公司資訊。 | [2a93620e-4345-4e3b-9bae-0195f08aab69](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a93620e-4345-4e3b-9bae-0195f08aab69) |
->| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 它也可讓應用程式讀取已登入使用者的基本公司資訊。 | [7afd058a-f568-4496-96b1-28d06ab3500f](https://docs.microsoft.com/microsoft-365-app-certification/azure/7afd058a-f568-4496-96b1-28d06ab3500f) |
->| Directory.AccessAsUser.All | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| Directory.Read.All | 包括 | 允許此應用程式讀取組織中的資料&#8217;s 目錄，例如使用者、群組和應用程式。 | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| User.ReadBasic.All | 委託 | 允許此應用程式代表登入的使用者讀取組織中其他使用者的基本配置檔案屬性集。 這包括顯示名稱、名字和姓氏、電子郵件地址及照片。 資訊可用於自動為使用者個人化電子郵件簽名。 | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 它也可讓應用程式讀取已登入使用者的基本公司資訊。 用於向 CodeTwo 服務註冊使用者。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| 電子郵件 | 委託 | 允許此應用程式讀取您的使用者的主要電子郵件地址。 用於向 CodeTwo 服務註冊使用者。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| offline_access | 委託 | 讓應用程式可以查看和更新您可存取的資料，即使使用者目前並未使用此應用程式也是一樣。 這不會給應用程式提供任何其他許可權。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| openid | 委託 | 允許使用者利用其工作或學校帳戶登入應用程式，並讓應用程式可以查看基本的使用者設定檔資訊。 用於向 CodeTwo 服務註冊使用者。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| 設定檔 | 委託 | 讓應用程式可以查看您的使用者基本設定檔 (名稱、圖片、使用者名稱) 。 用於向 CodeTwo 服務註冊使用者。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
+>| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 它也可讓應用程式讀取已登入使用者的基本公司資訊。 | [2a93620e-4345-4e3b-9bae-0195f08aab69](../azure/2a93620e-4345-4e3b-9bae-0195f08aab69.md) |
+>| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 它也可讓應用程式讀取已登入使用者的基本公司資訊。 | [7afd058a-f568-4496-96b1-28d06ab3500f](../azure/7afd058a-f568-4496-96b1-28d06ab3500f.md) |
+>| Directory.AccessAsUser.All | 委託 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| Directory.Read.All | 包括 | 允許此應用程式讀取組織中的資料&#8217;s 目錄，例如使用者、群組和應用程式。 | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| User.ReadBasic.All | 委託 | 允許此應用程式代表登入的使用者讀取組織中其他使用者的基本配置檔案屬性集。 這包括顯示名稱、名字和姓氏、電子郵件地址及照片。 資訊可用於自動為使用者個人化電子郵件簽名。 | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| User.Read | 委託 | 允許使用者登入 app，並允許此應用程式讀取登入使用者的設定檔。 它也可讓應用程式讀取已登入使用者的基本公司資訊。 用於向 CodeTwo 服務註冊使用者。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| 電子郵件 | 委託 | 允許此應用程式讀取您的使用者的主要電子郵件地址。 用於向 CodeTwo 服務註冊使用者。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| offline_access | 委託 | 讓應用程式可以查看和更新您可存取的資料，即使使用者目前並未使用此應用程式也是一樣。 這不會給應用程式提供任何其他許可權。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| openid | 委託 | 允許使用者利用其工作或學校帳戶登入應用程式，並讓應用程式可以查看基本的使用者設定檔資訊。 用於向 CodeTwo 服務註冊使用者。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| 設定檔 | 委託 | 讓應用程式可以查看您的使用者基本設定檔 (名稱、圖片、使用者名稱) 。 用於向 CodeTwo 服務註冊使用者。 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,18 +2,19 @@
 title: 更大 Brains 的應用程式資訊，電子 Biggerbrains
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 更大 Brains 電子教學的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dd70b06a2804a2f3953e14043154150cdb983363
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7b27e2563c99878f1b93f8de748be2b469260ce3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261459"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545051"
 ---
 # <a name="bigger-brains-elearning"></a>Bigger Brains eLearning
 
@@ -40,8 +41,9 @@ ms.locfileid: "62261459"
 | App 的使用條款 | [https://getbiggerbrains.com/privacy-legal/](https://getbiggerbrains.com/privacy-legal/) |
 | 應用程式的核心功能 | 我們備受好評的線上訓練課程庫現在可以直接在 Microsoft Teams 內使用。  在任何通道中新增較大的 Brains 索引標籤，即可輕鬆存取180電子教學課程和超過3000的錄影課程。 可用主題包括： Microsoft Teams &amp; Office 365Microsoft Excel、Word、Outlook、PowerPoint、Power BI 和商務主題。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://usedapplicensing001.azurewebsites.net/teamsApp/inde...](https://usedapplicensing001.azurewebsites.net/teamsApp/index.html) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62261459"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

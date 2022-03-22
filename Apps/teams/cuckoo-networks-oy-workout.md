@@ -2,18 +2,19 @@
 title: Cuckoo 健身的應用程式資訊，由 Cuckoo 網路 Oy
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Cuckoo 健身的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f0f7c645b26737b397737d0d8c09477cab37b2fd
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e97d071b9159dc898f16839233459a39b735bf6b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261319"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544981"
 ---
 # <a name="cuckoo-workout"></a>Cuckoo Workout
 
@@ -40,7 +41,7 @@ ms.locfileid: "62261319"
 | App 的使用條款 | [https://cuckooworkout.com/terms-of-service/](https://cuckooworkout.com/terms-of-service/) |
 | 應用程式的核心功能 | 有趣和簡易的 gamified 微型中斷運動，以提升您的能量和大腦。 |
 | 公司 headquarter 位置 | 芬蘭 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://cuckooworkout.com](https://cuckooworkout.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
@@ -169,11 +170,11 @@ ms.locfileid: "62261319"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 用於通訊和訂閱對應的使用者名稱、租使用者識別碼 | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
->| 電子郵件 | 委託 | 電子郵件，驗證和支援所需 | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
->| offline_access | 委託 | 不適用 | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
->| openid | 委託 | 驗證的使用者識別碼 | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
->| 設定檔 | 委託 | 驗證的設定檔識別碼 | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
+>| User.Read | 委託 | 用於通訊和訂閱對應的使用者名稱、租使用者識別碼 | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
+>| 電子郵件 | 委託 | 電子郵件，驗證和支援所需 | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
+>| offline_access | 委託 | 不適用 | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
+>| openid | 委託 | 驗證的使用者識別碼 | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
+>| 設定檔 | 委託 | 驗證的設定檔識別碼 | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
 
 >此應用程式沒有額外的 APIs。
 

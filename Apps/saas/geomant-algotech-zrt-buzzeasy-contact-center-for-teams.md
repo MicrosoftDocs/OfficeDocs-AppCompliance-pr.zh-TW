@@ -2,18 +2,19 @@
 title: Geomant-Algotech Zrt Teams 的 Buzzeasy 連絡人中心的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Buzzeasy 連絡人中心所有可用的安全性和符合性資訊資訊 Teams，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b73e059f9b820a1f3f880a4bd4237649121b9c5b
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 10c37808d1ec33fb38927294c104c50a98dda001
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251313"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546891"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Buzzeasy Teams 的連絡人中心
 
@@ -38,7 +39,7 @@ Geomant-Algotech Zrt 提供的資訊。 至 Microsoft：
 | App 的使用條款 | [https://docs.geomant.com/buzzeasy/portal/Buzzeasy_Service_L...](https://docs.geomant.com/buzzeasy/portal/Buzzeasy_Service_Level_Agreement.html) |
 | 應用程式的核心功能 | Microsoft Teams 的連絡人中心解決方案 |
 | 公司 headquarter 位置 | 匈牙利 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.geomant.com/buzzeasy-contact-centre-for-microso...](https://www.geomant.com/buzzeasy-contact-centre-for-microsoft-teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -168,14 +169,14 @@ Geomant-Algotech Zrt 提供的資訊。 至 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 傳送郵件 | 應用程式 | 代表服務使用者送出邀請。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| 目前狀態為 [已讀取]。 | 委託 | 顯示其他代理程式的代理人/使用者狀態，與代理程式狀態同步。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| User.Read | 委託 | 顯示管理員進行註冊的使用者清單。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| User.Read.All | 委託 | 在系統管理員/使用者介面上顯示使用者 AAD 資訊 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| User.ReadBasic.All | 委託 | 在系統管理員/使用者介面上顯示使用者 AAD 資訊 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| 郵件。 ReadWrite | 應用程式 | 允許代理程式透過 Agent 使用者介面，讀取/寫入特定 (共用) 信箱。  (可以篩選為特定信箱。 )  | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
->| 傳送郵件 | 應用程式 | 代表共用信箱傳送電子郵件。 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
->| User.Read | 委託 | 登入並讀取使用者設定檔 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
+>| 傳送郵件 | 應用程式 | 代表服務使用者送出邀請。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| 目前狀態為 [已讀取]。 | 委託 | 顯示其他代理程式的代理人/使用者狀態，與代理程式狀態同步。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| User.Read | 委託 | 顯示管理員進行註冊的使用者清單。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| User.Read.All | 委託 | 在系統管理員/使用者介面上顯示使用者 AAD 資訊 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| User.ReadBasic.All | 委託 | 在系統管理員/使用者介面上顯示使用者 AAD 資訊 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| 郵件。 ReadWrite | 應用程式 | 允許代理程式透過 Agent 使用者介面，讀取/寫入特定 (共用) 信箱。  (可以篩選為特定信箱。 )  | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
+>| 傳送郵件 | 應用程式 | 代表共用信箱傳送電子郵件。 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
 
 >此應用程式沒有額外的 APIs。
 

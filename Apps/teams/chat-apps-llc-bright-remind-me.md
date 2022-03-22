@@ -2,18 +2,19 @@
 title: 使用聊天應用程式、LLC 的明亮提醒我的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊可獲得明亮的提醒，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5c5495382e68a3bbb0823c76e38511adeb54506e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d0ac061a03a958c397b2044d583ba0365165e393
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62146233"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545441"
 ---
 # <a name="bright-remind-me"></a>Bright Remind Me
 
@@ -40,7 +41,7 @@ ms.locfileid: "62146233"
 | App 的使用條款 | [https://brightbits.app/terms/](https://brightbits.app/terms/) |
 | 應用程式的核心功能 | 方便您回應時，取得重要郵件的提醒。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://brightbits.app/bright-remind-me/](https://brightbits.app/bright-remind-me/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws、Heroku |
 

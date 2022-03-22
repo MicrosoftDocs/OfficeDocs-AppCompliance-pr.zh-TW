@@ -2,18 +2,19 @@
 title: Supermetrics 的應用程式資訊（按 Supermetrics）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Supermetrics 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 044becc7df41ac7e060b0f941e81818bf9525d27
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: fe11180f0a71e8ca0f740fb5c194e35f9b069596
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200716"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546881"
 ---
 # <a name="supermetrics"></a>Supermetrics
 
@@ -39,7 +40,7 @@ ms.locfileid: "62200716"
 | App 的使用條款 | [https://supermetrics.com/terms-of-service](https://supermetrics.com/terms-of-service) |
 | 應用程式的核心功能 | 透過 Supermetrics，企業可將各自為政的資料從 70 + 行銷及銷售平臺（如 Facebook Ads、Google Analytics、Instagram 等等）集合，並直接將資料傳輸至 Excel 以供報告之用。 這可讓您：-自動化手動資料匯入工作;-使用 Excel 中已有的公式及工具來分析和形象化您的行銷資料;-直接在 Excel 中查看多個資料來源，即可取得重要的圖片。 |
 | 公司 headquarter 位置 | 芬蘭 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://supermetrics.com/product/excel](https://supermetrics.com/product/excel) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | GCP、Aws |
 

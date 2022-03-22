@@ -2,25 +2,26 @@
 title: 完成 Publisher 證明
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Publisher 認證計畫的詳細資訊
 keywords: 應用程式認證憑證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 286d14e580bdb9f24ccf1754685ebeeaef6d0c11
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d702fbf27a326f916ee5bd5f89a0b0b7f2ae6c17
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278709"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63692645"
 ---
 # <a name="complete-publisher-attestation"></a>完成 Publisher 證明
 
-Publisher證明是一個自願的計畫，您可以在其中完成應用程式安全性、資料處理及規範做法的自我評估。 您提供的資訊將會呈現給您的客戶，讓他們在為其組織啟用之前，可更好地評估您的應用程式。 
+Publisher 證明是一個自願的計畫，您可以在其中完成應用程式安全性、資料處理及規範做法的自我評估。 您提供的資訊將會呈現給您的客戶，讓他們在為其組織啟用之前，可更好地評估您的應用程式。 
 
 > [!IMPORTANT]
 > Microsoft 不會驗證所提供的資訊。 開發人員完全負責自我評估中提供的資訊。 
 
-Publisher認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業 marketplace 發佈的應用程式。 SaaS 應用程式目前處於私人預覽中，如果您有興趣參加，請填寫此 [表單](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 認證也包含整合下列 Microsoft 產品的所有應用程式：
+Publisher 認證適用于透過合作夥伴中心) 的商業性 marketplace 發佈的 Web 應用程式 (SaaS。 SaaS 應用程式目前處於私人預覽中，如果您有興趣參加，請填寫此 [表單](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 認證也包含整合下列 Microsoft 產品的所有應用程式：
 - Teams
 - Word
 - Excel
@@ -40,9 +41,9 @@ Publisher認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業
 - 資格以開始 Microsoft 365 憑證。
  
 
-## <a name="publisher-attestation-process"></a>Publisher證明處理常式
+## <a name="publisher-attestation-process"></a>Publisher 認證程式
 
-1. **請** 參與-Publisher 證明現在已在 [夥伴中心](https://partner.microsoft.com)內整合。 您可以在夥伴中心內的方便使用問卷中完成證明。 如需逐步程式，請參閱我們的[Office 存放區](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)和[商業市場](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)使用者指南。
+1. **請** 參與-Publisher 證明現在已在 [夥伴中心](https://partner.microsoft.com)內整合。 您可以在夥伴中心內的方便使用問卷中完成證明。 如需逐步程式，請參閱我們的[Office 存放區](../docs/userguide.md)和[商業市場](../docs/saasuserguide.md)使用者指南。
 
 2. 等候 **評審意見反應和結果**：在一致性檢查檢查期間，如果分析員發現封鎖問題（如回應資料不足），系統就會聯繫您尋求進一步資訊。 分析員會維護一份應用程式活動記錄檔，詳述評審結果和您在整個程式中追蹤追蹤的報送。 一旦確定您的證明報告已完成且您可以接受回應，您的提交將會受到核准。 您的核准狀態會從提交時一年內有效。
 
@@ -66,7 +67,7 @@ Publisher認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業
 
 ## <a name="learn-more"></a>深入了解
 
-* [Microsoft 365應用程式規範計畫概述](~/overview.md)  
+* [Microsoft 365 應用程式規範計畫概述](~/overview.md)  
 * [完成 Publisher 驗證](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
 * [何謂 Publisher 認證？](~/docs/enterprise-app-attestation-guide.md)  
 * [完成 Microsoft 365 認證](~/docs/certification.md)

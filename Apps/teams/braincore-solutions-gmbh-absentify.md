@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: absentify 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 73642d7ff02b79175b19cb4141098917e500ad29
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: 0bf3b44455bd598b532f0708654252f6620c60c6
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470163"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546111"
 ---
 # <a name="absentify"></a>absentify
 
@@ -36,7 +36,7 @@ BrainCore 解決方案所提供的資訊 GmbH 至 Microsoft：
 | 應用程式名稱 | absentify |
 | ID | WA200003833 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | BrainCore 解決方案 GmbH |
+| 合作夥伴公司名稱 | BrainCore Solutions GmbH |
 | 公司的網站 | [https://braincore.solutions](https://braincore.solutions) |
 | App 的使用條款 | [https://absentify.com/terms-and-conditions](https://absentify.com/terms-and-conditions) |
 | 應用程式的核心功能 | 處理休假 Microsoft Teams 員工時間的最簡單方式 |
@@ -62,7 +62,7 @@ BrainCore 解決方案所提供的資訊 GmbH 至 Microsoft：
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Microsoft 使用者識別碼、電子郵件 DisplayName |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 德國 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -171,10 +171,10 @@ BrainCore 解決方案所提供的資訊 GmbH 至 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | 應用程式 | 選用。 將通知傳送至 Microsoft Teams。 | [0f5eabc0-89bf-4cc6-80d1-10094b5919d2](../azure/0f5eabc0-89bf-4cc6-80d1-10094b5919d2) |
->| ReadWrite 的行事曆 | 委託 | 選用：自動建立缺勤的 Outlook 行事曆專案。 | [3dbcb38b-8d2f-4e97-9bd1-975fb770b31c](../azure/3dbcb38b-8d2f-4e97-9bd1-975fb770b31c) |
->| User.Read | 委託 | 登入 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886) |
->| User.ReadBasic.All | 委託 | 選用：若要查看 Microsoft 設定檔圖片的使用者。 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886) |
+>| TeamsActivity.Send | 應用程式 | 選用。 將通知傳送至 Microsoft Teams。 | [0f5eabc0-89bf-4cc6-80d1-10094b5919d2](../azure/0f5eabc0-89bf-4cc6-80d1-10094b5919d2.md) |
+>| ReadWrite 的行事曆 | 委託 | 選用：自動建立缺勤的 Outlook 行事曆專案。 | [3dbcb38b-8d2f-4e97-9bd1-975fb770b31c](../azure/3dbcb38b-8d2f-4e97-9bd1-975fb770b31c.md) |
+>| User.Read | 委託 | 登入 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886.md) |
+>| User.ReadBasic.All | 委託 | 選用：若要查看 Microsoft 設定檔圖片的使用者。 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886.md) |
 
 >此應用程式沒有額外的 APIs。
 

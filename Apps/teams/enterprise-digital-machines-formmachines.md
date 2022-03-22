@@ -2,18 +2,19 @@
 title: Enterprise 數位機器的 FormMachines 應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: FormMachines 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9ec325100eafc5d6b84150a00a2c5a13880236b7
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 3c526bb2d83bf12bacb9f34c0fad203a37449daf
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62209552"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546461"
 ---
 # <a name="formmachines"></a>FormMachines
 
@@ -39,7 +40,7 @@ Enterprise 的數位機器所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.formmachines.com/dist/docs#/statements_and_agre...](https://www.formmachines.com/dist/docs#/statements_and_agreements/terms_of_service) |
 | 應用程式的核心功能 | 讓 Teams 使用者能夠輕鬆建立企業表單 |
 | 公司 headquarter 位置 | 澳洲 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.formmachines.com](https://www.formmachines.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 

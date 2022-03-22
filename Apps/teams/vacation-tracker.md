@@ -2,18 +2,19 @@
 title: 度假追蹤器的假期追蹤應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的假期追蹤器安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bd7fc61e757600d1d1d87d09e3f67e9ade0546ba
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3b8b92ed24e229982eac3edbda8b59b19e281a7b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251629"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546311"
 ---
 # <a name="vacation-tracker"></a>假期追蹤程式
 
@@ -40,7 +41,7 @@ ms.locfileid: "62251629"
 | App 的使用條款 | [https://vacationtracker.io/terms-of-service/](https://vacationtracker.io/terms-of-service/) |
 | 應用程式的核心功能 | 假期追蹤器是一種可讓公司追蹤組織中的葉子的工具。 有一個網頁儀表板可供管理員設定組織設定。 員工也可以在儀表板上進行要求並複查其配額。 此外，員工可以讓要求和核准者透過 Microsoft Teams bot 或 tab 來核准或拒絕要求。 |
 | 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://vacationtracker.io/vacation-calendar-tracker-featur...](https://vacationtracker.io/vacation-calendar-tracker-features/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
@@ -169,15 +170,15 @@ ms.locfileid: "62251629"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 委託 | 當使用者設定每週或每日通知時，我們會閱讀公用通道 IDs 和名稱。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| Team.ReadBasic.All | 委託 | 我們會列出使用者在登入期間加入的 Microsoft Teams 小組，以允許使用者選取他們想要註冊度假追蹤的小組。 他們也可以註冊其整個組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.Read | 委託 | 我們會收集基本使用者的資訊，包括其名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.Read.All | 委託 | 我們的使用者可以從其 Microsoft 365 組織或 Microsoft Teams 小組匯入所有使用者。 我們使用此許可權，只匯入所選 Microsoft Teams 小組或組織的授權使用者。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.ReadBasic.All | 委託 | 我們可讓使用者從組織或其 Microsoft Teams 小組匯入其他使用者。 我們使用此許可權在匯入快顯功能表中列出可用的使用者及其電子郵件地址。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| 電子郵件 | 委託 | 當使用者使用 Microsoft AAD 登入時，我們會將其電子郵件地址儲存為唯一的識別碼。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| offline_access | 委託 | 我們不會使用此許可權收集任何資料。 它是用來維護我們存取權的資料存取權。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| openid | 委託 | 我們使用此許可權登入或註冊使用者至休假追蹤器。 我們不會使用此許可權收集任何特定的資料。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| 設定檔 | 委託 | 我們會收集基本使用者的資訊，包括其名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| Group.Read.All | 委託 | 當使用者設定每週或每日通知時，我們會閱讀公用通道 IDs 和名稱。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| Team.ReadBasic.All | 委託 | 我們會列出使用者在登入期間加入的 Microsoft Teams 小組，以允許使用者選取他們想要註冊度假追蹤的小組。 他們也可以註冊其整個組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.Read | 委託 | 我們會收集基本使用者的資訊，包括其名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.Read.All | 委託 | 我們的使用者可以從其 Microsoft 365 組織或 Microsoft Teams 小組匯入所有使用者。 我們使用此許可權，只匯入所選 Microsoft Teams 小組或組織的授權使用者。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.ReadBasic.All | 委託 | 我們可讓使用者從組織或其 Microsoft Teams 小組匯入其他使用者。 我們使用此許可權在匯入快顯功能表中列出可用的使用者及其電子郵件地址。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| 電子郵件 | 委託 | 當使用者使用 Microsoft AAD 登入時，我們會將其電子郵件地址儲存為唯一的識別碼。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| offline_access | 委託 | 我們不會使用此許可權收集任何資料。 它是用來維護我們存取權的資料存取權。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| openid | 委託 | 我們使用此許可權登入或註冊使用者至休假追蹤器。 我們不會使用此許可權收集任何特定的資料。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| 設定檔 | 委託 | 我們會收集基本使用者的資訊，包括其名稱、識別碼及租使用者識別碼。 我們使用此資料，將已登入的使用者連線到度假追蹤器中的組織。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,18 +2,19 @@
 title: Communardo 產品的 Link Spotter 應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Link Spotter 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 986b1fc6855f15a27472453215509a8c1ea9fc39
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d0d6485454d61a3a6ae6e10d21385a228a1e581c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260720"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546481"
 ---
 # <a name="link-spotter"></a>Link Spotter
 
@@ -40,8 +41,9 @@ Communardo 產品所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.communardo.com/customer-agreement/](https://www.communardo.com/customer-agreement/) |
 | 應用程式的核心功能 | Link Spotter 可協助您找出 Microsoft Teams 通道中共用的所有連結的速度。 |
 | 公司 headquarter 位置 | 德國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://communardo.atlassian.net/wiki/spaces/LINK/overview](https://communardo.atlassian.net/wiki/spaces/LINK/overview) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Communardo 產品所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,15 +161,15 @@ Communardo 產品所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 委託 | 檢查目前使用者的通道成員資格 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| ChannelMessage Read。 All | 應用程式 | 郵件內的 url、messageid、回復郵件識別碼、通道識別碼、作者識別碼 .。。這些資訊是必要的，因為 Graph 不會提供一種方法，可以取得在通道上的郵件中張貼的所有連結。 因此，必須主動分析郵件，以便在 Teams] 索引標籤中提供連結功能。 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.Read | 委託 | 登入並讀取使用者設定檔 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.Read.All | 應用程式 | 決定有多少使用者有 Teams 授權。 用於更新客戶租使用者的 payed 應用程式來源訂閱的席位大小。 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.ReadBasic.All | 委託 | 在應用程式內顯示設定檔圖片和郵件作者的名稱 | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| 電子郵件 | 委託 | OpenID Connect | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| offline_access | 委託 | OpenID Connect | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| openid | 委託 | OpenID Connect | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| 設定檔 | 委託 | OpenID Connect | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| ReadBasic | 委託 | 檢查目前使用者的通道成員資格 | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| ChannelMessage Read。 All | 應用程式 | 郵件內的 url、messageid、回復郵件識別碼、通道識別碼、作者識別碼 .。。這些資訊是必要的，因為 Graph 不會提供一種方法，可以取得在通道上的郵件中張貼的所有連結。 因此，必須主動分析郵件，以便在 Teams] 索引標籤中提供連結功能。 | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| User.Read.All | 應用程式 | 決定有多少使用者有 Teams 授權。 用於更新客戶租使用者的 payed 應用程式來源訂閱的席位大小。 | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| User.ReadBasic.All | 委託 | 在應用程式內顯示設定檔圖片和郵件作者的名稱 | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| 電子郵件 | 委託 | OpenID Connect | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| offline_access | 委託 | OpenID Connect | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| openid | 委託 | OpenID Connect | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| 設定檔 | 委託 | OpenID Connect | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
 
 >此應用程式沒有額外的 APIs。
 

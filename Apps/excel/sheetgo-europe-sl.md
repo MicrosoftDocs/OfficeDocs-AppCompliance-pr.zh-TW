@@ -2,18 +2,19 @@
 title: Sheetgo by SHEETGO 歐 SL 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Sheetgo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 96f6d9645f7cc2ad601e0d366b5a73e7119e0aee
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 625079885956c18847f3fb1b0032b7dc57b0134c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147806"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546911"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -39,7 +40,7 @@ ms.locfileid: "62147806"
 | App 的使用條款 | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
 | 應用程式的核心功能 | Sheetgo 是一種工作流程自動化平臺，可讓使用者連線線上試算表及建立自動化的資料管理系統。 Sheetgo web app 提供一個平臺，用以建立及管理工作流程，以及一系列範本。 Sheetgo 增益集用於 Google 工作表的 Excel 和附加元件，可讓使用者直接在試算表內進行連線和自動化，而且 Teams 應用程式可讓工作流程創造者與通道和群組聊天中的同事共用其連線的檔案。 |
 | 公司 headquarter 位置 | 西班牙 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.sheetgo.com](https://www.sheetgo.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | GCP |
 

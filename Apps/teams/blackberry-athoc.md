@@ -2,18 +2,19 @@
 title: BlackBerry AtHoc 的應用程式資訊（按 BlackBerry）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: BlackBerry AtHoc 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b464dadfb27569abc0760555464fe646c3e51730
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 1da987ba517d6e4f6dc3b4d487c441e2ccd50d79
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251719"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545491"
 ---
 # <a name="blackberry-athoc"></a>BlackBerry AtHoc
 
@@ -40,8 +41,9 @@ BlackBerry 提供給 Microsoft 的資訊：
 | App 的使用條款 | [https://www.athoc.com/pss/terms.html#](https://www.athoc.com/pss/terms.html#) |
 | 應用程式的核心功能 | 使用 Teams 將 BlackBerry AtHoc 整合在您的組織中提供無縫的關鍵事件管理 &#8211; 所有&#8217;重新驗證的 UI。 在未離開 Teams 的情況下，BlackBerry AtHoc 整合可讓緊急事件和事件管理員： &#8226; 發佈警示，只需按一下一次即可在 Teams 中共同建立的任何裝置 &#8226; 目標，&#8226; 在 Teams 中共同作業，以即時管理事件。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.blackberry.com/us/en/products/blackberry-athoc](https://www.blackberry.com/us/en/products/blackberry-athoc) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure、AWS、SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ BlackBerry 提供給 Microsoft 的資訊：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ BlackBerry 提供給 Microsoft 的資訊：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage 傳送 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| Group.Read.All | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| User.Read | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| 電子郵件 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| openid | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| 設定檔 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| ChannelMessage 傳送 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| Group.Read.All | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| User.Read | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| 電子郵件 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| openid | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| 設定檔 | 委託 | 我們會存取使用者&#8217;基本詳細資料，例如主要名稱及連結至已登入使用者) 授權的小組一般通道 (，以將警示卡送出小組。 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
 
 >此應用程式沒有額外的 APIs。
 

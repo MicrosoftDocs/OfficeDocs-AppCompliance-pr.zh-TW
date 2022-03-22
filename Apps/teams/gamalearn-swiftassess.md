@@ -2,18 +2,19 @@
 title: SwiftAssess 的應用程式資訊（按 GamaLearn）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SwiftAssess 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3a89fd429e809451ffb0206c5d30ac0ee542b2ab
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 4177c9eb0517a6794898648b452ef3ef4be4f342
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253759"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546431"
 ---
 # <a name="swiftassess"></a>SwiftAssess
 
@@ -40,8 +41,9 @@ ms.locfileid: "62253759"
 | App 的使用條款 | [https://swiftassess.com/terms-and-conditions](https://swiftassess.com/terms-and-conditions) |
 | 應用程式的核心功能 | 用於所有評估需求的一站式車間; 從已嘗試的方法和真正的方法和功能開始，其指導您在組織中的所有層級，都能透過您的編寫，提供及追蹤評估轉換策略。 SwiftAssess 提供了多個重要的解決方案、功能和工作流程，可簡化並自動化不同機構中的實際評估流程。 這涵蓋安全性、協助工具、分析、專案銀行等方面的行業標準。 |
 | 公司 headquarter 位置 | ) 的阿拉伯聯合大公國 ( |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://swiftassess.com/about/partners/microsoft#Teams](https://swiftassess.com/about/partners/microsoft#Teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62253759"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,18 +2,19 @@
 title: EngageWith 的應用程式資訊（按 SpringRole）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: EngageWith 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 25de0a8d054e8f806d398a96d9780837fee93da8
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 2a493f3b6349dd0e46d88aa039e9935d8f84e6c9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62175606"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547251"
 ---
 # <a name="engagewith"></a>EngageWith
 
@@ -40,9 +41,8 @@ ms.locfileid: "62175606"
 | App 的使用條款 | [https://engagewith.springworks.in/terms-and-conditions](https://engagewith.springworks.in/terms-and-conditions) |
 | 應用程式的核心功能 | EngageWith 是對等員工獎勵和辨識平臺，可協助促進認可的文化、增強員工參與，以及協助組織的慶祝成果-既包括大又小。 員工可以透過為同事提供 Kudos 或 Shoutouts 來辨識 juniors 或經理，以順利完成工作。 Kudos 和 Shoutouts 都有一組相關的點，這些點會隨著時間增加為有意義的獎勵。  |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.springworks.in/engagewith/](https://www.springworks.in/engagewith/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

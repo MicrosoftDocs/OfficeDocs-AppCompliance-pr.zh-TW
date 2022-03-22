@@ -2,18 +2,19 @@
 title: adobe inc. 用於 Word 及 PowerPoint 的 adobe Acrobat 標記應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Adobe 的所有可用安全性和符合性資訊資訊用於 Word 和 PowerPoint、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6acf8769762f9401cb92785de1d0fda1214575b4
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: a3868fdf799ff05543aa2af71e52a427b382aec5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081153"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547141"
 ---
 # <a name="adobe-acrobat-sign-for-word-and-powerpoint"></a>Word 和 PowerPoint 的 Adobe Acrobat 符號
 
@@ -38,7 +39,7 @@ Adobe Inc. 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 | 應用程式的核心功能 | 當您為 Office 新增 Adobe Sign 時，請保持檔簽署工作流程快移。 現在，在 Office 應用程式（如 Word 及 PowerPoint）中，您可以簽署檔、傳送檔，以合法系結電子簽章和核准 &#8212; 全部都使用 Microsoft 偏好的電子簽名解決方案。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://helpx.adobe.com/sign/help/adobesign_microsoft_teams...](https://helpx.adobe.com/sign/help/adobesign_microsoft_teams.html) |
 | 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
 | 應用程式會使用哪一個主控雲端提供者？ | AWS，Azure |
 
@@ -167,11 +168,11 @@ Adobe Inc. 已提供此資訊。關於此應用程式如何收集和儲存組織
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 郵件。 ReadWrite | 委託 | 若要將附加的檔、寄件者和收件者電子郵件，以及郵件內容從電子郵件寫入為 Adobe sign，以進行簽章簽名。 這是為了儲存使用者時間，以 Adobe 符號重新輸入這些欄位。 在簽署合約後，我們會自動撰寫新的電子郵件，讓使用者傳送電子郵件通知給收件者交易已完成。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| 個人讀取 | 委託 | 若要在 [ &quot; 傳送以供 &quot; 簽章經驗] 中自動填滿電子郵件地址，請輸入一些初始字母，不需要使用者輸入整個電子郵件。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| User.Read | 委託 | 若要讀取使用者的設定檔並比對其設定檔 (基本上，他們的電子郵件和 userId) 到資料庫，讓他們可以使用 Adobe Sign。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | 委託 | 若要在目前的憑證到期時重新整理存取權杖。 例如，當使用者在 [傳送簽名 &quot; ] 視窗中並保持停用狀態的時間過長時，當使用者使用中 &quot; 時，我們需要重新整理新的權杖。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| openid | 委託 | 電子郵件和 UserId。 若要為使用者簽署，以確保其同意使用 Adobe Sign app 的許可權。  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| 郵件。 ReadWrite | 委託 | 若要將附加的檔、寄件者和收件者電子郵件，以及郵件內容從電子郵件寫入為 Adobe sign，以進行簽章簽名。 這是為了儲存使用者時間，以 Adobe 符號重新輸入這些欄位。 在簽署合約後，我們會自動撰寫新的電子郵件，讓使用者傳送電子郵件通知給收件者交易已完成。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| 個人讀取 | 委託 | 若要在 [ &quot; 傳送以供 &quot; 簽章經驗] 中自動填滿電子郵件地址，請輸入一些初始字母，不需要使用者輸入整個電子郵件。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| User.Read | 委託 | 若要讀取使用者的設定檔並比對其設定檔 (基本上，他們的電子郵件和 userId) 到資料庫，讓他們可以使用 Adobe Sign。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| offline_access | 委託 | 若要在目前的憑證到期時重新整理存取權杖。 例如，當使用者在 [傳送簽名 &quot; ] 視窗中並保持停用狀態的時間過長時，當使用者使用中 &quot; 時，我們需要重新整理新的權杖。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| openid | 委託 | 電子郵件和 UserId。 若要為使用者簽署，以確保其同意使用 Adobe Sign app 的許可權。  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,18 +2,19 @@
 title: Competella 通訊套件的應用程式資訊（依 Competella AB）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Competella 通訊套件的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8e45f390c1fc34999d5810880ad45d69386598db
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 5e6f806bd57ccb503f7d8052b56e632aea2ff321
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148016"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546131"
 ---
 # <a name="competella-communication-suite"></a>Competella 通訊套件
 
@@ -38,7 +39,7 @@ Competella AB 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://www.competella.com](https://www.competella.com) |
 | 應用程式的核心功能 | 具有 Microsoft Teams 卓越客戶服務的連絡人中心及語音應答主控台解決方案。 |
 | 公司 headquarter 位置 | 瑞典 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://competella.com/Solutions%20for%20Teams/overview](https://competella.com/Solutions%20for%20Teams/overview) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
