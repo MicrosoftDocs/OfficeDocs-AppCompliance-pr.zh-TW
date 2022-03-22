@@ -2,18 +2,19 @@
 title: ADI 依 Akari 解決方案限制的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ADI 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9ae87ac8259b345e633ed3677d05a7ef94b767ff
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 77c27c6e4a00a3156b16be60593bc8e58b332fe6
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259879"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549061"
 ---
 # <a name="adi"></a>ADI
 
@@ -40,8 +41,9 @@ Akari 解決方案所提供的資訊限制于 Microsoft：
 | App 的使用條款 | [https://akari.io/adi-terms-and-conditions/](https://akari.io/adi-terms-and-conditions/) |
 | 應用程式的核心功能 | ADI 位於這裡，以協助您所有的協助工具需求，並補充您的變更管理程式。 您可以要求 ADI 提供有關如何在 Microsoft Teams 內使用協助工具功能的答案、建議和資訊，您可以深入瞭解隱藏和形勢的殘疾，以及哪些工具和秘訣可助您參考。 ADI 將會以各種來源的方式，為您提供文字的會話的回應、位元組大小的影片和概念性連結的組合。 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://akari.io/adi](https://akari.io/adi) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Akari 解決方案所提供的資訊限制于 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

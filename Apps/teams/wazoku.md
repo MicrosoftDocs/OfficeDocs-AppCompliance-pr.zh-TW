@@ -2,18 +2,19 @@
 title: Wazoku 的應用程式資訊（按 Wazoku）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Wazoku 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1c9aef70ea9958b82698b54fca43ebf2853f5d73
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9dd9552c6b636d16f6c419979fada3fda866e793
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251539"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549611"
 ---
 # <a name="wazoku"></a>Wazoku
 
@@ -40,7 +41,7 @@ ms.locfileid: "62251539"
 | App 的使用條款 | [https://www.wazoku.com/terms-of-use/](https://www.wazoku.com/terms-of-use/) |
 | 應用程式的核心功能 | Wazoku 構思管理平臺 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://support.wazoku.com/microsoft-teams-integration](https://support.wazoku.com/microsoft-teams-integration) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure，Aws |
 
@@ -170,11 +171,11 @@ ms.locfileid: "62251539"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
->| 電子郵件 | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
->| offline_access | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
->| openid | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
->| 設定檔 | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| User.Read | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
+>| 電子郵件 | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
+>| offline_access | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
+>| openid | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
+>| 設定檔 | 委託 | 單一登入 | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
 
 >此應用程式沒有額外的 APIs。
 

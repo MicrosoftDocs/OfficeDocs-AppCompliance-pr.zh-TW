@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: vimheslo 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0149e5bd2930cc2cbb93964cfdcd0399ce119f88
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: c419392746cbd58dcd3ba656b0da369f5294a06a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470171"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548471"
 ---
 # <a name="vimheslo"></a>vimheslo
 
@@ -36,7 +36,7 @@ ms.locfileid: "63470171"
 | 應用程式名稱 | vimheslo |
 | ID | WA200003843 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 歐洲程式碼工廠 s.r.o。 |
+| 合作夥伴公司名稱 | European Code Factory s.r.o. |
 | 公司的網站 | [https://ecodef.cz](https://ecodef.cz) |
 | App 的使用條款 | [https://ecodef.cz/terms_of_use.html](https://ecodef.cz/terms_of_use.html) |
 | 應用程式的核心功能 | 密碼管理員 |
@@ -161,10 +161,10 @@ ms.locfileid: "63470171"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read.All | 委託 | 資料儲存在 OneDrive 或 SharePoint 文件庫中，應用程式需要讀取資料。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| Sites.Read.All | 委託 | 應用程式在相關 SharePoint 文件庫中的小組內容存放區資料中，應用程式需要將網站名稱讀取為設定路徑，其中包含資料的檔案所在的位置。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| User.Read | 委託 | 應用程式必須知道個人 OneDrive 儲存個人資料。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| 電子郵件 | 委託 | 以允許共用資料。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
+>| Files.Read.All | 委託 | 資料儲存在 OneDrive 或 SharePoint 文件庫中，應用程式需要讀取資料。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| Sites.Read.All | 委託 | 應用程式在相關 SharePoint 文件庫中的小組內容存放區資料中，應用程式需要將網站名稱讀取為設定路徑，其中包含資料的檔案所在的位置。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| User.Read | 委託 | 應用程式必須知道個人 OneDrive 儲存個人資料。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| 電子郵件 | 委託 | 以允許共用資料。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
 
 >此應用程式沒有額外的 APIs。
 

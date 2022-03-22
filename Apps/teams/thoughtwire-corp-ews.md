@@ -2,18 +2,19 @@
 title: ThoughtWire EWS 的應用程式資訊，ThoughtWire Corp。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ThoughtWire EWS 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: eeec8fecafa50ac799254ed331f93411c5cbbb35
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 940fdcb02fc289226fb5f7b9021abd6c66375568
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253379"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548691"
 ---
 # <a name="thoughtwire-ews"></a>ThoughtWire EWS
 
@@ -42,6 +43,7 @@ ThoughtWire Corp 所提供的資訊給 Microsoft：
 | 公司 headquarter 位置 | 加拿大 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ThoughtWire Corp 已提供此資訊。關於此應用程式如何收集和儲存
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ ThoughtWire Corp 已提供此資訊。關於此應用程式如何收集和儲存
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group。建立 | 應用程式 | 允許應用程式建立醫院 wards/單位的群組/團隊。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
->| Group.ReadWrite.All | 應用程式 | 為應用程式所需，以判斷可能需要建立/重新建立及管理成員資格的群組。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
->| GroupMember ReadWrite。 | 應用程式 | 必要的應用程式可管理群組成員資格。 亦即，新增/移除小組中的護士做為倒班變更。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
->| TeamMember ReadWrite。 | 應用程式 | 必要的應用程式可管理群組成員資格。 亦即，新增/移除小組中的護士做為倒班變更。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
->| TeamsAppInstallation.ReadWriteForTeam | 應用程式 | 允許應用程式自動將 ThoughtWire bot 安裝至其所建立/管理的團隊。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
->| User.Read | 應用程式 | 允許應用程式在管理成員資格和/或檢索使用者名稱時，視需要檢索使用者的 AADID/使用者名稱，以身分識別應用程式內的使用者。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](https://docs.microsoft.com/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c) |
+>| Group。建立 | 應用程式 | 允許應用程式建立醫院 wards/單位的群組/團隊。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](../azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md) |
+>| Group.ReadWrite.All | 應用程式 | 為應用程式所需，以判斷可能需要建立/重新建立及管理成員資格的群組。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](../azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md) |
+>| GroupMember ReadWrite。 | 應用程式 | 必要的應用程式可管理群組成員資格。 亦即，新增/移除小組中的護士做為倒班變更。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](../azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md) |
+>| TeamMember ReadWrite。 | 應用程式 | 必要的應用程式可管理群組成員資格。 亦即，新增/移除小組中的護士做為倒班變更。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](../azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md) |
+>| TeamsAppInstallation.ReadWriteForTeam | 應用程式 | 允許應用程式自動將 ThoughtWire bot 安裝至其所建立/管理的團隊。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](../azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md) |
+>| User.Read | 應用程式 | 允許應用程式在管理成員資格和/或檢索使用者名稱時，視需要檢索使用者的 AADID/使用者名稱，以身分識別應用程式內的使用者。 | [49a15c37-4eca-48b1-a327-7a8b5a3b399c](../azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md) |
 
 >此應用程式沒有額外的 APIs。
 

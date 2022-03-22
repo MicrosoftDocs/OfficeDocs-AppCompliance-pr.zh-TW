@@ -2,18 +2,19 @@
 title: EasyLife 365 的應用程式資訊（按 EasyLife 365 AG）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: EasyLife 365 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 489c314ca81a9701d1e8304ca5c278f20f270d97
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: cf7a3b8b77e915f42d1a8d3d1573ca23fcf1cf78
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449436"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548491"
 ---
 # <a name="easylife-365"></a>EasyLife 365
 
@@ -40,9 +41,8 @@ ms.locfileid: "62449436"
 | App 的使用條款 | [https://www.easylife365.cloud/terms](https://www.easylife365.cloud/terms) |
 | 應用程式的核心功能 | 簡化管理！ |
 | 公司 headquarter 位置 | 瑞士 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.easylife365.cloud/governance/features](https://www.easylife365.cloud/governance/features) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -170,26 +170,26 @@ EasyLife 365 AG 已提供此資訊，讓您瞭解此應用程式如何收集及�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 委託 | 可讓您在應用程式中管理 Microsoft 365 群組 | [192ba193-b68c-464c-a920-7eaa93b59a12](https://docs.microsoft.com/microsoft-365-app-certification/azure/192ba193-b68c-464c-a920-7eaa93b59a12) |
->| User.Read.All | 委託 | 用於在應用程式中取得使用者資訊。 用於人員選取器 | [192ba193-b68c-464c-a920-7eaa93b59a12](https://docs.microsoft.com/microsoft-365-app-certification/azure/192ba193-b68c-464c-a920-7eaa93b59a12) |
->| ChannelMember ReadWrite。 | 應用程式 | 用於讀取和操縱後端應用程式中的通道成員 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Directory.ReadWrite.All | 包括 | 用於驗證 EasyLife 365 的承租人中的應用程式許可權。 用於停用/啟用對後端的 Microsoft 365 群組的來賓存取權。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Group.ReadWrite.All | 應用程式 | 用於布建 Microsoft 365 群組、驗證群組的擁有者、封存 Teams、後端服務中刪除群組 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| 傳送郵件 | 應用程式 | 允許傳送郵件通知給使用者，並在環境中使用任何信箱。 這是由系統管理員設定以從共用信箱或使用者傳送郵件。 管理員通常會將此應用程式的許可權限制為應用程式識別碼 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| MailboxSettings 讀取 | 應用程式 | 在傳送特定語言的通知之前，用來讀取使用者信箱的語言設定 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Reports。已讀取。所有 | 應用程式 | 用於驗證後端 Microsoft 365 群組的使用方式 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Sites.Read.All | 應用程式 | 用於列舉租使用者中的 SharePoint Online 網站 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| User.Read.All | 應用程式 | 用來查閱使用者並取得傳送通知的基本資訊 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| User.ReadWrite.All | 應用程式 | 用於在後端應用程式中，邀請來賓帳戶、修改來賓帳戶中繼資料，以及刪除來賓帳戶 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| ChannelMember ReadWrite。 | 委託 | 使用者用來操縱小組的通道成員資格 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| Group.ReadWrite.All | 委託 | 用於處理 Microsoft 365 群組和 Teams 的中繼資料。 用於搜尋環境中的群組 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| TeamsActivity.Send | 應用程式 | 用於在後端傳送 Teams 通知 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| TeamsAppInstallation ReadForUser 所有 | 應用程式 | 在 Teams 中傳送通知之前，請確認使用者是否已安裝 EasyLife 應用程式。 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| User.Read.All | 委託 | 「人員選擇」用來搜尋組織中的使用者。用於列舉來賓帳戶 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| 電子郵件 | 委託 | 由 SSO 驗證使用 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| offline_access | 委託 | 由 SSO 驗證使用 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| openid | 委託 | 由 SSO 驗證使用 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| 設定檔 | 委託 | 由 SSO 驗證使用 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
+>| Group.Read.All | 委託 | 可讓您在應用程式中管理 Microsoft 365 群組 | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| User.Read.All | 委託 | 用於在應用程式中取得使用者資訊。 用於人員選取器 | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| ChannelMember ReadWrite。 | 應用程式 | 用於讀取和操縱後端應用程式中的通道成員 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Directory.ReadWrite.All | 包括 | 用於驗證 EasyLife 365 的承租人中的應用程式許可權。 用於停用/啟用對後端的 Microsoft 365 群組的來賓存取權。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Group.ReadWrite.All | 應用程式 | 用於布建 Microsoft 365 群組、驗證群組的擁有者、封存 Teams、後端服務中刪除群組 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| 傳送郵件 | 應用程式 | 允許傳送郵件通知給使用者，並在環境中使用任何信箱。 這是由系統管理員設定以從共用信箱或使用者傳送郵件。 管理員通常會將此應用程式的許可權限制為應用程式識別碼 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| MailboxSettings 讀取 | 應用程式 | 在傳送特定語言的通知之前，用來讀取使用者信箱的語言設定 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Reports。已讀取。所有 | 應用程式 | 用於驗證後端 Microsoft 365 群組的使用方式 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Sites.Read.All | 應用程式 | 用於列舉租使用者中的 SharePoint Online 網站 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.Read.All | 應用程式 | 用來查閱使用者並取得傳送通知的基本資訊 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.ReadWrite.All | 應用程式 | 用於在後端應用程式中，邀請來賓帳戶、修改來賓帳戶中繼資料，以及刪除來賓帳戶 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| ChannelMember ReadWrite。 | 委託 | 使用者用來操縱小組的通道成員資格 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| Group.ReadWrite.All | 委託 | 用於處理 Microsoft 365 群組和 Teams 的中繼資料。 用於搜尋環境中的群組 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamsActivity.Send | 應用程式 | 用於在後端傳送 Teams 通知 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamsAppInstallation ReadForUser 所有 | 應用程式 | 在 Teams 中傳送通知之前，請確認使用者是否已安裝 EasyLife 應用程式。 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| User.Read.All | 委託 | 「人員選擇」用來搜尋組織中的使用者。用於列舉來賓帳戶 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| 電子郵件 | 委託 | 由 SSO 驗證使用 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| offline_access | 委託 | 由 SSO 驗證使用 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| openid | 委託 | 由 SSO 驗證使用 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| 設定檔 | 委託 | 由 SSO 驗證使用 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 
 >此應用程式沒有額外的 APIs。
 

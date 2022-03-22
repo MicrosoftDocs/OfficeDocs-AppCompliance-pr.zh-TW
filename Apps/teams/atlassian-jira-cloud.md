@@ -2,18 +2,19 @@
 title: Atlassian 的 Jira Cloud 應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Jira 雲端的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6f20ca178d988c5f89b03bd1da5b3100d5c552ef
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 00db003bebffb2ae33cb768263afb20ebad872f4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256719"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549011"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
@@ -169,9 +170,9 @@ ms.locfileid: "62256719"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| offline_access | 委託 | 為使用者提供存取資源的時間，以確保最佳的使用者體驗。 | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
->| openid | 委託 | 取得使用者的名字、姓氏、慣用使用者名稱及物件識別碼。 | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
->| 設定檔 | 委託 | 取得使用者的名字、姓氏、慣用使用者名稱及物件識別碼。 | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
+>| offline_access | 委託 | 為使用者提供存取資源的時間，以確保最佳的使用者體驗。 | [512b84d2-5840-45d6-8d01-5f073836d039](../azure/512b84d2-5840-45d6-8d01-5f073836d039.md) |
+>| openid | 委託 | 取得使用者的名字、姓氏、慣用使用者名稱及物件識別碼。 | [512b84d2-5840-45d6-8d01-5f073836d039](../azure/512b84d2-5840-45d6-8d01-5f073836d039.md) |
+>| 設定檔 | 委託 | 取得使用者的名字、姓氏、慣用使用者名稱及物件識別碼。 | [512b84d2-5840-45d6-8d01-5f073836d039](../azure/512b84d2-5840-45d6-8d01-5f073836d039.md) |
 
 >此應用程式沒有額外的 APIs。
 

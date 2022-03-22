@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: ENA SmartUC Connector 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d2095a16fc5f3d9a0e28f8cf782ae292c330a947
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 4f3825a2a210998277fcf00634fc8e78679ff6a5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459775"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548881"
 ---
 # <a name="ena-smartuc-connector"></a>ENA SmartUC Connector
 
@@ -163,13 +163,13 @@ ms.locfileid: "63459775"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember Read。 All | 委託 | 使用者 IDs 及顯示目前通道/聊天的成員名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的通道/聊天成員清單。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| ReadBasic | 委託 | 使用者 IDs 及顯示目前交談的成員名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的聊天成員清單。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| 已讀取的人員。所有 | 委託 | 使用者 IDs 及顯示目前小組成員的名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的小組成員清單。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| User.Read.All | 委託 | 使用者的商務和行動電話號碼。 這是必要的動作，才能啟動這些號碼的撥打電話。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| offline_access | 委託 | 使用者的授權權杖，用來授權應用程式，以存取其所列的其他 Graph API 端點。 Microsoft Identity 平臺應用程式必須具備這些存取許可權，才可運作。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| openid | 委託 | 使用者的授權權杖，用來授權應用程式，以存取其所列的其他 Graph API 端點。 Microsoft Identity 平臺應用程式必須具備這些存取許可權，才可運作。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| 設定檔 | 委託 | 使用者的授權權杖，用來授權應用程式，以存取其所列的其他 Graph API 端點。 Microsoft Identity 平臺應用程式必須具備這些存取許可權，才可運作。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| ChannelMember Read。 All | 委託 | 使用者 IDs 及顯示目前通道/聊天的成員名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的通道/聊天成員清單。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| ReadBasic | 委託 | 使用者 IDs 及顯示目前交談的成員名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的聊天成員清單。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| 已讀取的人員。所有 | 委託 | 使用者 IDs 及顯示目前小組成員的名稱。 應用程式會使用這種方式，向使用者呈現要呼叫的小組成員清單。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| User.Read.All | 委託 | 使用者的商務和行動電話號碼。 這是必要的動作，才能啟動這些號碼的撥打電話。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| offline_access | 委託 | 使用者的授權權杖，用來授權應用程式，以存取其所列的其他 Graph API 端點。 Microsoft Identity 平臺應用程式必須具備這些存取許可權，才可運作。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| openid | 委託 | 使用者的授權權杖，用來授權應用程式，以存取其所列的其他 Graph API 端點。 Microsoft Identity 平臺應用程式必須具備這些存取許可權，才可運作。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| 設定檔 | 委託 | 使用者的授權權杖，用來授權應用程式，以存取其所列的其他 Graph API 端點。 Microsoft Identity 平臺應用程式必須具備這些存取許可權，才可運作。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
 
 >此應用程式沒有額外的 APIs。
 

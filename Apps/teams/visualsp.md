@@ -2,18 +2,19 @@
 title: VisualSP 的應用程式資訊（按 VisualSP）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: VisualSP 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3e6ded0edb5ad681584e53c984041b43d7cccb80
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: 303f3f842894e425ed531c3a8ca3126911c9d48e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62473534"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547701"
 ---
 # <a name="visualsp"></a>VisualSP
 
@@ -40,7 +41,7 @@ ms.locfileid: "62473534"
 | App 的使用條款 | [https://www.visualsp.com/terms-of-service](https://www.visualsp.com/terms-of-service) |
 | 應用程式的核心功能 | 提供立即存取 Microsoft 365 使用者訓練內容和您自己的自訂訓練 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.visualsp.com/products/microsoft-teams-training/](https://www.visualsp.com/products/microsoft-teams-training/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 

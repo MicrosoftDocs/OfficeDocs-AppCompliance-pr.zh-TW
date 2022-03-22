@@ -2,18 +2,19 @@
 title: MyHub 的應用程式資訊，由 AvePoint inc. Teams。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MyHub Teams 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: abf2df95a61552899c392b884fc306481aa72a08
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 85284efb009be8af3e7232782ddb85f5e7d6569a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255094"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549821"
 ---
 # <a name="myhub-for-teams"></a>Teams 的 MyHub
 
@@ -36,10 +37,11 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 | 合作夥伴公司名稱 | AvePoint Inc.。 |
 | 公司的網站 | [https://www.avepoint.com](https://www.avepoint.com) |
 | App 的使用條款 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| 應用程式的核心功能 | 會見 MyHub，用來要求新 Office 365 管理現有的工作區的單一停止車間 &amp; 。 MyHub 提供便於使用的布建、recertification、 &amp; 生命週期服務，而不需要任何其他 IT 小組的負擔。 使用者可以擴充，自動化 &amp; 安全工作區 &amp; 時，會通知您採取的動作，讓您更容易完成其待辦事項清單。 MyHub&#65533;的可持續 &amp; secure framework 是由 AvePoint&#65533;的雲端控管供電。 |
+| 應用程式的核心功能 | 會見 MyHub，用來要求新 Office 365 管理現有的工作區 &amp; 的單一停止車間。 MyHub 提供便於使用的布建、recertification、生命週期服務， &amp; 而不需要任何其他 IT 小組的負擔。 使用者可以擴充，自動化 &amp; 安全工作區 &amp; 時，會通知您採取的動作，讓您更容易完成其待辦事項清單。 MyHub&#65533;的可持續 &amp; secure framework 是由 AvePoint&#65533;的雲端控管供電。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,14 +160,14 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| 傳送郵件 | 委託 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Reports。已讀取。所有 | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| FullControl 所有 | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.Read.All | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.ReadWrite.All | 委託 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.Read.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| 傳送郵件 | 委託 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Reports。已讀取。所有 | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| FullControl 所有 | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.Read.All | 應用程式 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.ReadWrite.All | 委託 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read.All | 包括 | 從資料處理的觀點來儲存應用程式設定資料 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >此應用程式沒有額外的 APIs。
 

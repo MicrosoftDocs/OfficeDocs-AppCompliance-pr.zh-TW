@@ -2,18 +2,19 @@
 title: Prowd 的應用程式資訊（按 Prowd）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Prowd 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0597b5b8d4d1ff74a1b7c6be848d7a09650247f6
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: d5cc94b2c7da155298849223a83260fee761a842
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081154"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549631"
 ---
 # <a name="prowd"></a>Prowd
 
@@ -40,7 +41,7 @@ ms.locfileid: "63081154"
 | App 的使用條款 | [https://www.beprowd.com/cgu-chatbot-corporate](https://www.beprowd.com/cgu-chatbot-corporate) |
 | 應用程式的核心功能 | Le chatbot Prowd 策劃 &#224; chaque utilisateur des d&#233;fis，測驗 et actualit&#233;s sur les th&#233;matiques du D&#233;veloppement 耐用澆築 apprendre et passer &#224; l'action。 Dans tout type d'entreprise，Prowd permet aux responsables RSE (Responsabilit&#233; Soci&#233;tale des Entreprises) d'engager facilement les collaborateurs sur ces sujets。 |
 | 公司 headquarter 位置 | 法國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.beprowd.com/chatbot-teams/](https://www.beprowd.com/chatbot-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
@@ -61,7 +62,7 @@ ms.locfileid: "63081154"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Teams 租使用者識別碼、Teams 使用者交談識別碼、使用者電子郵件、使用者名稱。  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 愛爾蘭 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 未保留 |
 | 您是否有既定的資料存取管理程式？ | 是 |

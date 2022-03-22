@@ -2,18 +2,19 @@
 title: WorkJam Home 的應用程式資訊 WorkJam
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: WorkJam Home 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 18f0d4506783efc819e9fecb235155cfd73a6989
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3981c60dec7ed3283f6e1674fab229355eb4fdf1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251491"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548291"
 ---
 # <a name="workjam-home"></a>WorkJam 首頁
 
@@ -40,8 +41,9 @@ ms.locfileid: "62251491"
 | App 的使用條款 | [https://appcontent.workjam.com/en/terms-of-use/](https://appcontent.workjam.com/en/terms-of-use/) |
 | 應用程式的核心功能 | WorkJam 是數位工作場所解決方案行業領導者，選擇在 frontline 生產力平臺或您的 frontline 員工解決方案內，安排其 frontline workforces &#8212;。 可在37多種語言上使用，並透過超過38的國家進行部署，WorkJam 透過市場領先的工作管理、倒班管理、調查和微學習工具，提供總的工作力 Orchestration。  |
 | 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.workjam.com/portfolio-items/workjam-microsoft-t...](https://www.workjam.com/portfolio-items/workjam-microsoft-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | GCP，Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62251491"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 保留 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ ms.locfileid: "62251491"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | 應用程式 | 將通知傳送給使用者。 | [0b87cb84-073e-4cf6-a1ef-45d864ef2918](https://docs.microsoft.com/microsoft-365-app-certification/azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918) |
->| User.Read | 委託 | 針對識別和驗證 | [0b87cb84-073e-4cf6-a1ef-45d864ef2918](https://docs.microsoft.com/microsoft-365-app-certification/azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918) |
+>| TeamsActivity.Send | 應用程式 | 將通知傳送給使用者。 | [0b87cb84-073e-4cf6-a1ef-45d864ef2918](../azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918.md) |
+>| User.Read | 委託 | 針對識別和驗證 | [0b87cb84-073e-4cf6-a1ef-45d864ef2918](../azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -2,18 +2,19 @@
 title: Diligent Boards 的應用程式資訊 Diligent
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Diligent Boards 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6205a66b30297b44017da6646e3fe686c2492e8f
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 29e36ae1fe8d7e9d707bc29b3033b0315a8794c5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62876021"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549411"
 ---
 # <a name="diligent-boards"></a>Diligent Boards
 
@@ -35,7 +36,7 @@ ms.locfileid: "62876021"
 | 應用程式名稱 | Diligent Boards |
 | ID | WA200003544 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | 勤奮 |
+| 合作夥伴公司名稱 | Diligent |
 | 公司的網站 | [https://www.diligent.com](https://www.diligent.com) |
 | App 的使用條款 | [https://diligent.com/terms-of-use](https://diligent.com/terms-of-use) |
 | 應用程式的核心功能 | Access Diligent&#8217;s Microsoft Teams 中的最佳管理軟體。 |
@@ -59,7 +60,7 @@ ms.locfileid: "62876021"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Microsoft Teams 租使用者識別碼及 Teams 使用者識別碼 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 未保留 |
 | 您是否有既定的資料存取管理程式？ | 是 |

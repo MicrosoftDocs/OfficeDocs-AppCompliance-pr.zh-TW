@@ -2,18 +2,19 @@
 title: Verto 365 的應用程式資訊（由 TMI 系統）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Verto 365 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4b85f9d354382163ee276df4be8dbfb5ad08b633
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a34215127004ba7822c6b379539082d90be977e5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250871"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548281"
 ---
 # <a name="verto-365"></a>Verto 365
 
@@ -40,8 +41,9 @@ TMI 系統提供給 Microsoft 的資訊：
 | App 的使用條款 | [https://vertocloud.co.uk/terms-and-conditions/](https://vertocloud.co.uk/terms-and-conditions/) |
 | 應用程式的核心功能 | Verto365 可讓 Microsoft Teams 成為整個專案管理工具 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.vertocloud.com](https://www.vertocloud.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ TMI 系統提供給 Microsoft 的資訊：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在3months 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,11 +161,11 @@ TMI 系統提供給 Microsoft 的資訊：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
->| 電子郵件 | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
->| offline_access | 委託 | 用於取得重新整理權杖和保存登入 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
->| openid | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
->| 設定檔 | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
+>| User.Read | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](../azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6.md) |
+>| 電子郵件 | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](../azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6.md) |
+>| offline_access | 委託 | 用於取得重新整理權杖和保存登入 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](../azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6.md) |
+>| openid | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](../azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6.md) |
+>| 設定檔 | 委託 | 一般使用者資訊，firstname，姓 &amp; 電子郵件。 用來建立帳戶。 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](../azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6.md) |
 
 >此應用程式沒有額外的 APIs。
 

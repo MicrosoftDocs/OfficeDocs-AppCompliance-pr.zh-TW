@@ -2,18 +2,19 @@
 title: CarrotHR Inc. 元件的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊，如元件、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6015c68e34f9d1f1a08685968281d563de08088f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8271fa02cf76c7747a2a4f24f699484c02e7a5c8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257950"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547961"
 ---
 # <a name="assembly"></a>組件
 
@@ -40,8 +41,9 @@ CarrotHR Inc. 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://joinassembly.com/terms-of-service](https://joinassembly.com/terms-of-service) |
 | 應用程式的核心功能 | 元件是員工接洽和辨識識別平臺。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.joinassembly.com/about](https://www.joinassembly.com/about) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ CarrotHR Inc. 所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在2weeks 內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,13 +161,13 @@ CarrotHR Inc. 所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 通道。建立 | 委託 | 允許使用者將應用程式指派給我們應用程式中全新建立的通道 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| Directory.Read.All | 應用程式 | 使我們的設定檔保持同步，以便在元件中正確地搜尋成員 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| Group.Read.All | 委託 | 我們會觀察資料，確定他們可以將應用程式指派給正確的群組 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| Teams。ReadBasic。 All | 應用程式 | 可以將應用程式指派給正確的 [小組] 索引標籤 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| TeamsTab。建立 | 應用程式 | 我們會使用這種情況，讓應用程式可以正確地附加到通道/小組 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| 電子郵件 | 委託 | 使用者的電子郵件，讓我們可以授與其特定帳戶的存取權 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| 設定檔 | 委託 | Autopopulate 元件的使用者名稱，並保持與 Microsoft Teams 中的變更進行同步處理 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| 通道。建立 | 委託 | 允許使用者將應用程式指派給我們應用程式中全新建立的通道 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| Directory.Read.All | 應用程式 | 使我們的設定檔保持同步，以便在元件中正確地搜尋成員 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| Group.Read.All | 委託 | 我們會觀察資料，確定他們可以將應用程式指派給正確的群組 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| Teams。ReadBasic。 All | 應用程式 | 可以將應用程式指派給正確的 [小組] 索引標籤 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| TeamsTab。建立 | 應用程式 | 我們會使用這種情況，讓應用程式可以正確地附加到通道/小組 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| 電子郵件 | 委託 | 使用者的電子郵件，讓我們可以授與其特定帳戶的存取權 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| 設定檔 | 委託 | Autopopulate 元件的使用者名稱，並保持與 Microsoft Teams 中的變更進行同步處理 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
 
 >此應用程式沒有額外的 APIs。
 

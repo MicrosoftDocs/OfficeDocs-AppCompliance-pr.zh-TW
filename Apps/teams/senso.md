@@ -2,18 +2,19 @@
 title: Senso 的應用程式資訊（按 Senso）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Senso 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ebea7a764d7df4ca34e4ae28d471f61b04b473c5
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ab3249962a8941124a8a407bc46dd8d8d5edfad9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250959"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547761"
 ---
 # <a name="senso"></a>Senso
 
@@ -40,8 +41,9 @@ ms.locfileid: "62250959"
 | App 的使用條款 | [https://www.senso.cloud/eula](https://www.senso.cloud/eula) |
 | 應用程式的核心功能 | 分析不適當郵件和或影像的關鍵字和影像。  |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.senso.cloud/safeguarding-microsoft-teams/](https://www.senso.cloud/safeguarding-microsoft-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62250959"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,14 +162,14 @@ ms.locfileid: "62250959"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 應用程式 | 閱讀所有通道的通道名稱和描述，以識別標示違規的位置。   | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| ChannelMember Read。 All | 應用程式 | 讀取所有通道的成員清單和聊天訊息。 | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| ChannelMessage Read。 All | 應用程式 | 讀取所有通道郵件 | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| 已閱讀的聊天室。所有 | 應用程式 | 讀取所有聊天訊息 | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| Directory.Read.All | 應用程式 | 讀取目錄資料 | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| Files.Read.All | 應用程式 | 讀取所有網站集合中的檔案 | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| User.Read | 委託 | 登入並讀取使用者設定檔 | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| User.Read.All | 應用程式 | 讀取所有使用者的完整設定檔 | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
+>| ReadBasic | 應用程式 | 閱讀所有通道的通道名稱和描述，以識別標示違規的位置。   | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| ChannelMember Read。 All | 應用程式 | 讀取所有通道的成員清單和聊天訊息。 | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| ChannelMessage Read。 All | 應用程式 | 讀取所有通道郵件 | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| 已閱讀的聊天室。所有 | 應用程式 | 讀取所有聊天訊息 | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| Directory.Read.All | 應用程式 | 讀取目錄資料 | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| Files.Read.All | 應用程式 | 讀取所有網站集合中的檔案 | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| User.Read.All | 應用程式 | 讀取所有使用者的完整設定檔 | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
 
 >此應用程式沒有額外的 APIs。
 

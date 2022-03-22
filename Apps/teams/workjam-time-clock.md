@@ -2,18 +2,19 @@
 title: WorkJam 時間時鐘的應用程式資訊，WorkJam
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，WorkJam 時間時鐘、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e831ca59c0fed743a1a485a6aa52edbfca1dab89
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 88c58e30f12fc05575f1621e2e39ed245e89e285
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259191"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548211"
 ---
 # <a name="workjam-time-clock"></a>WorkJam Time Clock
 
@@ -40,9 +41,8 @@ ms.locfileid: "62259191"
 | App 的使用條款 | [https://appcontent.workjam.com/en/terms-of-use/](https://appcontent.workjam.com/en/terms-of-use/) |
 | 應用程式的核心功能 | WorkJam 是數位工作場所解決方案行業領導者，選擇在 frontline 生產力平臺或您的 frontline 員工解決方案內，安排其 frontline workforces &#8212;。 可在37多種語言上使用，並透過超過38的國家進行部署，WorkJam 透過市場領先的工作管理、倒班管理、調查和微學習工具，提供總的工作力 Orchestration。  |
 | 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.workjam.com/portfolio-items/workjam-microsoft-t...](https://www.workjam.com/portfolio-items/workjam-microsoft-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -158,21 +158,21 @@ ms.locfileid: "62259191"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
+| 您的應用程式會與 Microsoft Identity Platform (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
 | 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
-| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | 應用程式 | 將通知傳送給使用者 | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
->| User.Read | 委託 | 為使用者提供 SSO，並以適當的資訊呈現 | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
+>| TeamsActivity.Send | 應用程式 | 將通知傳送給使用者 | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](../azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf.md) |
+>| User.Read | 委託 | 為使用者提供 SSO，並以適當的資訊呈現 | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](../azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf.md) |
 
 >此應用程式沒有額外的 APIs。
 

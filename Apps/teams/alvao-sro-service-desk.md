@@ -2,18 +2,19 @@
 title: Alvao 服務台的應用程式資訊，ALVAO s.r.o。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Alvao 服務台的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6023f014f3f5af7b7c2eae430b0e7d946849fd76
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: c6d703bfe43f8fe3877d8b452d8703a2bca4d68a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877170"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549021"
 ---
 # <a name="alvao-service-desk"></a>Alvao 服務台
 
@@ -40,7 +41,7 @@ ALVAO 所提供的資訊 s.r.o。 至 Microsoft：
 | App 的使用條款 | [https://doc.alvao.com/cs/10.4/alvao_service_desk/License%20...](https://doc.alvao.com/cs/10.4/alvao_service_desk/License%20terms%20for%20the%20software%20product%20ALVAO%20Service%20Desk%2010.4.pdf) |
 | 應用程式的核心功能 | 適用于內部服務小組的強大工具，是使用者的友好前端。 ALVAO 服務台為所有公司內的要求提供單一聯繫點。 方案提供者小組獲得工作負載的概覽、清除優先順序和改善的通訊。 |
 | 公司 headquarter 位置 | Czechia |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alv...](https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alvao_teams_addin/default.aspx) |
 | 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -57,14 +58,7 @@ ALVAO s.r.o. 提供此資訊。 關於此應用程式如何收集和儲存組織
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,18 +2,19 @@
 title: Officeatwork 的應用程式資訊 |officeatwork Office 的上載程式
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 officeatwork | 的安全性和符合性資訊資訊Office 的上載程式、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fdd2f6c4786225cbfbda16722735cc2fdc31e2f1
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 18adb2323bb60ed479864f4a1f7271efb4cff4d8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251479"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548671"
 ---
 # <a name="officeatwork--uploader-for-office"></a>officeatwork |Office 的上載程式
 
@@ -38,7 +39,7 @@ ms.locfileid: "62251479"
 | App 的使用條款 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 | 應用程式的核心功能 | 直接從 Office 中 Upload 或更新內容庫的可重複使用的共用內容。 |
 | 公司 headquarter 位置 | 瑞士 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -57,14 +58,7 @@ ms.locfileid: "62251479"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,15 +163,15 @@ ms.locfileid: "62251479"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | 委託 | 啟用檔的我的最愛、OneDrive 功能及上傳 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| Group.ReadWrite.All | 委託 | 啟用 Teams 功能 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| GroupMember Read。 All | 委託 | 啟用 Teams 功能 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的檔案 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| User.Read | 委託 | 啟用已登入使用者的顯示 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| User.Read.All | 委託 | 啟用顯示使用者屬性 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| openid | 委託 | 啟用登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
->| 設定檔 | 委託 | 啟用登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](https://docs.microsoft.com/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad) |
+>| Files.ReadWrite.All | 委託 | 啟用檔的我的最愛、OneDrive 功能及上傳 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
+>| Group.ReadWrite.All | 委託 | 啟用 Teams 功能 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
+>| GroupMember Read。 All | 委託 | 啟用 Teams 功能 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
+>| Sites.Read.All | 委託 | 讀取儲存在 SharePoint 中的檔案 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
+>| User.Read | 委託 | 啟用已登入使用者的顯示 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
+>| User.Read.All | 委託 | 啟用顯示使用者屬性 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
+>| offline_access | 委託 | 為舊版的 Office 主機啟用自動登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
+>| openid | 委託 | 啟用登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
+>| 設定檔 | 委託 | 啟用登入 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](../azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md) |
 
 >此應用程式沒有額外的 APIs。
 

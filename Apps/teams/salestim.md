@@ -2,18 +2,19 @@
 title: SalesTim 的應用程式資訊（按 SalesTim）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SalesTim 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 66997cbd8ecf5872454d9ec9a58dcb65b65a094b
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d650f6254f819ec1683641400e37f1c10a98291a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252192"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548751"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -40,7 +41,7 @@ ms.locfileid: "62252192"
 | App 的使用條款 | [https://www.salestim.com/legal/tos](https://www.salestim.com/legal/tos) |
 | 應用程式的核心功能 | SalesTim 可協助每個組織透過無程式碼 Microsoft Teams 範本建立和控管自動化，以提升其共同作業流程。 |
 | 公司 headquarter 位置 | 法國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.salestim.com](https://www.salestim.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -59,14 +60,7 @@ ms.locfileid: "62252192"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -170,12 +164,12 @@ ms.locfileid: "62252192"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember ReadWrite。 | 委託 | 由我們的成員資格原則邀請到通道的使用者識別碼 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Directory.AccessAsUser.All | 委託 | 使用者識別碼。 可讓使用者選取應用程式中不同位置的其他使用者，例如在工作流程中選取 [核准者]。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Group.ReadWrite.All | 包括 | 我們&#8217;只會&#8217;儲存群組/小組 IDs，我們不會儲存任何群組/小組內容。 允許此應用程式建立群組，代表登入的使用者讀取所有群組屬性和成員資格。 此外，允許群組擁有者管理其群組，並允許群組成員更新群組內容。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| 傳送郵件 | 委託 | 使用者 IDs。 我們&#8217;將此動作的中繼資料儲存在一起，例如通知日期、收件者、要求識別碼。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| User.Read.All | 包括 | 使用者識別碼和設定檔資料。 可讓使用者選取應用程式中不同位置的其他使用者，例如在工作流程中選取 [核准者]。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| offline_access | 委託 | 重新整理權杖。 允許應用程式以使用者身分執行某些背景作業和動作。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| ChannelMember ReadWrite。 | 委託 | 由我們的成員資格原則邀請到通道的使用者識別碼 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Directory.AccessAsUser.All | 委託 | 使用者識別碼。 可讓使用者選取應用程式中不同位置的其他使用者，例如在工作流程中選取 [核准者]。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Group.ReadWrite.All | 包括 | 我們&#8217;只會&#8217;儲存群組/小組 IDs，我們不會儲存任何群組/小組內容。 允許此應用程式建立群組，代表登入的使用者讀取所有群組屬性和成員資格。 此外，允許群組擁有者管理其群組，並允許群組成員更新群組內容。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| 傳送郵件 | 委託 | 使用者 IDs。 我們&#8217;將此動作的中繼資料儲存在一起，例如通知日期、收件者、要求識別碼。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| User.Read.All | 包括 | 使用者識別碼和設定檔資料。 可讓使用者選取應用程式中不同位置的其他使用者，例如在工作流程中選取 [核准者]。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| offline_access | 委託 | 重新整理權杖。 允許應用程式以使用者身分執行某些背景作業和動作。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
 
 >此應用程式沒有額外的 APIs。
 

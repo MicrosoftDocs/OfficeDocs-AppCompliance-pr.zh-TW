@@ -2,18 +2,19 @@
 title: Starbucks 的應用程式資訊，由 Starbucks&#174; 咖啡公司
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Starbucks 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5cd1d9072998bff241042273d073ab44dfbc3f95
-ms.sourcegitcommit: 7c77f94b0b1d3033f66d473bb77554f05fa3d5b6
+ms.openlocfilehash: 45d34bd6236f9df67db866389e791cc1b5fc9464
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62892141"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549641"
 ---
 # <a name="starbucks"></a>星巴克
 
@@ -35,7 +36,7 @@ Starbucks&#174; 公司所提供的資訊給 Microsoft：
 | 應用程式名稱 | 星巴克 |
 | ID | WA200002412 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Starbucks&#174; 咖啡公司 |
+| 合作夥伴公司名稱 | 星巴克&#174; 咖啡公司 |
 | 公司的網站 | [https://www.starbucks.com](https://www.starbucks.com) |
 | App 的使用條款 | [https://www.starbucks.com/gift-cards/manage/card-terms-and-...](https://www.starbucks.com/gift-cards/manage/card-terms-and-conditions) |
 | 應用程式的核心功能 | 說多謝，congrats 或 kudos 使用 Starbucks eGift 的小組成員。 |
@@ -57,14 +58,7 @@ Starbucks&#174; 咖啡公司提供此資訊的相關資訊，取決於此應用�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

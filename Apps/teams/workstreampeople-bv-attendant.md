@@ -2,18 +2,19 @@
 title: 透過 WORKSTREAMPEOPLE BV 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的資訊安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fab44be866bc1afe6c54a0b96678a5c105c2328a
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: d208575f7eed4778e38e855d4042eb1cdbaf1b54
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081177"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549121"
 ---
 # <a name="attendant"></a>語音應答
 
@@ -40,7 +41,7 @@ ms.locfileid: "63081177"
 | App 的使用條款 | [https://anywhere365.io/terms-conditions/](https://anywhere365.io/terms-conditions/) |
 | 應用程式的核心功能 | 依 Anywhere365 的語音應答是一種強大的一流電話語音操作員主控台。 |
 | 公司 headquarter 位置 | 荷蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://anywhere365.io/attendant-console-for-microsoft-team...](https://anywhere365.io/attendant-console-for-microsoft-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -61,7 +62,7 @@ ms.locfileid: "63081177"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | TenantId |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 荷蘭 ()  |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -170,14 +171,14 @@ ms.locfileid: "63081177"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 已讀取行事曆。共用 | 委託 | 我們想要顯示使用者可以存取之同事的行事曆 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| 個人讀取 | 委託 | 我們想要顯示使用者的同事詳細資料，以便能夠與其聯繫 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| 目前狀態為 [已讀取]。 | 委託 | 我們想要顯示連絡人清單中的所有使用者的目前狀態 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| User.Read.All | 委託 | 我們想能夠顯示所有同事的資訊 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| 電子郵件 | 委託 | 我們想能夠將電子郵件傳送給使用者，並在回叫訊息中使用它。 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| offline_access | 委託 | 我們想要讓資料保持在最新狀態 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| openid | 委託 | 在平臺中識別使用者 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| 設定檔 | 委託 | 我們需要設定檔資料來識別使用者並個人化經驗 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
+>| 已讀取行事曆。共用 | 委託 | 我們想要顯示使用者可以存取之同事的行事曆 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| 個人讀取 | 委託 | 我們想要顯示使用者的同事詳細資料，以便能夠與其聯繫 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| 目前狀態為 [已讀取]。 | 委託 | 我們想要顯示連絡人清單中的所有使用者的目前狀態 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| User.Read.All | 委託 | 我們想能夠顯示所有同事的資訊 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| 電子郵件 | 委託 | 我們想能夠將電子郵件傳送給使用者，並在回叫訊息中使用它。 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| offline_access | 委託 | 我們想要讓資料保持在最新狀態 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| openid | 委託 | 在平臺中識別使用者 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| 設定檔 | 委託 | 我們需要設定檔資料來識別使用者並個人化經驗 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
 
 >此應用程式沒有額外的 APIs。
 

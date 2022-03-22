@@ -2,18 +2,19 @@
 title: Vibe by Vibe Inc. 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Vibe 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9dd45dc3aa49fdf3dbe518b610186231b1cde907
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: cdfd34a8284e0565fb9daa47376732709ad9cee0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254609"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549221"
 ---
 # <a name="vibe"></a>Vibe
 
@@ -170,7 +171,7 @@ Vibe Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集和儲�
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 取得使用者的基本身分識別資訊，例如名稱、電子郵件、設定檔影像。 | [71a7c2ef-6e5f-4d3d-8665-119a2bef0035](https://docs.microsoft.com/microsoft-365-app-certification/azure/71a7c2ef-6e5f-4d3d-8665-119a2bef0035) |
+>| User.Read | 委託 | 取得使用者的基本身分識別資訊，例如名稱、電子郵件、設定檔影像。 | [71a7c2ef-6e5f-4d3d-8665-119a2bef0035](../azure/71a7c2ef-6e5f-4d3d-8665-119a2bef0035.md) |
 
 >此應用程式沒有額外的 APIs。
 

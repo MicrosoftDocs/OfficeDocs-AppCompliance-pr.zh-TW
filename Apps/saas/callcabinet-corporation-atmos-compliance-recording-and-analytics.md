@@ -2,18 +2,19 @@
 title: CallCabinet Atmos 合規性錄製和分析的應用程式資訊 CallCabinet Corporation
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊，以 CallCabinet Atmos 相容性錄製和分析，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 276e898351611643a648dac9350e750b13fd8a1a
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 463cccc6f77ec628c3024a6c29b292947ed8d6cf
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877554"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548541"
 ---
 # <a name="callcabinet-atmos-compliance-recording-and-analytics"></a>CallCabinet Atmos 規範錄製和分析
 
@@ -38,7 +39,7 @@ CallCabinet Corporation 提供給 Microsoft 的資訊：
 | App 的使用條款 | [https://www.callcabinet.com/terms-and-conditions/](https://www.callcabinet.com/terms-and-conditions/) |
 | 應用程式的核心功能 | 由 CallCabinet 的 Atmos 是 Azure native 相容性通話記錄、AI 分析和 QA SaaS 解決方案，可供 Microsoft Teams 與其他共同作業或連絡人中心系統使用。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.callcabinet.com/compliance-microsoft-teams-call...](https://www.callcabinet.com/compliance-microsoft-teams-call-recording/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -59,7 +60,7 @@ CallCabinet Corporation 已提供此資訊，讓您瞭解此應用程式如何�
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 錄製 Teams 交談、影片和螢幕共用 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |

@@ -2,18 +2,19 @@
 title: 以獎勵為限的集合所提供的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可供收集的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4886d8a95c9819a43e1aae131716267bef6d9618
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: c6f8977de2c5fc4a09d36fbb3d60a9d712b2b3b1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263840"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549421"
 ---
 # <a name="collection-pot"></a>Collection Pot
 
@@ -38,10 +39,11 @@ ms.locfileid: "62263840"
 | 合作夥伴公司名稱 | Gifted to You Limited |
 | 公司的網站 | [https://www.collectionpot.com](https://www.collectionpot.com) |
 | App 的使用條款 | [https://www.collectionpot.com/terms-of-service/](https://www.collectionpot.com/terms-of-service/) |
-| 應用程式的核心功能 | Personalised 用 &amp; 來收集任何場合、人壽保險事件或慈善的金錢的有趣方式 |
+| 應用程式的核心功能 | Personalised &amp; 用來收集任何場合、人壽保險事件或慈善的金錢的有趣方式 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62263840"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

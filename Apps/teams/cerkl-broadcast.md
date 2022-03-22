@@ -2,18 +2,19 @@
 title: 透過 Cerkl 廣播的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于廣播的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 527f245f00a281a4b0ec7e830ec297bc0db62fdd
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2868de9f42250c8dff2e1b8302490082400a8fa3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251689"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548911"
 ---
 # <a name="broadcast"></a>廣播
 
@@ -40,8 +41,9 @@ ms.locfileid: "62251689"
 | App 的使用條款 | [https://cerkl.com/terms](https://cerkl.com/terms) |
 | 應用程式的核心功能 | Cerkl 廣播會透過組織&#8217;的重要通訊，連接員工物件。 使用以行為為基礎的個人化，在右側通道的適當時間，將廣播傳送給正確的員工。 這&#8217;，我們實際上與競爭對手相距在一起，我們允許聰明的 communicators 透過管道進行通訊，而不需要重複工作。 廣播也提供業界領先的衡量標準，可協助我們的用戶端瞭解哪些&#8217;可供使用者使用。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://cerkl.com/broadcast/microsoft-teams/](https://cerkl.com/broadcast/microsoft-teams/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62251689"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 在一個月內刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +161,7 @@ ms.locfileid: "62251689"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 會收集使用者的電子郵件並加以使用，以查看使用者目前是否在我們的系統中，以及是否已由組織新增。 | [74ef25ab-3685-446c-aa43-4e9cc251ed62](https://docs.microsoft.com/microsoft-365-app-certification/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62) |
+>| User.Read | 委託 | 會收集使用者的電子郵件並加以使用，以查看使用者目前是否在我們的系統中，以及是否已由組織新增。 | [74ef25ab-3685-446c-aa43-4e9cc251ed62](../azure/74ef25ab-3685-446c-aa43-4e9cc251ed62.md) |
 
 >此應用程式沒有額外的 APIs。
 

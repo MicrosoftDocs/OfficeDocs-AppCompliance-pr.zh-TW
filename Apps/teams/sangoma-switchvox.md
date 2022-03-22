@@ -2,18 +2,19 @@
 title: Switchvox 的應用程式資訊（按 Sangoma）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Switchvox 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 12728af3843d47c85e4f03bfeb06e4c0faf2424c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 03e667ca9559cce35fc7ebe55cab8a40624fd324
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255539"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549301"
 ---
 # <a name="switchvox"></a>Switchvox
 
@@ -40,7 +41,7 @@ ms.locfileid: "62255539"
 | App 的使用條款 | [https://cdn.sangoma.com/wp-content/uploads/digium_end_user_...](https://cdn.sangoma.com/wp-content/uploads/digium_end_user_license_agreement.pdf) |
 | 應用程式的核心功能 | 在 Microsoft Teams 內的任何地方無縫地從您的 Switchvox 電話發起通話。 |
 | 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://support.digium.com/community/s/article/How-do-I-use...](https://support.digium.com/community/s/article/How-do-I-use-Switchvox-for-Microsoft-Teams) |
 | 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,9 +171,9 @@ ms.locfileid: "62255539"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 聊天室讀取 | 委託 | 執行聊天成員解析 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
->| Group.Read.All | 委託 | 執行群組成員解析 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
->| User.Read.All | 委託 | 執行目錄連絡人查閱 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
+>| Chat.Read | 委託 | 執行聊天成員解析 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](../azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md) |
+>| Group.Read.All | 委託 | 執行群組成員解析 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](../azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md) |
+>| User.Read.All | 委託 | 執行目錄連絡人查閱 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](../azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md) |
 
 >此應用程式沒有額外的 APIs。
 

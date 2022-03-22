@@ -2,18 +2,19 @@
 title: Zignals 的應用程式資訊（按 Alight）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Zignals 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有適用于 Zignals 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1305a486a9eb68a21ce2be0d65a0d518c39b64c2
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: c52064e4c96285fe98cdc1bb721bf3565aac1472
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251169"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548501"
 ---
 # <a name="zignals"></a>Zignals
 
@@ -21,7 +22,7 @@ ms.locfileid: "62251169"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開發人員上次更新日期：2021年8月17日</p>
 
-* <a href="https://teams.microsoft.com/l/app/a0b58ca7-958d-4343-a2dc-a75f2eeb0953" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://teams.microsoft.com/l/app/a0b58ca7-958d-4343-a2dc-a75f2eeb0953" target="_blank">在團隊存放區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003201" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
@@ -40,8 +41,9 @@ ms.locfileid: "62251169"
 | App 的使用條款 | [https://zignals.eu/terms](https://zignals.eu/terms) |
 | 應用程式的核心功能 | 在組織中進行共同作業，將內容彙集在下一個層級，並顯示員工的重要事項。 |
 | 公司 headquarter 位置 | 德國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://zignals.eu/zignals-support/](https://zignals.eu/zignals-support/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62251169"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 立即刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,7 +66,7 @@ ms.locfileid: "62251169"
 
 ::: zone pivot="security"
 
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog 的資訊如下所示。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -166,16 +161,16 @@ ms.locfileid: "62251169"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 委託 | 在我的 &quot; 會議區域中 &quot; ，我們會取得目前和未來的使用者會議。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| Sites.ReadWrite.All | 委託 | 我們會取得所有使用者的 SharePoint 網站，並將其顯示在我的團隊合作區域中，並 &quot; &quot; 取得所有使用者的 SharePoint 任務，並將其顯示在「我的工作」區域中 &quot; &quot; 。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| 工作。 ReadWrite | 委託 | 我們讀取使用者的規劃，並在工作區域中執行工作並顯示這些工作 &quot; &quot; 。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| Team.ReadBasic.All | 委託 | 我們會取得使用者的加入小組，並將其顯示在「 &quot; 我的團隊合作」 &quot; 區域中。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| User.ReadBasic.All | 委託 | 在 [我的文件] 區域中，我們會顯示其共同 &quot; &quot; 合作的使用者。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| User.ReadWrite | 委託 | 使用者的最近檔會顯示在「我的檔」區域中 &quot; &quot; 。 使用者的最愛應用程式會在 MS Graph 中儲存為架構擴充。 在圖形中讀取及寫入資料時，需要此許可權等級。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| 電子郵件 | 委託 | 取得使用者電子郵件 (標準毫秒 Teams 範圍)  | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| offline_access | 委託 | 標準毫秒 Teams 範圍 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| openid | 委託 | 登入使用者。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
->| 設定檔 | 委託 | 登入處理常式毫秒 Teams | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](https://docs.microsoft.com/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953) |
+>| Calendars.Read | 委託 | 在我的會議 &quot; 區域 &quot; 中，我們會取得目前和未來的使用者會議。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| Sites.ReadWrite.All | 委託 | 我們會取得所有使用者的 SharePoint 網站，並將其顯示在我的團隊合作 &quot; 區域 &quot; 中，並取得所有使用者的 SharePoint 任務，並將其顯示在「我 &quot; 的工作」區域 &quot; 中。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| 工作。 ReadWrite | 委託 | 我們讀取使用者的規劃，並在工作區域 &quot; &quot; 中執行工作並顯示這些工作。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| Team.ReadBasic.All | 委託 | 我們會取得使用者的加入小組，並將其顯示在「我的 &quot; 團隊合作 &quot; 」區域中。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| User.ReadBasic.All | 委託 | 在 [我的 &quot; 文檔 &quot; ] 區域中，我們會顯示其共同合作的使用者。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| User.ReadWrite | 委託 | 使用者的最近檔會顯示在「我的檔 &quot; 」區域 &quot; 中。 使用者的最愛應用程式會在 MS Graph 中儲存為架構擴充。 在圖形中讀取及寫入資料時，需要此許可權等級。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| 電子郵件 | 委託 | 取得使用者電子郵件 (標準毫秒 Teams 範圍)  | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| offline_access | 委託 | 標準毫秒 Teams 範圍 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| openid | 委託 | 登入使用者。 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
+>| 設定檔 | 委託 | 登入處理常式毫秒 Teams | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](../azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) |
 
 >此應用程式沒有額外的 APIs。
 

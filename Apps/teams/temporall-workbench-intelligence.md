@@ -2,18 +2,19 @@
 title: Temporall 的工作臺智慧應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于工作臺智慧的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9a560adc52e8125118e24e6c57810a0a7e5d7027
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 948712fb4c4db715f8c464a8645f06d75c774c27
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263793"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548681"
 ---
 # <a name="workbench-intelligence"></a>Workbench Intelligence
 
@@ -40,8 +41,9 @@ ms.locfileid: "62263793"
 | App 的使用條款 | [https://www.temporall.com/eula](https://www.temporall.com/eula) |
 | 應用程式的核心功能 | 工作臺智慧提供即時洞察力，可協助您更快速地進行決策。 |
 | 公司 headquarter 位置 | 英國和北愛爾蘭 ()  |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.temporall.com/teams_intelligence/](https://www.temporall.com/teams_intelligence/) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62263793"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 3months 後刪除 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,15 +161,15 @@ ms.locfileid: "62263793"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog Read。 All | 委託 | 取得已安裝的小組應用程式清單，以取得已知的外部識別碼的本機應用程式識別碼。 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| ReadBasic | 應用程式 | 通道識別碼 &amp; 名稱。 理由：允許加入/離開通道以同步處理郵件活動。  | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| ChannelMessage Read。 All | 應用程式 | 郵件活動 &amp; 類型和寄件者 &amp; 目標。 從這些路由接收的資料：/teams/$ {teamId}/channels/$ {channelId}/messages/teams/$ {teamId}/channels/$ {channelId}/messages/$ {messageId}。 理由：能夠計算 &amp; 郵件活動的衡量值報告。 這會形成我們 organisational 網路分析模組的核心，讓他們能夠在使用者小組之間繪製活動圖表 &amp; 。 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| Directory.Read.All | 應用程式 | ClientId、使用者清單、組織及子通道清單。 理由：將同步處理 &amp; 使用者讀入 Temporall 工作臺所需 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| Group.ReadWrite.All | 應用程式 | 群組識別碼 &amp; 名稱。 理由：將應用程式安裝到每個群組/通道 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| TeamMember Read。 All | 應用程式 | 使用者對團隊的成員資格。 理由：允許與 Temporall 工作臺的 Teams 中的所有使用者同步處理 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| TeamsAppInstallation ReadWriteForTeam 所有 | 應用程式 | 讀取為小組安裝的應用程式清單。 理由：檢查是否已安裝應用程式，否則請先安裝應用程式，才能透過圖形 api 取得郵件活動 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| TeamsAppInstallation ReadWriteForUser 所有 | 應用程式 | 已安裝應用程式的閱讀清單。 檢查是否已安裝應用程式，否則請透過問捲進行安裝以與使用者接洽 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| User.Read | 委託 | 基本使用者 &amp; 公司資訊。 理由：用來 categorise 使用者的郵件活動，允許 bot 參與主動訊息。 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
+>| AppCatalog Read。 All | 委託 | 取得已安裝的小組應用程式清單，以取得已知的外部識別碼的本機應用程式識別碼。 | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| ReadBasic | 應用程式 | 通道識別碼 &amp; 名稱。 理由：允許加入/離開通道以同步處理郵件活動。  | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| ChannelMessage Read。 All | 應用程式 | 郵件活動 &amp; 類型和寄件者 &amp; 目標。 從這些路由接收的資料：/teams/$ {teamId}/channels/$ {channelId}/messages/teams/$ {teamId}/channels/$ {channelId}/messages/$ {messageId}。 理由：能夠計算郵件活動的衡量值 &amp; 報告。 這會形成我們 organisational 網路分析模組的核心，讓他們能夠在使用者 &amp; 小組之間繪製活動圖表。 | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| Directory.Read.All | 應用程式 | ClientId、使用者清單、組織及子通道清單。 理由：將同步處理使用者讀入 &amp; Temporall 工作臺所需 | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| Group.ReadWrite.All | 應用程式 | 群組識別碼 &amp; 名稱。 理由：將應用程式安裝到每個群組/通道 | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| TeamMember Read。 All | 應用程式 | 使用者對團隊的成員資格。 理由：允許與 Temporall 工作臺的 Teams 中的所有使用者同步處理 | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| TeamsAppInstallation ReadWriteForTeam 所有 | 應用程式 | 讀取為小組安裝的應用程式清單。 理由：檢查是否已安裝應用程式，否則請先安裝應用程式，才能透過圖形 api 取得郵件活動 | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| TeamsAppInstallation ReadWriteForUser 所有 | 應用程式 | 已安裝應用程式的閱讀清單。 檢查是否已安裝應用程式，否則請透過問捲進行安裝以與使用者接洽 | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| User.Read | 委託 | 基本使用者 &amp; 公司資訊。 理由：用來 categorise 使用者的郵件活動，允許 bot 參與主動訊息。 | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
 
 >此應用程式沒有額外的 APIs。
 

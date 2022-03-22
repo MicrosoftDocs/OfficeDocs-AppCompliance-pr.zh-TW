@@ -2,18 +2,19 @@
 title: Evocom 的應用程式資訊，由 Evocom Informationssysteme GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Evocom 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 26aa34b7e3c8bfc167a771a7e6f630f24dbf9487
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: 980a6217bd5967af64dd2cb6f3d47cc3eb2dab42
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62477145"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547891"
 ---
 # <a name="evocom"></a>Evocom
 
@@ -40,7 +41,7 @@ Evocom Informationssysteme GmbH 所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://evocom.de/termsofuse](https://evocom.de/termsofuse) |
 | 應用程式的核心功能 | Evocom&#180;s USP = 簡潔性。 Evocom 是共同作業工作流程、專案和任務管理的直觀解決方案。 Informationworkers 設計程式，並立即將其帶入生命。 部門中的人員使用 Evocom 來數位化可協調內部工作的微型程式。 處理常式專家會使用來自部門的微型程式，並利用現有的整合與 LOB 系統（如 CRM、ERP 及其他）來安排跨部門的處理常式。 |
 | 公司 headquarter 位置 | 德國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://evocom.de/microsoft365](https://evocom.de/microsoft365) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -171,8 +172,8 @@ Evocom Informationssysteme GmbH 所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | Profilbild anzeigen | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
->| User.ReadBasic.All | 委託 | PeoplePicker、Benutzerverwaltung | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
+>| User.Read | 委託 | Profilbild anzeigen | [3e745135-a761-48a7-ab54-5c0277b2e642](../azure/3e745135-a761-48a7-ab54-5c0277b2e642.md) |
+>| User.ReadBasic.All | 委託 | PeoplePicker、Benutzerverwaltung | [3e745135-a761-48a7-ab54-5c0277b2e642](../azure/3e745135-a761-48a7-ab54-5c0277b2e642.md) |
 
 >此應用程式沒有額外的 APIs。
 

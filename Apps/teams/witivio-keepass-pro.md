@@ -2,18 +2,19 @@
 title: Keepass Pro 的應用程式資訊 Witivio
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 Keepass Pro 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 154c1fa600d142dca7be3ef061a152caf6390000
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8530955c262aa1104757841c48bb372d371a992c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250883"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547711"
 ---
 # <a name="keepass-pro"></a>Keepass Pro
 
@@ -40,7 +41,7 @@ ms.locfileid: "62250883"
 | App 的使用條款 | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
 | 應用程式的核心功能 | 安全地儲存、共用及產生 Microsoft Teams 中的密碼。 |
 | 公司 headquarter 位置 | 法國 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.teams-pro.com/en/browse-apps/keypass-pro/](https://www.teams-pro.com/en/browse-apps/keypass-pro/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,11 +171,11 @@ ms.locfileid: "62250883"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | 委託 | SharePoint 中的讀取/寫入 KDBX 檔案 | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
->| User.Read | 委託 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
->| 電子郵件 | 委託 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
->| openid | 委託 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
->| 設定檔 | 委託 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
+>| Files.ReadWrite.All | 委託 | SharePoint 中的讀取/寫入 KDBX 檔案 | [597cc93d-8951-4f62-b549-eca97ba5c042](../azure/597cc93d-8951-4f62-b549-eca97ba5c042.md) |
+>| User.Read | 委託 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](../azure/597cc93d-8951-4f62-b549-eca97ba5c042.md) |
+>| 電子郵件 | 委託 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](../azure/597cc93d-8951-4f62-b549-eca97ba5c042.md) |
+>| openid | 委託 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](../azure/597cc93d-8951-4f62-b549-eca97ba5c042.md) |
+>| 設定檔 | 委託 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](../azure/597cc93d-8951-4f62-b549-eca97ba5c042.md) |
 
 >此應用程式沒有額外的 APIs。
 

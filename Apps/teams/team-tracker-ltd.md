@@ -2,18 +2,19 @@
 title: 小組追蹤器公司的小組追蹤應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 在 CSA 星型登錄中，小組追蹤器的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
+description: 所有可用的安全性和合規性資訊，小組追蹤器、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cdb4c7dea2bfc330ddccbe58ad1f8405a9a419ef
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3901bf255ee6086a1d28ebb6135782236cafd0ef
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252202"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548701"
 ---
 # <a name="team-tracker"></a>Team Tracker
 
@@ -21,7 +22,7 @@ ms.locfileid: "62252202"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>上次於開發人員的更新日期：2021年11月23日</p>
 
-* <a href="https://teams.microsoft.com/l/app/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://teams.microsoft.com/l/app/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d" target="_blank">在團隊存放區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003572" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
@@ -59,14 +60,7 @@ ms.locfileid: "62252202"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ |  |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -74,7 +68,7 @@ ms.locfileid: "62252202"
 
 ::: zone pivot="security"
 
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog 的資訊如下所示。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -169,12 +163,12 @@ ms.locfileid: "62252202"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 一旦使用者設定了即將開始的周活動，小組追蹤程式就會根據他們的選取範圍更新使用者行事曆及其可用性。  | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
->| MailboxSettings 讀取 | 委託 | 用於取得建立行事曆事件的時區 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
->| User.Read | 委託 | 對照使用者的設定檔驗證使用者資訊 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
->| 電子郵件 | 委託 | 用於驗證使用者電子郵件 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
->| openid | 委託 | 允許使用者利用其 Office 365 帳戶登入 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
->| 設定檔 | 委託 | 對照使用者設定檔驗證使用者基本資訊 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| ReadWrite 的行事曆 | 委託 | 一旦使用者設定了即將開始的周活動，小組追蹤程式就會根據他們的選取範圍更新使用者行事曆及其可用性。  | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](../azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md) |
+>| MailboxSettings 讀取 | 委託 | 用於取得建立行事曆事件的時區 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](../azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md) |
+>| User.Read | 委託 | 對照使用者的設定檔驗證使用者資訊 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](../azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md) |
+>| 電子郵件 | 委託 | 用於驗證使用者電子郵件 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](../azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md) |
+>| openid | 委託 | 允許使用者利用其 Office 365 帳戶登入 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](../azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md) |
+>| 設定檔 | 委託 | 對照使用者設定檔驗證使用者基本資訊 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](../azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md) |
 
 >此應用程式沒有額外的 APIs。
 

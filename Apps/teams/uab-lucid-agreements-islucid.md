@@ -2,18 +2,19 @@
 title: IsLucid 的應用程式資訊，由 UAB Lucid 協定
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: isLucid 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 83c9786dcb0cd7f8ff6c5d744c5eaf3fb63b9ab3
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ac2d52a234c50cd0a59ecb4bbbc62bd346a929d7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255459"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547751"
 ---
 # <a name="islucid"></a>isLucid
 
@@ -40,7 +41,7 @@ UAB Lucid 合約所提供的資訊給 Microsoft：
 | App 的使用條款 | [https://islucid.com/eula/](https://islucid.com/eula/) |
 | 應用程式的核心功能 | 讓小組在 Microsoft Teams 通話中，以即時捕獲和建立任務。 整合這些工作與現有的 Project 管理軟體。 |
 | 公司 headquarter 位置 | 立陶宛 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://islucid.com](https://islucid.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | 混合式 |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -169,13 +170,13 @@ UAB Lucid 合約所提供的資訊給 Microsoft：
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AccessMedia 所有 | 包括 | 透過個別呼叫的使用者特別同意 (初始化的方式) 存取音訊資料流程。 音訊資料流程會轉寄給使用者，以取得進一步的功能。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| JoinGroupCall 所有 | 包括 | 透過個別呼叫的使用者特別同意 (初始化的方式) 存取音訊資料流程。 音訊資料流程會轉寄給使用者，以取得進一步的功能。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Group.ReadWrite.All | 包括 | 當使用者使用與 Microsoft Planner 的整合，以從來電建立工作並自動儲存于 MS Planner 時，isLucid 會收集該使用者可用的群組、計畫、代理人。 若沒有此許可權，使用者就無法使用 isLucid 來建立工作。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| OnlineMeetings Read。 All | 包括 | 應用程式會收集會議標題，讓使用者稍後在會議完成時 () 可以更輕鬆地找到先前的記錄和工作。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| 工作。 ReadWrite | 包括 | 當使用者使用與 Microsoft Planner 的整合，以從來電建立工作並自動儲存于 MS Planner 時，isLucid 會收集該使用者可用的群組、計畫、代理人。 若沒有此許可權，使用者就無法使用 isLucid 來建立工作。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| User.ReadWrite.All | 包括 | 當使用者使用與 Microsoft Planner 的整合，以從來電建立工作並自動儲存于 MS Planner 時，isLucid 會收集該使用者可用的群組、計畫、代理人。 若沒有此許可權，使用者就無法使用 isLucid 來建立工作。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| openid | 包括 | 為使用者提供 Azure Active Directory 登入功能所收集的使用者識別碼（租使用者識別碼） | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
+>| AccessMedia 所有 | 包括 | 透過個別呼叫的使用者特別同意 (初始化的方式) 存取音訊資料流程。 音訊資料流程會轉寄給使用者，以取得進一步的功能。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| JoinGroupCall 所有 | 包括 | 透過個別呼叫的使用者特別同意 (初始化的方式) 存取音訊資料流程。 音訊資料流程會轉寄給使用者，以取得進一步的功能。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Group.ReadWrite.All | 包括 | 當使用者使用與 Microsoft Planner 的整合，以從來電建立工作並自動儲存于 MS Planner 時，isLucid 會收集該使用者可用的群組、計畫、代理人。 若沒有此許可權，使用者就無法使用 isLucid 來建立工作。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| OnlineMeetings Read。 All | 包括 | 應用程式會收集會議標題，讓使用者稍後在會議完成時 () 可以更輕鬆地找到先前的記錄和工作。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| 工作。 ReadWrite | 包括 | 當使用者使用與 Microsoft Planner 的整合，以從來電建立工作並自動儲存于 MS Planner 時，isLucid 會收集該使用者可用的群組、計畫、代理人。 若沒有此許可權，使用者就無法使用 isLucid 來建立工作。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| User.ReadWrite.All | 包括 | 當使用者使用與 Microsoft Planner 的整合，以從來電建立工作並自動儲存于 MS Planner 時，isLucid 會收集該使用者可用的群組、計畫、代理人。 若沒有此許可權，使用者就無法使用 isLucid 來建立工作。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| openid | 包括 | 為使用者提供 Azure Active Directory 登入功能所收集的使用者識別碼（租使用者識別碼） | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
 
 >此應用程式沒有額外的 APIs。
 

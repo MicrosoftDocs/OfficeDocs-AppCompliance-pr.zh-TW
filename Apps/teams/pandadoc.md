@@ -2,18 +2,19 @@
 title: PandaDoc 的應用程式資訊（按 PandaDoc）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: PandaDoc 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3ab026ee7c8a3277dc4865e514637a609ce3133b
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7cfd701c52bfc076fb1352bac439479426bc8475
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251019"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549671"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -40,8 +41,9 @@ ms.locfileid: "62251019"
 | App 的使用條款 | [https://www.pandadoc.com/terms-of-use/](https://www.pandadoc.com/terms-of-use/) |
 | 應用程式的核心功能 | Teams 在為客戶提供令人驚歎的經驗時，使用 PandaDoc 提升檔工作流程、洞察力及速度。 企業信任 PandaDoc&#8217;s 檔自動化軟體，以簡化建立、核准及 eSign 提案、報價單、合約等的程式。 透過強大的檔建立功能和工作流程功能，小組可以為客戶提供更專業、更及時及吸引的經驗。 |
 | 公司 headquarter 位置 | 美國地區 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.pandadoc.com](https://www.pandadoc.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure，AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62251019"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ |  |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
-| 您是否有既定的資料 rentention 與處置程式？ |  |
-| 在帳戶終止後，資料會保留多久？ | 保留 |
-| 您是否有既定的資料存取管理程式？ |  |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ |  |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,28 +161,28 @@ ms.locfileid: "62251019"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| ChannelSettings Read。 All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。  | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| ChannelSettings ReadWrite。 | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| Directory.Read.All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| Directory.ReadWrite.All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| Files.Read | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| Files.Read.All | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| 已讀取。選取 | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| Group.Read.All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 檔- https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp ; tab = HTTP | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| Group.ReadWrite.All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 檔- https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp ; tab = HTTP | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| Team.ReadBasic.All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| TeamSettings Read。 All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| TeamSettings ReadWrite。 | 包括 | 或是取得 IDs Microsoft Teams 的團隊使用者是其直接成員。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| TeamsAppInstallation ReadWriteSelfForTeam 所有 | 包括 | 需要在小組中的使用者上安裝應用程式，並在聊天中安裝 bot。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| TeamsAppInstallation ReadWriteSelfForUser 所有 | 包括 | 需要在小組中的使用者上安裝應用程式，並在聊天中安裝 bot。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| User.Read | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| User.Read.All | 包括 |  若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| User.ReadWrite.All | 包括 |  若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| 電子郵件 | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| offline_access | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| openid | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
->| 設定檔 | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](https://docs.microsoft.com/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b) |
+>| ReadBasic | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| ChannelSettings Read。 All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。  | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| ChannelSettings ReadWrite。 | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Directory.Read.All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Directory.ReadWrite.All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Files.Read | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Files.Read.All | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| 已讀取。選取 | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.Read.All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 檔- https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp ; tab = HTTP | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.ReadWrite.All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 檔- https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp ; tab = HTTP | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Team.ReadBasic.All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| TeamSettings Read。 All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| TeamSettings ReadWrite。 | 包括 | 或是取得 IDs Microsoft Teams 的團隊使用者是其直接成員。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| TeamsAppInstallation ReadWriteSelfForTeam 所有 | 包括 | 需要在小組中的使用者上安裝應用程式，並在聊天中安裝 bot。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| TeamsAppInstallation ReadWriteSelfForUser 所有 | 包括 | 需要在小組中的使用者上安裝應用程式，並在聊天中安裝 bot。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| User.Read | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| User.Read.All | 包括 |  若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| User.ReadWrite.All | 包括 |  若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| 電子郵件 | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| offline_access | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| openid | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| 設定檔 | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 
 >此應用程式沒有額外的 APIs。
 

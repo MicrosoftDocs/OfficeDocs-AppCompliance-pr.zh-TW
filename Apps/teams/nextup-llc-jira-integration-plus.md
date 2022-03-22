@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Jira 整合的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8adf13a171e6a075ff4b22e9325912f6c1738cf8
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: 92f2d7375e92a2ff69e83af28380d6e6d038700c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470170"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548381"
 ---
-# <a name="jira-integration-plus"></a>Jira 整合加上
+# <a name="jira-integration-plus"></a>Jira Integration Plus
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,17 +33,16 @@ ms.locfileid: "63470170"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Jira 整合加上 |
+| 應用程式名稱 | Jira Integration Plus |
 | ID | WA200003847 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Nextup、LLC |
+| 合作夥伴公司名稱 | Nextup, LLC |
 | 公司的網站 | [https://www.nextup.ai](https://www.nextup.ai) |
 | App 的使用條款 | [https://www.nextup.ai/terms](https://www.nextup.ai/terms) |
 | 應用程式的核心功能 | 尋找現有的 Jira 問題，以編輯或討論 Teams，或是建立新的問題。 在郵件中傳送問題。 有關問題的批註，或查看詳細資料。 變更狀態、指派及其他。 透過命令列介面 (CLI) 使用 Jira。 批註、記錄工作等等。 取得通道 (連接器) 上問題的通知。 使用郵件擴充從郵件中建立新的問題。 使用 [板] () ] 索引標籤來管理問題。 在 Teams 中的任何郵件下方按一下圖示，以搜尋問題。 |
 | 公司 headquarter 位置 | 美國地區 |
 | 應用程式資訊頁面 | [https://www.nextup.ai/microsoft-teams/jira-integration-plus/](https://www.nextup.ai/microsoft-teams/jira-integration-plus/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | IsvHosted |
-| 應用程式會使用哪一個主控雲端提供者？ |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -62,7 +61,7 @@ ms.locfileid: "63470170"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 唯一識別碼和電子郵件地址 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ |  |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -171,16 +170,16 @@ ms.locfileid: "63470170"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AccessReview Read。 All | 包括 | 我們使用此 API 驗證使用者是否有權存取我們的應用程式 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| AccessReview ReadWrite。 | 包括 | 我們使用此 API 驗證使用者是否有權存取我們的應用程式 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | 包括 | 我們使用此 API，以確定使用者是否有權在 Teams 應用程式和小組和通道中使用 bot | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | 包括 | 我們使用此 API，以確定使用者是否有權在 Teams 應用程式和小組和通道中使用 bot | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | 包括 | 我們使用此 API 接受來自使用者的檔案，這些檔案可附加至 Jira 問題 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | 包括 | 我們使用此 API 接受來自使用者的檔案，這些檔案可附加至 Jira 問題 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | 包括 | 我們使用此 API 來查看使用者可以存取的網站，以便在適當的位置建立票證 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | 包括 | 我們使用此 API 來查看使用者可以存取的網站，以便在適當的位置建立票證 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | 包括 | 我們會使用此 API，讓系統管理員將 persmission 為其組織提供與 Jira 搭配使用的應用程式。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | 包括 | 我們會使用此 API，讓系統管理員將 persmission 為其組織提供與 Jira 搭配使用的應用程式。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
+>| AccessReview Read。 All | 包括 | 我們使用此 API 驗證使用者是否有權存取我們的應用程式 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| AccessReview ReadWrite。 | 包括 | 我們使用此 API 驗證使用者是否有權存取我們的應用程式 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | 包括 | 我們使用此 API，以確定使用者是否有權在 Teams 應用程式和小組和通道中使用 bot | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | 包括 | 我們使用此 API，以確定使用者是否有權在 Teams 應用程式和小組和通道中使用 bot | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | 包括 | 我們使用此 API 接受來自使用者的檔案，這些檔案可附加至 Jira 問題 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | 包括 | 我們使用此 API 接受來自使用者的檔案，這些檔案可附加至 Jira 問題 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | 包括 | 我們使用此 API 來查看使用者可以存取的網站，以便在適當的位置建立票證 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | 包括 | 我們使用此 API 來查看使用者可以存取的網站，以便在適當的位置建立票證 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | 包括 | 我們會使用此 API，讓系統管理員將 persmission 為其組織提供與 Jira 搭配使用的應用程式。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | 包括 | 我們會使用此 API，讓系統管理員將 persmission 為其組織提供與 Jira 搭配使用的應用程式。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
 
 >此應用程式沒有額外的 APIs。
 

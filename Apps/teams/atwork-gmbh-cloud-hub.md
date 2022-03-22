@@ -2,18 +2,19 @@
 title: Atwork GmbH 的雲端中樞應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于雲端中樞的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6e982e29c1ba09097f3c2415aae5e1f644a87c5a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2a4f56d9bf23739abd8c7c9d40f6023fbfe43f91
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259838"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549461"
 ---
 # <a name="cloud-hub"></a>Cloud Hub
 
@@ -40,7 +41,7 @@ ms.locfileid: "62259838"
 | App 的使用條款 | [https://www.atwork-it.com/eula](https://www.atwork-it.com/eula) |
 | 應用程式的核心功能 | 雲端中樞是 Microsoft Teams 的商務應用程式。 它可讓使用者追蹤即將進行的變更，包括新增及變更的功能、規劃的維護，以及 Microsoft Message Center 的其他重要宣告。 您可以將雲端 Hub 應用程式鎖定 Microsoft Teams 中的應用程式列。 目前的應用程式支援英文，但沒有任何成本。  |
 | 公司 headquarter 位置 | 奧地利 |
-| 應用程式資訊頁面 | |
+| 應用程式資訊頁面 | [https://www.atwork-it.com/solutions/cloudhub/](https://www.atwork-it.com/solutions/cloudhub/) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
@@ -170,10 +171,10 @@ ms.locfileid: "62259838"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadBasic | 應用程式 | 用於選取您想要從郵件中心張貼郵件的頻道。 | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| 傳送郵件 | 應用程式 | 用於將郵件直接從應用程式傳送至管道或個別人員。  | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| TeamSettings Read。 All | 應用程式 | 用於選取您想要從郵件中心張貼郵件的團隊。 | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| User.Read.All | 應用程式 | 用來選取您要傳送 E-Mail 的人員。 | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| ReadBasic | 應用程式 | 用於選取您想要從郵件中心張貼郵件的頻道。 | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| 傳送郵件 | 應用程式 | 用於將郵件直接從應用程式傳送至管道或個別人員。  | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| TeamSettings Read。 All | 應用程式 | 用於選取您想要從郵件中心張貼郵件的團隊。 | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| User.Read.All | 應用程式 | 用來選取您要傳送 E-Mail 的人員。 | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
 
 >此應用程式沒有額外的 APIs。
 
