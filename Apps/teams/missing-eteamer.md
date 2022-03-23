@@ -2,18 +2,19 @@
 title: ETeamer 的應用程式資訊 &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: eTeamer 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 149cc78306c01d767de2a646a67d4d2848bf95db
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: a542760d33527db8de77e8643bdffd9b2cb67f07
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525467"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63748262"
 ---
 # <a name="eteamer"></a>eTeamer
 
@@ -54,9 +55,9 @@ ms.locfileid: "53525467"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMember ReadWrite。 | 包括 | 會收集租使用者應用程式識別碼和應用程式密碼，以供 OAuth 2.0 的隱含授權來同步處理使用者資訊 | 租使用者識別碼、租使用者應用程式識別碼、應用程式密碼和使用者資訊會儲存在資料庫中，以用於取得 Teams 中的使用者通道檔案資訊，並對檔案進行操作。 | [3407e97c-3eed-4eca-add5-2549ed881269](https://docs.microsoft.com/microsoft-365-app-certification/azure/3407e97c-3eed-4eca-add5-2549ed881269) |
+>| ChannelMember ReadWrite。 | 包括 | 會收集租使用者應用程式識別碼和應用程式密碼，以供 OAuth 2.0 的隱含授權來同步處理使用者資訊 | 租使用者識別碼、租使用者應用程式識別碼、應用程式密碼和使用者資訊會儲存在資料庫中，以用於取得 Teams 中的使用者通道檔案資訊，並對檔案進行操作。 | [3407e97c-3eed-4eca-add5-2549ed881269](../azure/3407e97c-3eed-4eca-add5-2549ed881269.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -98,7 +99,7 @@ ms.locfileid: "53525467"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/40122' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/40122' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/40122" target="_blank">在新的索引標籤中查看</a>
 

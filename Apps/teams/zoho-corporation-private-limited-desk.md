@@ -2,18 +2,19 @@
 title: Zoho 服務台的應用程式資訊，由 Zoho 公司私人限制
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Zoho 書桌的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8b934d980843f06ad78ca65ceb5782ce951fa41b
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: ee371d3cd431fae46b5f97d434ff9acb0fbcbe1e
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430271"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63751082"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -55,15 +56,15 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Files.Read | 委託 |  | 讀取使用者檔案。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| Files.Read.All | 委託 |  | 讀取使用者可以存取的所有檔案。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| User.Read | 委託 |  | 登入和讀取使用者設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| User.ReadBasic.All | 委託 |  | 讀取所有使用者的基本設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| 電子郵件 | 委託 |  | View user 的電子郵件地址。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| 設定檔 | 委託 |  | View user 的基本設定檔。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.Read | 委託 |  | 讀取使用者檔案。 |  |
+>| Files.Read.All | 委託 |  | 讀取使用者可以存取的所有檔案。 |  |
+>| User.Read | 委託 |  | 登入和讀取使用者設定檔。 |  |
+>| User.ReadBasic.All | 委託 |  | 讀取所有使用者的基本設定檔。 |  |
+>| 電子郵件 | 委託 |  | View user 的電子郵件地址。 |  |
+>| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 |  |
+>| 設定檔 | 委託 |  | View user 的基本設定檔。 |  |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -100,7 +101,7 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308" target="_blank">在新的索引標籤中查看</a>
 

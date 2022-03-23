@@ -7,12 +7,12 @@ keywords: Microsoft 365 m365 應用程式發行者證明憑證
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: e36bee4289de320d264a8a5e55c7bc20a4ea803b
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: 17aab158f4fc7803966afed9df88adf9688fcc63
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545765"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63697065"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 應用程式合規性程式
 
@@ -38,7 +38,7 @@ Microsoft 365 認證程序分為兩個階段：**證明** 與 **認證**。
 1.  **認證** 涉及應用程式對一組衍生自領先行業標準架構的控制項進行徹底稽核。 在取得憑證之前，系統會要求 ISV 提供證據，證明其符合各項控制要求。 目標是向客戶保證，他們可以信任已取得 Microsoft 365 認證的應用程式具有强大的安全性與合規性做法，以保護其資料安全性與隱私權。
 
 
-Microsoft 365 憑證適用於 WebApps，以及與下列 Microsoft 產品整合的所有應用程式:
+Microsoft 365 認證適用於與下列 Microsoft 產品整合的所有應用程式：
 -   Teams
 -   Word
 -   Excel
@@ -47,8 +47,9 @@ Microsoft 365 憑證適用於 WebApps，以及與下列 Microsoft 產品整合�
 - SharePoint
 - Project
 - OneNote
+- **Webapps** (透過合作夥伴中心之商業市集發佈的 SaaS 應用程式目前處於私人預覽中，如果您有興趣參與，請填寫此 [表格](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)。
 
 ### <a name="get-started"></a>開始使用
-- [如何完成發行者驗證](https://docs.microsoft.com/en-us/azure/active-directory/develop/mark-app-as-publisher-verified)
-- [如何完成 Microsoft 365 認證](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification)
+- [如何完成發行者驗證](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [如何完成 Microsoft 365 認證](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification)
 
