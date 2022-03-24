@@ -2,18 +2,19 @@
 title: Yeeflow 的應用程式資訊（按 Akmii）
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Yeeflow 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 08292f647bad35e7fd87b0627aea3df21f271c34
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: 5b80f4cd79d8773af8ff035d054959108db5bdb4
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62318676"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753791"
 ---
 # <a name="yeeflow"></a>Yeeflow
 

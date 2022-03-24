@@ -2,18 +2,19 @@
 title: Zoho 筆記本的應用程式資訊，由 Zoho 公司私人限制
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/29/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Zoho 筆記本的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1fe5d35e610c11cf9908aa5bc012db0d1039c975
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: eda8e16d8113aac83535faa9692d3eb3e4b59aee
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60444950"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753251"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 
@@ -96,7 +97,7 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/21298' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/21298' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/21298" target="_blank">在新的索引標籤中查看</a>
 

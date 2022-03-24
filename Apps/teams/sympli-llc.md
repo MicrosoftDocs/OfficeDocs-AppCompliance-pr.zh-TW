@@ -2,18 +2,19 @@
 title: Sympli by Sympli 的應用程式資訊，LLC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Sympli 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6cc7ec4b892939c4a1f6ca8c55a3a01c4dc9bc85
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: f983d7b3c48a24e35bd48f175132aa98d535a374
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428700"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752922"
 ---
 # <a name="sympli"></a>Sympli
 
@@ -85,7 +86,7 @@ ms.locfileid: "60428700"
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->我們依賴對應服務的原則， https://www.intercom.com/legal/privacy 例如，， https://legal.hubspot.com/privacy-policyhttps://stripe.com/privacy
+>我們依賴對應服務的原則，例如 https://www.intercom.com/legal/privacy https://legal.hubspot.com/privacy-policy ，， https://stripe.com/privacy
 
 #### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
 
@@ -101,7 +102,7 @@ ms.locfileid: "60428700"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/30740' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/30740' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/30740" target="_blank">在新的索引標籤中查看</a>
 

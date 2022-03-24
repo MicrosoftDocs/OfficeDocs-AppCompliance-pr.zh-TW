@@ -2,18 +2,19 @@
 title: YATTEE Inc. &#12459;&#12490;&#12522;&#12450; 的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 &#12459;&#12490;&#12522;&#12450; 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b45882621901f70385bc816c7f14322c1faea504
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 077d3a0592b3266623f8add53bc8ef6b9b99fb53
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873777"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753766"
 ---
 # <a name="12459124901252212450"></a>&#12459;&#12490;&#12522;&#12450;
 
@@ -35,7 +36,7 @@ YATTEE Inc. 所提供的資訊給 Microsoft：
 | 應用程式名稱 | &#12459;&#12490;&#12522;&#12450; |
 | ID | WA200003193 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | YATTEE Inc.。 |
+| 合作夥伴公司名稱 | YATTEE Inc. |
 | 合作夥伴網站的 URL | [https://www.yattee.co.jp](https://www.yattee.co.jp) |
 | 隱私權原則的 URL | [https://www.yattee.co.jp/company/privacy/](https://www.yattee.co.jp/company/privacy/) |
 | 使用條款的 URL | [https://www.yattee.co.jp/company/term-of-use/](https://www.yattee.co.jp/company/term-of-use/) |
@@ -54,7 +55,7 @@ YATTEE Inc. 所提供的資訊給 Microsoft：
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| JoinGroupCall 所有 | 包括 | E&#12513;&#12540;&#12523;&#12450;&#12489;&#12524;&#12473;&#12290;&#12518;&#12540;&#12470;&#12540;&#12398;&#35672;&#21029;&#12398;&#12383;&#12417;&#12392;&#12289;&#32068;&#32340;&#12372;&#12392;&#12391;&#12464;&#12523;&#12540;&#12503;&#21270;&#12377;&#12427;&#12383;&#12417;&#12290; | &#21033;&#29992;&#12518;&#12540;&#12470;&#12540;&#12398;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#24773;&#22577;&#12394;&#12393;&#12290;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#31649;&#29702;&#12450;&#12503;&#12522;&#12394;&#12398;&#12391;&#12290; | [626ce0a3-4620-483d-953d-53b106b9ffad](https://docs.microsoft.com/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
 
@@ -98,7 +99,7 @@ YATTEE Inc. 所提供的資訊給 Microsoft：
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
 

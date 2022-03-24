@@ -2,18 +2,19 @@
 title: StealthMail 依 Stealthmail 軟體有限公司的應用程式資訊
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: StealthMail 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d7a0a738c475111a237720f329d1728d15d1f8fb
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 53b80f2835bbea55ccd2d571fead808dca70ba05
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428860"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752530"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -55,15 +56,15 @@ ms.locfileid: "60428860"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMessage Read。 All | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| ChannelMessage 傳送 | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| 聊天室 ReadWrite | 委託 | 應用程式會將郵件傳送到與所建立安全電子郵件上的參考聊天 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| GroupMember Read。 All | 委託 | 應用程式取得通道成員，以進行安全的電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| User.Read.All | 委託 | 應用程式取得聊天成員的安全電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| User.ReadBasic.All | 委託 | 應用程式取得聊天成員的安全電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| 電子郵件 | 委託 | 驗證使用者 | 資料庫中沒有任何儲存區 | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| ChannelMessage Read。 All | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| ChannelMessage 傳送 | 委託 | 應用程式會使用建立的安全電子郵件上的參考，將郵件傳送到通道 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| 聊天室 ReadWrite | 委託 | 應用程式會將郵件傳送到與所建立安全電子郵件上的參考聊天 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| GroupMember Read。 All | 委託 | 應用程式取得通道成員，以進行安全的電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| User.Read.All | 委託 | 應用程式取得聊天成員的安全電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| User.ReadBasic.All | 委託 | 應用程式取得聊天成員的安全電子郵件 | Nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| 電子郵件 | 委託 | 驗證使用者 | 資料庫中沒有任何儲存區 | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -105,7 +106,7 @@ ms.locfileid: "60428860"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37867' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37867' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37867" target="_blank">在新的索引標籤中查看</a>
 

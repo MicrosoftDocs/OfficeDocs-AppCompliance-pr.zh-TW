@@ -2,18 +2,19 @@
 title: TeamMate by ChitChattr 的應用程式資訊 ChitChattr
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TeamMate by ChitChattr 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9e12f758f81980d155f769e14323556e73c67fab
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 64d99813e4c76f06a776f5882fac52d9eea8285a
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430855"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753554"
 ---
 # <a name="teammate-by-chitchattr"></a>ChitChattr 的 TeamMate
 
@@ -55,9 +56,9 @@ ms.locfileid: "60430855"
 
 列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| 個人讀取 | 委託 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50) |
+>| 個人讀取 | 委託 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](../azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -72,7 +73,7 @@ ms.locfileid: "60430855"
 
 >| **存取 EUII 的理由？**  | **EUII 是儲存在資料庫 (s) 中嗎？** | **儲存 EUII 的理由？** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 在發生任何問題時，bot 會向使用者顯示並向使用者顯示在應用程式中註冊為系統管理員的使用者名稱和連絡人詳細資料 (實質上會 &quot; 聯繫您的系統管理員-這是) 的使用者。 &quot; | 名稱、電子郵件 | 如先前各節所述，若要讓使用者能夠識別目標體驗 (，請根據其系統管理員設定它) 並允許使用者查看其內部公司系統管理員屬於該應用程式的人員。 |
+>| 在發生任何問題時，bot 會向使用者顯示並向使用者顯示在應用程式中註冊為系統管理員的使用者名稱和連絡人詳細資料 (實質上 &quot; 會聯繫您的系統管理員-這是) 的使用者 &quot; 。 | 名稱、電子郵件 | 如先前各節所述，若要讓使用者能夠識別目標體驗 (，請根據其系統管理員設定它) 並允許使用者查看其內部公司系統管理員屬於該應用程式的人員。 |
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -101,7 +102,7 @@ ms.locfileid: "60430855"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36320' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36320' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36320" target="_blank">在新的索引標籤中查看</a>
 

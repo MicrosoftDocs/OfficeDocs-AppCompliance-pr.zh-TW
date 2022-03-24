@@ -2,20 +2,21 @@
 title: Trello 的 Planyway 行事曆的應用程式資訊 Rubius
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Planyway 行事曆的所有可用安全性和符合性資訊資訊，Trello，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1f7f0b736cbe100b0131d4064c2702cb28e9ea35
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: 5936b0c382642d1e614803928111e14a38ab1a5e
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61354581"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753772"
 ---
-# <a name="planyway-calendar-for-trello"></a>Planyway Trello 的行事曆
+# <a name="planyway-calendar-for-trello"></a>Planyway Calendar for Trello
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ ms.locfileid: "61354581"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Planyway Trello 的行事曆 |
+| 應用程式名稱 | Planyway Calendar for Trello |
 | ID | WA200002712 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Rubius |

@@ -2,18 +2,19 @@
 title: ResearcHR by KBE 的應用程式資訊&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: researcHR 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 5def12e783d15c3cbcaf02ec128301dd9f75bd01
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422633"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753782"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -57,13 +58,13 @@ ms.locfileid: "58422633"
 
 >| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| 通道。建立 | 應用程式 | 我們使用此範圍，讓 bot 在 Teams 用戶端上建立新通道。 看到： https://docs.microsoft.com/en-us/graph/api/channel-post | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Directory.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/en-us/graph/api/channel-list | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Group.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/en-us/graph/api/channel-list | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Team.ReadBasic.All | 應用程式 | 我們使用此範圍來取得小組成員，讓使用者可以在網站上看到他們的小組成員。 看到： https://docs.microsoft.com/en-us/graph/api/group-list-members | 我們不會將這些資料儲存在資料庫上。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.Read.All | 應用程式 | 我們使用此範圍來取得使用者的加入頻道，讓使用者可以在我們的網站上看到其加入的團隊。 看到： https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | 委託 | 我們使用此範圍啟用 OAuth 登入，並收集使用者的 AAD 識別碼、存取權杖和重新整理權杖。 看到： https://docs.microsoft.com/en-us/graph/auth-v2-user | 我們會將使用者的 AAD 識別碼、存取權杖和重新整理權杖儲存在資料庫中，讓使用者能夠使用 OAuth 登入我們的網站。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| offline_access | 委託 | 我們使用此範圍來取得重新整理權杖，讓我們可以重新整理 authed 使用者的存取權杖，而不需要任何使用者互動。 看到： https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | 我們會在資料庫中儲存重新整理權杖，讓我們可重新整理存取權杖，而不需要任何使用者互動。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| 通道。建立 | 應用程式 | 我們使用此範圍，讓 bot 在 Teams 用戶端上建立新通道。 看到： https://docs.microsoft.com/graph/api/channel-post | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/graph/api/channel-list | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/graph/api/channel-list | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | 應用程式 | 我們使用此範圍來取得小組成員，讓使用者可以在網站上看到他們的小組成員。 看到： https://docs.microsoft.com/graph/api/group-list-members | 我們不會將這些資料儲存在資料庫上。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | 應用程式 | 我們使用此範圍來取得使用者的加入頻道，讓使用者可以在我們的網站上看到其加入的團隊。 看到： https://docs.microsoft.com/graph/api/user-list-joinedteams | 我們不會將這些資料儲存在資料庫中。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | 委託 | 我們使用此範圍來啟用 OAuth 登入，並收集使用者的 AAD 識別碼、存取權杖和重新整理權杖。 看到： https://docs.microsoft.com/graph/auth-v2-user | 我們會將使用者的 AAD 識別碼、存取權杖和重新整理權杖儲存在資料庫中，讓使用者能夠使用 OAuth 登入我們的網站。 | [82df726e-0de2-46af-b4f1-0645fd95fc97]../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md)  |
+>| offline_access | 委託 | 我們使用此範圍來取得重新整理權杖，讓我們可以重新整理 authed 使用者的存取權杖，而不需要任何使用者互動。 看到： https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access | 我們會在資料庫中儲存重新整理權杖，讓我們可重新整理存取權杖，而不需要任何使用者互動。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -105,7 +106,7 @@ ms.locfileid: "58422633"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
 
