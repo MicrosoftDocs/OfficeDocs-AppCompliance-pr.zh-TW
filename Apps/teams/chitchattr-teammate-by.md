@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: TeamMate by ChitChattr 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 64d99813e4c76f06a776f5882fac52d9eea8285a
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: 827f47ec43ce055ce0c5e09ed703a3a25667292e
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753554"
+ms.locfileid: "63773354"
 ---
 # <a name="teammate-by-chitchattr"></a>ChitChattr 的 TeamMate
 
@@ -54,11 +54,11 @@ ms.locfileid: "63753554"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何[Microsoft Graph 許可權](/graph/permissions-reference)。
 
 >| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| 個人讀取 | 委託 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](../azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50.md) |
+>| 個人讀取 | 委託 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | 此應用程式可讓系統管理員選擇要以特定經驗為目標的使用者，因此需要儲存使用者的名稱、電子郵件及 Azure AD 物件識別碼。 | a8e903c7-3b7f-4ec5-a474-b5d32e595f50 |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -102,7 +102,7 @@ ms.locfileid: "63753554"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36320' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36320' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36320" target="_blank">在新的索引標籤中查看</a>
 

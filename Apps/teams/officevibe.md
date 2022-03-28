@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Officevibe 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c96f4bc23b5f1201567276c64de7ff411746c105
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: fffda2392deb49081516387a0987d9ff711f327d
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753730"
+ms.locfileid: "63773504"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -54,15 +54,15 @@ ms.locfileid: "63753730"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何[Microsoft Graph 許可權](/graph/permissions-reference)。
 
 >| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| Group.Read.All | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| TeamsAppInstallation.ReadWriteForUser | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| User.Read | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| User.Read.All | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| Directory.AccessAsUser.All | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| Group.Read.All | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| TeamsAppInstallation.ReadWriteForUser | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| User.Read | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| User.Read.All | 委託 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 電子郵件，名稱，圖片：在 Officevibe 中建立使用者。 連結至所有使用者的群組：若要瞭解組織的概況。 租使用者識別碼 &amp; 租使用者名稱： Officevibe 中的設定組織 | 3e500164-df82-4d1e-9db8-0901e07d374d |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -106,7 +106,7 @@ ms.locfileid: "63753730"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160" target="_blank">在新的索引標籤中查看</a>
 

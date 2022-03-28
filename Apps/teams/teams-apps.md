@@ -3,17 +3,17 @@ title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/22/2022
+ms.date: 03/23/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: e299560f8b29558d3b75377bf02f95e28c17746d
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: fa3075217469ed594fbc02c66f50606a9b8e5512
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63752446"
+ms.locfileid: "63773204"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -177,6 +177,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Fond](./fond-technologies-inc.md) | Fond Technologies, Inc. | **✓** |  |
 | [ForceManager CRM](./tritium-software-sl-forcemanager-crm.md) | Tritium Software SL | **✓** |  |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | 企業數位電腦 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [適用於雲端的 Foxit PDF Editor](./foxit-software-incorporated-pdf-editor-for-cloud.md) | Foxit Software Incorporated | **✓** |  |
 | [Freehand by InVision](./invisionapp-inc-freehand-by-invision.md) | InVisionApp, Inc. | **✓** |  |
 | [Futureworks](./futureworks-as.md) | Futureworks AS | **✓** |  |
 | [Gameinar](./heuristix-gameinar.md) | Heuristix | **✓** |  |
@@ -390,6 +391,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [星巴克](./starbucks.md) | 星巴克&#174; 咖啡公司 | **✓** |  |
 | [Startgrid](./startgrid.md) | Startgrid | **✓** |  |
 | [StealthMail](./stealthmail-software-ltd.md) | Stealthmail Software Ltd | **✓** |  |
+| [Stipop 貼圖](./stipop-stickers.md) | Stipop | **✓** |  |
 | [Streem](./streem.md) | Streem | **✓** |  |
 | [Structural](./structural-inc.md) | Structural Inc. | **✓** |  |
 | [Studi.ly](./inlogic-office-store-studily.md) | inLogic-Office Store | **✓** |  |

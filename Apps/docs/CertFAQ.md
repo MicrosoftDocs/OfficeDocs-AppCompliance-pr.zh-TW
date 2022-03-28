@@ -1,19 +1,20 @@
 ---
-title: Microsoft 365認證常見問題
+title: Microsoft 365 認證常見問題
 author: OrionOmalley
 ms.author: oromalle
-description: Microsoft 365認證常見問題
+manager: tonybal
+description: Microsoft 365 認證常見問題
 keywords: 應用程式認證憑證365問卷 appSource 常見問題
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: c43cd48373ebdd534eaabbc05a21498a9f852c7bd4c09b22b0100e5a5fa0bdcb
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 6b23d4fda68239d42979d3f91b9bed35737447c2
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54751433"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64457246"
 ---
-# <a name="microsoft-365-certification-faq"></a>Microsoft 365認證常見問題
+# <a name="microsoft-365-certification-faq"></a>Microsoft 365 認證常見問題
 
 ## <a name="introduction"></a>簡介
 以下是常見的常見問題 (FAQs) 從 isv (獨立軟體廠商) 在開始 Microsoft 365 的認證時。  如果有任何未在此提及的查詢，請透過 AppCert@Microsoft.com 聯繫 Microsoft 365 App 認證團隊。
@@ -23,7 +24,7 @@ ms.locfileid: "54751433"
 |問題                                       |展開定義                          |
 |----------------------------------------       |---------------------------------------------|
 |我未針對業界公認的架構（如 PCI DSS、SOC 2 或 ISO 27001）傳遞審核。  這是否表示我無法申請 Microsoft 365 認證？ | 否，取得這些業界公認的框架之一不是 Microsoft 365 認證的必要條件。|
-|我已經針對業界公認的架構傳遞外部審計。 Microsoft 365 認證是否可以計算此計數？ | 簡短的答案是「是」。  目前 Microsoft 365 憑證規格會接受 PCI DSS、SOC 2 和 ISO27001 外部框架的證據。 Microsoft 365 憑證提交指南已對應這些現有的外部框架對齊位置;不過，在某些情況下，現有的標準/框架尚未充分對齊。 基於這個理由，Microsoft 365 憑證小組會檢查所提供的標準/框架證據，標記符合 Microsoft 365 憑證中的哪些控制項。 |
+|我已經針對業界公認的架構傳遞外部審計。 Microsoft 365 認證是否可以計算此計數？ | 簡短的答案是「是」。  目前 Microsoft 365 憑證規格會接受 PCI DSS、SOC 2 和 ISO27001 外部框架的證據。 Microsoft 365 憑證提交指南已對應這些現有的外部框架對齊，但在某些情況下，我們發現現有的標準/框架尚未充分對齊。 基於這個理由，Microsoft 365 憑證小組會檢查所提供的標準/框架證據，標記符合 Microsoft 365 憑證中的哪些控制項。 |
 |如果我們沒有外部 GDPR 評估，我們會如何示範 GDPR 合規性？ | Microsoft 不需要獨立複查 Microsoft 365 憑證的 GDPR 符合性，因為這是一或或一種案例，我們會接受自我證明，當沒有任何外部評論時，我們可以獨立地加以驗證。 因為這比是審核更多，所以在我們的處理常式和內部程式的證據是我們如何取得 GDPR 控制權時，應如何進行收集。 針對我們在 GDPR 控制項中所尋找的目的，主要包括複查隱私權原則，以確保它們符合基本的 GDPR 需求;例如，處理的個人資料、處理的 lawfulness，以及處理的資料主體權力、主體存取要求 (SAR) 會如何由使用者執行，ISV 將如何進行 SARs，Isv 公司的詳細資料及資料保留的詳細資料。|
 |我們已完成滲透測試;不過，我們沒有進行滲透重新測試的「乾淨」滲透測試。  我們是否需要執行重新測試並具有清晰的報告？ | Microsoft 365 憑證規格不需要 isv 執行滲透測試 retests，因此可提供適當的補救證據，以示範透過滲透測試報告中識別的問題得以修正。|
 |所要求的部分檔與證據是保密的，是否有 (NDAs) 的非披露條款？ | 是的，您提交的部分資訊將是公用資訊，有些可能是機密資訊。  如果您已有 Microsoft 的現有保密協定，該保密協定的條款會套用到您提交的機密資訊。  如果您沒有 Microsoft 的保密協定，您在夥伴中心簽署的 Publisher 合約的機密條款會套用到該機密資訊。|
@@ -45,10 +46,10 @@ ms.locfileid: "54751433"
 
 ## <a name="learn-more"></a>深入了解
 
-* [Microsoft 365應用程式規範計畫概述](~/overview.md)  
+* [Microsoft 365 應用程式規範計畫概述](~/overview.md)  
 * [何謂 Publisher 驗證？](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
 * [何謂 Microsoft 365 認證？](~/docs/enterprise-app-certification-guide.md)  
-* [Microsoft 365認證提交指南](~/docs/certification-submission-guide.md)
+* [Microsoft 365 認證提交指南](~/docs/certification-submission-guide.md)
 
 
 

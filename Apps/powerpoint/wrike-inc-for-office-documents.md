@@ -2,18 +2,19 @@
 title: Wrike for Wrike inc. Office 檔的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/23/2020
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Wrike 的所有可用安全性和符合性資訊資訊，針對 Office 檔、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 87656417cb587e3778ddf85f2c20766b3a43cf86
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 253c8d631397d0d17a96e75f8a5d3c20ea784133
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282337"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64458756"
 ---
 # <a name="wrike-for-office-documents"></a>Office 檔的 Wrike
 
@@ -32,7 +33,7 @@ Wrike Inc. 所提供的資訊給 Microsoft：
 |:----------------|:-------------|
 | 應用程式名稱 | Office 檔的 Wrike |
 | ID | WA104379841 |
-| 支援 Office 365 用戶端 | Excel 2016 或更新版本于 Windows、Word 2013 或更新版本上 Windows、PowerPoint 2013 或更新版本上 Windows、Excel 2016 或更新 mac、Excel 網頁版、Word 2016 或更新 mac 上 Word 網頁版 |
+| 支援 Office 365 用戶端 | Excel 2016 或更新版本于 Windows、Word 2013 或更新版本上 Windows、PowerPoint 2013 或更新版本上 Windows、Excel 2016 或更新 mac、Excel 網頁版、Word 2016 或更新 mac，Word 網頁版、PowerPoint 2016 或更新版本的 Mac PowerPoint 網頁版 |
 | 合作夥伴公司名稱 | Wrike Inc. |
 | 合作夥伴網站的 URL | [https://www.wrike.com/](https://www.wrike.com/) |
 | 隱私權原則的 URL | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
@@ -50,7 +51,7 @@ Wrike Inc. 所提供的資訊給 Microsoft：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何[Microsoft Graph 許可權](/graph/permissions-reference)。
 
 >此應用程式不會使用 Microsoft Graph。
 
@@ -82,7 +83,7 @@ Wrike Inc. 所提供的資訊給 Microsoft：
 
 說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
 
->Wrike 具有多承租人架構，可透過客戶的中繼資料，以邏輯方式 segregates 客戶&#8217; 資料。 根據特定 Wrike 帳戶中以角色為基礎的訪問規則，此中繼資料會與特定承租人和其存取權限相關聯。 資料會以邏輯方式隔離及隔離，而且只有透過應用程式才可以存取資料，以確保安全性和隱私權。 應用層級的安全性會封鎖承租人，以存取或修改其他租使用者所擁有的應用程式資料。 Wrike 的應用程式具有大量驗證、角色型的存取控制、授權，以及資料共用和控制機制 (請參閱 https://help.wrike.com/hc/en-us/articles/209603589-Access-Roles ， https://help.wrike.com/hc/en-us/articles/209602969) 只允許授權使用者的資料存取。 此外，在檔案儲存中透過 web 應用程式與 API 上傳至 Wrike server 的使用者檔案，也會套用靜態加密。檔案會自動使用 AES 256 位加密進行加密。 此外，所有伺服器都會以檔案系統加密加密，而且 Wrike 會提供 Wrike 鎖定增益集，以供客戶管理的加密金鑰使用，請參閱 https://www.wrike.com/add-on-wrike-lock/ 和 https://help.wrike.com/hc/en-us/articles/360012347934-Wrike-Lock 。 Wrike 提供了審核和報告功能，可讓系統管理員進行完整的安全性檢查，同時可以深入瞭解在其 Wrike 帳戶中發生的情形，也可以在中找到更多詳細資料 https://help.wrike.com/hc/en-us/articles/209606309-Audit-Reports 。 最後，Wrike 提供的功能可讓存取角色的細微追蹤，以協助客戶完全審核現有資料共用。請參閱詳細資料 https://help.wrike.com/hc/en-us/articles/360002004534-Access-Reports 。
+>Wrike 具有多承租人架構，可透過客戶的中繼資料，以邏輯方式 segregates 客戶&#8217; 資料。 根據特定 Wrike 帳戶中以角色為基礎的訪問規則，此中繼資料會與特定承租人和其存取權限相關聯。 資料會以邏輯方式隔離及隔離，而且只有透過應用程式才可以存取資料，以確保安全性和隱私權。 應用層級的安全性會封鎖承租人，以存取或修改其他租使用者所擁有的應用程式資料。 Wrike 的應用程式具有大量驗證、角色型的存取控制、授權，以及資料共用和控制機制 (請參閱 https://help.wrike.com/hc/en-us/articles/209603589-Access-Roles ， https://help.wrike.com/hc/en-us/articles/209602969) 只允許授權使用者的資料存取。 此外，在檔案儲存中透過 web 應用程式與 API 上傳至 Wrike server 的使用者檔案，也會套用靜態加密。檔案會自動使用 AES 256 位加密進行加密。 此外，所有伺服器都會以檔案系統加密加密，而且 Wrike 會提供 Wrike 鎖定增益集，以供客戶管理的加密金鑰使用，請參閱 https://www.wrike.com/add-on-wrike-lock/ 和 https://help.wrike.com/hc/en-us/articles/360012347934-Wrike-Lock 。 Wrike 提供了審核和報告功能，可讓系統管理員進行完整的安全性檢查，同時可以深入瞭解在其 Wrike 帳戶中發生的情形，也可以在 https://help.wrike.com/hc/en-us/articles/209606309-Audit-Reports 中找到更多詳細資料。 最後，Wrike 提供的功能可讓存取角色的細微追蹤，以協助客戶完全審核現有資料共用。請參閱詳細 https://help.wrike.com/hc/en-us/articles/360002004534-Access-Reports 資料。
 可以在兩種情況中考慮存取客戶資料：
 - Wrike 支援小組存取：在進行疑難排解或驗證問題時，需要支援存取您的帳戶;只有您可以授與存取權。 這項功能是由系統產生的安全性權杖所組成，您可以將其提供給我們的支援小組使用，讓支援人員深入瞭解如何在有限的時間內解決您的問題。 這種系統性方法可確保 Wrike 中儲存的資料的其他機密性。
 - Wrike 操作團隊的存取權： Wrike 運作小組負責維護和支援實際執行環境，包括監控、修補和更新、將新的組建交付至實際執行等。在此案例中，絕對不會同時禁止從程式及技術層面進行存取，而且強烈的授權控制（包括但不限於 VPN）2FA 和個人憑證已存在，此外也會以使用 HIDS (主機型入侵偵測) 系統的詳細資料加以監控，Wrike 操作安全性小組也會加以監控。 如果 Amazon KMS (Wrike 鎖定功能) ，客戶資料會儲存在 Wrike 資料庫中，因此 Wrike 操作小組無法直接或間接使用資料，因為資料可以利用 access 的 Amazon 的 Amazon KMS 進行解密，該資料只會由客戶進行管理及控制。
@@ -101,7 +102,7 @@ Wrike Inc. 所提供的資訊給 Microsoft：
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/21522' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/21522' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/21522" target="_blank">在新的索引標籤中查看</a>
 

@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊可取得，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c58462500079df7f7b8b2736eec9289443df4a4c
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: 59022602a3102344dd130a1d6782464d9fa836ef
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753742"
+ms.locfileid: "63773654"
 ---
 # <a name="reach"></a>達到
 
@@ -54,15 +54,15 @@ ms.locfileid: "63753742"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何[Microsoft Graph 許可權](/graph/permissions-reference)。
 
 >| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsActivity.Send | 應用程式 | 無 | 無 | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](../azure/a7c1920d-3ac0-42db-9757-078a2b321fd8.md ) |
->| User.Read | 委託 | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
->| User.ReadBasic.All | 委託 | 使用者 DisplayName，使用者電子郵件地址，UPN，使用者部門，使用者職稱，使用者行動電話號碼，使用者商務電話號碼，使用者 Office 位置。 必要以允許使用者在應用程式 (中搜尋其他使用者) ，並查看其他使用者的基本設定檔和連絡人資訊。  | 無 | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
->| Directory.Read.All | 應用程式 | 群組成員資格，目錄中的 AD 群組。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。 | 使用者的群組成員資格。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
->| User.Read.All | 應用程式 | 從使用者設定檔中檢索的資料，取決於應用程式中指定的物件目標功能設定。 需要讓應用程式在未登入的使用者中讀取使用者設定檔。 應用程式中的資訊設定目標功能需要讀取設定檔資料，因此會根據特定的配置檔案屬性值，向特定使用者顯示資訊。  | 無 | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
+>| TeamsActivity.Send | 應用程式 | 無 | 無 | a7c1920d-3ac0-42db-9757-078a2b321fd8 |
+>| User.Read | 委託 | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | 使用者 DisplayName、使用者電子郵件地址、UPN。 必要允許使用者登入 app 並取得登錄使用者的基本資訊，例如顯示名稱。 電子郵件地址是用來傳送電子郵件通知。  | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| User.ReadBasic.All | 委託 | 使用者 DisplayName，使用者電子郵件地址，UPN，使用者部門，使用者職稱，使用者行動電話號碼，使用者商務電話號碼，使用者 Office 位置。 必要以允許使用者在應用程式 (中搜尋其他使用者) ，並查看其他使用者的基本設定檔和連絡人資訊。  | 無 | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| Directory.Read.All | 應用程式 | 群組成員資格，目錄中的 AD 群組。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。 | 使用者的群組成員資格。 使用者的群組成員資格儲存在快取中，以將對 Microsoft Graph API 的呼叫降至最低。 必要以允許使用者搜尋 Active Directory 群組。 此外，此許可權是必要的應用程式，以便在後端的 web 工作中解析使用者的 AD 群組成員資格。  | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| User.Read.All | 應用程式 | 從使用者設定檔中檢索的資料，取決於應用程式中指定的物件目標功能設定。 需要讓應用程式在未登入的使用者中讀取使用者設定檔。 應用程式中的資訊設定目標功能需要讀取設定檔資料，因此會根據特定的配置檔案屬性值，向特定使用者顯示資訊。  | 無 | d492530a-8cff-481c-90da-9c3c3f1be7da |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -106,7 +106,7 @@ ms.locfileid: "63753742"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551" target="_blank">在新的索引標籤中查看</a>
 

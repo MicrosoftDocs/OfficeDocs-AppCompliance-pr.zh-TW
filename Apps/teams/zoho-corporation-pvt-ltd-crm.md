@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho CRM 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1543739d4c304a4527c878d6214c06a1426314b3
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: cf56e9462093336c45902e3c368b4d8498f7a499
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753617"
+ms.locfileid: "63773444"
 ---
 # <a name="zoho-crm"></a>Zoho CRM
 
@@ -54,19 +54,19 @@ Zoho Corporation Pvt 有限公司提供給 Microsoft 的資訊：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何[Microsoft Graph 許可權](/graph/permissions-reference)。
 
 >| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | [行事曆] 資料夾識別碼會儲存，以將連絡人從 Zoho CRM 同步處理至 Microsoft &amp; 。 儲存諸如 event_name、event_location、participant_details 的行事曆資訊。 | 允許使用者與 Zoho CRM 同步處理 Office365 事件。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| 連絡人。 ReadWrite | 委託 | [連絡人] 資料夾識別碼會儲存為將連絡人從 Zoho CRM 同步處理至 Microsoft &amp; ，反之亦然。 會儲存 first_name、last_name、電子郵件地址等連絡人資訊。 | 允許使用者與 Zoho CRM 同步處理 Office365 連絡人。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Files.Read | 委託 |  | 可讓使用者將 Office365 檔案匯入 Zoho CRM。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Files.Read.All | 委託 |  | 可讓使用者將 Office365 檔案匯入 Zoho CRM。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| 已讀取。選取 | 委託 | 儲存 UserPrincipalName 以供使用者識別 | 可讓使用者將 Office365 檔案匯入 Zoho CRM。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| User.ReadBasic.All | 委託 | 如 first_name、last_name、電子郵件地址等使用者屬性。 | 讀取所有使用者的基本設定檔 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| 電子郵件 | 委託 | 為使用者 indentification 儲存 UserPrincipaName | View user 的電子郵件地址 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| offline_access | 委託 |  | 維護您有權存取資料的存取權限 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| 設定檔 | 委託 |  | View user 的基本設定檔 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
+>| ReadWrite 的行事曆 | 委託 | [行事曆] 資料夾識別碼會儲存，以將連絡人從 Zoho CRM 同步處理至 Microsoft &amp; 。 儲存諸如 event_name、event_location、participant_details 的行事曆資訊。 | 允許使用者與 Zoho CRM 同步處理 Office365 事件。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 連絡人。 ReadWrite | 委託 | [連絡人] 資料夾識別碼會儲存為將連絡人從 Zoho CRM 同步處理至 Microsoft &amp; ，反之亦然。 會儲存 first_name、last_name、電子郵件地址等連絡人資訊。 | 允許使用者與 Zoho CRM 同步處理 Office365 連絡人。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read | 委託 |  | 可讓使用者將 Office365 檔案匯入 Zoho CRM。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.All | 委託 |  | 可讓使用者將 Office365 檔案匯入 Zoho CRM。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 已讀取。選取 | 委託 | 儲存 UserPrincipalName 以供使用者識別 | 可讓使用者將 Office365 檔案匯入 Zoho CRM。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | 委託 | 如 first_name、last_name、電子郵件地址等使用者屬性。 | 讀取所有使用者的基本設定檔 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 電子郵件 | 委託 | 為使用者 indentification 儲存 UserPrincipaName | View user 的電子郵件地址 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| offline_access | 委託 |  | 維護您有權存取資料的存取權限 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 設定檔 | 委託 |  | View user 的基本設定檔 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -103,7 +103,7 @@ Zoho Corporation Pvt 有限公司提供給 Microsoft 的資訊：
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307" target="_blank">在新的索引標籤中查看</a>
 

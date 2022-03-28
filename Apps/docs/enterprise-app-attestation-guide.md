@@ -2,25 +2,26 @@
 title: 何謂 Publisher 認證？
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Publisher 認證計畫的詳細資料
 keywords: 應用程式認證憑證365問卷 appSource 發行者
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 06c64ab2aa09790a0c20ee9d555adf1177031f12
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c49279c827ed0ac39e49b07aabd01baaab9f8e5e
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278965"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64457206"
 ---
 # <a name="what-is-publisher-attestation"></a>何謂 Publisher 認證？
 
-Publisher證明是 Microsoft 365 App 規範計畫中的下一層。 應用程式開發人員需要完成自我評估，包含客戶或 IT 系統管理員在評估應用程式的安全性和合規性時經常提出的問題。 Microsoft 接著會發佈此資訊，以便更輕鬆及更及時評估。
+Publisher 證明是 Microsoft 365 應用程式規範計畫中的下一層。 應用程式開發人員需要完成自我評估，包含客戶或 IT 系統管理員在評估應用程式的安全性和合規性時經常提出的問題。 Microsoft 接著會發佈此資訊，以便更輕鬆及更及時評估。
 
 > [!IMPORTANT]
 > Microsoft 不會驗證所有提供的資訊。 應用程式開發人員完全負責其在發行者證明中提供的資訊。 
 
-Publisher認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業 marketplace 發佈的應用程式。 SaaS 應用程式目前處於私人預覽中，如果您有興趣參加，請填寫此 [表單](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 認證也包含整合下列 Microsoft 產品的所有應用程式：
+Publisher 認證適用于透過合作夥伴中心) 的商業性 marketplace 發佈的 Web 應用程式 (SaaS。 SaaS 應用程式目前處於私人預覽中，如果您有興趣參加，請填寫此 [表單](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 認證也包含整合下列 Microsoft 產品的所有應用程式：
 
 - Teams
 - Word
@@ -47,7 +48,7 @@ Publisher認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業
 -   開始 Microsoft 365 認證的資格
 
 
-## <a name="publisher-attestation-scope"></a>Publisher證明範圍
+## <a name="publisher-attestation-scope"></a>Publisher 證明範圍
 
 認證程式會集中在大量問卷上，詳述應用程式的安全性、資料處理及合規性屬性。 提供的資訊涵蓋組織的 Microsoft 365 平臺中啟動應用程式時所公開的整個應用程式功能，包括下列各項：
 
@@ -72,7 +73,7 @@ Publisher認證會套用至 Web App (SaaS 透過合作夥伴中心) 中的商業
 
 ## <a name="learn-more"></a>深入了解
 
-* [Microsoft 365應用程式規範計畫概述](~/overview.md)
+* [Microsoft 365 應用程式規範計畫概述](~/overview.md)
 * [何謂 Publisher 驗證](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
 * [完成 Publisher 證明](~/docs/attestation.md)  
 * [何謂 Microsoft 365 認證？](~/docs/enterprise-app-certification-guide.md)

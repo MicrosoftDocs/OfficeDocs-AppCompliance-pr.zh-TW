@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Talview 採訪的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 19dc757e6bd95c434999f7f2228f8cb757addd28
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: c4465b676ea2b85e8f2d6fcbffaf1f00c2a5d349
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753152"
+ms.locfileid: "63773544"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -54,14 +54,14 @@ Talview Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集和�
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何[Microsoft Graph 許可權](/graph/permissions-reference)。
 
 >| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委託 | 登入並讀取使用者設定檔 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| 電子郵件 | 委託 | 查看使用者的電子郵件地址以對應使用者帳戶 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| openid | 委託 | 登入的使用者，用以登入平臺 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| 設定檔 | 委託 | 查看使用者的基本設定檔 | 通知和驗證的電子郵件地址/使用者名稱 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | 通知和驗證的電子郵件地址/使用者名稱 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| 電子郵件 | 委託 | 查看使用者的電子郵件地址以對應使用者帳戶 | 通知和驗證的電子郵件地址/使用者名稱 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| openid | 委託 | 登入的使用者，用以登入平臺 | 通知和驗證的電子郵件地址/使用者名稱 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| 設定檔 | 委託 | 查看使用者的基本設定檔 | 通知和驗證的電子郵件地址/使用者名稱 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -103,7 +103,7 @@ Talview Inc. 已提供此資訊，供 Inc. 使用此應用程式如何收集和�
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431" target="_blank">在新的索引標籤中查看</a>
 

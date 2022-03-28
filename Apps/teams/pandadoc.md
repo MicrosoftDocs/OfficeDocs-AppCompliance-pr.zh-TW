@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: PandaDoc 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7cfd701c52bfc076fb1352bac439479426bc8475
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 32e31e9939444901b3c5cf44ac512d1958c13cd2
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63549671"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64458246"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -102,14 +102,14 @@ ms.locfileid: "63549671"
 |:----------------|:-------------|
 | 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
 | 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 否 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 無 |
 | 最近的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
 | 您已完成哪一種 SOC 2 憑證？ |   |
 | 最近的 SOC2 認證日期 |  2020-06-10 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 無 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
@@ -169,8 +169,8 @@ ms.locfileid: "63549671"
 >| Files.Read | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.All | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| 已讀取。選取 | 包括 | 針對 sso 使用者的 [從] 索引標籤 (範例- https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs) 。 需要取得可存取 Microsoft Graph 的使用者權杖，並進一步取得使用者檔案。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.Read.All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 檔- https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp ; tab = HTTP | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.ReadWrite.All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 檔- https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp ; tab = HTTP | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.Read.All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 檔- https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp ; tab = HTTP | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.ReadWrite.All | 包括 | 若要取得每個先前接收的命令的通道清單 IDs，並取得每個通道的檔磁碟機識別碼。 檔- https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp ; tab = HTTP | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Team.ReadBasic.All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings Read。 All | 包括 | 若要取得 IDs Microsoft Teams 使用者是其直接成員的團隊。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings ReadWrite。 | 包括 | 或是取得 IDs Microsoft Teams 的團隊使用者是其直接成員。 之後，會為每個命令識別碼接收通道。 若要取得檔 vault IDs，您必須先取得使用者已輸入的小組清單。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
