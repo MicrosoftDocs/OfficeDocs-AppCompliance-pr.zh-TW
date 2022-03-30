@@ -3,17 +3,17 @@ title: Bed170ee-dbd7-4efa-b48e-b0937ded1689 的 Azure 應用程式識別碼資�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/25/2022
+ms.date: 03/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有適用于 bed170ee-dbd7-4efa-b48e-b0937ded1689 的安全性和符合性資訊資訊。
-ms.openlocfilehash: b3d8913e85e9243c537860410a81e3ce6b1cb279
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+ms.openlocfilehash: 339e37cf499fc96b365a7c0285aaf7fd87616d67
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64457453"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63772474"
 ---
 # <a name="azure-app-id-bed170ee-dbd7-4efa-b48e-b0937ded1689"></a>Azure App ID: bed170ee-dbd7-4efa-b48e-b0937ded1689
 

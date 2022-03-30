@@ -8,13 +8,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: C.AI 採用 Bot 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f6d3bb6be48681db6e0e710d150457d4fd95caec
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 750a7eda8df6fd17b2e8ebea6f1595fb188a4af9
+ms.sourcegitcommit: 2cada3fb44667dce080d5cb4ca93b113e8ec57c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63698283"
+ms.lasthandoff: 03/26/2022
+ms.locfileid: "64487824"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
@@ -83,7 +83,7 @@ ms.locfileid: "63698283"
 | 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
 | 啟用下列各要素驗證 (MFA) ： | 程式碼存放庫、DNS 管理、認證/機碼存放區 |
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
-| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
+| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 無 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
 | 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是 |
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ |是  |
@@ -99,24 +99,24 @@ ms.locfileid: "63698283"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 無 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 無 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 無 |
 | 最近的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
 | 您已完成哪一種 SOC 2 憑證？ | |
 | 最近的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 無 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 無 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 無 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 無 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 無 |
 | 應用程式是否符合 NIST 800-171？ |  |
 | App 是否已 (CSA 星) 認證？ | 否 |
 
@@ -174,3 +174,39 @@ ms.locfileid: "63698283"
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **通過** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性漏洞評估審查 (DAST/SAST/滲透測試)  | 在範圍內 |
+| [**運作安全性**](../docs/certification-submission-guide.md#operational-security) | **通過** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-防毒程式 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護-應用程式控制 | 無 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-風險排名 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理-修補程式 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-防火牆 (或同等技術)  | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆-Web 應用程式防火牆 (WAFs)  (選用)  | 無 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全的軟體發展/部署 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入偵測及防護 (選用)  | 無 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢查 (記錄資料)  | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 在範圍內 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **通過** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;靜態資料 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留與處置 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 在範圍內 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 在範圍內 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
