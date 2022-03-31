@@ -2,18 +2,19 @@
 title: ServiceDesk Plus 的應用程式資訊，Zoho 公司私人有限的電子郵件
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus 的所有可用安全性和符合性資訊資訊，以及電子郵件、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0ccf0b8f7a17077bbf468369779e70335ac8e7e5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: f41cd7e3b578b3eea68a8d83c8bc8f39c64f2735
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60439264"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462126"
 ---
 # <a name="servicedesk-plus-for-email"></a>電子郵件的 ServiceDesk Plus
 
@@ -51,19 +52,19 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何[Microsoft Graph 許可權](/graph/permissions-reference)。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 應用程式 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Files.Read | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| 已讀取。選取 | 委託 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Read | 委託 | 使用者的電子郵件識別碼。 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無提示登入。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Read.All | 應用程式 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.ReadBasic.All | 委託 | 電子郵件識別碼、名稱、員工識別碼、職稱、電話、行動、網站、部門、地區設定、使用者的設定檔照片。 | 可讓您從 Azure Active Directory 匯入使用者的基本資訊。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| 電子郵件 | 委託 | 使用者的電子郵件識別碼。 | View user 的電子郵件地址。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| 設定檔 | 委託 |  | View user 的基本設定檔。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| ReadWrite 的行事曆 | 應用程式 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 已讀取。選取 | 委託 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read | 委託 | 使用者的電子郵件識別碼。 | 允許使用者登入並提供其 UPN 的應用程式存取權，以啟用無提示登入。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read.All | 應用程式 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | 委託 | 電子郵件識別碼、名稱、員工識別碼、職稱、電話、行動、網站、部門、地區設定、使用者的設定檔照片。 | 可讓您從 Azure Active Directory 匯入使用者的基本資訊。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 電子郵件 | 委託 | 使用者的電子郵件識別碼。 | View user 的電子郵件地址。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| offline_access | 委託 |  | 保留您已授予其存取權的資料存取權。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 設定檔 | 委託 |  | View user 的基本設定檔。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
@@ -95,7 +96,7 @@ Zoho 公司私人限制于 Microsoft 所提供的資訊：
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802" target="_blank">在新的索引標籤中查看</a>
 

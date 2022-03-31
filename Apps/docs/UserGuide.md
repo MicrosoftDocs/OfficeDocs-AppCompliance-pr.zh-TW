@@ -2,16 +2,17 @@
 title: 使用者指南
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 keywords: Microsoft 365 應用程式規範計畫的 ISV 使用者指南
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 2b2b84cec3be5167d67733a89ba13fa411a0e781
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: e76655384acfe0ae65721c11c6f1e789a598bc3e
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61787856"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461506"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>合作夥伴的 Microsoft 365 應用程式規範計畫的使用者指南
 
@@ -131,8 +132,8 @@ ms.locfileid: "61787856"
 當控制項需求檔不足或沒有相關時，分析員會要求修訂。 分析員會與合作夥伴合作，協助您取得適當的檔以供核准。 
 
 ![證據需要更新 ](../media/UserGuidePhotos/22.png)
- ![ 瞭解哪些證據需要 ](../media/UserGuidePhotos/23.png)
- ![ 在審查時更新證據](../media/UserGuidePhotos/24.png)
+ 瞭解哪些證據需要在審查時更新 ](../media/UserGuidePhotos/23.png)
+ ![ 證據 ![](../media/UserGuidePhotos/24.png)
 
 若提交不符合核准標準，則分析員會拒絕提交。 合作夥伴可以與分析員搭配使用，以提供相關資訊和檔。 
 

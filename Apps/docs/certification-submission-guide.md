@@ -2,16 +2,17 @@
 ms.author: oromalle
 title: Microsoft 365 認證提交指南
 author: orionomalley
+manager: tonybal
 description: Microsoft 365 認證提交指南細微模式
 keywords: 應用程式認證團隊 Microsoft 365 安全性符合性 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 212d6a708b59a71de3d88a58d61ced4af99432a7
-ms.sourcegitcommit: 86ba435037ea3277239530c33b5c5950cd61e66e
+ms.openlocfilehash: 7cd345151494175e77398ba02371639e82b5b349
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2021
-ms.locfileid: "61268003"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461726"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 認證提交指南
 
@@ -45,7 +46,7 @@ Microsoft 365 應用程式相容性計畫的一部分，當您將協力廠商開
 
 加入 Microsoft 365 的憑證計畫後，您就會同意這些補充條款，並遵循任何適用于您參與 microsoft Corporation 之 Microsoft 365 認證計畫的隨附檔， ( "Microsoft"、"我們"、"us" 或 "我們" ) 。 您表示並保證我們具有授權，可代表您自己、公司和（或）其他實體接受這些 Microsoft 365 憑證補充條款。 我們隨時可能會變更、修改或終止這些補充字詞。 在任何變更或修正之後，您繼續參與 Microsoft 365 認證計畫，表示您同意新的增補條款。 如果您不同意新的附加條款，或是我們終止這些補充條款，您必須停止參與 Microsoft 365 認證計畫。
 
-本檔的目標是 isv (獨立軟體廠商) 提供 Microsoft 365 認證程式的必要條件、啟動程式的必要條件，以及 isv 必須具備之特定安全性控制措施的詳細資訊。  Microsoft 365 應用程式規範計畫的一般資訊，可以在 [Microsoft 365 應用程式規範方案][頁面](https://docs.microsoft.com/microsoft-365-app-certification/overview)上找到。 
+本檔的目標是 isv (獨立軟體廠商) 提供 Microsoft 365 認證程式的必要條件、啟動程式的必要條件，以及 isv 必須具備之特定安全性控制措施的詳細資訊。  Microsoft 365 應用程式規範計畫的一般資訊，可以在 [Microsoft 365 應用程式規範方案][頁面](../overview.md)上找到。 
 
 > [!IMPORTANT]
 > 目前 Microsoft 365 認證適用于所有：
@@ -88,7 +89,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 > 在範圍內環境中，必須要有 DMZ，且應用程式/增益集的支援環境必須從內部商務系統和公司環境中細分，因此只會將評估活動的範圍限制為僅限範圍內系統。 憑證分析員會在評估過程中驗證分割技術，以及審查滲透測試報告，該報告應該包含測試以驗證所使用之任何分割技術的有效性。
 
 ### <a name="infrastructure-as-a-service-iaas-platform-as-a-service-paas-and-software-as-a-service-saas"></a>基礎結構即服務 (IaaS) 、平臺為服務 (PaaS) 和軟體作為服務 (SaaS)  
-其中 IaaS 和/或 PaaS 用以支援應用程式或增益集程式碼傳遞的基礎結構在「審閱」下，雲端平臺提供者會負責在整個認證過程中評估的某些安全性控制。 因此，您必須將雲端平臺提供者針對 [](bookmark://pci-dss)   符合性 (AOC) 、ISO27001 或 [SOC 2](bookmark://soc-2)   Type II 報告等外部法規遵從性報告中的安全性最佳作法，以獨立外部驗證的安全性最佳作法，提供證書分析分析員。 
+其中 IaaS 和/或 PaaS 用以支援應用程式或增益集程式碼傳遞的基礎結構在「審閱」下，雲端平臺提供者會負責在整個認證過程中評估的某些安全性控制。 因此，您必須將雲端平臺提供者針對符合性 (AOC) 、ISO27001 或 [SOC 2](bookmark://soc-2)   Type II 報告等   外部法規遵從性報告中的安全性最佳作法 [，以獨立](bookmark://pci-dss)外部驗證的安全性最佳作法，提供證書分析分析員。 
 
 附錄 F 提供根據下列部署類型及應用程式/增益集 exfiltrates M365 資料時，可能適用的安全性控制措施的詳細資料： 
 * ISV 主控 
@@ -118,20 +119,20 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 開始認證程式之前，您需要成功完成 Publisher 認證。 完成後，您的 Microsoft 365 認證程式將會繼續進行，如下所示：
 
 ### <a name="preparation"></a>準備
-1. 流覽至 [合作夥伴中心]，並複查您已完成的[Publisher 證明]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation)檔。 如有必要，您可以編輯和更新您的回應;不過，如果您這麼做，您將需要重新提交證明檔以供核准。 如果您提交的時間超過三個月，我們將會要求您重新提交 Publisher 認證，以供複查和驗證。 
-1. 請仔細閱讀[Microsoft 365 的認證提交指南](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)，以瞭解您將需要的專案。 確定您能夠履行 Microsoft 365 認證提交指南中所指定的[控制需求]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria)。
-1. 在 [合作夥伴中心] 中，按一下 [開始認證]。 這會讓您進入初始檔提交入口網站。 提交您的 [初始檔提交](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission)。 這可協助我們根據您的應用程式的設計方式及處理客戶資料的方式，判斷評估的範圍。 請經常檢查此頁面，查看是否已接受您的提交。
+1. 流覽至 [合作夥伴中心]，並複查您已完成的[Publisher 證明](../docs/attestation.md)檔。 如有必要，您可以編輯和更新您的回應;不過，如果您這麼做，您將需要重新提交證明檔以供核准。 如果您提交的時間超過三個月，我們將會要求您重新提交 Publisher 認證，以供複查和驗證。 
+1. 請仔細閱讀[Microsoft 365 的認證提交指南](../docs/certification-submission-guide.md)，以瞭解您將需要的專案。 確定您能夠履行 Microsoft 365 認證提交指南中所指定的[控制需求](../docs/certification-submission-guide.md#app-certification-criteria)。
+1. 在 [合作夥伴中心] 中，按一下 [開始認證]。 這會讓您進入初始檔提交入口網站。 提交您的 [初始檔提交](../docs/certification-submission-guide.md#initial-document-submission)。 這可協助我們根據您的應用程式的設計方式及處理客戶資料的方式，判斷評估的範圍。 請經常檢查此頁面，查看是否已接受您的提交。
 
 >[!NOTE]
->針對所有 office 應用程式，您可以參考《 [Office app 使用者指南》](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 對於所有 WebApps，您可以參照我們的 [SaaS App 使用者指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)。
+>針對所有 office 應用程式，您可以參考《 [Office app 使用者指南》](../docs/userguide.md)。 對於所有 WebApps，您可以參照我們的 [SaaS App 使用者指南](../docs/saasuserguide.md)。
 
 ### <a name="assessment"></a>評定
 1. 您的初始檔提交一經接受，您的應用程式所需的安全性控制組將會自動顯示在入口網站中。 接著，您必須為每個控制項提交證據，以示範該控制項已就地。 請記住，您會在提交所有的證據時，提供 **60 天** 的時間。 分析員會檢查您的證據，並核准該控制項或要求新的或其他的證據。 請經常檢查此頁面，查看是否已接受您的證據。
 ### <a name="certification"></a>認證
-1. 當您的提交由分析員驗證之後，您將會收到您的認證決策通知。 已獎勵憑證的應用程式會在 **AppSource** 和 **Microsoft** 檔頁面中的應用程式上接收徽章。 您可以在 [這裡](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)閱讀認證的完整優點。
+1. 當您的提交由分析員驗證之後，您將會收到您的認證決策通知。 已獎勵憑證的應用程式會在 **AppSource** 和 **Microsoft** 檔頁面中的應用程式上接收徽章。 您可以在 [這裡](../docs/enterprise-app-certification-guide.md#program-benefits)閱讀認證的完整優點。
 
 ## <a name="review-and-re-certification"></a>審閱和重新認證
-當您的應用程式在您的任何時刻 [發生重大變更](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#significant-changes) 時，就會要求您通知我們。
+當您的應用程式在您的任何時刻 [發生重大變更](../docs/certification-submission-guide.md#significant-changes) 時，就會要求您通知我們。
 
 您也需要一年的頻率執行 recertification。 這將需要針對目前的環境重新驗證範圍內的控制。 此程式最多可在您的認證到期前的90天內開始。 在重新提交期間內，您的現有認證將不會過期。 在所有程式中重新認證，您的 Microsoft 365 認證一年的周年年到期。
 
@@ -145,7 +146,7 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 ## <a name="initial-document-submission"></a>初始檔提交
 
 
-初始檔提交會協助認證分析員執行範圍，並決定評估的範圍中的內容。 之後，您將需要提交用於執行評估的支援檔和證據。 您的初始提交必須包含下列所指定的資訊。 如需其他 guidence，請參閱 [Initital Document Subnmission Guide](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/initialdocumentsubguide)。
+初始檔提交會協助認證分析員執行範圍，並決定評估的範圍中的內容。 之後，您將需要提交用於執行評估的支援檔和證據。 您的初始提交必須包含下列所指定的資訊。 如需其他 guidence，請參閱 [Initital Document Subnmission Guide](../docs/initialdocumentsubguide.md)。
 
 | **檔 &nbsp; 概述**     |   **檔詳細資料**  |
 | -------------------------| -----------------------------|
@@ -192,13 +193,13 @@ Microsoft 建議所有 isv (獨立軟體廠商) 以完整閱讀此 Microsoft 365
 * 採訪 
 * Screensharing 
 
-使用的證據集合技術會在評估程式期間決定。 如需提交中所需之證據類型的具體範例，請參閱 [範例證據指南](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide)。
+使用的證據集合技術會在評估程式期間決定。 如需提交中所需之證據類型的具體範例，請參閱 [範例證據指南](../docs/certification-sample-evidence-guide.md)。
 
 **評估活動**
 
 憑證分析員會檢查您所提供的證據，以判斷您是否有足夠的控制此 Microsoft 365 認證規格。 
 
-您應該盡可能提供 [初始檔提交](#initial-document-submission)中所述的任何或所有檔，以盡可能縮短評估所需的時間   。
+您應該盡可能提供 [初始檔提交](#initial-document-submission)   中所述的任何或所有檔，以盡可能縮短評估所需的時間。
 
 憑證分析員會先從最初的檔提交和 Publisher 認證資訊中檢查提供的證據，以識別適當的查詢、採樣大小，以及如以上所述取得進一步證據的需要。  憑證分析員會分析所有收集到的資訊，以在此 Microsoft 365 憑證規格內，如何以及是否要為您的控制會議做的結論。 
 
@@ -394,7 +395,7 @@ GraphAPI 許可權驗證的執行是為了驗證應用程式/增益集不會要�
 
 |**控制系列**| **Controls** |
 | -----------------------|-------------------------------- |
-|**傳輸中的資料**| 提供 TLS 設定符合或超過[tls 設定檔設定需求](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#appendix-a)內之加密需求的 demonstratable 證據|
+|**傳輸中的資料**| 提供 TLS 設定符合或超過[tls 設定檔設定需求](../docs/certification-submission-guide.md#appendix-a)內之加密需求的 demonstratable 證據|
 ||提供 demonstratable 證據，以在所有用來處理 web 要求的公開服務間停用 TLS 壓縮。|
 ||提供 demonstratable 證據，以在所有網站上啟用 TLS HTTP 嚴格傳輸安全性並設定為 >= 15552000。|
 |**靜態資料**| 提供 demonstratable 證據：靜態的資料會以加密設定檔需求進行內嵌加密，例如，使用 AES、Blowfish、TDES 和加密金鑰大小的128位和256位等加密演算法。|
@@ -1001,8 +1002,8 @@ Microsoft 承認您會在不同的主控環境中部署應用程式及儲存應�
 |主控類型  |描述  |
 |-----|------|
 |**ISV 主控**|ISV 主控類型可定義為您負責用來支援應用程式/增益集環境的基礎結構。 這可以實際位於您自己的資料中心或具有共同位置服務的協力廠商資料中心。 最後，您擁有對支援基礎結構和作業環境的完全擁有權和系統管理控制權。|
-|**基礎結構即服務 (IaaS)** (https://azure.microsoft.com/en-gb/overview/what-is-iaas/)|基礎結構即服務是一種服務，可讓雲端服務提供者代之實體支援基礎結構由雲端服務提供者 (CSP) 加以管理及維護。 通常，網路、儲存、實體伺服器及虛擬化基礎結構都是 CSP 的責任。 作業系統、中介軟體、執行時間、資料和應用程式是您的責任。 此外，協力廠商也會管理及維護 Firewalling 功能，但防火牆規則基底的維護通常仍是消費者責任。|
-|**平臺為服務/無伺服器 (PaaS)** (https://azure.microsoft.com/en-gb/overview/what-is-paas/)| 透過平臺即服務，您可以使用受管理的平臺，以呈現可使用的服務。 您不需要執行 sysadmin 功能，因為作業系統及支援的基礎結構是由 CSP 所管理。 這通常是在組織不想要展示 web 服務，而是可專注于在雲端管理 web 服務上建立 web 應用程式時，使用。  另一個範例可能是資料庫服務，其中會為資料庫提供連線，但是支援基礎結構和資料庫應用程式會從消費者中抽象出來。   **附注：「無伺服器」和「PaaS」類似，目的在於 Microsoft 365 憑證裝載部署類型的 [無伺服器] 和 [PasS] 視為相同。**|
+|**基礎結構即服務 (IaaS)** (https://azure.microsoft.com/overview/what-is-iaas/)|基礎結構即服務是一種服務，可讓雲端服務提供者代之實體支援基礎結構由雲端服務提供者 (CSP) 加以管理及維護。 通常，網路、儲存、實體伺服器及虛擬化基礎結構都是 CSP 的責任。 作業系統、中介軟體、執行時間、資料和應用程式是您的責任。 此外，協力廠商也會管理及維護 Firewalling 功能，但防火牆規則基底的維護通常仍是消費者責任。|
+|**平臺為服務/無伺服器 (PaaS)** (https://azure.microsoft.com/overview/what-is-paas/)| 透過平臺即服務，您可以使用受管理的平臺，以呈現可使用的服務。 您不需要執行 sysadmin 功能，因為作業系統及支援的基礎結構是由 CSP 所管理。 這通常是在組織不想要展示 web 服務，而是可專注于在雲端管理 web 服務上建立 web 應用程式時，使用。  另一個範例可能是資料庫服務，其中會為資料庫提供連線，但是支援基礎結構和資料庫應用程式會從消費者中抽象出來。   **附注：「無伺服器」和「PaaS」類似，目的在於 Microsoft 365 憑證裝載部署類型的 [無伺服器] 和 [PasS] 視為相同。**|
 |**混合主控**|使用混合式主控類型時，您可以使用多個主控類型來支援支援環境的各個部分。 在多個 M365 堆疊中使用應用程式/增益集的情況可能更多。 雖然 Microsoft 365 憑證會支援跨多個 M365 服務的應用程式/附加元件的開發，但在應用程式/增益集之間的整個 () 支援環境，都必須依每個適用的「主控型類型對應」進行評估。 在某些情況下，您可能會利用針對單一增益集的不同主控類型，在其中執行這項功能時，準則的適用性必須仍然遵循各種主控類型的「主控類型對應」準則。|
 |**共用主控**|共用主機是指在由多個個人消費者共用的平臺內主控環境的所在位置。 因為採用雲端，所以未寫入 Microsoft 365 憑證規格，因此共用主控不是常見的。 如果您認為使用的是，請與 Microsoft 聯繫，因為需要建立額外的需求，以考慮此類型的主機類型下的其他風險。|
 

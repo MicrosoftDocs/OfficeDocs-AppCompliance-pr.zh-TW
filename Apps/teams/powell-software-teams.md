@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Powell Teams 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7245730e77597a9d22c387f3001990786ea1f827
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 7fffe34f51520ebec1cc5dce2761ce59269b0e35
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63550071"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462916"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -39,7 +39,7 @@ Powell 軟體所提供的資訊給 Microsoft：
 | 合作夥伴公司名稱 | Powell Software |
 | 公司的網站 | [https://www.powell-software.com](https://www.powell-software.com) |
 | App 的使用條款 | [https://powell-software.com/en/powell-teams-terms-of-use/](https://powell-software.com/en/powell-teams-terms-of-use/) |
-| 應用程式的核心功能 | Powell Teams 應用程式提供所有公司員工的智慧儀表板，協助他們輕鬆組織 &amp; 標籤所有小組，以找出最重要的促銷公司小組，最後使用預先定義的以角色為基礎的小組範本，以節省時間。 您也可以使用 API，在 Powell Teams 資料庫 (https://docapiteams.powell-software.com) 中檢索及使用資料集。最後也可以使用 Power Automate 邏輯應用程式和的連接器 (https://docs.microsoft.com/en-us/connectors/powellteams) |
+| 應用程式的核心功能 | Powell Teams 應用程式提供所有公司員工的智慧儀表板，協助他們輕鬆組織 &amp; 標籤所有小組，以找出最重要的促銷公司小組，最後使用預先定義的以角色為基礎的小組範本，以節省時間。 您也可以使用 API，在 Powell Teams 資料庫 (https://docapiteams.powell-software.com) 中檢索及使用資料集。最後也可以使用 Power Automate 邏輯應用程式和的連接器 (https://docs.microsoft.com/connectors/powellteams) |
 | 公司 headquarter 位置 | 法國 |
 | 應用程式資訊頁面 | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |

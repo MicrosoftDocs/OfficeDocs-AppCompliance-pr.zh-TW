@@ -1,19 +1,20 @@
 ---
-title: CocoFax 傳送傳真的應用程式資訊，由 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 輕鬆地進行 &amp; 安全性
+title: CocoFax 傳送傳真的應用程式資訊，由 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 輕鬆地 &amp; 進行安全性
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CocoFax 傳送傳真的所有可用安全性和符合性資訊資訊，都能輕鬆地進行安全性 &amp; ，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8b44af37fc4fcfcb9452b3af6fdd666b0565d9d4
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+description: CocoFax 傳送傳真的所有可用安全性和符合性資訊資訊，都能輕鬆地 &amp; 進行安全性，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 621b61963a89ca4d2bfd2eeca0b39366cb261c1d
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404568"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461356"
 ---
 # <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax-傳送傳真變得簡單 &amp; 安全
 
@@ -51,7 +52,7 @@ ms.locfileid: "58404568"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何[Microsoft Graph 許可權](/graph/permissions-reference)。
 
 >此應用程式不會使用 Microsoft Graph。
 
@@ -90,7 +91,7 @@ ms.locfileid: "58404568"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
 

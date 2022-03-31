@@ -1,19 +1,20 @@
 ---
-title: Publisher證明常見問題
+title: Publisher 證明常見問題
 author: LGerrard
 ms.author: Legerrar
-description: Publisher證明常見問題
+manager: tonybal
+description: Publisher 證明常見問題
 keywords: 應用程式認證憑證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 44898296bede4b34837ee18726164a636cc05824aa1710f273a4cc822b448953
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: ee18e15e802b87f069ebe8390931a52e497813e0
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54747693"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461756"
 ---
-# <a name="publisher-attestation-faq"></a>Publisher證明常見問題
+# <a name="publisher-attestation-faq"></a>Publisher 證明常見問題
 
 |問題                                       |展開定義                          |
 |----------------------------------------       |---------------------------------------------|
@@ -27,14 +28,14 @@ ms.locfileid: "54747693"
 |應用程式使用的唯一網域為何？|提供者的識別碼，可定義網際網路中的系統管理自治、授權或控制領域。 回應應包含網址。 如果有多個，請以逗號分隔。|
 |用於登入的 URL 為何？|提供登入頁面，其中可能包含彈出的 URL （如果適用的話）。 可讓訂戶登入至應用程式的唯一 URL。 如果您沒有此項，請標示 "N/A。|
 |主控雲端服務提供者的名稱為何？|範例包括： Microsoft Azure、Amazon AWS、Google .。。這也可以包含您公司的獨特解決方案。 |
-|app 是否使用 Microsoft Graph 許可權？ |Azure AD 為您的應用程式指派唯一的應用程式或用戶端識別碼。 入口網站會開啟應用程式的 [一覽] 頁面。 若要將功能新增至應用程式，您可以選取其他設定選項，包括署名、憑證和密碼、API 許可權等等。 連結至頁面。|
+|app 是否使用 Microsoft Graph 許可權？ |Azure AD 會為您的應用程式指派唯一的應用程式或用戶端識別碼。 入口網站會開啟應用程式的 [一覽] 頁面。 若要將功能新增至應用程式，您可以選取其他設定選項，包括署名、憑證和密碼、API 許可權等等。 連結至頁面。|
 |Microsoft Graph 許可權|以下是可接受的許可權清單。 https://docs.microsoft.com/graph/permissions-reference#directory-permissions |
-|此應用程式所使用的 Azure 應用程式 IDs 為何？|Azure AD 為您的應用程式指派唯一的應用程式或用戶端識別碼。 入口網站 https://portal.azure.com/ 會開啟應用程式的 [一覽] 頁面。 若要將功能新增至應用程式，您可以選取其他設定選項，包括署名、憑證和密碼、API 許可權等等。 |
+|此應用程式所使用的 Azure 應用程式 IDs 為何？|Azure AD 會為您的應用程式指派唯一的應用程式或用戶端識別碼。 入口網站 https://portal.azure.com/ 會開啟應用程式的 [一覽] 頁面。 若要將功能新增至應用程式，您可以選取其他設定選項，包括署名、憑證和密碼、API 許可權等等。 |
 |許可權類型為何？|「已登入使用者的應用程式會使用委派的許可權。 在這些應用程式中，使用者或系統管理員 consents 至應用程式要求的許可權，且應用程式可以在呼叫 Microsoft Graph 時，當作登入的使用者。 有些委派的許可權可能是由非系統管理使用者所擁有，但是某些具有較高許可權的許可權需要管理員同意。                                在未登入使用者存在的情況下，應用程式會使用應用程式許可權。例如，以背景服務或守護程式形式執行的應用程式。 只有系統管理員可以同意應用程式許可權。                                                                           https://docs.microsoft.com/graph/auth/auth-concepts#microsoft-graph-permissions"|
-|收集或使用的資料為何？  新增論證，以收集或使用資料。|範例可在 [檔] 頁面上， https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps 按一下 [應用程式]，再按一下 [資料處理]，即可看到其他理由的範例。 |
+|收集或使用的資料為何？  新增論證，以收集或使用資料。|範例可在 [檔] 頁面 https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps 上，按一下 [應用程式]，再按一下 [資料處理]，即可看到其他理由的範例。 |
 |應用程式儲存在其資料庫中的資料為何？  新增論證，以儲存資料，包括適用的案例和範例。 |是否為具有 bot 功能之 Teams 應用程式的認證？https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots|
 |Bot 是否可以存取個人身分識別資訊 (PII) ？|PII 是可用於識別特定人員的任何資料。 例如： 名稱、電子郵件地址。|
-|新增存取 PII 的理由。|範例可在 [檔] 頁面上， https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps 按一下 [應用程式]，再按一下 [資料處理]，即可看到其他 justificationsin 透過 bot 進行資料存取的範例。|
+|新增存取 PII 的理由。|範例可在 [檔] 頁面 https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps 上，按一下 [應用程式]，再按一下 [資料處理]，即可看到其他 justificationsin 透過 bot 進行資料存取的範例。|
 |儲存哪個 PII？|個人身分識別資訊 (PII) 是可以用來識別特定人員的任何資料。 例如： 名稱、電子郵件地址。|
 |為儲存 PII 新增調整。|為何需要儲存個人身分識別資訊？ |
 |列出 (OII 的任何組織識別資訊) 應用程式會透過這些 APIs 收集。 |OII 是可用於識別組織/承租人的任何資料。 例如： 在電子郵件地址 (joe@contoso.com) 中的承租人識別碼或 IP 位址、承租人使用狀況資料、租使用者功能變數名稱。|
@@ -87,7 +88,7 @@ ms.locfileid: "54747693"
 
 ## <a name="learn-more"></a>深入了解
 
-* [Microsoft 365應用程式規範計畫概述](~/overview.md)  
+* [Microsoft 365 應用程式規範計畫概述](~/overview.md)  
 * [完成 Publisher 驗證](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
 * [何謂 Publisher 認證？](~/docs/enterprise-app-attestation-guide.md)  
 * [完成 Microsoft 365 認證](~/docs/certification.md)

@@ -2,16 +2,17 @@
 title: SaaS 應用程式的使用者指南
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Microsoft 365 應用程式規範方案的 ISV 使用者指南 SaaS
 keywords: Microsoft 365 應用程式規範方案的 ISV 使用者指南 SaaS
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5f12c95e413ab069b1f8849a09be50251660fbb1
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: e59d02bf364d13363ef1b9b5f82917213781af0b
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545835"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461846"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Microsoft 365 應用程式規範計畫的協力廠商使用者指南-SaaS
 
@@ -70,21 +71,21 @@ ms.locfileid: "60545835"
   
 **核准/拒絕案例：**
   
-A. Publisher證明拒絕
+答： Publisher 證明拒絕
 - 在拒絕時，合作夥伴可以：
      - 查看失敗報告
           - 合作夥伴會透過電子郵件通知，而且可以在夥伴中心中查看失敗報告
      - 更新並重新提交自我評估問卷。
         
-![Publisher已拒絕證明](../media/UserGuidePhotos/09.png)
+![拒絕 Publisher 證明](../media/UserGuidePhotos/09.png)
 
-B.  Publisher證明核准
+B.  Publisher 證明核准
 - 核准後，合作夥伴可以：
      - 更新並重新提交證明
      - View 已完成 Publisher 證明
      - 啟動 Microsoft 365 認證程式
         
- ![Publisher證明已完成](../media/UserGuidePhotos/10.png)       
+ ![Publisher 證明已完成](../media/UserGuidePhotos/10.png)       
   
  ![啟動 Microsoft 365 憑證](../media/UserGuidePhotos/11.png)
   
@@ -121,7 +122,7 @@ B.  Publisher證明核准
 
 ![完全控制需求](../media/UserGuidePhotos/18.png)
   
-![Upload控制需求](../media/UserGuidePhotos/19.png)
+![Upload 控制需求](../media/UserGuidePhotos/19.png)
 
 ![符合控制需求](../media/UserGuidePhotos/20.png)
  
@@ -145,7 +146,7 @@ B.  Publisher證明核准
   
 所有的安全性標準都符合後，分析員便會核准提交，而且會 Microsoft 365 認證合作夥伴。
 
-![Microsoft 365已核准應用程式認證](../media/UserGuidePhotos/26.png)
+![已核准 Microsoft 365 應用程式認證](../media/UserGuidePhotos/26.png)
   
 **後憑證核准： AppSource 中 Microsoft 365 憑證徽章的範例。** 
 
@@ -155,7 +156,7 @@ B.  Publisher證明核准
   
 **Microsoft 365 Publisher 證明和認證更新工作流程：**  
 
-Microsoft 365App 相容性計畫現在提供一年的更新程式。 在此程式中，應用程式開發人員可以更新 Microsoft 365 憑證所需的現有 Publisher 認證問卷及檔。 
+Microsoft 365 應用程式規範計畫現在提供一年的更新程式。 在此程式中，應用程式開發人員可以更新 Microsoft 365 憑證所需的現有 Publisher 認證問卷及檔。 
  
 **好處：** 
 
@@ -179,11 +180,11 @@ Microsoft 365App 相容性計畫現在提供一年的更新程式。 在此程�
 
 ![更新為證明](../media/UserGuidePhotos/29.png)
   
-**Publisher認證更新已核准：**
+**Publisher 認證更新已核准：**
   
 ![提交以進行更新](../media/UserGuidePhotos/30.png)
   
-**Publisher證明已到期：**
+**Publisher 證明已過期：**
   
 應用程式的資訊必須在到期日之前更新，以維護 Microsoft 檔上應用程式的 Publisher 認證頁面。及時更新也會確保在不同的店面中應用程式的持續聲譽徽章授予和圖示。 
  

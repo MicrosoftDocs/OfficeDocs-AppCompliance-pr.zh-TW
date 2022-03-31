@@ -2,16 +2,17 @@
 title: 何謂 Microsoft 365 認證？
 author: orionomalley
 ms.author: oromalle
+manager: tonybal
 description: Microsoft 365 認證詳細資料
 keywords: 應用程式證明 microsoft 365 認證365問卷 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 47f479258f2bb944cf30665c4479bb151523a561
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+ms.openlocfilehash: f7c986d98db3d8b21ec0790bd5fe1e8c9892b024
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63697383"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462216"
 ---
 # <a name="what-is-microsoft-365-certification"></a>何謂 Microsoft 365 認證？
 
@@ -58,7 +59,7 @@ Microsoft 365 認證適用于與下列 Microsoft 產品整合的所有應用程�
 - SharePoint
 - Project
 - OneNote
-- 透過 (**Webapps** 中的商業市場發佈的應用程式 SaaS 使用者目前是私人預覽，如果您有興趣參與，請填寫此 [表單](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)。
+- **Webapps** (透過合作夥伴中心之商業市集發佈的 SaaS 應用程式目前處於私人預覽中，如果您有興趣參與，請填寫此 [表格](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)。
 
 ## <a name="program-benefits"></a>方案優點
 參與和完成 Microsoft 365 憑證可為 IT 系統管理員和開發人員提供巨大的好處：
