@@ -2,16 +2,17 @@
 ms.author: oromalle
 title: Microsoft 365 認證-初始檔提交指南
 author: orionomalley
+manager: tonybal
 description: Microsoft 365 認證提交指南細微模式
 keywords: 應用程式認證團隊 Microsoft 365 的安全性符合性 m365 初始檔提交
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
-ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
+ms.openlocfilehash: 66afcbd482ee1269ce21e2af6fdeea5026b294ee
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61261675"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463276"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 Ceritification-初始檔提交指南
 
@@ -54,10 +55,10 @@ ms.locfileid: "61261675"
 
 |軟體|  Publisher|  版本|     用途|
 |-|-|-|-|
-|Windows Server|    Microsoft 2016 | 組建14393| 實際執行環境的伺服器作業系統|.
-|Linux Ubuntu|  不適用|    16.04 (Xenial) | 在 DMZ 內使用的伺服器作業系統。|
+|Windows 伺服器|    Microsoft 2016 | 組建14393| 實際執行環境的伺服器作業系統|.
+|Linux Ubuntu|  無|    16.04 (Xenial) | 在 DMZ 內使用的伺服器作業系統。|
 |ESXi|  VMWare| 6.5.0 (組建 13004031) | 用來支援虛擬伺服器。|
-|Mysql (Windows) |   不適用|    8.0.2.1|    儲存聊天記錄的資料庫伺服器。|
+|Mysql (Windows) |   無|    8.0.2.1|    儲存聊天記錄的資料庫伺服器。|
 |Tomcat|        Apache| 7.0.92| 客戶入口網站。|
 |IIS|   Microsoft|  10.0|   支援 APIs。|
 

@@ -3,17 +3,17 @@ title: SaaS 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 03/25/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 0ae1c24acacfb5e6977c0f766f2abbf937d6369b
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: b5b1f05808de23f5b5985d2188cdf3c9f6777887
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63540641"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463616"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性和合規性
 
@@ -32,7 +32,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Competella 通訊套件](./competella-ab-communication-suite.md) | Competella AB | **✓** |  |
 | [內容選擇器](./officeatwork-content-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [內容選擇器瀏覽器](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Designer](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [設計師](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp。 | **✓** |  |
 | [Outlook 的 EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (南部太平洋) PTE 有限 | **✓** |  |
 | [Genesys 雲端 CX Teams 整合](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys 雲端服務，Inc。 | **✓** |  |
@@ -50,7 +50,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Teams 的 Office2SharePoint](./iglobe-office2sharepoint-for-teams.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MS365 的 Onna 探索](./onna-discovery-for-ms365.md) | Onna | **✓** |  |
-| [Microsoft Office 365 的原則 &amp; Insights](./avepoint-inc-policies-and-insights-for-microsoft-office-365.md) | AvePoint Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Microsoft Office 365 的原則 &amp; Insights](./avepoint-inc-policiesinsights-for-microsoft-office-365.md) | AvePoint Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [投影片選擇](./officeatwork-slide-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -58,7 +58,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [Talkdesk Microsoft Teams 連接器](./talkdesk-inc-microsoft-teams-connector.md) | Talkdesk，Inc.。 | **✓** |  |
 | [範本選擇程式](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [範本選擇器瀏覽器](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [對 Teams 影片的 Theta Lake 錄製 &amp; 符合性](./theta-lake-recording-and-compliance-for-teams-video.md) | Theta Lake | **✓** |  |
+| [對 Teams 影片的 Theta Lake 錄製 &amp; 符合性](./theta-lake-recordingcompliance-for-teams-video.md) | Theta Lake | **✓** |  |
 | [上傳者](./officeatwork-uploader.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [驗證](./officeatwork-verifier.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [廣泛的創意-創新軟體](./wide-ideasidea2innovation-ideas-innovation-software.md) | 廣泛的創意/Idea2Innovation | **✓** |  |

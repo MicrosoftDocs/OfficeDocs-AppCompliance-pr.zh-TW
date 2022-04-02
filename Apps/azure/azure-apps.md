@@ -1,25 +1,25 @@
 ---
-title: Azure App IDs 安全性與合規性-所有應用程式
+title: Azure App IDs 安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/25/2022
+ms.date: 03/26/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Azure App IDs 的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: 3716bbc49ea616ba3341a6d607b0a7563a465231
-ms.sourcegitcommit: c0192e544acac1e5b80a80fca21bf271cbcd0a28
+ms.openlocfilehash: 95c9e6d06e5c2cb0367c1276656210aa33ff20e2
+ms.sourcegitcommit: 890a5b31f2a31a7747d88f0f3f203c0551440293
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2022
-ms.locfileid: "64480495"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64517015"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App IDs 安全性與合規性
 
-Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關 Azure 應用程式 IDs 和增益集所使用的決策。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
+Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關所使用 Azure App IDs 和增益集的決策。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
-| **Azure 應用程式識別碼** | **發行者證明** | **認證** |
+| **Azure App 識別碼** | **發行者證明** | **認證** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
@@ -274,6 +274,7 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [d6a2090f-1447-456b-bd5f-121e4efd8c89](./d6a2090f-1447-456b-bd5f-121e4efd8c89.md) | **✓** |  |
 | [d76f016f-52c7-41b5-835b-900361d7040c](./d76f016f-52c7-41b5-835b-900361d7040c.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [d7db1079-6f45-4373-bb2b-ae5d71169b31](./d7db1079-6f45-4373-bb2b-ae5d71169b31.md) | **✓** |  |
+| [d863a24b-7cdd-46c9-8309-a15878f4f7bf](./d863a24b-7cdd-46c9-8309-a15878f4f7bf.md) | **✓** |  |
 | [d871e46e-e346-445d-bfe8-2a66419bf278](./d871e46e-e346-445d-bfe8-2a66419bf278.md) | **✓** |  |
 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](./d8843264-a57b-41e3-aea6-b83ea56f6bd6.md) | **✓** |  |
 | [d980249e-fb0c-40a9-8706-f77f95660bdc](./d980249e-fb0c-40a9-8706-f77f95660bdc.md) | **✓** |  |

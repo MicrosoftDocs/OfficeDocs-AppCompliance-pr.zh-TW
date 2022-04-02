@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: researcHR 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d9190b5c268a2ff73f204e3c81015532b1b3e4df
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: ec1149c58d7c7b5c77243af43b529fa6434e5520
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63543421"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463596"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -100,24 +100,24 @@ ms.locfileid: "63543421"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 無 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 無 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 無 |
 | 最近的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
 | 您已完成哪一種 SOC 2 憑證？ | |
 | 最近的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 無 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 無 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 無 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 無 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 無 |
 | 應用程式是否符合 NIST 800-171？ |  |
 | App 是否已 (CSA 星) 認證？ | 否 |
 
@@ -161,13 +161,13 @@ ms.locfileid: "63543421"
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 通道。建立 | 應用程式 | 我們使用此範圍，讓 bot 在 Teams 用戶端上建立新通道。 看到： https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Directory.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Group.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Team.ReadBasic.All | 應用程式 | 我們使用此範圍來取得小組成員，讓使用者可以在網站上看到他們的小組成員。 看到： https://docs.microsoft.com/en-us/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.Read.All | 應用程式 | 我們使用此範圍來取得使用者的加入頻道，讓使用者可以在我們的網站上看到其加入的團隊。 看到： https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.ReadBasic.All | 委託 | 我們使用此範圍來啟用 OAuth 登入，並收集使用者的 AAD 識別碼、存取權杖和重新整理權杖。 看到： https://docs.microsoft.com/en-us/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| offline_access | 委託 | 我們使用此範圍來取得重新整理權杖，讓我們可以重新整理 authed 使用者的存取權杖，而不需要任何使用者互動。 看到： https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| 通道。建立 | 應用程式 | 我們使用此範圍，讓 bot 在 Teams 用戶端上建立新通道。 看到： https://docs.microsoft.com/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | 應用程式 | 我們使用此範圍來取得通道 IDs 和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | 應用程式 | 我們使用此範圍來取得小組成員，讓使用者可以在網站上看到他們的小組成員。 看到： https://docs.microsoft.com/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | 應用程式 | 我們使用此範圍來取得使用者的加入頻道，讓使用者可以在我們的網站上看到其加入的團隊。 看到： https://docs.microsoft.com/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | 委託 | 我們使用此範圍來啟用 OAuth 登入，並收集使用者的 AAD 識別碼、存取權杖和重新整理權杖。 看到： https://docs.microsoft.com/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | 委託 | 我們使用此範圍來取得重新整理權杖，讓我們可以重新整理 authed 使用者的存取權杖，而不需要任何使用者互動。 看到： https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 >此應用程式沒有額外的 APIs。
 

@@ -1,0 +1,196 @@
+---
+title: LawToolBox 期限 &amp; 事項管理的應用程式資訊，由 LawToolBox.com inc. Outlook。
+ms.author: elmalova
+author: elenamalova
+manager: tonybal
+ms.date: 03/11/2022
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: 所有可用的安全性和符合性資訊，以 LawToolBox 期限 &amp; 事項管理-Outlook、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 21b7fca610a9077099e84f9b1febf4366c6c30f9
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463722"
+---
+# <a name="lawtoolbox-deadlines-amp-matter-management---outlook"></a>LawToolBox 期限 &amp; 事項管理-Outlook
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>上次於開發人員的更新日期：2022年3月7日</p>
+
+* <a href="https://appsource.microsoft.com/product/office/WA104120953" target="_blank">在 AppSource 中查看</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>一般資訊
+
+LawToolBox.com Inc. 所提供的資訊給 Microsoft：
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式名稱 | LawToolBox 期限 &amp; 事項管理-Outlook |
+| ID | WA104120953 |
+| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
+| 合作夥伴公司名稱 | LawToolBox.com Inc. |
+| 公司的網站 | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
+| App 的使用條款 | [https://www.lawtoolbox.com/customersupport/2019/LawToolBox_...](https://www.lawtoolbox.com/customersupport/2019/LawToolBox_End_User_License_Agreement_and_SLA_LAWTOOLBOX_2019_APR.pdf) |
+| 應用程式的核心功能 | 使用 Microsoft 365 的法律整合管理期限及搜尋檔案 |
+| 公司 headquarter 位置 | 美國地區 |
+| 應用程式資訊頁面 | [https://www.lawtoolbox.com/office365](https://www.lawtoolbox.com/office365) |
+| 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
+
+此資訊是由 LawToolBox.com Inc. 提供。關於此應用程式如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
+| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| App 是否支援 TLS 1.1 或更新版本？ | 是 |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
+| 資料庫中儲存的資料為何？ | 電子郵件，UPN，名稱，groupid，群組電子郵件，tenantid，使用者物件識別碼 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
+| 您是否有既定的資料 rentention 與處置程式？ | 是 |
+| 在帳戶終止後，資料會保留多久？ | 小於90days |
+| 您是否有既定的資料存取管理程式？ | 是 |
+| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
+| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="security"
+
+來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否要在應用程式中執行年度滲透測試？ | 否 |
+| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls |
+| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
+| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 否 |
+| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 否 |
+| 您的環境是否有不受支援的作業系統或軟體？ | 否 |
+| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 是 |
+| 您的外部網路界限是否已安裝防火牆？ | 是 |
+| 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
+| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 是 |
+| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
+| 啟用下列各要素驗證 (MFA) ： | CodeRepositories, DNSManagement |
+| 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
+| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 是 |
+| 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
+| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
+| 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
+| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 無 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 無 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 無 |
+| 最近的 SOC1 認證日期 |   |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 您已完成哪一種 SOC 2 憑證？ | |
+| 最近的 SOC2 認證日期 | |
+| 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
+| 最近的 SOC3 認證日期 | |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 無 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
+| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 無 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 無 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 是 |
+| 應用程式是否符合 NIST 800-171？ | 無 |
+| App 是否已 (CSA 星) 認證？ | 否 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
+| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
+| 隱私權原則 URL | https://www.lawtoolbox.com/privacy-policy/ |
+| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
+| 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
+| 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
+| 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 否 |
+| 應用程式是否有功能可在要求時刪除個人資料？ | 是 |
+| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 是 |
+| App 是否提供個人資料，以更正或更新其個人資料？ | 是 |
+| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 無 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **回應** |
+|:----------------|:-------------|
+| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
+| 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
+| 您的應用程式是否支援條件式存取原則？ | 是 |
+| 列出支援的原則類型 | 如需更好的控制管理，可實施應用程式許可權 |
+| 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
+| 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
+
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+
+>|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 應用程式 | 使用此許可權是為了讓一般使用者不會受到限制，而且可能會設定超過250個群組 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| User.ReadWrite.All | 應用程式 | 此許可權用於從目錄讀取使用者相關資訊，並允許使用者對 LawToolBox 管理入口網站進行存取，以將人員新增至不是其成員的群組。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| ReadWrite 的行事曆 | 委託 | 此許可權可讓使用者取回自己的行事曆資訊。  使用者只可以使用此應用程式，透過開啟 Outlook 行事歷來找回自己的行事曆資訊 (所能找回的資訊，)  | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 連絡人。 ReadWrite | 委託 | 此許可權可用以允許使用者搜尋 Microsoft 365 Outlook 連絡人，並新增至連絡人管理系統 &#8211; 連絡人永遠不會自動新增 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| ReadWrite 共用 | 委託 | 此許可權可用以允許使用者搜尋共用的 M365 連絡人，並新增為連絡人管理系統的連絡人。 &#8211; 不會自動新增連絡人。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Files.ReadWrite | 委託 | LawToolBox 讀取及寫入會議 Teams、群組和 OneDrive 中的檔案 (如果使用者撤銷此許可權，它會防止 LTB 從範本建立資料夾及檔案，並在我們的應用程式中列出重要檔)  | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Group.ReadWrite.All | 委託 | 若要讀取 Teams API、建立 Teams、建立行事曆事件、建立頻道，必須具備此許可權，然後按一下 [外部檔案共用功能]。  需要管理群組。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Mail.Read | 委託 | 此許可權是用來在 outlook 增益集中讀取 PACER 封電子郵件，以自動開啟該功能，也就是從電子郵件讀取連絡人。  如果使用者撤銷此許可權，他們將無法在其收件匣的電子郵件中新增電子郵件連絡人給我們的連絡人系統。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 傳送郵件 | 委託 | 此許可權用於以使用者的身分傳送電子郵件，例如，使用者可以自行自行傳送重要期限圖表。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| MailboxSettings ReadWrite | 委託 | 此許可權用來用標籤標記電子郵件，指出已使用該應用程式將其儲存至群組資料夾。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| ReadWrite。 | 委託 | 此許可權可讓使用者將選取的資料與案例附注、期限圖表或事項視為相關的 OneNote。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| OnlineMeetings ReadWrite | 委託 | 此許可權可用以簡化建立及管理會議，以及使用出席者角色建議出席者的建議 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 個人讀取 | 委託 | 使用此許可權可讓使用者使用 Microsoft AI 搜尋共用的 M365 連絡人，並新增至 LawToolBox 連絡人管理系統，並建議新增至應用程式連絡人管理系統的人員 &#8211; 我們不會自動新增任何連絡人。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| User.Read | 委託 | 讀取使用者 (的基本資訊（例如名稱、電子郵件、時區) ，以便系統管理員可以將精確的使用者新增至系統）時，此許可權是必要的。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 電子郵件 | 委託 | 此許可權可讓應用程式讀取電子郵件，讓使用者能夠從其收件匣的電子郵件收集電子郵件連絡人資訊，此許可權也可讓應用程式使用 pacer 的資訊來讀取電子郵件，讓應用程式可以使用 PACER docket 編號以預設開啟相關案例。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 設定檔 | 委託 | 這是 SSO 驗證 (LawToolBox 不要求寫入您的設定檔的許可權) 此許可權是使用者使用單一登入授權登入 LAWTOOLBOX 應用程式所需的許可權。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+
+>此應用程式沒有額外的 APIs。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+

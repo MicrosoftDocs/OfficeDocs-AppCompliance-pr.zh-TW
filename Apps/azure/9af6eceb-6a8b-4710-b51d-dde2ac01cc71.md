@@ -1,19 +1,19 @@
 ---
-title: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 的 Azure 應用程式識別碼資訊
+title: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 的 Azure App 識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/25/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 的所有可用安全性和符合性資訊資訊。
-ms.openlocfilehash: 9ecd30789c87afc212651be5b495d18ab789d9a3
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+ms.openlocfilehash: 1f39fde753f8c2cc27255e17299ac9af705c2ccf
+ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64461566"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "64597392"
 ---
 # <a name="azure-app-id-9af6eceb-6a8b-4710-b51d-dde2ac01cc71"></a>Azure App ID: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 
