@@ -1,49 +1,49 @@
 ---
-title: Insights Inc. 對同事的應用程式資訊
+title: Ideanote by Ideanote Ap 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 03/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，如其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
+description: Ideanote 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0beb3f9d0e428650da4c7c9abbeeca87b75704c4
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+ms.openlocfilehash: 381c0d0df84028ee67c79aadc5b3c489e399dc9c
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64598032"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463870"
 ---
-# <a name="fellow"></a>Fellow
+# <a name="ideanote"></a>Ideanote
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2022年3月30日</p>
+<p>上次於開發人員的更新：2022年2月23日</p>
 
-* <a href="https://teams.microsoft.com/l/app/f6671df0-1909-428c-91f7-1c42df04d3e4" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002576" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/b18682e5-87f8-413a-9af4-be50bcee1049" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003876" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Insights inc. 對 Microsoft 所提供的資訊：
+Ideanote Ap 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Fellow |
-| ID | WA200002576 |
+| 應用程式名稱 | Ideanote |
+| ID | WA200003876 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Fellow Insights Inc |
-| 公司的網站 | [https://fellow.app](https://fellow.app) |
-| App 的使用條款 | [https://fellow.app/terms-of-use/](https://fellow.app/terms-of-use/) |
-| 應用程式的核心功能 | 「同事」是團隊收集生產團隊會議、有意義的團隊會議，以及有意義的1：1、建立共同會議議程、記錄決策，並彼此保持有意義的地方。 |
-| 公司 headquarter 位置 | 加拿大 |
-| 應用程式資訊頁面 | [https://fellow.app/integrations/microsoft-teams/](https://fellow.app/integrations/microsoft-teams/) |
+| 合作夥伴公司名稱 | Ideanote Ap |
+| 公司的網站 | [https://ideanote.io](https://ideanote.io) |
+| App 的使用條款 | [https://ideanote.io/legal/terms](https://ideanote.io/legal/terms) |
+| 應用程式的核心功能 | 以目標導向創新收集、開發及管理構思。 |
+| 公司 headquarter 位置 | 丹麥 |
+| 應用程式資訊頁面 | [https://ideanote.io](https://ideanote.io) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
-| 應用程式會使用哪一個主控雲端提供者？ | Aws |
+| 應用程式會使用哪一個主控雲端提供者？ | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,7 +53,7 @@ Insights inc. 對 Microsoft 所提供的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由相關的 Insights inc. 提供此應用程式如何收集和儲存組織資料，以及您的組織將會對應用程式所收集的資料所做的控制。
+此資訊是由 Ideanote Ap 提供，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -61,10 +61,10 @@ Insights inc. 對 Microsoft 所提供的資訊：
 | 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ | 使用者設定檔資料 (名稱、電子郵件、頭像等 .。。) ，行事歷數據 (calendar list，events，出席者等等 .。。) 、Teams 資料 (團隊名稱、小組成員資格) 。 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 加拿大 |
+| 資料庫中儲存的資料為何？ | 從使用者取得之 JWT 標記的相關資訊。 使用者名稱、使用者電子郵件。 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 德國 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
-| 在帳戶終止後，資料會保留多久？ | 小於30days |
+| 在帳戶終止後，資料會保留多久？ | 小於60days |
 | 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 是 |
 | 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ | 是 |
@@ -81,17 +81,17 @@ Insights inc. 對 Microsoft 所提供的資訊：
 |:----------------|:-------------|
 | 您是否要在應用程式中執行年度滲透測試？ | 是 |
 | 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | ApplicationControls, TraditionalAntiMalware |
+| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | TraditionalAntiMalware, ApplicationControls |
 | 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
 | 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
 | 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |
-| 您的環境是否有不受支援的作業系統或軟體？ | 否 |
+| 您的環境是否有不受支援的作業系統或軟體？ | 是 |
 | 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 是 |
 | 您的外部網路界限是否已安裝防火牆？ | 是 |
 | 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
 | 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 是 |
 | 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
-| 啟用下列各要素驗證 (MFA) ： | CodeRepositories、DNSManagement、身分憑證 |
+| 啟用下列各要素驗證 (MFA) ： | CodeRepositories、認證 |
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 是 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
@@ -109,25 +109,25 @@ Insights inc. 對 Microsoft 所提供的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 否 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 無 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 無 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 無 |
 | 最近的 SOC1 認證日期 |   |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您已完成哪一種 SOC 2 憑證？ |  type1 |
-| 最近的 SOC2 認證日期 |  2022-02-28 |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 您已完成哪一種 SOC 2 憑證？ | |
+| 最近的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 無 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
-| 應用程式是否符合 NIST 800-171？ | 不適用 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 無 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 無 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 無 |
+| 應用程式是否符合 NIST 800-171？ | 無 |
 | App 是否已 (CSA 星) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -140,7 +140,7 @@ Insights inc. 對 Microsoft 所提供的資訊：
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
 | 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
-| 隱私權原則 URL | https://fellow.app/privacy-policy/ |
+| 隱私權原則 URL | https://ideanote.io/legal/privacy-policy |
 | 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
@@ -160,27 +160,18 @@ Insights inc. 對 Microsoft 所提供的資訊：
 |:----------------|:-------------|
 | 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
 | 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 否 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 無 |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
-| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 包括 | 「同事」是會議管理應用程式，因此若要有效地運作，必須能夠存取讀取和寫入使用者的行事曆。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| ReadBasic | 委託 | 允許使用者將會議筆記張貼至指定的頻道，該頻道會列在「同事」中。 請注意，這只會讓我們看到哪些通道存在。 它不提供讀取郵件的功能。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Directory.Read.All | 應用程式 |  (僅限應用程式授與) 允許對使用者目錄資訊（包括所有使用者）進行同步處理。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Group.Read.All | 應用程式 |  (僅限應用程式授與) 允許對使用者和群組進行同步處理。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| 個人讀取 | 委託 | 允許使用者找出傳送記事的 Microsoft Teams 使用者。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| 已讀取的人員。所有 | 應用程式 |  (僅限應用程式授與) 允許存取所有使用者的設定檔資訊。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Team.ReadBasic.All | 委託 | 允許同事取得小組的基本資訊，以便能夠傳送記事及新增相關的] 索引標籤。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| User.Read | 委託 | 允許使用者登入同事，並取得基本設定檔資訊。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| User.Read.All | 應用程式 |  (僅限應用程式授與) 允許存取所有使用者的設定檔資訊。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| offline_access | 委託 | 「同事」需要 &quot; 離線 &quot; 存取背景同步處理的行事歷數據。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read | 委託 | 我們需要使用者的相關資訊，才能自動登入人員至其 Ideanote 帳戶。 | [d7db1079-6f45-4373-bb2b-ae5d71169b31](../azure/d7db1079-6f45-4373-bb2b-ae5d71169b31.md) |
 
 >此應用程式沒有額外的 APIs。
 
