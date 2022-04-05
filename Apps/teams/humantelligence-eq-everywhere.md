@@ -1,43 +1,43 @@
 ---
-title: Clypp 的應用程式資訊（按 Zesavi GmbH）
+title: Humantelligence 所有地方 EQ 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Clypp 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 所有適用于 EQ 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 ---
-# <a name="clypp"></a>Clypp
+# <a name="eq-everywhere"></a>EQ 到處
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2022年3月30日</p>
+<p>上次於開發人員的更新日期：2022年3月25日</p>
 
-* <a href="https://teams.microsoft.com/l/app/34ed2c1e-bccf-463d-8fbc-0403e72e89fc" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003621" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/4082650b-ff26-4eae-b0af-ac0bed45228d" target="_blank">在 Teams 儲存區中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002650" target="_blank">在 AppSource 中查看</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 Zesavi GmbH 所提供的資訊給 Microsoft：
+由 Humantelligence 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Clypp |
-| ID | WA200003621 |
+| 應用程式名稱 | EQ 到處 |
+| ID | WA200002650 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Zesavi GmbH |
-| 公司的網站 | [https://getclypp.com](https://getclypp.com) |
-| App 的使用條款 | [https://getclypp.com/en/terms-of-use/](https://getclypp.com/en/terms-of-use/) |
-| 應用程式的核心功能 | Clypp 可讓您公司內的每個人都直接在網際網路瀏覽器中建立、編輯 &amp; 共用簡短的影片 documentations。 |
-| 公司 headquarter 位置 | 德國 |
-| 應用程式資訊頁面 | [https://getclypp.com/en/](https://getclypp.com/en/) |
+| 合作夥伴公司名稱 | Humantelligence |
+| 公司的網站 | [https://humantelligence.com](https://humantelligence.com) |
+| App 的使用條款 | [https://humantelligence.com/terms/](https://humantelligence.com/terms/) |
+| 應用程式的核心功能 | 使用 Humantelligence 與同事進行更有效率的交流。 |
+| 公司 headquarter 位置 | 北美美國 |
+| 應用程式資訊頁面 | [https://humantelligence.com](https://humantelligence.com) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
-| 應用程式會使用哪一個主控雲端提供者？ | 其他 |
+| 應用程式會使用哪一個主控雲端提供者？ | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,19 +47,12 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 Zesavi GmbH 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+此資訊是由 Humantelligence 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ | 每個使用者的物件識別碼 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 德國 |
-| 您是否有既定的資料 rentention 與處置程式？ | 是 |
-| 在帳戶終止後，資料會保留多久？ | 未保留 |
-| 您是否有既定的資料存取管理程式？ | 是 |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -101,16 +94,16 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 否 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 否 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 否 |
 | 最近的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
 | 您已完成哪一種 SOC 2 憑證？ | |
 | 最近的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 不適用 |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
@@ -132,7 +125,7 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
 | 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
-| 隱私權原則 URL | https://getclypp.com/en/privacy-policy/ |
+| 隱私權原則 URL | https://humantelligence.com/privacy |
 | 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
 | 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
 | 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 否 |
@@ -150,9 +143,9 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 不適用 |
+| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 否 |
+| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 否 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |

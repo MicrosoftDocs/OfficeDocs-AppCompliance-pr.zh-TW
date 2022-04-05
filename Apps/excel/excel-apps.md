@@ -3,17 +3,11 @@ title: Microsoft Excel 應用程式安全性和合規性-所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/24/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Excel 應用程式的所有可用安全性和符合性資訊資訊。
 localization_priority: Normal
-ms.openlocfilehash: f0e281d946560d3ef13c0019870894e2eddc4722
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64462169"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 應用程式安全性和合規性
 
@@ -25,9 +19,10 @@ Microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組�
 | [NetSuite 的 CloudExtend 分析](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel 對 Word 檔自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Forbury](./forbury-property.md) | Forbury 屬性 | **✓** |  |
+| [Foxit Microsoft Word、Excel 及 PowerPoint 的 PDF 編輯器](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit 軟體 Inc.。 | **✓** |  |
 | [印記簽名](./impression-signatures.md) | 印記簽名 | **✓** |  |
 | [Jira Cloud for Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
-| [Excel 的文字分析 MeaningCloud](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
+| [Excel 的 MeaningCloud 文字分析](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office 的 Office2SharePoint](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork-Office 的內容選擇器](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork-Office 的影像選擇器](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

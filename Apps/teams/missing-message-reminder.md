@@ -8,13 +8,7 @@ ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的寄件提醒安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c95ef8bab0d735eb35c89ed1e910428407d1d5eb
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753545"
+zone_pivot_groups: app-info-data-identity
 ---
 # <a name="message-reminder"></a>Message Reminder
 
@@ -54,16 +48,16 @@ ms.locfileid: "63753545"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何 [Microsoft Graph 許可權](/graph/permissions-reference) 。
 
->此應用程式不會使用 Microsoft Graph。
+>此應用程式不使用 Microsoft Graph。
 
 
-#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->不會使用非 Microsoft 服務。
+>不使用非 Microsoft 服務。
 
 #### <a name="data-access-via-bots"></a>透過 bot 的資料存取
 
@@ -89,18 +83,6 @@ ms.locfileid: "63753545"
 參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
 
 >否
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="mcas"
-
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
-
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">在新的索引標籤中查看</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 365-QA 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 58553b5a12cc0c6d17710bce98179385582fc8d9
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63551652"
 ---
 # <a name="365-qa"></a>365-QA
 
@@ -86,11 +80,10 @@ ms.locfileid: "63551652"
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 否 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是 |
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 否 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

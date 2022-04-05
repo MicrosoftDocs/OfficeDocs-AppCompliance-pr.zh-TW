@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于雲端中樞的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2a4f56d9bf23739abd8c7c9d40f6023fbfe43f91
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63549461"
 ---
 # <a name="cloud-hub"></a>Cloud Hub
 
@@ -58,7 +52,7 @@ ms.locfileid: "63549461"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| 您的應用程式所處理的資料為何？ | 使用者資料、登入資料、驗證資料、租使用者資料、Azure 服務資料、Graph 資料 Office 365 管理資料 |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | Graph 資料，Office 365 管理資料 |
@@ -67,7 +61,6 @@ ms.locfileid: "63549461"
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -95,11 +88,9 @@ ms.locfileid: "63549461"
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 否 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 否|
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 否 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 否 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

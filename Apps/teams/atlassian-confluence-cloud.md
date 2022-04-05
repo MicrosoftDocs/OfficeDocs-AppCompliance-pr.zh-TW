@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: Confluence 雲端的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0ce3c1464a4933de72d1a69a49432c986f1679cd
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63547461"
 ---
 # <a name="confluence-cloud"></a>Confluence Cloud
 
@@ -39,8 +33,7 @@ ms.locfileid: "63547461"
 | 合作夥伴公司名稱 | Atlassian |
 | 公司的網站 | [https://www.atlassian.com](https://www.atlassian.com) |
 | App 的使用條款 | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
-| 應用程式的核心功能 | 使用 Confluence Cloud Teams，輕鬆地採取會議筆記、共用頁面，並維持最新狀態。
- |
+| 應用程式的核心功能 | 使用 Confluence Cloud Teams，輕鬆地採取會議筆記、共用頁面，並維持最新狀態。  |
 | 公司 headquarter 位置 | 澳洲 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的主控環境或服務模型為何？ |  |
@@ -87,11 +80,9 @@ ms.locfileid: "63547461"
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ |  |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ |  |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ |  |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | |
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ |  |
 | 您是否已建立正式的資訊安全性風險管理程式？ |  |
 | 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

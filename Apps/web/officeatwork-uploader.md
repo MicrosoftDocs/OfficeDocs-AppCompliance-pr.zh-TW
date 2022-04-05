@@ -8,12 +8,6 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用於上載程式的安全性和符合性資訊資訊、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c42d6784cea1a1ce867c2935b91f30fc3ac2a1f8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59278016"
 ---
 # <a name="uploader"></a>上傳者
 
@@ -50,14 +44,14 @@ ms.locfileid: "59278016"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何 [Microsoft Graph 許可權](/graph/permissions-reference) 。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Files.ReadWrite.All | 委託 | 不儲存任何資料。 | OneDrive：能夠讀取及寫入使用者 OneDrive 中的資料。 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
 >| Group.ReadWrite.All | 委託 | 不儲存任何資料。 | Teams：讀取及寫入群組中的資料。 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
->| GroupMember Read。 All | 委託 | 不儲存任何資料。 | SharePoint線上-安全性群組支援：允許此應用程式列出群組、讀取基本群組內容，以及讀取已登入使用者可存取之所有群組的成員資格。 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
->| Sites.Read.All | 委託 | 不儲存任何資料。 | SharePoint線上：若要在 SharePoint online 中啟用讀取資料，已登入的使用者可以存取權。 啟用將資料上傳至 SharePoint 線上 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
+>| GroupMember Read。 All | 委託 | 不儲存任何資料。 | SharePoint 線上-安全性群組支援：允許此應用程式列出群組、讀取基本群組內容，以及讀取已登入使用者可存取的所有群組的成員資格。 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
+>| Sites.Read.All | 委託 | 不儲存任何資料。 | 線上 SharePoint：若要在線上 SharePoint 中啟用讀取資料，登入的使用者可以存取權。 啟用將資料上傳至 SharePoint 線上 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
 >| User.Read | 委託 | 不儲存任何資料。 | 共同作業：讓 officeatwork 應用程式讀取使用者的基本屬性。 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
 >| User.Read.All | 委託 | 不儲存任何資料。 | Teams：找出使用者所屬的群組。 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
 >| offline_access | 委託 | 不儲存任何資料。 | In：若要透過重新整理來啟用自動登入，使用者必須在每次啟動 officeatwork 應用程式時手動登入。 只有在啟用非 SSO 的主應用程式時，才需要此範圍。 | f5c9f179-b9a5-4364-8f99-18d203b902ad |
@@ -66,17 +60,17 @@ ms.locfileid: "59278016"
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
-以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
+在 Microsoft 365 上建的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs 來收集或處理組織識別資訊 (OII) 。 列出此應用程式所使用之 Microsoft Graph 以外的任何 Microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePointREST APIs | 否 |  |  |  |  |
+>| SharePoint REST APIs | 否 |  |  |  |  |
 
-#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->不會使用非 Microsoft 服務。
+>不使用非 Microsoft 服務。
 
 
 
@@ -106,7 +100,7 @@ ms.locfileid: "59278016"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35750" target="_blank">在新的索引標籤中查看</a>
 
@@ -123,7 +117,7 @@ Officeatwork 此資訊的提供方式是關於此應用程式如何處理驗證�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
+| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？  | 是 |
 | 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
 | 列出支援的原則類型 | 安全性預設 |
@@ -132,7 +126,7 @@ Officeatwork 此資訊的提供方式是關於此應用程式如何處理驗證�
 | 您的應用程式是否支援多租賃？ | 是 |
 | 您的應用程式有機密用戶端嗎？ | 是 |
 | 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含 Flow （除非 SPA 是必要的）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
+| 您的應用程式，您避免使用什麼？ | -萬用字元重新導向 URIs，<br/>-OAuth2 隱含流程（除非 SPA 所需）<br/>-Resource 物主密碼認證 (ROPC) 流程 |
 | 您的應用程式是否公開任何 web APIs？ | 否 |
 | 您的應用程式是否使用預覽 APIs？ | 否 |
 | 您的應用程式使用的 APIs 是否已遭取代？ | 否 |

@@ -3,17 +3,11 @@ title: affadfb6-f17b-428f-97f9-9aae3b6175bc 的 Azure App 識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/29/2022
+ms.date: 03/30/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 affadfb6-f17b-428f-97f9-9aae3b6175bc 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 00d5ccf67c2f9c8a15102e4eedd8c1b0eb3db366
-ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2022
-ms.locfileid: "64525337"
 ---
 # <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>Azure App ID: affadfb6-f17b-428f-97f9-9aae3b6175bc
 

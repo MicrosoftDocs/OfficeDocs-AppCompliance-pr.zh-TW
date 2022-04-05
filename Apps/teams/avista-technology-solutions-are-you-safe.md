@@ -9,14 +9,8 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性和符合性資訊資訊保管庫？，其資料處理原則，它的 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9ce230b1df25af298b9aea9fdc2fd0dec82904b5
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64463693"
 ---
-# <a name="are-you-safe"></a>您保管庫嗎？
+# <a name="are-you-safe"></a>Are You Safe?
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +27,7 @@ Avista 技術解決方案所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 您保管庫嗎？ |
+| 應用程式名稱 | Are You Safe? |
 | ID | WA200003863 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Avista 技術解決方案 |
@@ -83,13 +77,12 @@ Avista 技術解決方案所提供的資訊給 Microsoft：
 | 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
 | 啟用下列各要素驗證 (MFA) ： | CodeRepositories、認證 |
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
-| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 無 |
+| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 否 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | |
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 否 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -99,9 +92,9 @@ Avista 技術解決方案所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 無 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 無 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 無 |
+| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
+| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
 | 最近的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
 | 您已完成哪一種 SOC 2 憑證？ | |
@@ -110,14 +103,14 @@ Avista 技術解決方案所提供的資訊給 Microsoft：
 | 最近的 SOC3 認證日期 | |
 | 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
 | 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 無 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 無 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 無 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 無 |
-| 應用程式是否符合 NIST 800-171？ | 無 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+| 應用程式是否符合 NIST 800-171？ | 不適用 |
 | App 是否已 (CSA 星) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

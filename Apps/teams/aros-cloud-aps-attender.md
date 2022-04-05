@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: Attender 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1e240874d8ce8a1e4ce0b05a5e2883ecbae96983
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63553404"
 ---
 # <a name="attender"></a>Attender
 
@@ -36,7 +30,7 @@ Aros 雲端 Ap 所提供的資訊給 Microsoft：
 | 應用程式名稱 | Attender |
 | ID | WA200003856 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Aros 雲端存取點 |
+| 合作夥伴公司名稱 | Aros 雲端 ApS |
 | 公司的網站 | [https://www.attender.uk](https://www.attender.uk) |
 | App 的使用條款 | [https://www.attender.uk/wp-content/uploads/2022/02/Terms-of...](https://www.attender.uk/wp-content/uploads/2022/02/Terms-of-use.pdf) |
 | 應用程式的核心功能 | 適用于學校的快速出席註冊，可降低學生 dropouts，並節省教學時間。 |
@@ -58,7 +52,7 @@ Aros 雲端 Ap 所提供的資訊給 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| 您的應用程式所處理的資料為何？ | 使用者的 UPN 名稱、使用者顯示名稱、學生出勤資料、學生設定檔圖片、教師和學生時程表資料 |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者的 UPN 名稱、使用者顯示名稱、學生出勤資料、學生設定檔圖片、教師和學生時程表資料 |
@@ -67,7 +61,6 @@ Aros 雲端 Ap 所提供的資訊給 Microsoft：
 | 在帳戶終止後，資料會保留多久？ | 小於90days |
 | 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -95,11 +88,11 @@ Aros 雲端 Ap 所提供的資訊給 Microsoft：
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是 |
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 否 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

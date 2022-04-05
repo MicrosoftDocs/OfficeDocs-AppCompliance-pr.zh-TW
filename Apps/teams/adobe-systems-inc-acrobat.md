@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，Adobe Acrobat 的所有可用安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 015ddceffb9bf0a0a7a45bdff8ac0f4ddbb9faad
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63544031"
 ---
 # <a name="adobe-acrobat"></a>Adobe Acrobat Reader
 
@@ -40,7 +34,7 @@ Adobe Systems Inc. 所提供的資訊給 Microsoft：
 | 公司的網站 | [https://www.adobe.com](https://www.adobe.com) |
 | App 的使用條款 | [https://www.adobe.com/legal/terms.html](https://www.adobe.com/legal/terms.html) |
 | 應用程式的核心功能 | 透過 Adobe Acrobat 的 Microsoft Teams，PDF 檔案格式的製造商會提供一種方法，讓您能夠與您通道中的所有人共同作業，並在單一 PDF &#8211; 中收集意見反應，而不需一直離開 Teams 環境。 當其他人對您的檔採取動作時，會收到活動通知。 檢閱者可以查看和批註每個其他&#8217;的意見反應，讓您&#8217;會花更少的時間來管理衝突 |
-| 公司 headquarter 位置 | 美國地區 |
+| 公司 headquarter 位置 | 北美美國 |
 | 應用程式資訊頁面 | [https://helpx.adobe.com/document-cloud/help/microsoft-teams...](https://helpx.adobe.com/document-cloud/help/microsoft-teams.html) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | Azure，Aws |
@@ -58,11 +52,11 @@ Adobe Systems Inc. 已提供此資訊。關於此應用程式如何收集和儲�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| 您的應用程式所處理的資料為何？ | UserInfo、OAuth 資源、使用者資源、  |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | tenant_id，upn_hash，profile_and_token_info，oauth_state，ims_login_changed_at，preference_data，updated_at，created_at，expires_at |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 北美美國 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -95,11 +89,11 @@ Adobe Systems Inc. 已提供此資訊。關於此應用程式如何收集和儲�
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 是 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是 |
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

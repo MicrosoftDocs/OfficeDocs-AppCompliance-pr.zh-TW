@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: Planyway 行事曆的所有可用安全性和符合性資訊資訊，Trello，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5936b0c382642d1e614803928111e14a38ab1a5e
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753772"
 ---
 # <a name="planyway-calendar-for-trello"></a>Planyway Calendar for Trello
 
@@ -108,8 +102,24 @@ ms.locfileid: "63753772"
 |:----------------|:-------------|
 | 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
 | 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | {
-  &quot;CMP08_complianceSOC_1 &quot; ： &quot; Na &quot; } | |最近的 SOC1 認證日期 |  | |應用程式是否符合服務組織控制 (SOC 2) ？ |無 | |您已完成哪一種 SOC 2 憑證？ | | |最近的 SOC2 認證日期 | | |應用程式是否符合服務組織控制 (SOC 3) ？ |無 | |最近的 SOC3 認證日期 | | |您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ |無 | |應用程式的國際標準組織 (ISO 27001) 驗證？ |無 | |應用程式是否符合國際標準組織 (ISO 27018) ？ |{ &quot; CMP16_complianceISO_27018 &quot; ： &quot; Na &quot; } | |應用程式是否符合國際標準組織 (ISO 27017) ？ |無 | |應用程式是否符合國際標準組織 (ISO 27002) ？ |無 | |應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ |無 | |應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ |N/A | |應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ |N/A | |應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ |N/A | |應用程式是否符合 NIST 800-171？ | | |App 是否已 (CSA 星) 認證？ |否 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 那 |
+| 最近的 SOC1 認證日期 |   |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 您已完成哪一種 SOC 2 憑證？ | |
+| 最近的 SOC2 認證日期 | |
+| 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
+| 最近的 SOC3 認證日期 | |
+| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
+| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 那 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
+| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+| 應用程式是否符合 NIST 800-171？ |  |
+| App 是否已 (CSA 星) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -138,8 +148,8 @@ ms.locfileid: "63753772"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 否 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 否 |
+| 您的應用程式會與 Microsoft Identity Platform (Azure AD) 整合，以進行單一登入、API 存取等等？ | 否 |
+| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？ | 否 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
@@ -147,7 +157,7 @@ ms.locfileid: "63753772"
 | 您的應用程式是否會在程式碼中儲存任何認證？ |  |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
->此應用程式不會使用 Microsoft Graph。
+>此應用程式不使用 Microsoft Graph。
 
 >此應用程式沒有額外的 APIs。
 

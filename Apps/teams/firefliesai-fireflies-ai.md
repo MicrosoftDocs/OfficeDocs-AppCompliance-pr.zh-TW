@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: Fireflies AI 的所有可用安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: adb01db25dd012daa05e231121cc98cd2d97bc2e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63541741"
 ---
 # <a name="fireflies-ai"></a>Fireflies AI
 
@@ -39,9 +33,11 @@ ms.locfileid: "63541741"
 | 合作夥伴公司名稱 | Fireflies.ai |
 | 公司的網站 | [https://fireflies.ai](https://fireflies.ai) |
 | App 的使用條款 | [https://fireflies.ai/terms-of-service.pdf](https://fireflies.ai/terms-of-service.pdf) |
-| 應用程式的核心功能 | Fireflies 是一種會議助理，可記錄、transcribes 及從會議中取得記事。
-
- | |公司 headquarter 位置 |美國地區 | |應用程式資訊頁面 | [https://app.fireflies.ai/integrations/collaboration/microso...](https://app.fireflies.ai/integrations/collaboration/microsoft-teams) | |用來執行應用程式的主控環境或服務模型為何？ |Paas | |應用程式會使用哪一個主控雲端提供者？ |GCP |
+| 應用程式的核心功能 | Fireflies 是一種會議助理，可記錄、transcribes 及從會議中取得記事。 |
+| 公司 headquarter 位置 | 北美美國 |
+| 應用程式資訊頁面 | [https://app.fireflies.ai/integrations/collaboration/microso...](https://app.fireflies.ai/integrations/collaboration/microsoft-teams) |
+| 用來執行應用程式的主控環境或服務模型為何？ | Paas |
+| 應用程式會使用哪一個主控雲端提供者？ | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -60,7 +56,7 @@ ms.locfileid: "63541741"
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者設定檔資料、使用者行事曆 Metdata |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 北美美國 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -156,8 +152,8 @@ ms.locfileid: "63541741"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 否 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 否 |
+| 您的應用程式會與 Microsoft Identity Platform (Azure AD) 整合，以進行單一登入、API 存取等等？ | 否 |
+| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？ | 否 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
@@ -165,7 +161,7 @@ ms.locfileid: "63541741"
 | 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
 
->此應用程式不會使用 Microsoft Graph。
+>此應用程式不使用 Microsoft Graph。
 
 >此應用程式沒有額外的 APIs。
 

@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: Arrangr 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 01efc28d2ed0fc6c4510124d7a040beff7fe4c4e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63540611"
 ---
 # <a name="arrangr"></a>Arrangr
 
@@ -40,7 +34,7 @@ Arrangr，Inc. 提供給 Microsoft 的資訊：
 | 公司的網站 | [https://arrangr.com](https://arrangr.com) |
 | App 的使用條款 | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
 | 應用程式的核心功能 | Arrangr 是適用于任何會議的智慧整合調度程式。 無論是親自或遠端、1:1 或群組，Arrangr 都很簡單又快。 Arrangr 與 Microsoft calendar 整合，以輕鬆且快速地封鎖忙碌時間、協助形象化您的日程，並確定您的會議已放在行事曆中。 此外，我們的 Teams 整合功能可讓您輕鬆地與小組成員共用邀請、在 Teams 內發起新的會議，以及從 Teams] 索引標籤中追蹤 Arrangr 會議。 |
-| 公司 headquarter 位置 | 美國地區 |
+| 公司 headquarter 位置 | 北美美國 |
 | 應用程式資訊頁面 | [https://arrangr.com/welcome](https://arrangr.com/welcome) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Paas |
 | 應用程式會使用哪一個主控雲端提供者？ | GCP |
@@ -58,16 +52,15 @@ Arrangr，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| 您的應用程式所處理的資料為何？ | 「使用者名稱」、「電子郵件地址」、「行事曆名稱」、「小組」事件的詳細資料、名稱和電子郵件 |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 使用者名稱和電子郵件、行事曆的名稱、行事曆會議連結、小組名稱。 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 北美美國 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -95,11 +88,9 @@ Arrangr，Inc. 已提供此資訊。關於此應用程式如何收集和儲存�
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 否 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 否 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | |
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 否 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

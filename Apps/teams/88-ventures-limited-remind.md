@@ -3,24 +3,18 @@ title: 以 88 Ventures 為限之提醒的應用程式資訊。
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/27/2021
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊資訊，其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 17592dc196ffc2e17e62af60708c718dc68ee523
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63550682"
 ---
 # <a name="remind"></a>提醒
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員更新：2021年10月27日</p>
+<p>上次於開發人員的更新日期：2022年3月28日</p>
 
 * <a href="https://teams.microsoft.com/l/app/88546d4f-9973-4716-98e4-cd181c04bc2d" target="_blank">在 Teams 儲存區中查看</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001444" target="_blank">在 AppSource 中查看</a>
@@ -43,7 +37,7 @@ ms.locfileid: "63550682"
 | 公司 headquarter 位置 | 香港 |
 | 應用程式資訊頁面 | [https://teamsreminder.app](https://teamsreminder.app) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
-| 應用程式會使用哪一個主控雲端提供者？ | 其他 |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -60,7 +54,7 @@ ms.locfileid: "63550682"
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 否 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 提醒其他使用者時的使用者 GUID 和使用者名稱 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 德國 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 荷蘭 ()  |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 未保留 |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -87,7 +81,7 @@ ms.locfileid: "63550682"
 | 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 是 |
 | 您的外部網路界限是否已安裝防火牆？ | 是 |
 | 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
-| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 是 |
+| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 否 |
 | 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
 | 啟用下列各要素驗證 (MFA) ： | CodeRepositories、DNSManagement、身分憑證 |
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
@@ -122,10 +116,10 @@ ms.locfileid: "63550682"
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 | 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 否 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 否 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 否 |
-| 應用程式是否符合 NIST 800-171？ | 否 |
+| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
+| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+| 應用程式是否符合 NIST 800-171？ | 不適用 |
 | App 是否已 (CSA 星) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -169,6 +163,7 @@ ms.locfileid: "63550682"
 >|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Directory.Read.All | 委託 | 當系統管理員搜尋使用者以指派授權時使用。 這項功能的使用方式完全選用，在一般應用程式使用期間不是必要的。 | [88546d4f-9973-4716-98e4-cd181c04bc2d](../azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md) |
+>| 已讀取的人員。所有 | 委託 | 當使用者想要指派使用者給授權時使用 | [88546d4f-9973-4716-98e4-cd181c04bc2d](../azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md) |
 
 >此應用程式沒有額外的 APIs。
 
