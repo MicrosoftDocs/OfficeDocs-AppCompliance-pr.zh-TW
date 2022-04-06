@@ -3,17 +3,17 @@ title: dae2eacf-3eb5-4440-baff-984fbd5cae68 的 Azure App 識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/01/2022
+ms.date: 03/30/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 所有適用于 dae2eacf-3eb5-4440-baff-984fbd5cae68 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 991df4a45b130152814ef265a0885bbf3681037e
-ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
+ms.openlocfilehash: ad24e2706ae7ab176d1ca45677c25c8d5a35bddf
+ms.sourcegitcommit: 0b61e3c35f05a7f7926b2ccd6049be4fc2a149c9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2022
-ms.locfileid: "64627535"
+ms.lasthandoff: 03/30/2022
+ms.locfileid: "64555246"
 ---
 # <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure App ID: dae2eacf-3eb5-4440-baff-984fbd5cae68
 
@@ -28,5 +28,5 @@ ms.locfileid: "64627535"
 | [officeatwork-SharePoint 的範本選擇器](../forward/WA200001923.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA200001923](https://appsource.microsoft.com/product/office/WA200001923) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 應用程式規範狀態
-- 發行者 Attestaton 狀態：已完成
+- Publisher Attestaton 狀態：已完成
 - Microsoft 365 認證：核准 (01/25/2022) 

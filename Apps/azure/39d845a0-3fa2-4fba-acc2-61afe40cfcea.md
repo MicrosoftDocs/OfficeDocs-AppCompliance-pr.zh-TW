@@ -1,27 +1,27 @@
 ---
-title: 39d845a0-3fa2-4fba-acc2-61afe40cfcea 的 Azure App 識別碼資訊
+title: Azure App 39d845a0-3fa2-4fba-acc2-61afe40cfcea 的識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 04/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于39d845a0-3fa2-4fba-acc2-61afe40cfcea 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 99f0c74f0b721236bc0eff18954bc4dde3924bba
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+description: 39d845a0-3fa2-4fba-acc2-61afe40cfcea 的所有可用安全性與合規性資訊。
+ms.openlocfilehash: b001ece4d098e913b3e9f6d5911c271c1b9da8ed
+ms.sourcegitcommit: 1ec89e36ca96efb9704a11b904ab84f4030b3578
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64600712"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64653836"
 ---
-# <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>Azure App ID: 39d845a0-3fa2-4fba-acc2-61afe40cfcea
+# <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>Azure App識別碼：39d845a0-3fa2-4fba-acc2-61afe40cfcea
 
 
-### <a name="apps-associated-with-this-id"></a>與此 ID: 相關聯的應用程式
-| **應用程式名稱** | **認證** | **在 AppSource 中查看** |
+### <a name="apps-associated-with-this-id"></a>與此識別碼相關聯的應用程式：
+| **應用程式名稱** | **認證** | **在 AppSource 中檢視** |
 |--------------|---------------|-----------------------|
 | [使用 Jira 推展工作進度](../forward/WA200002855.md) |  | [https://appsource.microsoft.com/product/office/WA200002855](https://appsource.microsoft.com/product/office/WA200002855) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 應用程式規範狀態
-- Publisher Attestaton 狀態：已完成
+### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365應用程式合規性狀態
+- Publisher證明狀態：已完成
