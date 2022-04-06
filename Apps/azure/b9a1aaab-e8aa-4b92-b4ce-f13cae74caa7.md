@@ -1,27 +1,27 @@
 ---
-title: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 的 Azure App 識別碼資訊
+title: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 的Azure App識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 04/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有適用于 b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 25f1834f87841251d92a90584e1693a9a3a3d7d6
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+description: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 的所有可用安全性與合規性資訊。
+ms.openlocfilehash: d43a71a282c21f3935f2b8cdddd4085205615d46
+ms.sourcegitcommit: 1ec89e36ca96efb9704a11b904ab84f4030b3578
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64597232"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64652731"
 ---
-# <a name="azure-app-id-b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7"></a>Azure App ID: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
+# <a name="azure-app-id-b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7"></a>Azure App識別碼：b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
 
 
-### <a name="apps-associated-with-this-id"></a>與此 ID: 相關聯的應用程式
-| **應用程式名稱** | **認證** | **在 AppSource 中查看** |
+### <a name="apps-associated-with-this-id"></a>與此識別碼相關聯的應用程式：
+| **應用程式名稱** | **認證** | **在 AppSource 中檢視** |
 |--------------|---------------|-----------------------|
 | [Teams Manager](../forward/WA200000764.md) |  | [https://appsource.microsoft.com/product/office/WA200000764](https://appsource.microsoft.com/product/office/WA200000764) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 應用程式規範狀態
-- Publisher Attestaton 狀態：已完成
+### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365應用程式合規性狀態
+- Publisher證明狀態：已完成
