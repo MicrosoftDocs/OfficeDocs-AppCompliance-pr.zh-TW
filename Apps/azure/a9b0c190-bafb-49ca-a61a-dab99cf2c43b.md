@@ -1,30 +1,30 @@
 ---
-title: a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的 Azure App 識別碼資訊
+title: Azure App a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/29/2022
+ms.date: 04/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: 所有適用于 a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的安全性和符合性資訊資訊。
-ms.openlocfilehash: 0345e1db80415ac81e5852adb12909804b0cbd39
-ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
+description: a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的所有可用安全性與合規性資訊。
+ms.openlocfilehash: f994bbaad466fb34340550276689e9f54a50e48e
+ms.sourcegitcommit: 1ec89e36ca96efb9704a11b904ab84f4030b3578
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2022
-ms.locfileid: "64529192"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64656916"
 ---
-# <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure App ID: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
+# <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure App識別碼：a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 
 
-### <a name="apps-associated-with-this-id"></a>與此 ID: 相關聯的應用程式
-| **應用程式名稱** | **認證** | **在 AppSource 中查看** |
+### <a name="apps-associated-with-this-id"></a>與此識別碼相關聯的應用程式：
+| **應用程式名稱** | **認證** | **在 AppSource 中檢視** |
 |--------------|---------------|-----------------------|
-| [Outlook 的 Adobe Sign Add-In](../forward/WA104381158.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381158](https://appsource.microsoft.com/product/office/WA104381158) |
-| [Adobe 標誌](../forward/WA104381233.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381233](https://appsource.microsoft.com/product/office/WA104381233) |
-| [Word 和 PowerPoint 的 Adobe Acrobat 符號](../forward/WA104381155.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381155](https://appsource.microsoft.com/product/office/WA104381155) |
+| [適用于 Outlook 的 Adobe Sign Add-In](../forward/WA104381158.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381158](https://appsource.microsoft.com/product/office/WA104381158) |
+| [Adobe Acrobat Sign](../forward/WA104381233.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381233](https://appsource.microsoft.com/product/office/WA104381233) |
+| [適用于 Microsoft Word 和 PowerPoint 的 Adobe Acrobat Sign](../forward/WA104381155.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381155](https://appsource.microsoft.com/product/office/WA104381155) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 應用程式規範狀態
-- Publisher Attestaton 狀態：已完成
-- Microsoft 365 認證：核准 (02/23/2022) 
+### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365應用程式合規性狀態
+- Publisher證明狀態：已完成
+- Microsoft 365認證：核准 (2022/02/23) 
