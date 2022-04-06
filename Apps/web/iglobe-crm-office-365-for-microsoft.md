@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于 Microsoft 365 的 iGlobe CRM Office 365 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: dd871a1c4b9e8ef8dd0628ff73a2737e1b94550f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0861d57c83a89a00b2948f760994f0def6681d03
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59279398"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64626935"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>iGlobe Microsoft 365 的 CRM Office 365
 
@@ -50,9 +50,9 @@ ms.locfileid: "59279398"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
-列出此應用程式所需的任何[Microsoft Graph 許可權](https://docs.microsoft.com/graph/permissions-reference)。
+列出此應用程式所需的任何 [Microsoft Graph 許可權](/graph/permissions-reference) 。
 
->| **Permission**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | 從 canlendar 中的 dreating 會議報表至 iGlobe 時，可以存取使用者行事曆 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
 >| 連絡人。 ReadWrite | 委託 | Directory.AccessAsUser.All | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
@@ -70,7 +70,7 @@ ms.locfileid: "59279398"
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
 
-以 Microsoft 365 為基礎的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs，來收集或處理組織識別資訊 (OII) 。 列出此應用程式使用的 microsoft Graph 以外的任何 microsoft APIs。
+在 Microsoft 365 上建的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs 來收集或處理組織識別資訊 (OII) 。 列出此應用程式所使用之 Microsoft Graph 以外的任何 Microsoft APIs。
 
 >| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -90,11 +90,11 @@ ms.locfileid: "59279398"
 >| SharePoint-TermStore。 | 否 |  |  |  |  |
 >| SharePoint-TermStore ReadWrite 所有 | 否 |  |  |  |  |
 
-#### <a name="non-microsoft-services-used"></a>未使用的 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
 
 若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
 
->不會使用非 Microsoft 服務。
+>不使用非 Microsoft 服務。
 
 
 
@@ -126,7 +126,7 @@ ms.locfileid: "59279398"
 
 來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36163' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36163' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36163" target="_blank">在新的索引標籤中查看</a>
 
@@ -143,7 +143,7 @@ IGlobe 此資訊的提供方式是關於此應用程式如何處理驗證、授�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？  | 是 |
+| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？  | 是 |
 | 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
 | 列出支援的原則類型 | 安全性預設值以及封鎖舊版驗證的任何其他常見原則需要對管理員進行 MFA * 需要 mfa for Azure management * 需要對所有使用者進行 MFA * |

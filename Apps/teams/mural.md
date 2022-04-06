@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: MURAL 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: df6a5ae8a4b098679e9fc43cedfe8605a8c0d99e
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+ms.openlocfilehash: 46369b01c7570f46997e8a9cb43e30c9d882e0bf
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64602292"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627275"
 ---
 # <a name="mural"></a>MURAL
 
@@ -57,7 +57,7 @@ ms.locfileid: "64602292"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| 您的應用程式所處理的資料為何？ | MURAL 只需要登入目的的名稱、姓氏和電子郵件地址。 要處理/儲存的資料種類取決於客戶 |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | MURAL 只需要使用者的名稱、姓氏和電子郵件，以供登入之用，而且儲存的其餘資訊，會依據客戶在其 murals 中儲存的資訊而定。 |
@@ -97,8 +97,8 @@ ms.locfileid: "64602292"
 | 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,8 +157,8 @@ ms.locfileid: "64602292"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
+| 您的應用程式會與 Microsoft Identity Platform (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 不適用 |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
@@ -168,7 +168,7 @@ ms.locfileid: "64602292"
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Files.Read | 委託 | 檔案。將檔上傳至 MURAL 時所需的讀取。 | [a1ef3a23-74fc-4c91-909f-691cc47a1c8e](../azure/a1ef3a23-74fc-4c91-909f-691cc47a1c8e.md) |
 >| User.Read | 委託 | 因為 mural 需要帳戶建立的名字、姓氏及電子郵件，所以為讀取。 | [a1ef3a23-74fc-4c91-909f-691cc47a1c8e](../azure/a1ef3a23-74fc-4c91-909f-691cc47a1c8e.md) |
