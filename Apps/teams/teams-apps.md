@@ -3,17 +3,17 @@ title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/01/2022
+ms.date: 04/05/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 39a1746863fd10b80a39eff3f9dc1218d0f0d1f2
-ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
+ms.openlocfilehash: c4a980802eb9c2dd1cc9779720b2136a4c8da92d
+ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2022
-ms.locfileid: "64627245"
+ms.lasthandoff: 04/06/2022
+ms.locfileid: "64681834"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -98,6 +98,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Chronus](./chronus.md) | Chronus | **✓** |  |
 | [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | ci solution GmbH | **✓** |  |
+| [Clerk SMS](./unnamed-ventures-llc-clerk-sms.md) | 未具名的一般，LLC。 | **✓** |  |
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Clixie](./clixie-media-llc.md) | Clixie Media LLC | **✓** |  |
 | [Cloud Effective](./cloud-effective.md) | Cloud Effective | **✓** |  |
@@ -199,7 +200,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Goalhub](./momentum-cloud-pty-ltd-goalhub.md) | Momentum Cloud Pty Ltd | **✓** |  |
 | [GoLinks](./golinks.md) | GoLinks | **✓** |  |
 | [Good4work](./good4work.md) | Good4work | **✓** |  |
-| [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [GoToConnect](./logmein-inc-gotoconnect.md) | LogMeIn Inc. | **✓** |  |
 | [GRATICA](./okwave-inc-gratica.md) | OKWAVE, Inc. | **✓** |  |
 | [Group Address Book - NextSet](./nextsetinc-group-address-book-nextset.md) | NextSet,Inc. | **✓** |  |
@@ -259,6 +259,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Kunjani](./faceboard-pty-ltd-kunjani.md) | FACEBOARD (PTY) 有限公司 | **✓** |  |
 | [LawToolBox](./lawtoolboxcominc-lawtoolbox.md) | LawToolBox.com,Inc. | **✓** |  |
 | [LawVu APAC](./lawvu-apac.md) | LawVu | **✓** |  |
+| [LawVu USA](./lawvu-usa.md) | LawVu | **✓** |  |
 | [Learnbee](./bsharp-sales-enablers-learnbee.md) | Bsharp 銷售推動 | **✓** |  |
 | [Lexion](./lexion.md) | Lexion | **✓** |  |
 | [LifeWorks](./lifeworks.md) | LifeWorks | **✓** |  |
@@ -373,7 +374,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [RFPIO bot](./rfpio-bot.md) | RFPIO | **✓** |  |
 | [RingCentral](./ringcentral-inc.md) | RingCentral, Inc. | **✓** |  |
 | [RowShare](./rowshare.md) | RowShare | **✓** |  |
-| [Saberr](./saberr.md) | Saberr | **✓** |  |
 | [安全空間](./ecare-vault-inc-safe-spaces.md) | eCare Vault Inc. | **✓** |  |
 | [Sailpoint](./sailpoint-technologies-inc.md) | SailPoint Technologies， Inc. | **✓** |  |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
@@ -432,7 +432,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Tactileo](./maskott-tactileo.md) | Maskott | **✓** |  |
 | [TagMyFav](./avishkaram-technologies-pvt-ltd-tagmyfav.md) | Avishkaram Technologies Pvt Ltd | **✓** |  |
 | [TagTeam](./smarter-business-solution-gmbh-tagteam.md) | Smarter Business Solution GmbH | **✓** |  |
-| [Talview Interviews](./talview-inc-interviews.md) | Talview Inc | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
 | [TaskCall](./taskcall-cloud-services-sl.md) | TaskCall Cloud Services, S.L. | **✓** |  |
 | [Taskworld](./taskworld.md) | Taskworld | **✓** |  |

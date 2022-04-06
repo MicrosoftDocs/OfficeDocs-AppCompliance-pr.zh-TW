@@ -1,32 +1,32 @@
 ---
-title: Azure App dae2eacf-3eb5-4440-baff-984fbd5cae68 的識別碼資訊
+title: dae2eacf-3eb5-4440-baff-984fbd5cae68 的 Azure App 識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/02/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: dae2eacf-3eb5-4440-baff-984fbd5cae68 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: 4789bd33db83a1beecea2ed202430473c46c0887
-ms.sourcegitcommit: 1ec89e36ca96efb9704a11b904ab84f4030b3578
+description: 所有適用于 dae2eacf-3eb5-4440-baff-984fbd5cae68 的安全性和符合性資訊資訊。
+ms.openlocfilehash: 32dd7f061e8b4ae414411e2a51cd0a4ecc8177bc
+ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "64658176"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64530808"
 ---
-# <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure App識別碼：dae2eacf-3eb5-4440-baff-984fbd5cae68
+# <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure App ID: dae2eacf-3eb5-4440-baff-984fbd5cae68
 
 
-### <a name="apps-associated-with-this-id"></a>與此識別碼相關聯的應用程式：
-| **應用程式名稱** | **認證** | **在 AppSource 中檢視** |
+### <a name="apps-associated-with-this-id"></a>與此 ID: 相關聯的應用程式
+| **應用程式名稱** | **認證** | **在 AppSource 中查看** |
 |--------------|---------------|-----------------------|
 | [範本選擇程式](../forward/officeatwork-ag.template-chooser.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/officeatwork-ag.template-chooser](https://appsource.microsoft.com/product/office/officeatwork-ag.template-chooser) |
 | [範本選擇器瀏覽器](../forward/officeatwork-ag.template-chooser-browser.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/officeatwork-ag.template-chooser-browser](https://appsource.microsoft.com/product/office/officeatwork-ag.template-chooser-browser) |
 | [範本選擇程式](../forward/WA200000110.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA200000110](https://appsource.microsoft.com/product/office/WA200000110) |
-| [officeatwork - 適用于 Office 的範本選擇器](../forward/WA104380050.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104380050](https://appsource.microsoft.com/product/office/WA104380050) |
-| [officeatwork - 適用于 SharePoint 的範本選擇器](../forward/WA200001923.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA200001923](https://appsource.microsoft.com/product/office/WA200001923) |
+| [officeatwork-Office 的範本選擇器](../forward/WA104380050.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104380050](https://appsource.microsoft.com/product/office/WA104380050) |
+| [officeatwork-SharePoint 的範本選擇器](../forward/WA200001923.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA200001923](https://appsource.microsoft.com/product/office/WA200001923) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365應用程式合規性狀態
-- Publisher證明狀態：已完成
-- Microsoft 365認證：核准 (2022/01/25) 
+### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 應用程式規範狀態
+- Publisher Attestaton 狀態：已完成
+- Microsoft 365 認證：核准 (01/25/2022) 

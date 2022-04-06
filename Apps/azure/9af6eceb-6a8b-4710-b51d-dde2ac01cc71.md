@@ -3,17 +3,17 @@ title: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 的 Azure App 識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/29/2022
+ms.date: 04/01/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 的所有可用安全性和符合性資訊資訊。
-ms.openlocfilehash: f61064ad38d195c2596cd09f098a7aa11f4d53ac
-ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
+ms.openlocfilehash: 8b0faf9db83b9e8a3fbbf912ba38b97595fcd531
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2022
-ms.locfileid: "64530032"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64628045"
 ---
 # <a name="azure-app-id-9af6eceb-6a8b-4710-b51d-dde2ac01cc71"></a>Azure App ID: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 
@@ -24,4 +24,4 @@ ms.locfileid: "64530032"
 | [InCaseIT](../forward/WA200003265.md) |  | [https://appsource.microsoft.com/product/office/WA200003265](https://appsource.microsoft.com/product/office/WA200003265) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 應用程式規範狀態
-- Publisher Attestaton 狀態：已完成
+- 發行者 Attestaton 狀態：已完成
