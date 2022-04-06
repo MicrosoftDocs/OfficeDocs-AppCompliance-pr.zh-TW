@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有適用于合金 Self-Service Assistant 的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 43f94e5fc6e97a7a8691089d8fa2b5a1ef498a3c
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: d4a1a93efe1ed21f47fc16eda0c1ba0115448aaf
+ms.sourcegitcommit: 2c06ca843da2f9359a834b1479d2b9b7eee1f68d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63545521"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64645888"
 ---
 # <a name="alloy-self-service-assistant"></a>合金自助式助理
 
@@ -39,8 +39,8 @@ ms.locfileid: "63545521"
 | 合作夥伴公司名稱 | 合金軟體 |
 | 公司的網站 | [https://alloysoftware.com](https://alloysoftware.com) |
 | App 的使用條款 | [https://www.alloysoftware.com/resources/eula/](https://www.alloysoftware.com/resources/eula/) |
-| 應用程式的核心功能 | 建立服務台票證、搜尋知識庫和核准要求。 |
-| 公司 headquarter 位置 | 美國地區 |
+| 應用程式的核心功能 | 建立服務台票證、搜尋知識庫及核准要求。 |
+| 公司 headquarter 位置 | 北美美國 |
 | 應用程式資訊頁面 | [https://docs.alloysoftware.com/alloynavigator/2021/docs/int...](https://docs.alloysoftware.com/alloynavigator/2021/docs/integrations/topics/microsoft-teams-bot.htm) |
 | 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪一個主控雲端提供者？ | Aws |
@@ -58,16 +58,15 @@ ms.locfileid: "63545521"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
+| 您的應用程式所處理的資料為何？ | 使用者電子郵件地址、客戶承租人 |
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | 客戶承租人 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 北美美國 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
 | 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -95,11 +94,11 @@ ms.locfileid: "63545521"
 | 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
 | 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 不適用 |
 | 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
+| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是 |
 | 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
