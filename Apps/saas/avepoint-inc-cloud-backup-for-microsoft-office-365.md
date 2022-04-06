@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: 所有可用的雲端備份安全性和符合性資訊資訊，針對 Microsoft Office 365，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a053ad5e60924f5d45fb8b99f91fe87b6dfe844e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: dca13bf8ef2d0ab2147e7457ab617196edae7fd6
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63546561"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64623205"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>Microsoft Office 365 的雲端備份
 
@@ -36,8 +36,11 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 | 合作夥伴公司名稱 | AvePoint Inc.。 |
 | 公司的網站 | [https://www.avepoint.com](https://www.avepoint.com) |
 | App 的使用條款 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| 應用程式的核心功能 | AvePoint 雲端備份是業界&#8217;最完整的雲端對雲端備份解決方案，適用于 Microsoft 365。 With
-在 AvePoint&#8217;Azure 儲存體或您自己的雲端中的無限制、自動化備份和安全儲存，您只需決定復原的數量和時間。 依需求和細微的專案層級還原可讓您隨時隨地存取商務重要電子郵件、檔案、交談、記錄、專案、工作、群組、Teams、規劃人員和網站。 | |公司 headquarter 位置 |美國地區 | |應用程式資訊頁面 | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) | |用來執行應用程式的主控環境或服務模型為何？ |Paas | |應用程式會使用哪一個主控雲端提供者？ |Azure |
+| 應用程式的核心功能 | AvePoint 雲端備份是業界&#8217;最完整的雲端對雲端備份解決方案，適用于 Microsoft 365。 在 AvePoint&#8217;Azure 儲存體或您自己的雲端中使用無限制、自動化備份和安全儲存，您只需決定復原的數量和時間。 依需求和細微的專案層級還原可讓您隨時隨地存取商務重要電子郵件、檔案、交談、記錄、專案、工作、群組、Teams、規劃人員和網站。 |
+| 公司 headquarter 位置 | 北美美國 |
+| 應用程式資訊頁面 | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) |
+| 用來執行應用程式的主控環境或服務模型為何？ | Paas |
+| 應用程式會使用哪一個主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,7 +59,7 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 | App 是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 資料庫中儲存的資料為何？ | SharePoint site/ODFB site/Microsoft 365 群組/團隊識別碼、名稱、url; |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
+| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 北美美國 |
 | 您是否有既定的資料 rentention 與處置程式？ | 是 |
 | 在帳戶終止後，資料會保留多久？ | 小於30days |
 | 您是否有既定的資料存取管理程式？ | 是 |
@@ -154,19 +157,19 @@ AvePoint Inc. 所提供的資訊給 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
+| 您的應用程式會與 Microsoft Identity Platform (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
 | 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
-| 列出支援的原則類型 | application federates 使用 Azure AD，因此可以使用所有的條件式存取規則。 |
+| 列出支援的原則類型 | Application federates with the Azure AD，因此可以使用所有的條件式存取規則。 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
 | 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
 | Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| ChannelMember ReadWrite。 | 應用程式 | 新增及移除所有通道中的成員 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 >| ChannelMessage Read。 All | 應用程式 | 讀取所有通道郵件 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
