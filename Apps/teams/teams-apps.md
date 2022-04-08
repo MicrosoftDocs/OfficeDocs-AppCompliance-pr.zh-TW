@@ -3,17 +3,17 @@ title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/05/2022
+ms.date: 04/06/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: c4a980802eb9c2dd1cc9779720b2136a4c8da92d
-ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
-ms.translationtype: MT
+ms.openlocfilehash: 42fec656528c9d01799845ef635e337f96ab56b4
+ms.sourcegitcommit: 9f7e69c17034365cafea977da23961d4e934ad9f
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64681834"
+ms.lasthandoff: 04/07/2022
+ms.locfileid: "64694334"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -98,7 +98,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Chronus](./chronus.md) | Chronus | **✓** |  |
 | [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | ci solution GmbH | **✓** |  |
-| [Clerk SMS](./unnamed-ventures-llc-clerk-sms.md) | 未具名的一般，LLC。 | **✓** |  |
+| [Clerk SMS](./unnamed-ventures-llc-clerk-sms.md) | Unnamed Ventures, LLC. | **✓** |  |
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Clixie](./clixie-media-llc.md) | Clixie Media LLC | **✓** |  |
 | [Cloud Effective](./cloud-effective.md) | Cloud Effective | **✓** |  |
@@ -126,6 +126,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [CSOD Learn](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
 | [Cuckoo Workout](./cuckoo-networks-oy-workout.md) | Cuckoo Networks Oy | **✓** |  |
 | [Cultr Connect](./cultr-connect.md) | Cultr | **✓** |  |
+| [Culture Amp](./culture-amp.md) | Culture Amp | **✓** |  |
 | [Cyberday](./digiturvamalli-cyberday.md) | Digiturvamalli | **✓** |  |
 | [DataMiner](./skyline-communications-dataminer.md) | Skyline 通訊 | **✓** |  |
 | [Datto Workplace](./datto-inc-workplace.md) | Datto, Inc. | **✓** |  |
