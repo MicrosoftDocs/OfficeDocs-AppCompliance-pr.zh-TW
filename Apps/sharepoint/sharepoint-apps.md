@@ -1,39 +1,46 @@
 ---
-title: Microsoft SharePoint 應用程式安全性與合規性-所有應用程式
+title: Microsoft SharePoint Apps 安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 04/08/2022
 ms.topic: article
 ms.service: attestation
-description: 所有 Microsoft SharePoint 應用程式的所有可用安全性和符合性資訊資訊。
+description: 所有 Microsoft SharePoint Apps 的所有可用安全性與合規性資訊。
 localization_priority: Normal
+ms.openlocfilehash: 18973e890d4ebf8a24eb8a0611f7224e1c7aa1a1
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64747742"
 ---
-# <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 應用程式安全性與合規性
+# <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Apps 安全性與合規性
 
-microsoft 與我們的 Microsoft 365 開發人員合作夥伴合作，提供組織所需的資訊，以加速及告知有關 Microsoft SharePoint 應用程式及其所使用增益集的決策。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
+Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供組織加速和通知有關 Microsoft SharePoint Apps 及其使用增益集決策所需的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Microsoft Office SharePoint Online 的 Adobe Acrobat 符號](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc.。 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [SharePoint 的 ArcGIS](./esri-inc-arcgis-for-sharepoint.md) | Esri，Inc.。 | **✓** |  |
-| [投標管理系統](./beyond-technologies-bid-management-system.md) | 超越技術 | **✓** |  |
-| [Bizagi Webpart](./bizagi-team-webparts.md) | Bizagi 小組 | **✓** |  |
-| [行事曆疊加](./cloudwell-calendar-overlay.md) | Cloudwell | **✓** |  |
-| [SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 企業數位機器 PTY 有限公司 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [SharePoint 的 HelloSign](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox inc.。 | **✓** |  |
-| [Ichicraft Boards-您的數位工作場所](./ichicraft-bv-boards-your-digital-workplace.md) | ichicraft b.v. | **✓** |  |
+| [適用于 Microsoft Office SharePoint Online 的 Adobe Acrobat Sign](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [適用于 SharePoint Online 的敏捷式工作面板](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
+| [ArcGIS for SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri， Inc. | **✓** |  |
+| [Bid Management System](./beyond-technologies-bid-management-system.md) | 超越技術 | **✓** |  |
+| [Bizagi 網頁元件](./bizagi-team-webparts.md) | Bizagi 小組 | **✓** |  |
+| [行事曆重迭](./cloudwell-calendar-overlay.md) | Cloudwell | **✓** |  |
+| [適用于 SharePoint 的 FormMachines 連接器](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | ENTERPRISE DIGITAL MACHINES PTY LTD | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [HelloSign for SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox Inc. | **✓** |  |
+| [Craftcraft Boards - 您的數位工作場所](./ichicraft-bv-boards-your-digital-workplace.md) | mobcraft b.v. | **✓** |  |
 | [iGlobe CRM 附加元件](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [iGlobe Microsoft Office 365 的 CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Konnect 電子郵件分析器](./konnect-email-parser.md) | Konnect 電子郵件 | **✓** |  |
-| [LifeWorks Viva Connections](./lifeworks-inc-viva-connections.md) | Lifeworks Inc。 | **✓** |  |
-| [閃電工具閃電線](./lightning-tools-conductor.md) | 閃電工具 | **✓** |  |
-| [officeatwork-SharePoint 的範本選擇器](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [適用于 Microsoft Office 365 的 iGlobe CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
+| [LifeWorks Viva Connections](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
+| [閃電工具閃電導線](./lightning-tools-conductor.md) | 閃電工具 | **✓** |  |
+| [officeatwork - 適用于 SharePoint 的範本選擇器](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI 共同作業](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
-| [SharePoint sapiens 員工訓練管理](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
-| [SharePoint sapiens 事件管理](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
-| [SharePoint sapiens 現代化使用者介面](./sharepointsapiens-modern-user-interface.md) | SharePointSapiens | **✓** |  |
-| [更聰明的事件預約](./smarter-business-solutions-gmbh-event-booking.md) | 更智慧的商務解決方案 GmbH | **✓** |  |
-| [社交方形討論論壇](./lightning-tools-social-squared-discussion-forums.md) | 閃電工具 | **✓** |  |
-| [分類](./accuracy-software-inc-taxonomy.md) | 準確性軟體 Inc.。 | **✓** |  |
-| [線上 SharePoint 的 Zynyo 符號](./zynyo-sign-for-sharepoint-online.md) | Zynyo | **✓** |  |
+| [SharePoint-sapiens 員工訓練管理](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens 事件管理](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens 新式使用者介面](./sharepointsapiens-modern-user-interface.md) | SharePointSapiens | **✓** |  |
+| [智慧型事件預約](./smarter-business-solutions-gmbh-event-booking.md) | 智慧型商務解決方案 GmbH | **✓** |  |
+| [社交平方討論論壇](./lightning-tools-social-squared-discussion-forums.md) | 閃電工具 | **✓** |  |
+| [分類](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |
+| [適用于 SharePoint Online 的 Zynyo Sign](./zynyo-sign-for-sharepoint-online.md) | Zynyo | **✓** |  |
