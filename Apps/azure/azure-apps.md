@@ -1,25 +1,25 @@
 ---
-title: Aplicação Azure AD識別碼安全性與合規性 - 所有應用程式
+title: Azure App識別碼安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/08/2022
+ms.date: 04/09/2022
 ms.topic: article
 ms.service: attestation
-description: 所有Aplicação Azure AD識別碼的所有可用安全性與合規性資訊。
+description: 所有Azure App識別碼的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: a8b9282ac5a2de6649adb8dd4905498721aa589c
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: 8f2d4c27559fb3da5e222b570b8689314d652c39
+ms.sourcegitcommit: 60344676a860c837b8a727c43d6cec430044c3f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64751522"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "64768502"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Aplicação Azure AD識別碼安全性與合規性
+# <a name="azure-app-ids-security-and-compliance"></a>Azure App識別碼安全性與合規性
 
-Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供組織加速和通知其所使用Aplicação Azure AD識別碼和增益集決策所需的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
+Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，提供組織加速和通知其所使用Azure App識別碼和增益集決策所需的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
-| **Aplicação Azure AD識別碼** | **發行者證明** | **認證** |
+| **Azure App識別碼** | **發行者證明** | **認證** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
@@ -304,6 +304,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [eb628055-f790-4ef0-9fce-ac95b4c61466](./eb628055-f790-4ef0-9fce-ac95b4c61466.md) | **✓** |  |
 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](./eb668aa5-abb2-445c-81b4-3c174db84fe2.md) | **✓** |  |
 | [ecff17cf-5629-49ba-a629-7f575496aeac](./ecff17cf-5629-49ba-a629-7f575496aeac.md) | **✓** |  |
+| [ed6cb2ac-21e8-4e9c-a917-6a2d5f03e3a5](./ed6cb2ac-21e8-4e9c-a917-6a2d5f03e3a5.md) | **✓** |  |
 | [edb24f8f-38af-4b3e-9475-0da243678d5a](./edb24f8f-38af-4b3e-9475-0da243678d5a.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ef5fa233-c0bb-424e-b9dc-0466d46bade2](./ef5fa233-c0bb-424e-b9dc-0466d46bade2.md) | **✓** |  |
 | [f0199b83-0ca3-4b41-a23b-d9b234484438](./f0199b83-0ca3-4b41-a23b-d9b234484438.md) | **✓** |  |
@@ -325,5 +326,4 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da](./fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da.md) | **✓** |  |
 | [fc8f7563-e8ea-4b6d-9622-82775a21a35a](./fc8f7563-e8ea-4b6d-9622-82775a21a35a.md) | **✓** |  |
 | [mmbfc71-2cf8-42f0-bcdd-83e5f4acfdcc](./fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) | **✓** |  |
-| [ff540df6-84dc-4a84-baa4-a95ce3b415cd](./ff540df6-84dc-4a84-baa4-a95ce3b415cd.md) | **✓** |  |
 | [ff5f406c-2ded-423f-b6ba-2950a2532b69](./ff5f406c-2ded-423f-b6ba-2950a2532b69.md) | **✓** |  |

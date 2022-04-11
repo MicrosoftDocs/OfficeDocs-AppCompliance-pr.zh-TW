@@ -5,14 +5,14 @@
       items:
         - name: 概觀
           href: overview.md
-        - name: 什麼是發行者驗證？
+        - name: 什麼是Publisher驗證？
           href: /azure/active-directory/develop/publisher-verification-overview
         - name: 什麼是Microsoft 365認證？
           href: docs/enterprise-app-certification-guide.md
     - name: 適用于開發人員
       expanded: true
       items:
-        - name: 完成發行者驗證
+        - name: 完成Publisher驗證
           href: /azure/active-directory/develop/mark-app-as-publisher-verified
         - name: 完成Microsoft 365認證
           href: docs/certification.md
@@ -35,15 +35,15 @@
           href: excel/impression-signatures.md
         - name: 適用于 Excel 的 Jira Cloud
           href: excel/atlassiancom-jira-cloud-for-excel.md
-        - name: MeaningCloud Analiză text for Excel
+        - name: MeaningCloud 文字分析 for Excel
           href: excel/meaningcloud-text-analytics-for-excel.md
         - name: Office2SharePoint for Office
           href: excel/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork |Office 版內容選擇器
+        - name: officeatwork |適用于Office的內容選擇器
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office 的影像選擇器
+        - name: officeatwork |適用于 Office 的影像選擇器
           href: excel/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork |Office 範本選擇器
+        - name: officeatwork |適用于 Office 的範本選擇器
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: 報表產生器
           href: excel/adobe-inc-report-builder.md
@@ -60,9 +60,9 @@
     - name: Microsoft OneNote Apps
       href: onenote/onenote-apps.md
       items:
-        - name: officeatwork |Office 版內容選擇器
+        - name: officeatwork |適用于Office的內容選擇器
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office 的影像選擇器
+        - name: officeatwork |適用于 Office 的影像選擇器
           href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
     - name: Microsoft Outlook Apps
       href: outlook/outlook-apps.md
@@ -132,13 +132,13 @@
           href: powerpoint/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
         - name: Office2SharePoint for Office
           href: powerpoint/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork |Office 版內容選擇器
+        - name: officeatwork |適用于Office的內容選擇器
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office 的影像選擇器
+        - name: officeatwork |適用于 Office 的影像選擇器
           href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork |適用于 Office 的投影片選擇器
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
-        - name: officeatwork |Office 範本選擇器
+        - name: officeatwork |適用于 Office 的範本選擇器
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Showmaster
           href: powerpoint/cherryware-showmaster.md
@@ -149,7 +149,7 @@
     - name: Microsoft Project應用程式
       href: project/project-apps.md
       items:
-        - name: officeatwork |Office 範本選擇器
+        - name: officeatwork |適用于 Office 的範本選擇器
           href: project/officeatwork-officeatworktemplate-chooser-for-office.md
     - name: Microsoft SharePoint Apps
       href: sharepoint/sharepoint-apps.md
@@ -221,6 +221,8 @@
           href: teams/adobe-systems-inc-acrobat.md
         - name: Adobe Acrobat Sign
           href: teams/adobe-acrobat-sign.md
+        - name: Adobe Creative Cloud Express
+          href: teams/adobe-creative-cloud-express.md
         - name: Agenda Boss
           href: teams/appfluence-inc-agenda-boss.md
         - name: 敏捷任務面板
@@ -289,6 +291,8 @@
           href: teams/avaamo-it-assistant.md
         - name: Axelleron
           href: teams/axelleron.md
+        - name: 座標軸
+          href: teams/axis-workshops-ltd.md
         - name: Beagle
           href: teams/decision-point-beagle.md
         - name: Bedriftsnett
@@ -503,6 +507,8 @@
           href: teams/evernote.md
         - name: Evocom
           href: teams/evocom-informationssysteme-gmbh.md
+        - name: Expensya
+          href: teams/expensya.md
         - name: 外部使用者管理員
           href: teams/solutions2share-gmbh-external-user-manager.md
         - name: ezTeam
@@ -595,8 +601,6 @@
           href: teams/digital-attitude-srl-hi-coach.md
         - name: Hi5
           href: teams/hi5technologies-hi5.md
-        - name: HighSide
-          href: teams/highside-inc.md
         - name: HighSide Collaboration
           href: teams/highside-inc-collaboration.md
         - name: Highspot
@@ -683,6 +687,8 @@
           href: teams/lawtoolboxcominc-lawtoolbox.md
         - name: LawVu APAC
           href: teams/lawvu-apac.md
+        - name: LawVu Europe
+          href: teams/lawvu-europe.md
         - name: LawVu USA
           href: teams/lawvu-usa.md
         - name: Learnbee
@@ -787,8 +793,6 @@
           href: teams/jalios-sa-news.md
         - name: ngDesk
           href: teams/all-blue-solutions-ngdesk.md
-        - name: NickNack
-          href: teams/nicknack-ltd.md
         - name: nickname by flowrish games
           href: teams/room6-nickname-by-flowrish-games.md
         - name: Nulia Works
@@ -1009,6 +1013,8 @@
           href: teams/superoffice-infobridge-software.md
         - name: SurveyMonkey
           href: teams/surveymonkey.md
+        - name: SurveyMoodbit
+          href: teams/moodbit-surveymoodbit.md
         - name: SurveySparrow
           href: teams/surveysparrow-inc.md
         - name: Svava for Meetings
@@ -1061,7 +1067,7 @@
           href: teams/teamschamp.md
         - name: Communitio 的 TeamSticker
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: 團隊合作
+        - name: 團隊工作
           href: teams/teamwork.md
         - name: TELUS Business Connect
           href: teams/ringcentral-inc-telus-business-connect.md
@@ -1079,6 +1085,8 @@
           href: teams/thoughtwire-corp-ews.md
         - name: ti8m 位置
           href: teams/tim-ag-ti8m-places.md
+        - name: 票務
+          href: teams/kitameraki-limited-ticketing.md
         - name: Tikit
           href: teams/cireson-tikit.md
         - name: TimeClock 365
@@ -1198,7 +1206,7 @@
           href: word/krevealllc-crosscheck.md
         - name: Excel對 Word 檔自動化
           href: word/analysisplace-excel-to-word-document-automation.md
-        - name: Fabasoft Cloud Office 增益集
+        - name: Fabasoft Cloud Office增益集
           href: word/fabasoft-austria-gmbh-cloud-office-add-in.md
         - name: 適用于 Microsoft Word、Excel 和 PowerPoint 的 Foxit PDF 編輯器
           href: word/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
@@ -1214,19 +1222,19 @@
           href: word/neopolis-gmbh.md
         - name: Office2SharePoint for Office
           href: word/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork |Office 版內容選擇器
+        - name: officeatwork |適用于Office的內容選擇器
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office 設計工具
+        - name: officeatwork |Office設計工具
           href: word/officeatwork-officeatworkdesigner-for-office.md
-        - name: officeatwork |Office 的影像選擇器
+        - name: officeatwork |適用于 Office 的影像選擇器
           href: word/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork |Office 範本選擇器
+        - name: officeatwork |適用于 Office 的範本選擇器
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: officeatwork |Office 的上傳程式
+        - name: officeatwork |Office的上傳程式
           href: word/officeatwork-officeatworkuploader-for-office.md
-        - name: officeatwork |Office 的驗證程式
+        - name: officeatwork |Office的驗證器
           href: word/officeatwork-officeatworkverifier-for-office.md
-        - name: officeatwork |Office 精靈
+        - name: officeatwork |Office精靈
           href: word/officeatwork-officeatworkwizard-for-office.md
         - name: RetMig 和 Kommaforslag
           href: word/grammarsoft-aps-retmigkommaforslag.md
@@ -1305,7 +1313,7 @@
           href: saas/iglobe-office2sharepoint-for-teams.md
         - name: 適用于 MS365 的 Onna Discovery
           href: saas/onna-discovery-for-ms365.md
-        - name: 適用于 Microsoft Office 365 的原則和深入解析
+        - name: Microsoft Office 365的原則和Insights
           href: saas/avepoint-inc-policiesinsights-for-microsoft-office-365.md
         - name: Priority Matrix
           href: saas/appfluence-inc-priority-matrix.md
@@ -1331,7 +1339,7 @@
           href: saas/wide-ideasidea2innovation-ideas-innovation-software.md
         - name: Wizard
           href: saas/officeatwork-wizard.md
-    - name: Aplicação Azure AD識別碼
+    - name: Azure App識別碼
       href: azure/azure-apps.md
       items:
         - name: 00485db5-81b3-4299-833a-8d6c366d0ac0
@@ -1900,6 +1908,8 @@
           href: azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md
         - name: ecff17cf-5629-49ba-a629-7f575496aeac
           href: azure/ecff17cf-5629-49ba-a629-7f575496aeac.md
+        - name: ed6cb2ac-21e8-4e9c-a917-6a2d5f03e3a5
+          href: azure/ed6cb2ac-21e8-4e9c-a917-6a2d5f03e3a5.md
         - name: edb24f8f-38af-4b3e-9475-0da243678d5a
           href: azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md
         - name: ef5fa233-c0bb-424e-b9dc-0466d46bade2
@@ -1942,7 +1952,5 @@
           href: azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a.md
         - name: mmbfc71-2cf8-42f0-bcdd-83e5f4acfdcc
           href: azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md
-        - name: ff540df6-84dc-4a84-baa4-a95ce3b415cd
-          href: azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd.md
         - name: ff5f406c-2ded-423f-b6ba-2950a2532b69
           href: azure/ff5f406c-2ded-423f-b6ba-2950a2532b69.md
