@@ -1,21 +1,21 @@
 ---
-title: Azure App a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的識別碼資訊
+title: Aplicação Azure AD a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/07/2022
+ms.date: 04/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: a9b0c190-bafb-49ca-a61a-dab99cf2c43b 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: d1110eb54cf8ded06430014579b93177c0e958e5
-ms.sourcegitcommit: 9cc3fe8502a6f21f3f6abb4dd23b99b116c51b8e
+ms.openlocfilehash: 0a533d715f64155cb831c43d22d9b2609f879188
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64722227"
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64751572"
 ---
-# <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure App識別碼：a9b0c190-bafb-49ca-a61a-dab99cf2c43b
+# <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Aplicação Azure AD識別碼：a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 
 
 ### <a name="apps-associated-with-this-id"></a>與此識別碼相關聯的應用程式：
@@ -26,5 +26,5 @@ ms.locfileid: "64722227"
 | [適用于 Microsoft Word 和 PowerPoint 的 Adobe Acrobat Sign](../forward/WA104381155.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381155](https://appsource.microsoft.com/product/office/WA104381155) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365應用程式合規性狀態
-- Publisher證明狀態：已完成
+- 發行者證明狀態：已完成
 - Microsoft 365認證：核准 (2022/02/23) 

@@ -1,25 +1,25 @@
 ---
-title: Azure App識別碼安全性與合規性 - 所有應用程式
+title: Aplicação Azure AD識別碼安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/07/2022
+ms.date: 04/08/2022
 ms.topic: article
 ms.service: attestation
-description: 所有Azure App識別碼的所有可用安全性與合規性資訊。
+description: 所有Aplicação Azure AD識別碼的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 4a2e8923990e6ae3b8abf36cf78810168089b371
-ms.sourcegitcommit: 9cc3fe8502a6f21f3f6abb4dd23b99b116c51b8e
+ms.openlocfilehash: a8b9282ac5a2de6649adb8dd4905498721aa589c
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64719587"
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64751522"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Azure App識別碼安全性與合規性
+# <a name="azure-app-ids-security-and-compliance"></a>Aplicação Azure AD識別碼安全性與合規性
 
-Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，提供組織加速和通知其所使用Azure App識別碼和增益集決策所需的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
+Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供組織加速和通知其所使用Aplicação Azure AD識別碼和增益集決策所需的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
-| **Azure App識別碼** | **發行者證明** | **認證** |
+| **Aplicação Azure AD識別碼** | **發行者證明** | **認證** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
@@ -287,6 +287,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，提供組
 | [d980249e-fb0c-40a9-8706-f77f95660bdc](./d980249e-fb0c-40a9-8706-f77f95660bdc.md) | **✓** |  |
 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](./dae2eacf-3eb5-4440-baff-984fbd5cae68.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [dc171e47-c074-4bc2-9e7b-3856b71e0630](./dc171e47-c074-4bc2-9e7b-3856b71e0630.md) | **✓** |  |
+| [dc8facfc-c606-44b4-a0ad-04f81446845c](./dc8facfc-c606-44b4-a0ad-04f81446845c.md) | **✓** |  |
 | [dea67e43-444e-4852-b57b-b57878a4022b](./dea67e43-444e-4852-b57b-b57878a4022b.md) | **✓** |  |
 | [e208746a-2666-4d95-b925-e2ff64b3181d](./e208746a-2666-4d95-b925-e2ff64b3181d.md) | **✓** |  |
 | [e54fe734-manual8-48b2-9ec8-05c2545cc49d](./e54fe734-bab8-48b2-9ec8-05c2545cc49d.md) | **✓** |  |

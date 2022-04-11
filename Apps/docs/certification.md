@@ -1,66 +1,66 @@
 ---
-title: 完成 Microsoft 365 認證
+title: 完成Microsoft 365認證
 author: OrionOmalley
 ms.author: oromalle
 manager: tonybal
-description: Microsoft 365 認證詳細資料一覽表
-keywords: 應用程式認證證明 Microsoft 365 appSource
+description: Microsoft 365認證詳細資料概觀
+keywords: appSource Microsoft 365應用程式認證證明
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 18cc1c497c5d9cf06d67e0103524a3598faaee99
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+ms.openlocfilehash: a2cc6aa402e05c481bebb2cf19036477b4324e06
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63696495"
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64751792"
 ---
-# <a name="complete-microsoft-365-certification"></a>完成 Microsoft 365 認證
+# <a name="complete-microsoft-365-certification"></a>完成Microsoft 365認證
 
-完成 Microsoft 365 憑證需要完成認證的兩個階段：**證明** 和 **認證**。
+完成Microsoft 365認證需要完成認證的兩個階段：**證明** 和 **認證**。
 
 
 ## <a name="certification-process"></a>認證程式
 
 ### <a name="attestation"></a>認證
 
-1. **請** 參與-Microsoft 365 憑證的兩個階段現在已在 [夥伴中心](https://partner.microsoft.com)內整合。 您可以在夥伴中心內的方便使用問卷中完成證明。 如需逐步程式，請參閱我們的[Office 存放區](../docs/userguide.md)和[商業市場](/docs/saasuserguide.md)使用者指南。
+1. **參與**— 這兩個階段的Microsoft 365認證現在已整合到 [合作夥伴中心](https://partner.microsoft.com)內。 您可以在合作夥伴中心內的使用者易記問卷中完成證明。 如需逐步程式，請參閱我們的 [Office 市集](../docs/userguide.md) 和 [商業市集](../docs/SaaSUserGuide.md) 使用者指南。
 
-1. **查看線上入口網站** ：核准核准後，您的應用程式會列在線上存放庫中，並且會包含下列專案：
+1. **檢視線上入口網站** — 一旦您的證明獲得核准，您的應用程式將會列在線上存放庫中，並包含下列專案：
    - 提交時間戳記。
-   - 連結至提交資訊的詳細複本。
-   - 根據您提交的證明報告所提供的資訊的宣告。
-   - 例如，*請參閱* [Microsoft Teams 應用程式安全性和合規性](../teams/teams-apps.md)
+   - 已提交資訊詳細複本的連結。
+   - 所提供資訊的宣告是以您提交的證明報告為基礎。
+   - 例如，*請參閱* [Microsoft Teams App Security and Compliance](../teams/teams-apps.md)
 
 
 ## <a name="certification"></a>認證
 
-1. **完成準備**-認真閱讀 Microsoft 365 憑證 [提交指南](../docs/certification-submission-guide.md)，以瞭解您將需要的專案。 確定您能夠履行 Microsoft 365 認證提交指南中所指定的[控制需求](../docs/certification-submission-guide.md#app-certification-criteria)。
+1. **完成準備**- 仔細閱讀 [Microsoft 365認證提交指南](../docs/certification-submission-guide.md)，以瞭解您需要哪些專案。 請確定您能夠滿足Microsoft 365認證提交指南中所指定的[控制](../docs/certification-submission-guide.md#app-certification-criteria)需求。
 
-1. **開始認證** -在夥伴中心內按一下「開始認證」。 這會讓您進入初始檔提交入口網站。 提交您的 [初始檔提交](../docs/certification-submission-guide.md#initial-document-submission)。 這可協助我們根據您的應用程式的設計方式及處理客戶資料的方式，判斷評估的範圍。 請經常檢查此頁面，查看是否已接受您的提交。
+1. **啟動認證** - 在合作夥伴中心內按一下 [啟動認證]。 這會帶您前往初始檔提交入口網站。 提交 [您的初始檔提交](../docs/certification-submission-guide.md#initial-document-submission)。 這可協助我們根據您的應用程式架構和處理客戶資料的方式，判斷評量的範圍為何。 請經常檢查此頁面，以查看您的提交是否已接受。
 
-1. 送出 **證據**-您的初始檔提交一經接受，您的應用程式所需的安全性控制組將會自動顯示在入口網站中。 接著，您必須為每個控制項提交證據，以示範該控制項已就地。 請記住，您會在提交所有的證據時，提供 **60 天** 的時間。 分析員會檢查您的證據，並核准該控制項或要求新的或其他的證據。 請經常檢查此頁面，查看是否已接受您的證據。
+1. **提交辨識項** - 一旦接受您的初始檔提交，您應用程式所需的一組安全性控制項將會自動顯示在入口網站中。 接著，您必須提交每個控制項的辨識項，以證明控制項已就緒。 請記住，您有 **60 天** 的時間提交所有辨識項。 分析師會檢閱您的辨識項，並核准控制項或要求新的或額外的辨識項。 請經常檢查此頁面，以查看是否已接受您的辨識項。
 
 >[!NOTE]
-> 請參閱 [範例證據指南](../docs/certification-sample-evidence-guide.md) 以取得所需證據的具體範例。
+> 如需所需辨識項的具體範例，請參閱範例辨識項 [指南](../docs/certification-sample-evidence-guide.md) 。
 
-1. **取得認可** -當您的提交已由分析員驗證之後，您將會收到您的認證決策通知。 已獎勵認證的應用程式將會在其應用程式內的 **(Teams、Office、AppSource)** 和管理入口網站上收到標記， **(Teams、M365)** 和 **Microsoft** 檔頁面。 您可以在 [這裡](../docs/enterprise-app-certification-guide.md#program-benefits)閱讀認證的完整優點。
+1. **取得認證** - 一旦分析師驗證您的提交之後，您將會收到認證決策的通知。 獲得認證的應用程式會在其應用程式的 Marketplace **(Teams、Office、AppSource)** 和系統管理入口 **網站 (Teams、M365)** 和 **Microsoft 檔** 頁面中收到徽章。 您可以 [在這裡](../docs/enterprise-app-certification-guide.md#program-benefits)閱讀認證的完整優點。
 
 
-## <a name="review-and-re-certification"></a>審閱和重新認證
-當您的應用程式在您的任何時刻 [發生重大變更](../docs/certification-submission-guide.md#significant-changes) 時，就會要求您通知我們。
+## <a name="review-and-re-certification"></a>檢閱並重新認證
+如果您的應用程式在任何時間點進行 [重大變更](../docs/certification-submission-guide.md#significant-changes) ，您都必須通知我們。
 
-您也需要一年的頻率執行 recertification。 這將需要針對目前的環境重新驗證範圍內的控制。 此程式最多可在您的認證到期前的90天內開始。 在重新提交期間內，您的現有認證將不會過期。 在所有程式中重新認證，您的 Microsoft 365 認證一年的周年年到期。
+您也必須每年進行重新認證。 這需要針對您目前的環境重新驗證範圍內的控制項。 此程式最多可在認證到期前 90 天開始。 您現有的認證不會在重新認證期間過期。 所有方案的重新認證會在您Microsoft 365認證的一週年日到期。
 
-如果您的憑證在到期日之前未更新，您的應用程式認證狀態將會被撤銷。 所有聲譽徽章授予、圖示及相關聯的認證商標都會從您的應用程式中移除，而您將在 Microsoft 365 認證時禁止將您的應用程式公佈。
+如果您的認證未在到期日之前更新，您的應用程式認證狀態將會被撤銷。 所有徽章、圖示和相關聯的認證商標都會從您的應用程式中移除，而且您將禁止將應用程式公告為Microsoft 365認證。
 
 
 > [!IMPORTANT]
-> 加入 Microsoft 365 的憑證計畫後，您就會同意這些補充條款，並遵循任何適用于您參與 microsoft Corporation 之 Microsoft 365 認證計畫的隨附檔， ( "Microsoft"、"我們"、"us" 或 "我們" ) 。 您表示並保證我們具有授權，可代表您自己、公司和（或）其他實體接受這些 Microsoft 365 憑證補充條款。 我們隨時可能會變更、修改或終止這些補充字詞。 在任何變更或修正之後，您繼續參與 Microsoft 365 認證計畫，表示您同意新的增補條款。 如果您不同意新的附加條款，或是我們終止這些補充條款，您必須停止參與 Microsoft 365 認證計畫。
-所有的證據（包括但不限於檔、螢幕擷取畫面及影像）都會保留在安全的存放庫中（從提交的憑證提交時開始，18個月）。 18個月後會清除所有證據
+> 藉由參與Microsoft 365認證計畫，您同意這些補充條款，並遵守適用于您參與 microsoft Corporation (「Microsoft」、「we」、「us」 或 「our」) 之Microsoft 365認證計畫的任何隨附檔。 您代表並保證您有權代表自己、公司及/或其他實體接受這些Microsoft 365認證補充條款。 我們隨時可能會變更、修改或終止這些補充條款。 在任何變更或增修之後，您繼續參與Microsoft 365認證計畫，表示您同意新的補充條款。 如果您不同意新的補充條款，或我們終止這些補充條款，您必須停止參與Microsoft 365認證計畫。
+所有包含但不限於檔、螢幕擷取畫面和影像的辨識項，都會在提交時起于安全存放庫中保留 18 個月，作為稽核證明。 18 個月後，所有辨識項都會被清除
 
 ## <a name="learn-more"></a>深入了解
 
-* [Microsoft 365 應用程式規範計畫概述](~/overview.md)  
-* [何謂 Publisher 驗證？](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
-* [何謂 Microsoft 365 認證？](~/docs/enterprise-app-certification-guide.md)  
-* [Microsoft 365 認證提交指南](~/docs/certification-submission-guide.md)
+* [Microsoft 365應用程式合規性計畫概觀](~/overview.md)  
+* [什麼是發行者驗證？](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
+* [什麼是Microsoft 365認證？](~/docs/enterprise-app-certification-guide.md)  
+* [Microsoft 365認證提交指南](~/docs/certification-submission-guide.md)
