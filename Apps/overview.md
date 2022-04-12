@@ -2,17 +2,18 @@
 title: Microsoft 365 應用程式合規性程式
 author: LGerrard
 ms.author: Legerrar
+manager: tonybal
 description: 程式簡介和概觀
 keywords: Microsoft 365 m365 應用程式發行者證明憑證
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: 17aab158f4fc7803966afed9df88adf9688fcc63
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+ms.openlocfilehash: fec13172c98d6ec63b3ba4160eb04c9b345acb8d
+ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63697065"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64784352"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 應用程式合規性程式
 
@@ -24,7 +25,7 @@ Microsoft 365 應用程式合規性計畫是應用程式安全性與合規性的
 
 ## <a name="publisher-verification"></a>發行者驗證
 
-[發行者驗證](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)可幫助管理員和使用者了解與 Microsoft 身分識別平台整合的應用程式開發人員的確實性。 當應用程式被標記為已完成發行者驗證，這表示發行者已使用Microsoft 合作夥伴網絡帳戶驗證了自己的身份，該帳戶已完成驗證流程，並將此 MPN 帳戶與他們的應用程式註冊連結。
+[發行者驗證](/azure/active-directory/develop/publisher-verification-overview)可幫助管理員和使用者了解與 Microsoft 身分識別平台整合的應用程式開發人員的確實性。 當應用程式被標記為已完成發行者驗證，這表示發行者已使用Microsoft 合作夥伴網絡帳戶驗證了自己的身份，該帳戶已完成驗證流程，並將此 MPN 帳戶與他們的應用程式註冊連結。
 發行者驗證會套用至符合以下條件的應用程式：  
 - 使用 OAuth 2.0 和 OpenID Connect 讓使用者登入，以及使用服務端 API (例如 Microsoft Graph) 請求存取資料。 
 - 在 Azure AD 中註冊為多租用戶。  
@@ -50,6 +51,6 @@ Microsoft 365 認證適用於與下列 Microsoft 產品整合的所有應用程�
 - **Webapps** (透過合作夥伴中心之商業市集發佈的 SaaS 應用程式目前處於私人預覽中，如果您有興趣參與，請填寫此 [表格](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)。
 
 ### <a name="get-started"></a>開始使用
-- [如何完成發行者驗證](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)
-- [如何完成 Microsoft 365 認證](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification)
+- [如何完成發行者驗證](/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [如何完成 Microsoft 365 認證](/microsoft-365-app-certification/docs/certification)
 
