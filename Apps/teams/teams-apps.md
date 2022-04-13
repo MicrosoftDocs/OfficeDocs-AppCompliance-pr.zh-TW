@@ -3,17 +3,17 @@ title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/11/2022
+ms.date: 04/12/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: dbe22ec8eed60df3f2603a99a90e52a61c11d535
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 6038f62bf7b6b5c56cfe3eb8bbcdc5dafb721d2b
+ms.sourcegitcommit: a1c141babe5cca98683ce1378f956c5955fb9caf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784172"
+ms.locfileid: "64812940"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -400,6 +400,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Skoach](./cultify-lda-skoach.md) | Cultify, Lda | **✓** |  |
 | [SkyPoint Cloud](./skypoint-cloud-inc.md) | SkyPoint Cloud Inc. | **✓** |  |
 | [Slido](./slido.md) | Slido | **✓** |  |
+| [Smarp](./smarp.md) | Smarp | **✓** |  |
 | [Jira 的 Smart Connect](./yasoon-gmbh-smart-connect-for-jira.md) | yasoon GmbH | **✓** |  |
 | [SmartDraw](./smartdraw-software-llc.md) | SmartDraw 軟體，LLC | **✓** |  |
 | [Smartnotation](./smartnotation-bv.md) | Smartnotation B.V. | **✓** |  |
@@ -471,6 +472,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM 數位 SRL | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [Totara](./totara-learning.md) | Totara Learning | **✓** |  |
+| [touchSMS](./edgility-touchsms.md) | 敏捷性 | **✓** |  |
 | [訓練助理](./the-bot-platform-training-assistant.md) | Bot 平台 | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
