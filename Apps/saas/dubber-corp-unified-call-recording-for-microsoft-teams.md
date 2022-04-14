@@ -1,5 +1,5 @@
 ---
-title: Insights Inc 的同位研究者應用程式資訊
+title: Dubber Corp Microsoft Teams的 Dubber 整合通話錄製的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,40 @@ ms.date: 04/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 其他成員的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: 適用于Microsoft Teams的 Dubber 整合通話錄製、其資料處理原則、其Microsoft Cloud App Security應用程式類別目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fbe620884ef1db92f8f6bbb40732d8ede740dd02
+ms.openlocfilehash: 0ffd0d8bd400cb9f2cf1d53e489b3d3afe2023b7
 ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/13/2022
-ms.locfileid: "64838782"
+ms.locfileid: "64838793"
 ---
-# <a name="fellow"></a>Fellow
+# <a name="dubber-unified-call-recording-for-microsoft-teams"></a>適用于 Microsoft Teams 的 Dubber 整合通話錄製
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 4 月 12 日</p>
+<p>上次由開發人員更新日期：2022 年 4 月 11 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/f6671df0-1909-428c-91f7-1c42df04d3e4" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002576" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/dubbercorp1603082091027.dubber01" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Insights公司提供的資訊給 Microsoft：
+Dubber Corp 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Fellow |
-| ID | WA200002576 |
-| 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Fellow Insights Inc |
-| 公司的網站 | [https://fellow.app](https://fellow.app) |
-| 應用程式的使用規定 | [https://fellow.app/terms-of-use/](https://fellow.app/terms-of-use/) |
-| 應用程式的核心功能 | 同事是小組集合以進行具生產力小組會議和有意義的 1：1、建立共同作業會議議程、記錄決策，以及讓彼此負責的地方。 |
-| 公司總部位置 | 加拿大 |
-| 應用程式資訊頁面 | [https://fellow.app/integrations/microsoft-teams/](https://fellow.app/integrations/microsoft-teams/) |
-| 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
-| 應用程式會使用哪些主控雲端提供者？ | Aws |
+| 應用程式名稱 | 適用于 Microsoft Teams 的 Dubber 整合通話錄製 |
+| ID | dubbercorp1603082091027.dubber01 |
+| 合作夥伴公司名稱 | Dubber Corp |
+| 公司的網站 | [https://www.dubber.net](https://www.dubber.net) |
+| 應用程式的使用規定 | [https://www.dubber.net/terms](https://www.dubber.net/terms) |
+| 應用程式的核心功能 | 世界&#8217;#1 整合雲端通話錄製 &amp; 語音 AI，以符合規範、銷售 &amp; 服務效能 |
+| 公司總部位置 | 澳洲 |
+| 應用程式資訊頁面 | |
+| 用來執行應用程式的裝載環境或服務模型為何？ | IsvHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,16 +50,16 @@ Insights公司提供的資訊給 Microsoft：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-這項資訊是由 Insights Inc 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+Dubber Corp 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | 使用者設定檔資料 (名稱、電子郵件、虛擬人偶等等...) 、行事歷數據 (行事曆清單、活動、出席者等等...) ，Teams資料 (小組名稱、小組成員資格) ， &amp; 與@Fellow Bot 直接通訊。 |
+| 您的應用程式會處理哪些資料？ | 使用者通話資料 |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 哪些資料會儲存在您的資料庫中？ | 使用者設定檔資料 (名稱、電子郵件、虛擬人偶等等...) 、行事歷數據 (行事曆清單、活動、出席者等等...) 、Teams資料 (小組名稱、小組成員資格) 。 |
-| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 加拿大 |
+| 哪些資料會儲存在您的資料庫中？ | 客戶名稱和 Microsoft 識別碼、通話錄製/會議資料 |
+| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 澳洲 |
 | 您是否有已建立的資料租用和處置程式？ | 是 |
 | 帳戶終止之後，資料會保留多久？ | 小於 30 天 |
 | 您是否有已建立的資料存取管理程式？ | 是 |
@@ -81,7 +78,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您是否在應用程式上執行年度滲透測試？ | 是 |
 | 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
-| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | ApplicationControls、TraditionalAntiMalware |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware、ApplicationControls |
 | 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
 | 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
 | 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
@@ -109,23 +106,21 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 不適用 |
+| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 是 |
 | 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 否 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您達成哪一個 SOC 2 認證？ | type1 |
-| 最新的 SOC2 認證日期 | 2022-04-08 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 否 |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
-| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 是 |
+| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 是 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 |  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
-| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 不適用 |
-| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
-| 應用程式是否符合 NIST 800-171？ | 不適用 |
+| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 否 |
+| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 否 |
+| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 是 |
+| 應用程式是否符合 NIST 800-171？ | 否 |
 | 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -138,7 +133,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
 | 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
-| 隱私權原則 URL | https://fellow.app/privacy-policy/ |
+| 隱私權原則 URL | https://www.dubber.net/privacy-policy |
 | 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
 | 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
 | 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
@@ -156,29 +151,16 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
-| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 否 |
+| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 否 |
+| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 否 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
 | 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
 | 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
-
->|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 兩者 | 同事是會議管理應用程式，因此為了有效運作，它需要存取讀取和寫入使用者的行事曆。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Channel.ReadBasic.All | 委託 | 可讓使用者將會議筆記張貼到指定的通道，該頻道會列在 [研究者] 中。 請注意，這僅允許我們查看存在哪些通道。 它不會提供讀取訊息的能力。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Directory.Read.All | 應用程式 |  (For 應用程式僅授與) 允許同仁同步處理使用者目錄資訊，包括所有使用者。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Group.Read.All | 應用程式 |  (For 應用程式僅授與) 允許研究者同步處理使用者和群組。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| People.Read | 委託 | 允許使用者尋找要傳送筆記的Microsoft Teams使用者。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| People.Read.All | 應用程式 |  (僅針對應用程式授與) 允許存取所有使用者的設定檔資訊。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Team.ReadBasic.All | 委託 | 允許同事取得小組的基本資訊，以便能夠傳送筆記並新增 [研究者] 索引標籤。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| User.Read | 委託 | 允許使用者登入[研究者]，並取得基本設定檔資訊。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| User.Read.All | 應用程式 |  (僅針對應用程式授與) 允許存取所有使用者的設定檔資訊。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| offline_access | 委託 | 研究者需要 &quot; 對行事歷數據進行離線 &quot; 存取，才能進行背景同步處理。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>此應用程式不會使用 Microsoft Graph。
 
 >此應用程式沒有其他 API。
 
