@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: fe56ddc1a3306d7d4fbaabe0003a811e4b4ac82d
-ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
+ms.openlocfilehash: 16c6e754cbf7575de16f7644d9a8ef19f05906ca
+ms.sourcegitcommit: e0ff50c6828c1ea7789f8c507dc62b66d15768d8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64838770"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "64842089"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性與合規性
 
@@ -48,7 +48,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [Luware Nimbus for Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [郵件簽章](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA - 我的智慧型個人助理](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [MURAL](./mural.md) | MURAL | **✓** |  |
+| [MURAL](./mural.md) | MURAL | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [適用于 Teams 的 MyHub](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [適用于 Microsoft Teams 的 Netskope](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
