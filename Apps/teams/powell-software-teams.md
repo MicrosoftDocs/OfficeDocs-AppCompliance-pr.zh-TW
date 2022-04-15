@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性與合規性資訊，適用于Teams、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f6c39ee1825b4a0ebcfde303336aff7d18e97d1b
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 7136ca19eae434a61de556e7b0ecfe0032d35f78
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784204"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64866822"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -39,7 +39,7 @@ ms.locfileid: "64784204"
 | 合作夥伴公司名稱 | Powell Software |
 | 公司的網站 | [https://www.powell-software.com](https://www.powell-software.com) |
 | 應用程式的使用規定 | [https://powell-software.com/en/powell-teams-terms-of-use/](https://powell-software.com/en/powell-teams-terms-of-use/) |
-| 應用程式的核心功能 | Teams app 為所有公司員工提供智慧型儀表板，協助他們輕鬆地組織 &amp; 所有小組的標籤、探索最重要的升階公司小組，最後使用預先定義的角色型團隊範本來節省時間。 API 也可用來擷取及使用在 Logic Apps 資料庫中的資料集Teams [https://docapiteams.powell-software.com](https://docapiteams.powell-software.com) 最後也提供 Logic Apps 和 Power Automate 的連接器[https://docs.microsoft.com/connectors/powellteams](/connectors/powellteams) |
+| 應用程式的核心功能 | Teams app 為所有公司員工提供智慧型儀表板，協助他們輕鬆地組織 &amp; 所有小組的標籤、探索最重要的升階公司小組，最後使用預先定義的角色型團隊範本來節省時間。 API 也可用來擷取及使用在 Teams 資料庫中的資料集 (https://docapiteams.powell-software.com) 最後，Logic Apps 和 Power Automate 的連接器也可供 (https://docs.microsoft.com/en-us/connectors/powellteams) |
 | 公司總部位置 | 法國 |
 | 應用程式資訊頁面 | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | 用來執行應用程式的裝載環境或服務模型為何？ |  |
@@ -86,11 +86,9 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ |  |
 | 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ |  |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ |  |
-| 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | |
 | 偵測到安全性事件時，警示會自動傳送給員工進行分級？ |  |
 | 您是否已建立正式的資訊安全性風險管理程式？ |  |
 | 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,12 +101,8 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 否 |
 | 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 否 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 否 |
-| 最新的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
-| 您達成哪一個 SOC 2 認證？ | |
-| 最新的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 最新的 SOC3 認證日期 | |
 | 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 否 |
 | 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
@@ -130,15 +124,6 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ |  |
-| 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ |  |
-| 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ |  |
-| 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ |  |
-| 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ |  |
-| 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ |  |
-| 應用程式是否有在要求時刪除個人個人資料的功能？ |  |
-| 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ |  |
-| 應用程式是否提供個人更正或更新其個人資料的能力？ |  |
-| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -153,6 +138,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 真 |
 | 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
 | 您的應用程式是否支援持續存取評估 (CAE)  |  |
 | 您的應用程式是否在程式碼中儲存任何認證？ |  |
 | 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
