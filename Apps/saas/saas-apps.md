@@ -3,17 +3,17 @@ title: SaaS 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/13/2022
+ms.date: 04/14/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 16c6e754cbf7575de16f7644d9a8ef19f05906ca
-ms.sourcegitcommit: e0ff50c6828c1ea7789f8c507dc62b66d15768d8
+ms.openlocfilehash: 5602abf50fcc801dd4489b30fa1738fa1691b3d7
+ms.sourcegitcommit: aa6c1546afd356990d681ee68ce976cb7faebd02
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/14/2022
-ms.locfileid: "64842089"
+ms.locfileid: "64859049"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性與合規性
 
@@ -60,6 +60,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [投影片選擇器](./officeatwork-slide-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [storm Cloud Contact Center Teams整合](./content-guru-storm-cloud-contact-center-teams-integration.md) | 內容 Guru | **✓** |  |
 | [Talkdesk Microsoft Teams連接器](./talkdesk-inc-microsoft-teams-connector.md) | Talkdesk， Inc. | **✓** |  |
+| [TeamOrgChart](./teamimprovercom-ltd-teamorgchart.md) | TeamImprover.Com Ltd | **✓** |  |
 | [範本選擇程式](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [範本選擇器瀏覽器](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Teams視訊的 Theta Lake Recording &amp; 合規性](./theta-lake-recordingcompliance-for-teams-video.md) | Theta Lake | **✓** |  |
