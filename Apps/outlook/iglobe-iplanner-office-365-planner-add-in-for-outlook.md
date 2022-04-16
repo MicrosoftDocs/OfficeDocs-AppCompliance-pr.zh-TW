@@ -1,5 +1,5 @@
 ---
-title: iGlobe 的 iPlanner Office 365 Planner 載入 Outlook 宏的應用程式資訊
+title: iPlanner Office 365 Planner 增益集的應用程式資訊，適用于 iGlobe Outlook
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,41 +7,41 @@ ms.date: 08/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: iPlanner Office 365 Planner 增益集的所有可用安全性和符合性資訊資訊，Outlook、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: 適用于 Outlook 的 iPlanner Office 365 Planner 增益集、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 70a94f0eca46172a9aaba55cc1ed022fe7e02f4e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 130e4464dc12d6e0fe788d1a15073c12af6a9801
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63545261"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64881480"
 ---
-# <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner 增益集 Outlook
+# <a name="iplanner-office-365-planner-add-in-for-outlook"></a>適用于 Outlook 的 iPlanner Office 365 Planner 增益集
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>上次於開發人員的更新日期：2021年8月28日</p>
+<p>上次由開發人員更新日期：2021 年 8 月 28 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380147" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104380147" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 iGlobe 提供給 Microsoft 的資訊：
+iGlobe 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | iPlanner Office 365 Planner 增益集 Outlook |
+| 應用程式名稱 | 適用于 Outlook 的 iPlanner Office 365 Planner 增益集 |
 | ID | WA104380147 |
-| 支援 Office 365 用戶端 | Outlook 2013 或更新版本的 Mac Windows Outlook 2016 或更新版本 Outlook 網頁版 |
+| 支援Office 365用戶端 | Outlook 2013 年或更新版本，請參閱 mac 上的 Windows、Outlook 2016 或更新版本，Outlook 網頁版 |
 | 合作夥伴公司名稱 | iGlobe |
 | 公司的網站 | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
-| App 的使用條款 | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
-| 應用程式的核心功能 | 在任何裝置 Outlook 上的手中，取得 Office 365 planner &amp; Teams 上的計畫任務。 管理和建立工作的工作並不容易。 在 Outlook Windows、MAC、IOS 或 Web 郵件的 Office 365 中，取得 planner &amp; Teams 上的 planner 工作。 |
-| 公司 headquarter 位置 | 丹麥 |
+| 應用程式的使用規定 | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
+| 應用程式的核心功能 | 在任何裝置Outlook，從 Office 365 Planner &amp; Teams取得 Planner 工作。 管理和建立工作從未如此簡單。 在 Windows、MAC、IOS 或 Web 郵件的Outlook中，從 Office 365 Planner &amp; Teams取得 Planner 工作。 |
+| 公司總部位置 | 丹麥 |
 | 應用程式資訊頁面 | [https://planner.iglobe.dk](https://planner.iglobe.dk) |
-| 用來執行應用程式的主控環境或服務模型為何？ |  |
-| 應用程式會使用哪一個主控雲端提供者？ | Azure |
+| 用來執行應用程式的裝載環境或服務模型為何？ |  |
+| 應用程式會使用哪些主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,11 +51,11 @@ ms.locfileid: "63545261"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 iGlobe 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+iGlobe 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
+| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ |  |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -64,31 +64,29 @@ ms.locfileid: "63545261"
 
 ::: zone pivot="security"
 
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
+Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否要在應用程式中執行年度滲透測試？ | 是 |
-| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ |  |
-| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ |  |
-| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ |  |
-| 您是否根據修補原則 Sla 來執行修補程式管理活動？ |  |
-| 您的環境是否有不受支援的作業系統或軟體？ |  |
-| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ |  |
-| 您的外部網路界限是否已安裝防火牆？ |  |
-| 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ |  |
-| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ |  |
-| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ |  |
-| 啟用下列各要素驗證 (MFA) ： |  |
-| 您是否已確定要提供、修改和刪除員工帳戶的程式？ |  |
-| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ |  |
-| 您是否已在所有支援應用程式的系統元件上設定事件記錄？ |  |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | |
-| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ |  |
+| 您是否在應用程式上執行年度滲透測試？ | 是 |
+| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ |  |
+| 您是否有針對縮排和風險排名安全性弱點所建立的程式？ |  |
+| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ |  |
+| 您是否根據修補原則 SLA 執行修補管理活動？ |  |
+| 您的環境是否有任何不支援的作業系統或軟體？ |  |
+| 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ |  |
+| 您的外部網路界限上是否已安裝防火牆？ |  |
+| 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ |  |
+| 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ |  |
+| 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ |  |
+| 已針對下列專案啟用多重要素驗證 (MFA) ： |  |
+| 您是否已建立員工帳戶的布建、修改和刪除程式？ |  |
+| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ |  |
+| 您是否已在支援應用程式的所有系統元件上設定事件記錄？ |  |
+| 偵測到安全性事件時，警示會自動傳送給員工進行分級？ |  |
 | 您是否已建立正式的資訊安全性風險管理程式？ |  |
 | 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -98,26 +96,25 @@ ms.locfileid: "63545261"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 是 |
+| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 是 |
+| 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 是 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 是 |
-| 最近的 SOC1 認證日期 |  2020-11-01 |
+| 最新的 SOC1 認證日期 | 2020-11-01 |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您已完成哪一種 SOC 2 憑證？ |   |
-| 最近的 SOC2 認證日期 |  2020-11-01 |
+| 最新的 SOC2 認證日期 | 2020-11-01 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 是 |
-| 最近的 SOC3 認證日期 |  2020-11-01 |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 是 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
+| 最新的 SOC3 認證日期 | 2020-11-01 |
+| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 是 |
+| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 是 |
-| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 是 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 是 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+|  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 是 |
+| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 是 |
+| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ |  |
-| App 是否已 (CSA 星) 認證？ | 否 |
+| 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -127,16 +124,7 @@ ms.locfileid: "63545261"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ |  |
-| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ |  |
-| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ |  |
-| 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 |  |
-| 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ |  |
-| 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 |  |
-| 應用程式是否有功能可在要求時刪除個人資料？ |  |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ |  |
-| App 是否提供個人資料，以更正或更新其個人資料？ |  |
-| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ |  |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -146,31 +134,32 @@ ms.locfileid: "63545261"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 假 |
-| 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
+| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 否 |
+| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
-| 列出支援的原則類型 | 安全性預設值以及封鎖舊版驗證的任何其他常見原則需要對管理員進行 MFA * 需要 mfa for Azure management * 需要對所有使用者進行 MFA * |
+| 列出支援的原則類型 | 安全性預設值和任何其他常見原則，例如封鎖舊版驗證* 需要系統管理員的 MFA* 需要 Azure 管理的 MFA* 需要所有使用者的 MFA* |
+| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
 | 您的應用程式是否支援持續存取評估 (CAE)  |  |
-| 您的應用程式是否會在程式碼中儲存任何認證？ |  |
-| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 是 |
+| 您的應用程式是否在程式碼中儲存任何認證？ |  |
+| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 是 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ReadWrite 的行事曆 | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| 連絡人。 ReadWrite | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Files.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Files.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| User.ReadBasic.All | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| 設定檔 | 委託 | 不會儲存應用程式資料庫中的資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Calendars.ReadWrite | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Contacts.ReadWrite | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Directory.AccessAsUser.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Files.Read | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Files.ReadWrite.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Group.Read.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| User.Read | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| User.ReadBasic.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| 設定檔 | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
 
->此應用程式沒有額外的 APIs。
+>此應用程式沒有其他 API。
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

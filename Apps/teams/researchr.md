@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: ResearcHR、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1ef8e528aaab8471ee521e1e7e7a22ca409c5af2
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 11d6640b20388c99facf61d5d1a35bd36eadb415
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784162"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64879641"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -86,11 +86,9 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ |  |
 | 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ |  |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ |  |
-| 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | |
 | 偵測到安全性事件時，警示會自動傳送給員工進行分級？ |  |
 | 您是否已建立正式的資訊安全性風險管理程式？ |  |
 | 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,12 +101,8 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 不適用 |
 | 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 不適用 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
-| 最新的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
-| 您達成哪一個 SOC 2 認證？ | |
-| 最新的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 最新的 SOC3 認證日期 | |
 | 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
 | 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
@@ -130,15 +124,6 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ |  |
-| 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ |  |
-| 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ |  |
-| 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ |  |
-| 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ |  |
-| 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ |  |
-| 應用程式是否有在要求時刪除個人個人資料的功能？ |  |
-| 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ |  |
-| 應用程式是否提供個人更正或更新其個人資料的能力？ |  |
-| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -161,13 +146,13 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 >|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | 應用程式 | 我們使用此範圍來允許 Bot 在Teams用戶端上建立新通道。 看到： [https://docs.microsoft.com/graph/api/channel-post](/graph/api/channel-post) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Directory.Read.All | 應用程式 | 我們使用此範圍來取得通道識別碼和名稱，以在我們的網站上顯示這些資料。 看到： [https://docs.microsoft.com/graph/api/channel-list](/graph/api/channel-list) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Group.Read.All | 應用程式 | 我們使用此範圍來取得通道識別碼和名稱，以在我們的網站上顯示這些資料。 看到： [https://docs.microsoft.com/graph/api/channel-list](/graph/api/channel-list) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Team.ReadBasic.All | 應用程式 | 我們使用此範圍來取得小組成員，讓使用者可以在我們的網站上看到其小組成員。 看到： [https://docs.microsoft.com/graph/api/group-list-members](/graph/api/group-list-members) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.Read.All | 應用程式 | 我們使用此範圍來取得使用者加入的頻道，讓使用者可以在我們的網站上看到其已加入的小組。 看到： [https://docs.microsoft.com/graph/api/user-list-joinedteams](/graph/api/user-list-joinedteams) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.ReadBasic.All | 委託 | 我們使用此範圍來啟用 OAuth 登入，並收集使用者的AAD識別碼、存取權杖和重新整理權杖。 看到： [https://docs.microsoft.com/graph/auth-v2-user](/graph/auth-v2-user) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| offline_access | 委託 | 我們使用此範圍來取得重新整理權杖，以便在沒有任何使用者互動的情況下重新整理已驗證使用者的存取權杖。 看到： [https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access](/azure/active-directory/develop/v2-permissions-and-consent#offline_access) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Channel.Create | 應用程式 | 我們使用此範圍來允許 Bot 在Teams用戶端上建立新通道。 看到： https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | 應用程式 | 我們使用此範圍來取得通道識別碼和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | 應用程式 | 我們使用此範圍來取得通道識別碼和名稱，以在我們的網站上顯示這些資料。 看到： https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | 應用程式 | 我們使用此範圍來取得小組成員，讓使用者可以在我們的網站上看到其小組成員。 看到： https://docs.microsoft.com/en-us/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | 應用程式 | 我們使用此範圍來取得使用者加入的頻道，讓使用者可以在我們的網站上看到其已加入的小組。 看到： https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | 委託 | 我們使用此範圍來啟用 OAuth 登入，並收集使用者的AAD識別碼、存取權杖和重新整理權杖。 看到： https://docs.microsoft.com/en-us/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | 委託 | 我們使用此範圍來取得重新整理權杖，以便在沒有任何使用者互動的情況下重新整理已驗證使用者的存取權杖。 看到： https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 >此應用程式沒有其他 API。
 

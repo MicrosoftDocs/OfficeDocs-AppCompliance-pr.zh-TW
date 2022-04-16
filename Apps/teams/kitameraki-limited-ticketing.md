@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: 票證、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 42777d2bb9cf639419a28e9ec52c189f8bd27e27
-ms.sourcegitcommit: 60344676a860c837b8a727c43d6cec430044c3f4
+ms.openlocfilehash: b0bf7f4fb8685d48b7048ca8a91880f19697f3cb
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/11/2022
-ms.locfileid: "64769063"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64879690"
 ---
-# <a name="ticketing"></a>票務
+# <a name="ticketing"></a>售票
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ kitameraki 所提供的資訊僅限於 Microsoft：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 票務 |
+| 應用程式名稱 | 售票 |
 | ID | WA200003945 |
 | 支援Office 365用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | kitameraki limited |
@@ -132,15 +132,6 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 否 |
-| 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 否 |
-| 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
-| 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
-| 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
-| 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ | 否 |
-| 應用程式是否有在要求時刪除個人個人資料的功能？ |  |
-| 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ |  |
-| 應用程式是否提供個人更正或更新其個人資料的能力？ |  |
-| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

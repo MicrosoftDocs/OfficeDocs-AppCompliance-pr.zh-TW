@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: 其他成員的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fbe620884ef1db92f8f6bbb40732d8ede740dd02
-ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
+ms.openlocfilehash: 31f2d7fb0a50a7609128fdff4dac44c1542f16a8
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64838782"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64879360"
 ---
 # <a name="fellow"></a>Fellow
 
@@ -159,7 +159,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 否 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
+| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ | Python OAuthLib |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |

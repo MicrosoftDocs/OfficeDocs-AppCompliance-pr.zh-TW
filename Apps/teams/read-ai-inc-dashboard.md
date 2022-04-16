@@ -1,49 +1,49 @@
 ---
-title: Project Insight for Project Insight 的應用程式資訊
+title: Read AI， Inc. 讀取儀表板的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/22/2022
+ms.date: 04/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Project Insight 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: 讀取儀表板、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5ac6e9293da826181b97ab440406a5aaa5e01d19
+ms.openlocfilehash: 56551f8ea5317163d9319c9cd90eb7e41123cda8
 ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/15/2022
-ms.locfileid: "64879260"
+ms.locfileid: "64881844"
 ---
-# <a name="project-insight"></a>Project 深入解析
+# <a name="read-dashboard"></a>讀取儀表板
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 3 月 21 日</p>
+<p>上次由開發人員更新日期：2022 年 4 月 15 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/57a8236b-4ed2-453e-b785-02a887e16a5b" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003171" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/18eb20ae-cd59-48c6-8060-fbe171a917e5" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003896" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Project Insight 提供給 Microsoft 的資訊：
+Read AI， Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Project 深入解析 |
-| ID | WA200003171 |
+| 應用程式名稱 | 讀取儀表板 |
+| ID | WA200003896 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Project 深入解析 |
-| 公司的網站 | [https://projectinsight.com](https://projectinsight.com) |
-| 應用程式的使用規定 | [https://projectinsight.com/legal/license-agreement](https://projectinsight.com/legal/license-agreement) |
-| 應用程式的核心功能 | Project深入解析可讓您的小組直接從Teams管理其工作、專案、時間和費用。 |
+| 合作夥伴公司名稱 | 讀取 AI， Inc. |
+| 公司的網站 | [https://read.ai](https://read.ai) |
+| 應用程式的使用規定 | [https://read.ai/tos](https://read.ai/tos) |
+| 應用程式的核心功能 | 閱讀儀表板可測量會議情感、參與度和整體效能。 |
 | 公司總部位置 | 美國美國 |
-| 應用程式資訊頁面 | [https://projectinsight.com/features/microsoft-teams-integra...](https://projectinsight.com/features/microsoft-teams-integration) |
+| 應用程式資訊頁面 | [https://www.read.ai/product](https://www.read.ai/product) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
-| 應用程式會使用哪些主控雲端提供者？ | Azure |
+| 應用程式會使用哪些主控雲端提供者？ | Azure、Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,20 +53,21 @@ Project Insight 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-這項資訊是由 Project Insight 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+此資訊由 Read AI， Inc. 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | 基本使用者設定檔資訊 |
+| 您的應用程式會處理哪些資料？ | 使用者設定檔資料、會議音訊資料和會議視訊資料  |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 哪些資料會儲存在您的資料庫中？ | 使用者帳戶識別碼 |
+| 哪些資料會儲存在您的資料庫中？ | 使用者設定檔資料、匯總衍生自音訊和視訊資料的使用者計量 |
 | 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國美國 |
 | 您是否有已建立的資料租用和處置程式？ | 是 |
-| 帳戶終止之後，資料會保留多久？ | 未保留 |
+| 帳戶終止之後，資料會保留多久？ | 小於 30 天 |
 | 您是否有已建立的資料存取管理程式？ | 是 |
-| 您要將客戶資料或客戶內容傳輸給協力廠商或子處理者嗎？ | 否 |
+| 您要將客戶資料或客戶內容傳輸給協力廠商或子處理者嗎？ | 是 |
+| 您是否已與您共用 Microsoft 客戶資料的任何協力廠商服務簽訂資料共用協定？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -80,7 +81,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您是否在應用程式上執行年度滲透測試？ | 是 |
 | 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
-| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware、ApplicationControls |
 | 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
 | 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
 | 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
@@ -110,19 +111,18 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 不適用 |
 | 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 是 |
-| 最新的 SOC1 認證日期 | 2022-01-18 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您達成哪一個 SOC 2 認證？ | type2 |
-| 最新的 SOC2 認證日期 | 2022-01-18 |
+| 您達成哪一個 SOC 2 認證？ | type1 |
+| 最新的 SOC2 認證日期 | 2022-04-14 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 是 |
+| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
 | 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 |  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
-| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 不適用 |
+| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 是 |
 | 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
 | 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ | 不適用 |
@@ -136,7 +136,17 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 否 |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
+| 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
+| 隱私權原則 URL | https://read.ai/privacy |
+| 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
+| 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
+| 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
+| 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ | 否 |
+| 應用程式是否有在要求時刪除個人個人資料的功能？ | 是 |
+| 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ | 是 |
+| 應用程式是否提供個人更正或更新其個人資料的能力？ | 是 |
+| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -148,20 +158,24 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 不適用 |
 | 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 是 |
+| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
 >|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | 委託 | 允許為Microsoft Teams租使用者中的使用者安裝我們的應用程式 | [2201df78-1d70-41da-ba2b-c19b00da1215](../azure/2201df78-1d70-41da-ba2b-c19b00da1215.md) |
->| User.Read.All | 委託 | 在我們的系統與Microsoft Teams租使用者之間比對使用者 | [2201df78-1d70-41da-ba2b-c19b00da1215](../azure/2201df78-1d70-41da-ba2b-c19b00da1215.md) |
->| offline_access | 委託 | 用於要求重新整理權杖 | [2201df78-1d70-41da-ba2b-c19b00da1215](../azure/2201df78-1d70-41da-ba2b-c19b00da1215.md) |
+>| Calendars.Read | 委託 | 我們允許使用者將其行事曆與我們的服務連結，以啟用 Azure 媒體 Bot 的自動分派 | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| Calls.AccessMedia.All | 應用程式 | 存取會議音訊和視訊資料以進行應用程式處理 | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| Calls.JoinGroupCall.All | 應用程式 | 我們需要 Azure 媒體 Bot 的加入許可權，才能加入進行中的Teams會議 | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| User.Read | 委託 | 在我們的 SSO 程式中，我們會藉由要求使用者設定檔的讀取權限來存取所需的使用者資料 | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| 電子郵件 | 委託 | 我們需要電子郵件地址作為帳戶建立程式的一部分  | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| openid | 委託 | 我們允許使用者透過 SSO 登入 | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| 設定檔 | 委託 | 我們需要使用者設定檔資料，才能 (名字和姓氏建立使用者帳戶，特別是)  | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
 
 >此應用程式沒有其他 API。
 
