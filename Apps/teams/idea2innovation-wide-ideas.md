@@ -1,5 +1,5 @@
 ---
-title: 以 Idea2Innovation 為寬創意的應用程式資訊
+title: Idea2Innovation 之 Wide Idea 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,43 @@ ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 在 CSA 星型登錄中，所有可用的安全性和符合性資訊都是廣泛的創意、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及安全性/符合性資訊。
+description: Wide Ideas、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c744df41324bd82a299fbee58b7d724f9fef1033
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 126420c4d106e394da2f109e2bad7e784ac91a5f
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63546031"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64876360"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開發人員上次更新日期：2021年8月27日</p>
+<p>上次由開發人員更新日期：2021 年 8 月 27 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/2a64f929-bed9-44d9-aa65-d7b921889959" target="_blank">在 Teams 儲存區中查看</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000819" target="_blank">在 AppSource 中查看</a>
+* <a href="https://teams.microsoft.com/l/app/2a64f929-bed9-44d9-aa65-d7b921889959" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000819" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 Idea2Innovation 提供給 Microsoft 的資訊：
+Idea2Innovation 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式名稱 | Wide Ideas |
 | ID | WA200000819 |
-| 支援 Office 365 用戶端 | Microsoft Teams |
+| 支援Office 365用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | Idea2Innovation |
 | 公司的網站 | [https://getwideideas.com](https://getwideideas.com) |
-| App 的使用條款 | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474849364/Product_42949683744/Asset_0831a14b-e5df-4f0b-8385-3c06edaeceeb/GENERALTERMSANDCONDITIONSWideI.pdf) |
-| 應用程式的核心功能 | 廣泛的創意是以 Microsoft 365 雲端服務為基礎的靈活構思管理解決方案。 與 Microsoft Teams 完全整合，具有開放式創新功能，可讓企業共同作業，以找出最適合日常挑戰的思路。 廣泛的創意是市場上唯一的觀點管理軟體，可讓公司群組中的每個部門或業務單位都執行其自己的自訂程式，並共同分享整個組織的想法和最佳作法 |
-| 公司 headquarter 位置 | 瑞典 |
+| 應用程式的使用規定 | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474849364/Product_42949683744/Asset_0831a14b-e5df-4f0b-8385-3c06edaeceeb/GENERALTERMSANDCONDITIONSWideI.pdf) |
+| 應用程式的核心功能 | Wide Ideas 是以Microsoft 365雲端服務為基礎的彈性概念管理解決方案。 與Microsoft Teams完全整合，具有開放式創新功能，讓企業能夠共同作業，以找出日常挑戰的最佳構想。 「廣泛構想」是市場上唯一的構想管理軟體，其彈性足以讓公司群組內的每個部門或業務單位執行自己的自訂程式，且仍可跨整個組織分享想法和最佳做法 |
+| 公司總部位置 | 瑞典 |
 | 應用程式資訊頁面 | |
-| 用來執行應用程式的主控環境或服務模型為何？ |  |
-| 應用程式會使用哪一個主控雲端提供者？ | Azure |
+| 用來執行應用程式的裝載環境或服務模型為何？ |  |
+| 應用程式會使用哪些主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,11 +53,11 @@ ms.locfileid: "63546031"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 Idea2Innovation 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+Idea2Innovation 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ |  |
+| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ |  |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -66,31 +66,29 @@ ms.locfileid: "63546031"
 
 ::: zone pivot="security"
 
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
+Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否要在應用程式中執行年度滲透測試？ | 是 |
-| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ |  |
-| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ |  |
-| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ |  |
-| 您是否根據修補原則 Sla 來執行修補程式管理活動？ |  |
-| 您的環境是否有不受支援的作業系統或軟體？ |  |
-| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ |  |
-| 您的外部網路界限是否已安裝防火牆？ |  |
-| 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ |  |
-| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ |  |
-| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ |  |
-| 啟用下列各要素驗證 (MFA) ： |  |
-| 您是否已確定要提供、修改和刪除員工帳戶的程式？ |  |
-| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ |  |
-| 您是否已在所有支援應用程式的系統元件上設定事件記錄？ |  |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | |
-| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ |  |
+| 您是否在應用程式上執行年度滲透測試？ | 是 |
+| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ |  |
+| 您是否有針對縮排和風險排名安全性弱點所建立的程式？ |  |
+| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ |  |
+| 您是否根據修補原則 SLA 執行修補管理活動？ |  |
+| 您的環境是否有任何不支援的作業系統或軟體？ |  |
+| 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ |  |
+| 您的外部網路界限上是否已安裝防火牆？ |  |
+| 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ |  |
+| 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ |  |
+| 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ |  |
+| 已針對下列專案啟用多重要素驗證 (MFA) ： |  |
+| 您是否已建立員工帳戶的布建、修改和刪除程式？ |  |
+| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ |  |
+| 您是否已在支援應用程式的所有系統元件上設定事件記錄？ |  |
+| 偵測到安全性事件時，警示會自動傳送給員工進行分級？ |  |
 | 您是否已建立正式的資訊安全性風險管理程式？ |  |
 | 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,26 +98,22 @@ ms.locfileid: "63546031"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 不適用 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 不適用 |
+| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 不適用 |
+| 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 不適用 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
-| 最近的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
-| 您已完成哪一種 SOC 2 憑證？ | |
-| 最近的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 否 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 否 |
+| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 否 |
+| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
-| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 不適用 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+|  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
+| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 不適用 |
+| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ |  |
-| App 是否已 (CSA 星) 認證？ | 否 |
+| 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -129,16 +123,7 @@ ms.locfileid: "63546031"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ |  |
-| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ |  |
-| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ |  |
-| 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 |  |
-| 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ |  |
-| 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 |  |
-| 應用程式是否有功能可在要求時刪除個人資料？ |  |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ |  |
-| App 是否提供個人資料，以更正或更新其個人資料？ |  |
-| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ |  |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -148,28 +133,29 @@ ms.locfileid: "63546031"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 真 |
-| 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
+| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
 | 列出支援的原則類型 | MFA |
+| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
 | 您的應用程式是否支援持續存取評估 (CAE)  |  |
-| 您的應用程式是否會在程式碼中儲存任何認證？ |  |
-| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
+| 您的應用程式是否在程式碼中儲存任何認證？ |  |
+| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 通道。建立 | 委託 | 在團隊中建立通道。  | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
->| Directory.Read.All | 委託 | 我們使用此專案列出客戶目錄中的使用者  | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
->| Group.Read.All | 委託 | 我們使用此來從 Microsoft Teams 讀取及同步處理團隊。 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| Channel.Create | 委託 | 在小組中建立頻道。  | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| Directory.Read.All | 委託 | 我們使用此選項來列出客戶目錄中的使用者  | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| Group.Read.All | 委託 | 我們會使用此資訊從Microsoft Teams讀取和同步小組。 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
 >| TeamsAppInstallation.ReadWriteForTeam | 委託 | 這是用來自動在 Teams 中安裝應用程式  | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
->| TeamsTab。建立 | 委託 | 我們使用這項功能，在廣泛的創意所建立的頻道中，自動建立應用程式 (挑戰/搜尋創意) 索引標籤。 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
->| User.Read | 委託 | 用於透過 SSO 驗證使用者，以及同步處理使用者資料 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| TeamsTab.Create | 委託 | 我們會使用此功能，在 Wide Ideas 所建立的通道中，自動建立應用程式 (挑戰/搜尋構想) 索引標籤。 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| User.Read | 委託 | 用來透過 SSO 驗證使用者，以及同步使用者資料 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
 
->此應用程式沒有額外的 APIs。
+>此應用程式沒有其他 API。
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

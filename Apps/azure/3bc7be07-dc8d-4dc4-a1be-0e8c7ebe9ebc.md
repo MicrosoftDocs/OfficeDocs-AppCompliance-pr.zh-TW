@@ -3,17 +3,17 @@ title: Azure App 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc 的識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/14/2022
+ms.date: 04/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: 39173e28747b1b4494e22be9b16bb7a06e39e843
-ms.sourcegitcommit: aa6c1546afd356990d681ee68ce976cb7faebd02
+ms.openlocfilehash: 43331d028eb8a4a4efce30af356fb78627efee7a
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "64857089"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64876840"
 ---
 # <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>Azure App識別碼：3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 
