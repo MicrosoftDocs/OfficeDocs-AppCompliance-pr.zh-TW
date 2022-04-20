@@ -1,48 +1,49 @@
 ---
-title: Zoho Corporation Private Limited 的 Zoho Desk 應用程式資訊
+title: DataFetch by DataFetch， Inc 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/19/2022
+ms.date: 04/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Zoho Desk 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: DataFetch 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fccf55f821edb3bfaa6e63b9982da8c67255a305
-ms.sourcegitcommit: b1e50c421eeb1b54e99180634217d3df35a4897f
+ms.openlocfilehash: ce29b8a213f32eea749305b7c7f5ca9d05abaa83
+ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64957679"
+ms.lasthandoff: 04/18/2022
+ms.locfileid: "64910235"
 ---
-# <a name="zoho-desk"></a>Zoho Desk
+# <a name="datafetch"></a>DataFetch
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 10 月 20 日</p>
+<p>上次由開發人員更新日期：2022 年 2 月 14 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/091ec948-c0ee-4d56-aa9e-51c3d8316a9c" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104382044" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/d6756140-a823-11ea-94d9-ddbe638eaf6b" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003961" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Zoho Corporation Private Limited 提供給 Microsoft 的資訊：
+DataFetch， Inc 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Zoho Desk |
-| ID | WA104382044 |
+| 應用程式名稱 | DataFetch |
+| ID | WA200003961 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Zoho Corporation Private Limited |
-| 公司的網站 | [https://www.zoho.com](https://www.zoho.com) |
-| 應用程式的使用規定 | [https://www.zoho.com/terms.html](https://www.zoho.com/terms.html) |
-| 應用程式的核心功能 | Zoho Desk 是以 Web 為基礎的技術支援中心軟體，可讓您有效率地管理客戶支援活動。 Zoho Desk 可讓您輕鬆地在技術支援中心票證上指派、追蹤和設定警示。 您可以為您的企業自訂 Zoho Desk，並確保客戶支援體驗的滿意度。 |
+| 合作夥伴公司名稱 | DataFetch， Inc |
+| 公司的網站 | [https://datafetch.io](https://datafetch.io) |
+| 應用程式的使用規定 | [https://datafetch.io/terms](https://datafetch.io/terms) |
+| 應用程式的核心功能 | 搜尋連線的資料來源 |
 | 公司總部位置 | 美國美國 |
-| 應用程式資訊頁面 | [https://www.zoho.com/desk/help/](https://www.zoho.com/desk/help/) |
-| 用來執行應用程式的裝載環境或服務模型為何？ | IsvHosted |
+| 應用程式資訊頁面 | |
+| 用來執行應用程式的裝載環境或服務模型為何？ | 混合式 |
+| 應用程式會使用哪些主控雲端提供者？ | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,18 +53,16 @@ Zoho Corporation Private Limited 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-Zoho Corporation Private Limited 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+DataFetch， Inc 提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | 設定檔資料，個人交談 Webhook。 |
-| 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
+| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 否 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 哪些資料會儲存在您的資料庫中？ | 使用者識別碼、使用者名稱、電子郵件地址 |
-| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國美國、愛爾蘭、荷蘭 () 、中國、日本、印度、澳洲 |
+| 哪些資料會儲存在您的資料庫中？ | id、name、tenantId、tenantName |
+| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國美國 |
 | 您是否有已建立的資料租用和處置程式？ | 是 |
-| 帳戶終止之後，資料會保留多久？ | 小於 90 天 |
+| 帳戶終止之後，資料會保留多久？ | 未保留 |
 | 您是否有已建立的資料存取管理程式？ | 是 |
 | 您要將客戶資料或客戶內容傳輸給協力廠商或子處理者嗎？ | 否 |
 
@@ -79,25 +78,24 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您是否在應用程式上執行年度滲透測試？ | 是 |
 | 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
-| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware、ApplicationControls |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | ApplicationControls |
 | 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
-| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
-| 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
+| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 否 |
+| 您是否根據修補原則 SLA 執行修補管理活動？ | 否 |
 | 您的環境是否有任何不支援的作業系統或軟體？ | 否 |
 | 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ | 是 |
 | 您的外部網路界限上是否已安裝防火牆？ | 是 |
 | 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
 | 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是 |
 | 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ | 是 |
-| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、DNSManagement、Credential |
+| 已針對下列專案啟用多重要素驗證 (MFA) ： | DNSManagement、Credential |
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
-| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
+| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 不適用 |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
 | 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | 是 |
-| 偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 是 |
-| 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
-| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？ | 是 |
+| 偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 否 |
+| 您是否已建立正式的資訊安全性風險管理程式？ | 否 |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,24 +105,22 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 是 |
-| 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 否 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 否 |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您達成哪一個 SOC 2 認證？ | type2 |
-| 最新的 SOC2 認證日期 | 2021-11-30 |
+| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 不適用 |
+| 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 否 |
-| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 是 |
+| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
+| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 |  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
-| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 否 |
-| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 否 |
-| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 否 |
-| 應用程式是否符合 NIST 800-171？ | 否 |
-| 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 是 |
+| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 不適用 |
+| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
+| 應用程式是否符合 NIST 800-171？ | 不適用 |
+| 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -136,14 +132,14 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
 | 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
-| 隱私權原則 URL | https://www.zoho.com/terms.html |
+| 隱私權原則 URL | https://datafetch.io/privacy-policy |
 | 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
 | 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
 | 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
 | 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ | 否 |
 | 應用程式是否有在要求時刪除個人個人資料的功能？ | 是 |
 | 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ | 是 |
-| 應用程式是否提供個人更正或更新其個人資料的能力？ | 是 |
+| 應用程式是否提供個人更正或更新其個人資料的能力？ | 不適用 |
 | 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -159,8 +155,8 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
 | 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
-| 列出支援的原則類型 | Multi-Factor Authentication、針對特定應用程式要求組織管理的裝置、封鎖有風險的登入行為、限制授與系統管理角色以外的人員存取權  |
-| 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
+| 列出支援的原則類型 | 訂閱資料來源而非擁有資料來源的使用者無法將其刪除。 |
+| 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
 | 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
@@ -168,15 +164,13 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 >|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Contacts.Read | 委託 | 讀取使用者連絡人 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
->| Files.Read | 委託 | 讀取使用者檔案 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
->| Files.Read.All | 委託 | 讀取使用者可以存取的所有檔案 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
->| Files.Read.Selected | 委託 | 讀取使用者選取的檔案 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
->| User.Read | 委託 | 登入並讀取使用者設定檔 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
->| User.ReadBasic.All | 委託 | 讀取所有使用者的基本設定檔 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
->| 電子郵件 | 委託 | 檢視使用者的電子郵件地址 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
->| offline_access | 委託 | 維護您有權存取資料的存取權限 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
->| 設定檔 | 委託 | 檢視使用者的基本設定檔 | [8a35e217-58cf-4eab-b2b4-384260d3d7f3](../azure/8a35e217-58cf-4eab-b2b4-384260d3d7f3.md) |
+>| TeamsAppInstallation.ReadWriteForUser | 委託 | 管理使用者安裝的Teams應用程式 | [b3af1387-3ee6-4074-a594-7a768cd00d44](../azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | 委託 | 允許Teams應用程式為使用者自行管理 | [b3af1387-3ee6-4074-a594-7a768cd00d44](../azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [b3af1387-3ee6-4074-a594-7a768cd00d44](../azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md) |
+>| 電子郵件 | 委託 | 檢視使用者的電子郵件地址 | [b3af1387-3ee6-4074-a594-7a768cd00d44](../azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md) |
+>| offline_access | 委託 | 維護您有權存取資料的存取權限 | [b3af1387-3ee6-4074-a594-7a768cd00d44](../azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md) |
+>| openid | 委託 | 簽署使用者識別 | [b3af1387-3ee6-4074-a594-7a768cd00d44](../azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md) |
+>| 設定檔 | 委託 | 檢視使用者的基本設定檔 | [b3af1387-3ee6-4074-a594-7a768cd00d44](../azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md) |
 
 >此應用程式沒有其他 API。
 
