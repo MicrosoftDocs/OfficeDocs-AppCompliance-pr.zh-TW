@@ -3,17 +3,17 @@ title: Azure App id Information forbed170ee-dbd7-4efa-b48e-b0937ded1689
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/19/2022
+ms.date: 04/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: bed170ee-dbd7-4efa-b48e-b0937ded1689 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: faf001cce844b70462241aad45e8b9f4a3b13b98
-ms.sourcegitcommit: b1e50c421eeb1b54e99180634217d3df35a4897f
+ms.openlocfilehash: 29235736c8f06fdbe4af94f4bf3a2dee3b5f942a
+ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64958039"
+ms.lasthandoff: 04/18/2022
+ms.locfileid: "64909970"
 ---
 # <a name="azure-app-id-bed170ee-dbd7-4efa-b48e-b0937ded1689"></a>Azure App識別碼：bed170ee-dbd7-4efa-b48e-b0937ded1689
 
