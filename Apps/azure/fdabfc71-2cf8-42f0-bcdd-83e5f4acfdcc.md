@@ -3,17 +3,17 @@ title: Azure App識別碼資訊，適用于 mmbfc71-2cf8-42f0-bcdd-83e5f4acfdcc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/19/2022
+ms.date: 04/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性與合規性資訊，適用于 cleanbfc71-2cf8-42f0-bcdd-83e5f4acfdcc。
-ms.openlocfilehash: 7f89fabb6376cec179532ac3c67acd7e5871e5ae
-ms.sourcegitcommit: b1e50c421eeb1b54e99180634217d3df35a4897f
+ms.openlocfilehash: cd33cb5030c72d71082086c12a786d450c45864f
+ms.sourcegitcommit: 3f7acf13ff182026b75f58baa2290a68c8281b46
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64959839"
+ms.lasthandoff: 04/20/2022
+ms.locfileid: "64969757"
 ---
 # <a name="azure-app-id-fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc"></a>Azure App識別碼：mmbfc71-2cf8-42f0-bcdd-83e5f4acfdcc
 

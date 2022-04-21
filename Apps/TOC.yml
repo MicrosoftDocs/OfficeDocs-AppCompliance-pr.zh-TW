@@ -1273,6 +1273,8 @@
       items:
         - name: 系統管理員中心
           href: saas/officeatwork-admin-center.md
+        - name: 適用于 Microsoft 365 的 Adobe Acrobat Sign
+          href: saas/adobe-acrobat-sign-for-microsoft-365.md
         - name: 適用于 Microsoft Teams 的 Anywhere365 語音應答主控台
           href: saas/workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md
         - name: Anywhere365 Contact Center for Teams

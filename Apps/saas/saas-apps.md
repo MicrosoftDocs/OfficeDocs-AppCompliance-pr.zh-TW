@@ -3,17 +3,17 @@ title: SaaS 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/14/2022
+ms.date: 04/20/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 5602abf50fcc801dd4489b30fa1738fa1691b3d7
-ms.sourcegitcommit: aa6c1546afd356990d681ee68ce976cb7faebd02
+ms.openlocfilehash: a5710377c29684140336abe5dc351f8161008c08
+ms.sourcegitcommit: 9dbbec778006471c0193a7fd39e2f81e7d441275
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "64859049"
+ms.lasthandoff: 04/21/2022
+ms.locfileid: "65014303"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性與合規性
 
@@ -22,6 +22,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [系統管理員中心](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [適用于 Microsoft 365 的 Adobe Acrobat Sign](./adobe-acrobat-sign-for-microsoft-365.md) | Adobe | **✓** |  |
 | [適用于 Microsoft Teams 的 Anywhere365 語音應答主控台](./workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Anywhere365 Contact Center for Teams](./workstreampeople-bv-anywhere365-contact-center-for-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [適用于 Teams 的警報連絡人中心](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt。 | **✓** |  |
