@@ -1,0 +1,81 @@
+### YamlMime:Landing
+title: Microsoft 365 應用程式合規性程式
+summary: Microsoft 365應用程式合規性計畫旨在提高對 Microsoft 產品上執行之應用程式的信任。
+metadata:
+  title: Microsoft 365 應用程式合規性程式
+  description: 使用Microsoft 365應用程式合規性計畫來檢閱 Microsoft 產品上所使用應用程式的安全性和資料處理狀態。
+  services: M365 App Compliance
+  author: LGerrard
+  manager: Tonybal
+  ms.author: legerrar
+  ms.service: attestation
+  ms.topic: landing-page
+  ms.openlocfilehash: a0c5e8a7dfe7e401de6bd86a915107d49c0ba80a
+  ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 04/29/2022
+  ms.locfileid: "65125284"
+landingContent:
+- title: '[關於]'
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: 程式概觀
+      url: overview.md
+    - text: 階段 1 - Publisher驗證
+      url: https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview
+    - text: 階段 2 - Microsoft 365認證
+      url: ~/docs/enterprise-app-certification-guide.md
+- title: 開始使用
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: 完成Publisher驗證
+      url: https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified
+    - text: 完成Microsoft 365認證
+      url: ~/docs/certification.md
+    - text: Microsoft 365認證提交指南
+      url: ~/docs/certification-submission-guide.md
+    - text: Microsoft 365認證範例辨識項指南
+      url: ~/docs/certification-sample-evidence-guide.md
+  - linkListType: quickstart
+    links:
+    - text: Office市集使用者指南
+      url: ~/docs/UserGuide.md
+    - text: 商業市集 (SaaS 應用程式) 使用者指南
+      url: ~/docs/SaaSUserGuide.md
+- title: 檢閱應用程式
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Microsoft Excel應用程式
+      url: ~/excel/excel-apps.md
+    - text: Microsoft OneNote Apps
+      url: ~/onenote/onenote-apps.md
+    - text: Microsoft Outlook Apps
+      url: ~/outlook/outlook-apps.md
+    - text: Microsoft PowerPoint Apps
+      url: ~/powerpoint/powerpoint-apps.md
+    - text: Microsoft Project應用程式
+      url: ~/project/project-apps.md
+    - text: Microsoft SharePoint Apps
+      url: ~/sharepoint/sharepoint-apps.md
+    - text: Microsoft Teams應用程式
+      url: ~/teams/teams-apps.md
+    - text: Microsoft Word Apps
+      url: ~/word/word-apps.md
+    - text: SaaS 應用程式
+      url: ~/saas/saas-apps.md
+- title: 說明
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: Publisher驗證疑難排解
+      url: https://docs.microsoft.com/azure/active-directory/develop/troubleshoot-publisher-verification
+    - text: Publisher證明常見問題
+      url: ~/docs/FAQ.md
+    - text: Microsoft 365認證常見問題
+      url: ~/docs/CertFAQ.md
+    - text: Graph許可權
+      url: https://docs.microsoft.com/graph/permissions-reference#directory-permissions
