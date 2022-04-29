@@ -3,24 +3,24 @@ title: DewMaker Design， Inc. 的防火牆助理應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/08/2022
+ms.date: 04/27/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 防火牆小幫手的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f18501bfe0fee3333b1c56f6549be533f6464272
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 872f21f28d354de0f206c6f654b619fd57a98c84
+ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878290"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65122672"
 ---
 # <a name="firewall-assistant"></a>防火牆助理
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 2 月 7 日</p>
+<p>上次由開發人員更新日期：2022 年 4 月 26 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/40b745ad-16a8-4eda-bf1c-5b48b0dc947d" target="_blank">在Teams存放區中檢視</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003363" target="_blank">在 AppSource 中檢視</a>
@@ -38,7 +38,7 @@ DewMaker Design， Inc. 提供給 Microsoft 的資訊：
 | 支援Office 365用戶端 | Microsoft Teams |
 | 合作夥伴公司名稱 | DewMaker Design, Inc. |
 | 公司的網站 | [https://dewmaker.com](https://dewmaker.com) |
-| 應用程式的使用規定 | [https://teamwell.services/terms.html](https://teamwell.services/terms.html) |
+| 應用程式的使用規定 | [https://firewallassistant.com/terms](https://firewallassistant.com/terms) |
 | 應用程式的核心功能 | 使用 Microsoft Teams 對Azure SQL伺服器防火牆規則進行自助式管理。 |
 | 公司總部位置 | 美國美國 |
 | 應用程式資訊頁面 | [https://firewallassistant.com](https://firewallassistant.com) |
@@ -146,7 +146,6 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 否 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
