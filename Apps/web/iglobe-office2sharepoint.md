@@ -1,33 +1,33 @@
 ---
-title: Office2SharePoint 的應用程式資訊（按 iGlobe）
+title: Office2SharePoint 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Office2SharePoint 中所有可用的安全性和符合性資訊資訊，其資料處理原則，其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
+description: Office2SharePoint 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9be661602c6f4d586c615ff06b2642f892e0c085
-ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
+ms.openlocfilehash: 9d063ac1a7cee57ef2bee185ed43a2c3385c06c2
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2022
-ms.locfileid: "64627055"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65225002"
 ---
-# <a name="office2sharepoint"></a>Office2SharePoint
+# <a name="application-information-for-office2sharepoint"></a>Office2SharePoint 的應用程式資訊
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新日期：2021年6月22日</p>
+<p>上次由開發人員更新日期：2021 年 6 月 22 日</p>
 
-* <a href="https://appsource.microsoft.com/product/web-apps/17859280.o2s" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/17859280.o2s" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 iGlobe 提供給 Microsoft 的資訊：
+iGlobe 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -36,7 +36,7 @@ ms.locfileid: "64627055"
 | 合作夥伴公司名稱 | iGlobe |
 | 合作夥伴網站的 URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | 隱私權原則的 URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
-| 使用條款的 URL | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
+| 使用規定 URL | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -46,61 +46,61 @@ ms.locfileid: "64627055"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊是由 iGlobe 提供的，此應用程式會如何收集和儲存組織資料，以及您的組織將會擁有該應用程式所收集資料的控制項。
+iGlobe 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
-列出此應用程式所需的任何 [Microsoft Graph 許可權](/graph/permissions-reference) 。
+列出此應用程式[所需的任何 Microsoft Graph](/graph/permissions-reference)許可權。
 
->| **權限**  | **委派/應用程式的許可權 (類型)** | **資料是否已收集？要收集的理由？** | **資料是否已儲存？儲存的理由** | **Azure AD 應用程式識別碼** |
+>| **權限**  | **委派/應用程式)  (許可權類型** | **是否收集資料？收集它的理由為何？** | **是否儲存資料？儲存它的理由為何？** | **Azure AD應用程式識別碼** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許此應用程式存取目錄中的資訊，以登入的使用者。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 檢查許可權並取得網站和清單。 建立資料夾、取得檔及儲存檔案。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以取得使用者群組網站。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 可存取選取的郵件/s 並取得附件。 從 [郵件] 或 [從 SharePoint 或群組] 網站新增至郵件。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| 管理的網站。所有 | 委託 | 不會儲存應用程式資料庫中的資料。 | 允許應用程式代表登入的使用者在所有網站集合中建立或刪除文件庫和清單。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.Read.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得使用者 SharePoint 網站。 從選取的郵件中取得檔案並儲存附件。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.ReadWrite.All | 委託 | 不會儲存應用程式資料庫中的資料。 | 以取得 SharePoint 清單、文件庫及檔案。 將檔案儲存至 SharePoint 清單。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| User.Read | 委託 | 不會儲存應用程式資料庫中的資料。 | 若要取得使用者 SharePoint 網站、OneDrive 和群組網站。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Directory.AccessAsUser.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | 允許應用程式具有與登入使用者相同的目錄資訊存取權。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Directory.Read.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | 檢查許可權，並取得網站和清單。 建立資料夾、取得檔案並儲存檔案。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Directory.ReadWrite.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | 檢查許可權，並取得網站和清單。 建立資料夾、取得檔案並儲存檔案。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Group.Read.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | 取得使用者群組網站。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Group.ReadWrite.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | 若要存取選取的郵件，並取得附件。 從郵件或從SharePoint或群組網站新增到郵件。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Sites.Manage.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | 允許應用程式代表登入的使用者建立或刪除所有網站集合中的文件庫和清單。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Sites.Read.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | 若要讓使用者SharePoint網站。 從選取的郵件取得檔案並儲存附件。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Sites.ReadWrite.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | 若要取得SharePoint清單、程式庫和檔案。 若要將檔案儲存至清單SharePoint。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| User.Read | 委託 | 應用程式資料庫中不會儲存任何資料。 | 若要讓使用者SharePoint網站、OneDrive和群組網站。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 
-#### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft APIs 的資料存取權
+#### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft API 進行資料存取
 
-在 Microsoft 365 上建的應用程式和增益集可能會使用 microsoft Graph 以外的其他 Microsoft APIs 來收集或處理組織識別資訊 (OII) 。 列出此應用程式所使用之 Microsoft Graph 以外的任何 Microsoft APIs。
+建置在 Microsoft 365 上的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API 來收集或處理組織可識別的資訊， (OII) 。 列出此應用程式使用的 Microsoft Graph以外的任何 Microsoft API。
 
->| **API** |  **是否 OII 收集？** |  **收集的 OII 是什麼？** | **收集 OII 的理由？** | **OII 是否儲存？** | **儲存 OII 的理由？** |
+>| **API** |  **是否已收集 OII？** |  **收集的 OII 為何？** | **收集 OII 的理由？** | **是否儲存 OII？** | **儲存 OII 的理由為何？** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| Exchange-EWS。AccessAsUser。 All | 否 |  |  |  |  |
->| Exchange 電子郵件。 ReadWrite | 否 |  |  |  |  |
->| Exchange-MailboxSettings ReadWrite | 否 |  |  |  |  |
->| SharePoint-AllSites。管理 | 否 |  |  |  |  |
->| SharePoint-AllSites。寫入 | 否 |  |  |  |  |
->| SharePoint-MyFiles。寫入 | 否 |  |  |  |  |
->| SharePoint-Read。 All | 否 |  |  |  |  |
+>| Exchange - EWS。AccessAsUser.All | 否 |  |  |  |  |
+>| Exchange - Mail.ReadWrite | 否 |  |  |  |  |
+>| Exchange - MailboxSettings.ReadWrite | 否 |  |  |  |  |
+>| SharePoint- AllSites.Manage | 否 |  |  |  |  |
+>| SharePoint - AllSites.Write | 否 |  |  |  |  |
+>| SharePoint - MyFiles.Write | 否 |  |  |  |  |
+>| SharePoint - User.Read.All | 否 |  |  |  |  |
 
-#### <a name="non-microsoft-services-used"></a>使用非 Microsoft 服務
+#### <a name="non-microsoft-services-used"></a>未使用Microsoft 服務
 
-若應用程式使用非 Microsoft 服務來傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、要傳輸的資料，並包含有關應用程式傳送此資訊的原因的理由。
+如果應用程式與非 Microsoft 服務傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、傳輸的資料，並包含應用程式需要傳輸此資訊的理由。
 
->不使用非 Microsoft 服務。
+>不使用非Microsoft 服務。
 
 
 
 #### <a name="telemetry-data"></a>遙測資料
 
-任何組織識別資訊 (OII) 或使用者身分識別資訊 (EUII) 是否會出現在這個應用程式的遙測或記錄檔中？ 如果是，請描述要儲存的資料，以及保留和移除原則為何？
+任何組織標識資訊 (OII) 或使用者可識別資訊 (EUII) 是否會出現在此應用程式的遙測或記錄中？ 如果是，請描述儲存哪些資料，以及保留和移除原則為何？
 
->iGlobe 收集資料，以有效運作並為您提供我們產品和服務的最佳體驗。 若要取得授權：收集以管理組織&#8217;s 授權帳戶的資料，例如，當您部署免費的增益集、建立試用訂閱或購買訂閱。 會收集下列資訊。 針對財務目的：公司名稱和位址訂閱的使用者： username 和 email
+>iGlobe 會收集資料以有效地運作，並提供我們產品和服務的最佳體驗。 針對授權：收集來管理貴組織&#8217;授權帳戶的資料，例如當您部署免費增益集、建立試用訂閱或購買訂用帳戶時。 收集下列資訊。 財務用途：公司名稱和位址已訂閱的使用者：使用者名稱和電子郵件
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>夥伴所儲存資料的組織控制項
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>合作夥伴所儲存資料的組織控制
 
-說明組織管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、審核、封存、使用者原則等等。
+描述組織的系統管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、稽核、封存、使用者原則等。
 
->所有應用程式資料都在客戶的自有承租人上，由租使用者系統管理員控制，做為 Office 365 中的所有其他服務。 不會在增益集中儲存應用程式資料。 現代增益集會在沙箱瀏覽器中執行，&#8220;進程外&#8221;。 增益集可能只會存取使用者所使用的資料。 它會使用 Microsoft 服務與使用者資料互動。
+>所有應用程式資料都位於客戶自己的租使用者上，並由租使用者系統管理員控制，作為Office 365中的所有其他服務。 增益集中不會儲存任何應用程式資料。 新式增益集會在沙箱化瀏覽器中執行，&#8220;跨進程&#8221;。 增益集只能存取使用者正在使用的資料。 它會使用Microsoft 服務與使用者資料互動。
 
-#### <a name="human-review-of-organizational-information"></a>組織資訊的人工檢查
+#### <a name="human-review-of-organizational-information"></a>人為檢閱組織資訊
 
-參與審閱或分析任何組織身分識別資訊 (OII) 由此應用程式收集或儲存的資料嗎？
+人類是否參與檢閱或分析任何組織可識別的資訊 (OII) 此應用程式所收集或儲存的資料？
 
 >否
 
@@ -110,11 +110,11 @@ ms.locfileid: "64627055"
 
 ::: zone pivot="mcas"
 
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
+Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security 資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747" target="_blank">在新的索引標籤中查看</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747" target="_blank">在新索引標籤中檢視</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -124,23 +124,23 @@ ms.locfileid: "64627055"
 
 ### <a name="identity-information"></a>身分識別資訊
 
-IGlobe 此資訊的提供方式是關於此應用程式如何處理驗證、授權、應用程式註冊最佳作法和其他身分識別準則。
+iGlobe 已提供此資訊，說明此應用程式如何處理驗證、授權、應用程式註冊最佳做法和其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否要與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已透過 Microsoft identity platform 整合檢查清單中所述的所有適用的最佳作法，加以檢查及編譯？  | 是 |
+| 您是否與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？  | 是 |
 | 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
-| 列出支援的原則類型 | 安全性預設值以及封鎖舊版驗證的任何其他常見原則需要對管理員進行 MFA * 需要 mfa for Azure management * 需要對所有使用者進行 MFA * |
-| 您的應用程式是否要求最小許可權許可權給您的案例？ | 是 |
-| 您的應用程式的靜態註冊許可權是否要準確反映您的應用程式將動態和以增量方式要求的許可權？ | 是 |
-| 您的應用程式是否支援多租賃？ | 是 |
-| 您的應用程式有機密用戶端嗎？ | 是 |
-| 您是否擁有為您的應用程式註冊的所有重新導向統一資源識別元 (URI) ？ | 是 |
-| 您的應用程式是否公開任何 web APIs？ | 否 |
-| 您的應用程式是否使用預覽 APIs？ | 否 |
-| 您的應用程式使用的 APIs 是否已遭取代？ | 否 |
+| 列出支援的原則類型 | 安全性預設值和任何其他常見原則，例如封鎖舊版驗證* 需要系統管理員的 MFA* 需要 Azure 管理的 MFA* 需要所有使用者的 MFA* |
+| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
+| 您應用程式的靜態註冊許可權是否能正確反映應用程式以動態和累加方式要求的許可權？ | 是 |
+| 您的應用程式是否支援多租使用者？ | 是 |
+| 您的應用程式是否有機密用戶端？ | 是 |
+| 您是否擁有為應用程式註冊的所有重新導向統一資源識別項 (URI) ？ | 是 |
+| 您的應用程式是否公開任何 Web API？ | 否 |
+| 您的應用程式是否使用預覽 API？ | 否 |
+| 您的應用程式是否使用已被取代的 API？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
