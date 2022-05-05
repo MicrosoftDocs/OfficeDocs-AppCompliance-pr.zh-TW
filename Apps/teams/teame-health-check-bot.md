@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性與合規性資訊，適用于 TeaMe 健康情況檢查 Bot、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7722e3da011f6e230e94cb4921a244c14505b765
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 35f980769f98cabac83f0c260789a4467c2911e5
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64875300"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226497"
 ---
-# <a name="teame-health-check-bot"></a>TeaMe Health Check Bot
+# <a name="application-information-for-teame-health-check-bot"></a>TeaMe 健康情況檢查 Bot 的應用程式資訊
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />

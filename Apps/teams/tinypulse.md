@@ -1,46 +1,46 @@
 ---
-title: Guru Technologies 的 Guru 應用程式資訊
+title: TINYpulse by TINYpulse 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/19/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Guru 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: TINYpulse 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b623d0d92400219e5ad31d58ade4d98409aced98
+ms.openlocfilehash: cb382f9ca989cd97f57d9ad72b8d60da1d245634
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65226557"
+ms.locfileid: "65222474"
 ---
-# <a name="guru"></a>Guru
+# <a name="tinypulse"></a>TINYpulse
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 3 月 1 日</p>
+<p>上次由開發人員更新日期：2021 年 3 月 10 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/094bf90e-e413-4740-b2dc-68d624d0e40e" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001719" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/1950b3dc-66fc-4c5f-bbbe-e411ad91a49f" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381729" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Guru Technologies 提供給 Microsoft 的資訊：
+TINYpulse 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Guru |
-| ID | WA200001719 |
+| 應用程式名稱 | TINYpulse |
+| ID | WA104381729 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Guru Technologies |
-| 合作夥伴網站的 URL | [https://www.getguru.com](https://www.getguru.com) |
-| Teams應用程式資訊頁面的 URL | [https://www.getguru.com/integrations/microsoft-teams](https://www.getguru.com/integrations/microsoft-teams) |
-| 隱私權原則的 URL | [https://www.getguru.com/privacy/](https://www.getguru.com/privacy/) |
-| 使用規定 URL | [https://www.getguru.com/terms-of-service](https://www.getguru.com/terms-of-service) |
+| 合作夥伴公司名稱 | TINYpulse |
+| 合作夥伴網站的 URL | [https://www.tinypulse.com](https://www.tinypulse.com) |
+| Teams應用程式資訊頁面的 URL | [https://www.tinypulse.com/engage](https://www.tinypulse.com/engage) |
+| 隱私權原則的 URL | [https://www.tinypulse.com/privacy-policy](https://www.tinypulse.com/privacy-policy) |
+| 使用規定 URL | [https://www.tinypulse.com/terms-and-conditions](https://www.tinypulse.com/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +50,7 @@ Guru Technologies 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊由 Guru Technologies 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+TINYpulse 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
@@ -63,9 +63,7 @@ Guru Technologies 提供給 Microsoft 的資訊：
 
 如果應用程式與非 Microsoft 服務傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、傳輸的資料，並包含應用程式需要傳輸此資訊的理由。
 
->| **所有非Microsoft 服務 OII 都會傳輸至** |  **哪些 OII 會傳輸？** | **傳輸 OII 的理由為何？** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Guru 的使用者應用程式和內部資料庫 | 當使用者或公司為 Teams 設定 Guru 應用程式時，Guru 會記錄並存取與其使用者設定檔相關聯的一般資訊，例如使用者名稱、電子郵件和公司名稱 | 假設使用者必須同時擁有Teams帳戶和 Guru 帳戶才能使用整合，我們會追蹤並追蹤哪些使用者正在啟用整合，以協助為這些使用者提供支援和管理 |
+>不使用非Microsoft 服務。
 
 #### <a name="data-access-via-bots"></a>透過 Bot 存取資料
 
@@ -78,13 +76,13 @@ Guru Technologies 提供給 Microsoft 的資訊：
 
 任何組織標識資訊 (OII) 或使用者可識別資訊 (EUII) 是否會出現在此應用程式的遙測或記錄中？ 如果是，請描述儲存哪些資料，以及保留和移除原則為何？
 
->當使用者或公司設定適用于 Teams 的 Guru 應用程式時，Guru 會記錄並存取與其使用者設定檔相關聯的一般資訊，例如使用者名稱、電子郵件和公司名稱。 帳戶終止時，資料會保留 90 天，然後移除。 
+>應用程式遙測或記錄中不會出現 OII 或 EUII。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>合作夥伴所儲存資料的組織控制
 
 描述組織的系統管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、稽核、封存、使用者原則等。
 
->Guru 的小組設定可讓小組的系統管理員決定要根據每個集合布建的群組 () 和存取/角色控制，並能夠新增、移除卡片，以及將卡片重新指派給替代人員。 Enterprise已部署 SSO 的客戶也有 SSO 提供者主控台的優點，可讓其上線/離線，並透過 SCIM 建立群組
+>我們不會將資料共用到合作夥伴的系統
 
 #### <a name="human-review-of-organizational-information"></a>人為檢閱組織資訊
 
@@ -100,9 +98,9 @@ Guru Technologies 提供給 Microsoft 的資訊：
 
 Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36912' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/34569' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36912" target="_blank">在新索引標籤中檢視</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/34569" target="_blank">在新索引標籤中檢視</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,11 +110,23 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ### <a name="identity-information"></a>身分識別資訊
 
-此資訊由 Guru Technologies 提供，說明此應用程式如何處理驗證、授權、應用程式註冊最佳做法和其他身分識別準則。
+TINYpulse 已提供此資訊，說明此應用程式如何處理驗證、授權、應用程式註冊最佳做法和其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否與 Microsoft 識別平臺 (Azure AD) 整合？  | 否 |
+| 您是否與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
+| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？  | 是 |
+| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
+| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
+| 您應用程式的靜態註冊許可權是否能正確反映應用程式以動態和累加方式要求的許可權？ | 是 |
+| 您的應用程式是否支援多租使用者？ | 是 |
+| 您的應用程式是否有機密用戶端？ | 否 |
+| 您是否擁有為應用程式註冊的所有重新導向統一資源識別項 (URI) ？ | 是 |
+| 針對您的應用程式，您要避免使用什麼？ | - 萬用字元重新導向 URI，<br/>- OAuth2 隱含Flow，除非 SPA 需要<br/>- 資源擁有者密碼認證 (ROPC) 流程 |
+| 您的應用程式是否公開任何 Web API？ | 否 |
+| 您的應用程式是否使用預覽 API？ | 否 |
+| 您的應用程式是否使用已被取代的 API？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

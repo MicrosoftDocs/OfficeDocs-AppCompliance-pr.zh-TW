@@ -1,45 +1,46 @@
 ---
-title: QBURST TECHNOLOGIES PVT LTD 之套件通知程式的應用程式資訊
+title: 依Aberr 的Aberr 應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/05/2021
+ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 套件 Notifier、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
+description: 所有可用的安全性與合規性資訊，適用于Aberr、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d81848f0e3d99a296fb84ed76994fbe0a68410a0
+ms.openlocfilehash: a41fb58d14186cea217bc23e09061233f87c21d8
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222510"
+ms.locfileid: "65226147"
 ---
-# <a name="package-notifier"></a>Package 通知程式
+# <a name="saberr"></a>Saberr
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 3 月 25 日</p>
+<p>上次由開發人員更新日期：2021 年 2 月 11 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/74d74206-0183-401d-932e-315f5021fdb1" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002737" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/d3a07709-eb0e-421c-8609-b61b0600e645" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001501" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-QBURST TECHNOLOGIES PVT LTD 提供給 Microsoft 的資訊：
+由Aberr 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Package 通知程式 |
-| ID | WA200002737 |
+| 應用程式名稱 | Saberr |
+| ID | WA200001501 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | QBURST TECHNOLOGIES PVT LTD |
-| 合作夥伴網站的 URL | [https://www.qburst.in](https://www.qburst.in) |
-| 隱私權原則的 URL | [https://package-notifier.qburst.in/privacy-policy.html](https://package-notifier.qburst.in/privacy-policy.html) |
-| 使用規定 URL | [https://package-notifier.qburst.in/terms-and-conditions.html](https://package-notifier.qburst.in/terms-and-conditions.html) |
+| 合作夥伴公司名稱 | Saberr |
+| 合作夥伴網站的 URL | [https://www.saberr.com](https://www.saberr.com) |
+| Teams應用程式資訊頁面的 URL | [https://help.saberr.com/en/articles/3854472-use-coachbot-in...](https://help.saberr.com/en/articles/3854472-use-coachbot-in-microsoft-teams-to-get-notifications-and-quick-actions) |
+| 隱私權原則的 URL | [https://help.saberr.com/en/articles/3853094-privacy-for-use...](https://help.saberr.com/en/articles/3853094-privacy-for-users-of-coachbot-s-microsoft-teams-or-slack-integrations) |
+| 使用規定 URL | [https://help.saberr.com/en/articles/3853596-terms-and-condi...](https://help.saberr.com/en/articles/3853596-terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,13 +50,15 @@ QBURST TECHNOLOGIES PVT LTD 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-QBURST TECHNOLOGIES PVT LTD 提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+此資訊由Aberr 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
 列出此應用程式[所需的任何 Microsoft Graph](/graph/permissions-reference)許可權。
 
->此應用程式不會使用 Microsoft Graph。
+>| **權限**  | **委派/應用程式 (許可權類型)** | **是否收集資料？收集它的理由為何？** | **是否儲存資料？儲存它的理由為何？** | **Azure AD應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委託 | 電子郵件、名字和姓氏。 用於在 API 中建立帳戶。 | 電子郵件、名字和姓氏。 用於在 API 中建立帳戶。 | [9de91aee-708c-4d9f-958b-109fdb79d993](/microsoft-365-app-certification/azure/9de91aee-708c-4d9f-958b-109fdb79d993) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>使用其他 Microsoft API 進行資料存取
 
@@ -63,19 +66,23 @@ QBURST TECHNOLOGIES PVT LTD 提供此資訊，說明此應用程式如何收集�
 
 >| **API** |  **是否已收集 OII？** |  **收集的 OII 為何？** | **收集 OII 的理由？** | **是否儲存 OII？** | **儲存 OII 的理由為何？** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Azure DevOps Services REST API | 否 |  |  |  |  |
+>| Microsoft BOT API | 否 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>未使用Microsoft 服務
 
 如果應用程式與非 Microsoft 服務傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、傳輸的資料，並包含應用程式需要傳輸此資訊的理由。
 
->不使用非Microsoft 服務。
+>| **所有非Microsoft 服務 OII 都會傳輸至** |  **哪些 OII 會傳輸？** | **傳輸 OII 的理由為何？** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| AWS、Slack、Pipedrive、Google、Mailchimp、Intercom、Cronofy | 公司名稱、使用者名稱、使用者電子郵件地址 | 使用者必須與其組織建立關聯，才能使用會議等功能。 我們只會轉移建立這些應用程式內組織並與其進行合約 + 支援所需的 EUII/OII。 |
 
 #### <a name="data-access-via-bots"></a>透過 Bot 存取資料
 
 如果此應用程式包含 Bot 或訊息擴充功能，它可以存取使用者可識別的資訊 (EUII) ：名冊 (名字、姓氏、顯示名稱、電子郵件地址) 加入小組中的任何小組成員或聊天。 此應用程式是否使用此功能？
 
->未存取 EUII。
+>| **存取 EUII 的理由為何？**  | **EUII 是否儲存在資料庫 (的) 中？** | **儲存 EUII 的理由為何？** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| 我們需要電子郵件、名字和姓氏，才能在我們的 API 中建立帳戶 | 電子郵件、名字、姓氏 | 在我們的 API 中建立帳戶時需要 |
 
 
 #### <a name="telemetry-data"></a>遙測資料
@@ -88,13 +95,13 @@ QBURST TECHNOLOGIES PVT LTD 提供此資訊，說明此應用程式如何收集�
 
 描述組織的系統管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、稽核、封存、使用者原則等。
 
->不適用
+>我們會在任何合作夥伴系統中設定保留原則，並強制執行可用的最大安全性設定 (例如 2FA) 
 
 #### <a name="human-review-of-organizational-information"></a>人為檢閱組織資訊
 
 人類是否參與檢閱或分析任何組織可識別的資訊 (OII) 此應用程式所收集或儲存的資料？
 
->否
+>是
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,9 +111,9 @@ QBURST TECHNOLOGIES PVT LTD 提供此資訊，說明此應用程式如何收集�
 
 Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37866' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36430' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37866" target="_blank">在新索引標籤中檢視</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36430" target="_blank">在新索引標籤中檢視</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,24 +123,11 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ### <a name="identity-information"></a>身分識別資訊
 
-此資訊已由 QBURST TECHNOLOGIES PVT LTD 提供，說明此應用程式如何處理驗證、授權、應用程式註冊最佳做法和其他身分識別準則。
+此資訊由Aberr 提供，說明此應用程式如何處理驗證、授權、應用程式註冊最佳做法，以及其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？  | 是 |
-| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
-| 您的應用程式是否支援條件式存取原則？ | 是 |
-| 列出支援的原則類型 | 499b84ac-1321-427f-aa17-267ca6975798/user_impersonation offline_access |
-| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
-| 您應用程式的靜態註冊許可權是否能正確反映應用程式以動態和累加方式要求的許可權？ | 是 |
-| 您的應用程式是否支援多租使用者？ | 是 |
-| 您的應用程式是否有機密用戶端？ | 是 |
-| 您是否擁有為應用程式註冊的所有重新導向統一資源識別項 (URI) ？ | 是 |
-| 針對您的應用程式，您要避免使用什麼？ | - 萬用字元重新導向 URI，<br/><br/>- 資源擁有者密碼認證 (ROPC) 流程 |
-| 您的應用程式是否公開任何 Web API？ | 否 |
-| 您的應用程式是否使用預覽 API？ | 否 |
-| 您的應用程式是否使用已被取代的 API？ | 否 |
+| 您是否與 Microsoft 識別平臺 (Azure AD) 整合？  | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

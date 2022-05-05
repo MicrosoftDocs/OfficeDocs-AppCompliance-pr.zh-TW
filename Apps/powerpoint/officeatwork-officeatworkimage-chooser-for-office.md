@@ -1,5 +1,5 @@
 ---
-title: PowerPoint officeatwork | 的應用程式資訊officeatwork 所Office的影像選擇器
+title: Office影像選擇器概觀
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,16 +7,16 @@ ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: microsoft 已針對安全性、合規性和資料處理實務的業界標準和控制措施檢閱PowerPoint。 此頁面會列出 officeatwork |的所有可用安全性與合規性資訊Office的影像選擇器。
+description: Officeatwork |的所有可用安全性與合規性資訊適用于Office的影像選擇器、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1d5ef6c575239e2840d53308b273824b749ffd38
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 5d1bf4b128cde51f1f1349b6708e63a0b20c0a82
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784452"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65225159"
 ---
-# <a name="image-chooser-for-office"></a>適用于 Office 的影像選擇器
+# <a name="office-image-chooser-overview"></a>Office影像選擇器概觀
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>上次由開發人員更新日期：2022 年 1 月 24 日</p>
@@ -30,14 +30,14 @@ ms.locfileid: "64784452"
 Officeatwork 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
-|---|---|
+|:----------------|:-------------|
 | 應用程式名稱 | officeatwork - 適用于 Office 的影像選擇器 |
 | ID | WA200002683 |
 | 支援Office 365用戶端 | Excel mac 上的 iPad、Excel 2016 或更新版本、Windows上的 Excel 2013 Service Pack 1 或更新版本、Excel 網頁版、iPad上的 Word、Mac 上的 Word 2016 或更新版本、Word 網頁版、Word 2013 Service Pack 1 或更新版本Windows、PowerPoint在 mac、PowerPoint 網頁版、Windows 上的 iPad、PowerPoint 2016 或更新版本上PowerPoint 2013 Service Pack 1 或更新版本，OneNote 網頁版 |
 | 合作夥伴公司名稱 | officeatwork |
 | 公司的網站 | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 應用程式的使用規定 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| 應用程式的核心功能 | Image Bank for M365 \| 在 Word、Excel、PowerPoint 和其他應用程式中存取集中共用的映射 |
+| 應用程式的核心功能 | 適用于 M365 的 Image Bank - 在 Word、Excel、PowerPoint 和其他應用程式中存取集中共用的映射 |
 | 公司總部位置 | 瑞士 |
 | 應用程式資訊頁面 | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Paas |
@@ -56,7 +56,7 @@ Officeatwork 已提供此資訊，說明此應用程式如何收集和儲存組�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| 您的應用程式會處理哪些資料？ | 收集：Microsoft 租使用者識別碼、使用者Azure AD物件識別碼;資料的處理取決於授與並執行用戶端的許可權。 只有 Officeatwork 控制的暫時、無伺服器和受信任 PaaS Azure 服務會處理許可權和登入流程所需的資料。 |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
@@ -86,11 +86,11 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
 | 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 不適用 |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
-| 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | 是|
+| 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | 是 |
 | 偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 是 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,12 +103,8 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 不適用 |
 | 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 不適用 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
-| 最新的 SOC1 認證日期 |   |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
-| 您達成哪一個 SOC 2 認證？ | |
-| 最新的 SOC2 認證日期 | |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 最新的 SOC3 認證日期 | |
 | 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
 | 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |

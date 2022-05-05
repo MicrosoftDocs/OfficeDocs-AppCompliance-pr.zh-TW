@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps 安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/26/2022
+ms.date: 05/04/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook Apps 的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 1f6970220f01e78baaa2a9ebfcde3c233c373d2e
-ms.sourcegitcommit: 7c4eed407267c4c313909d4f27f46bebf443cb23
+ms.openlocfilehash: b15ff360a647450e51e701740eef566523442232
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65071575"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228157"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 安全性與合規性
 
@@ -27,6 +27,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [codeTwo for Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Commuty](./commuty.md) | Commuty | **✓** |  |
+| [電子郵件反應器](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [適用于Outlook的曝光簽章](./impression-signatures-for-outlook.md) | 曝光簽章 | **✓** |  |
 | [適用于 Outlook 的 iPlanner Office 365 Planner 增益集](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

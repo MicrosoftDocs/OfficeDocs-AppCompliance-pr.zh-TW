@@ -80,6 +80,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: Commuty
         href: outlook/commuty.md
+      - name: 電子郵件反應器
+        href: outlook/flow-simulation-ltd-email-reactor.md
       - name: Evernote
         href: outlook/evernote.md
       - name: 適用于Outlook的曝光簽章
@@ -127,6 +129,8 @@ items:
     items:
       - name: 適用于 Microsoft Word 和 PowerPoint 的 Adobe Acrobat Sign
         href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
+      - name: 停機時間
+        href: powerpoint/flow-simulation-ltd-breaktime.md
       - name: Excel對 Word 檔自動化
         href: powerpoint/analysisplace-excel-to-word-document-automation.md
       - name: 適用于 Microsoft Word、Excel 和 PowerPoint 的 Foxit PDF 編輯器
@@ -956,7 +960,7 @@ items:
         href: teams/wni-shared-thread-by.md
       - name: SHL
         href: teams/shl.md
-      - name: 篩選
+      - name: Sift
         href: teams/sift.md
       - name: SightCall
         href: teams/sightcall.md
@@ -974,8 +978,6 @@ items:
         href: teams/cultify-lda-skoach.md
       - name: SkyPoint Cloud
         href: teams/skypoint-cloud-inc.md
-      - name: Slido
-        href: teams/slido.md
       - name: Smarp
         href: teams/smarp.md
       - name: Jira 的 Smart Connect
@@ -1086,7 +1088,7 @@ items:
         href: teams/teamschamp.md
       - name: Communitio 的 TeamSticker
         href: teams/communitio-corporation-teamsticker-by.md
-      - name: 團隊工作
+      - name: 團隊合作
         href: teams/teamwork.md
       - name: TELUS Business Connect
         href: teams/ringcentral-inc-telus-business-connect.md
@@ -1182,7 +1184,7 @@ items:
         href: teams/workboard-inc.md
       - name: Workday
         href: teams/workday.md
-      - name: Workday Peakon 員工語音
+      - name: Workday Peakon Employee Voice
         href: teams/workday-peakon-employee-voice.md
       - name: WorkInSync
         href: teams/moveinsync-workinsync.md
@@ -1223,6 +1225,8 @@ items:
         href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
       - name: AuditBoard 增益集
         href: word/auditboard-inc-add-in.md
+      - name: BriefCatch
+        href: word/briefcatch-llc.md
       - name: Citasion
         href: word/citasion-llc.md
       - name: CocoFax - 傳送傳真變得簡單且安全

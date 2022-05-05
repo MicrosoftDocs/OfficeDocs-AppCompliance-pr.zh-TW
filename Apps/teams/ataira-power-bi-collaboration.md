@@ -1,5 +1,5 @@
 ---
-title: Ataira Power BI共同作業的應用程式資訊
+title: Power BI共同作業概觀
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: 所有可用的安全性與合規性資訊，適用于Power BI共同作業、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c593ce71905214c35ebea5ab42ed5bb87638ecdb
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 344ee48ac3bfc3db8516088fe050acb4dc994eb5
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881400"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65221047"
 ---
-# <a name="power-bi-collaboration"></a>Power BI 共同作業
+# <a name="power-bi-collaboration-overview"></a>Power BI共同作業概觀
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
