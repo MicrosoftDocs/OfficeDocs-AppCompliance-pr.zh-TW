@@ -1,5 +1,5 @@
 ---
-title: Esri 所地圖 ArcGIS 的應用程式資訊
+title: ArcGis 地圖應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: ArcGIS 地圖的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 513945c9f9a93e056e47f4cfc0e5bdc00ebce213
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 5b4cef7b39b6f3ac79f1a48a5c4c9ce8a61b2d3b
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880970"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65227984"
 ---
-# <a name="arcgis-maps"></a>ArcGIS 地圖
+# <a name="arcgis-maps-application-information"></a>ArcGIS 地圖應用程式資訊
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />

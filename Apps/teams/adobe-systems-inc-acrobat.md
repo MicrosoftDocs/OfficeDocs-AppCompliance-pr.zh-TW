@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Adobe Acrobat 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0676fce7e7bd024e1db5d898e35dfc272bb2aa1c
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 7328d06302dd7e932ca75c1591b0fa661bec2cd7
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64876510"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65229150"
 ---
 # <a name="adobe-acrobat"></a>Adobe Acrobat Reader
 
@@ -170,12 +170,12 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 >|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Files.ReadWrite.All | 委託 | 若要能夠列出並流覽使用者的最近、OneDrive，以及Teams頻道的檔案和資料夾。 我們允許使用者存取這些檔案、使用它們來對其執行作業，以及將檔案儲存回其儲存體。 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| Team.ReadBasic.All | 委託 | 讀取小組的名稱和描述 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| User.Read | 委託 | 登入並讀取使用者設定檔 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| 電子郵件 | 委託 | 檢視使用者的電子郵件地址 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| offline_access | 委託 | 維護您提供給它所存取之資料的存取權 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| openid | 委託 | 將使用者登入 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
->| 設定檔 | 委託 | 檢視使用者基本設定檔 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| Team.ReadBasic.All | 委託 | 讀取小組的名稱和描述 | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| User.Read | 委託 | 登入並讀取使用者設定檔 | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| 電子郵件 | 委託 | 檢視使用者的電子郵件地址 | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| offline_access | 委託 | 維護您提供給它所存取之資料的存取權 | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| openid | 委託 | 將使用者登入 | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| 設定檔 | 委託 | 檢視使用者基本設定檔 | [ecff17cf-5629-49ba-a629-7f575496aeac](/microsoft-365-app-certification/azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
 
 >此應用程式沒有其他 API。
 

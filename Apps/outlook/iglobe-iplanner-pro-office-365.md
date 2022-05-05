@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: iPlanner Pro Office 365的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 862e0c20b61bf596a9ac2b1dc988d2476ce3d901
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: bbc378ffde97885713716b715b7de6acb2de17bb
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881463"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228187"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -149,15 +149,15 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 >|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Contacts.ReadWrite | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Directory.AccessAsUser.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Files.Read | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Files.ReadWrite.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Group.Read.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| User.Read | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| User.ReadBasic.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| 設定檔 | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Calendars.ReadWrite | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Contacts.ReadWrite | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Directory.AccessAsUser.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.Read | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.ReadWrite.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Group.Read.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.Read | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.ReadBasic.All | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| 設定檔 | 委託 | 應用程式資料庫中不會儲存任何資料。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 >此應用程式沒有其他 API。
 

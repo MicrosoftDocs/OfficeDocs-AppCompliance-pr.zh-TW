@@ -1,46 +1,45 @@
 ---
-title: Hyperproof by Hyperproof 的應用程式資訊
+title: Goodera by Goodera 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/05/2021
+ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Hyperproof 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: Goodera 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7ede03f50523b3cdadf7168cbe463128e0e4d147
+ms.openlocfilehash: 586bbff1cf80cac40cf0b349b627793792d5bd75
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65229097"
+ms.locfileid: "65228547"
 ---
-# <a name="hyperproof"></a>Hyperproof
+# <a name="goodera"></a>Goodera
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 3 月 18 日</p>
+<p>上次由開發人員更新日期：2021 年 2 月 9 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/1683c88b-f5ca-4acc-a777-c1e3cf820ef5" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002692" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/bc78ef2f-db9c-4bac-83de-1571f9dedf2d" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002136" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Hyperproof 提供給 Microsoft 的資訊：
+Goodera 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Hyperproof |
-| ID | WA200002692 |
+| 應用程式名稱 | Goodera |
+| ID | WA200002136 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Hyperproof |
-| 合作夥伴網站的 URL | [https://hyperproof.io](https://hyperproof.io) |
-| Teams應用程式資訊頁面的 URL | [https://hyperproof.io/product](https://hyperproof.io/product) |
-| 隱私權原則的 URL | [https://hyperproof.io/privacy-policy](https://hyperproof.io/privacy-policy) |
-| 使用規定 URL | [https://hyperproof.io/terms-of-use](https://hyperproof.io/terms-of-use) |
+| 合作夥伴公司名稱 | Goodera |
+| 合作夥伴網站的 URL | [https://goodera.com](https://goodera.com) |
+| 隱私權原則的 URL | [https://about.goodera.com/privacy](https://about.goodera.com/privacy) |
+| 使用規定 URL | [https://about.goodera.com/terms](https://about.goodera.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +49,7 @@ Hyperproof 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-Hyperproof 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+Goodera 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
@@ -58,39 +57,34 @@ Hyperproof 已提供此資訊，說明此應用程式如何收集和儲存組織
 
 >此應用程式不會使用 Microsoft Graph。
 
-
 #### <a name="non-microsoft-services-used"></a>未使用Microsoft 服務
 
 如果應用程式與非 Microsoft 服務傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、傳輸的資料，並包含應用程式需要傳輸此資訊的理由。
 
 >不使用非Microsoft 服務。
-
 #### <a name="data-access-via-bots"></a>透過 Bot 存取資料
 
 如果此應用程式包含 Bot 或訊息擴充功能，它可以存取使用者可識別的資訊 (EUII) ：名冊 (名字、姓氏、顯示名稱、電子郵件地址) 加入小組中的任何小組成員或聊天。 此應用程式是否使用此功能？
 
->未存取 EUII。
-
+>| **存取 EUII 的理由為何？**  | **EUII 是否儲存在資料庫 (的) 中？** | **儲存 EUII 的理由為何？** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| 我們會存取使用者的電子郵件識別碼，以便識別使用者，並協助他們註冊自願的機會。 | 電子郵件識別碼 | 此 PII 只會儲存，以便我們知道使用者已註冊的自願機會。 |
 
 #### <a name="telemetry-data"></a>遙測資料
 
 任何組織標識資訊 (OII) 或使用者可識別資訊 (EUII) 是否會出現在此應用程式的遙測或記錄中？ 如果是，請描述儲存哪些資料，以及保留和移除原則為何？
 
 >應用程式遙測或記錄中不會出現 OII 或 EUII。
-
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>合作夥伴所儲存資料的組織控制
 
 描述組織的系統管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、稽核、封存、使用者原則等。
 
->我們不會控制合作夥伴資料。
-
+>不適用
 #### <a name="human-review-of-organizational-information"></a>人為檢閱組織資訊
 
 人類是否參與檢閱或分析任何組織可識別的資訊 (OII) 此應用程式所收集或儲存的資料？
 
->否
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+>否[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
@@ -98,9 +92,9 @@ Hyperproof 已提供此資訊，說明此應用程式如何收集和儲存組織
 
 Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
 
-<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37868' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37868" target="_blank">在新索引標籤中檢視</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432" target="_blank">在新索引標籤中檢視</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -110,23 +104,11 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ### <a name="identity-information"></a>身分識別資訊
 
-Hyperproof 已提供此資訊，說明此應用程式如何處理驗證、授權、應用程式註冊最佳做法和其他身分識別準則。
+Goodera 已提供此資訊，說明此應用程式如何處理驗證、授權、應用程式註冊最佳做法和其他身分識別準則。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否與 Microsoft 識別平臺 (Azure AD) 整合？  | 是 |
-| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？  | 是 |
-| 您的應用程式是否使用 MSAL (Microsoft 驗證程式庫) 進行驗證？ | 否 |
-| 您的應用程式是否支援條件式存取原則？ | 否 |
-| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
-| 您應用程式的靜態註冊許可權是否能正確反映應用程式以動態和累加方式要求的許可權？ | 是 |
-| 您的應用程式是否支援多租使用者？ | 是 |
-| 您的應用程式是否有機密用戶端？ | 否 |
-| 您是否擁有為應用程式註冊的所有重新導向統一資源識別項 (URI) ？ | 是 |
-| 您的應用程式是否公開任何 Web API？ | 是 |
-| 只有在用戶端應用程式收到適當的同意時，您的許可權模型才允許呼叫成功嗎？ | 是 |
-| 您的應用程式是否使用預覽 API？ | 否 |
-| 您的應用程式是否使用已被取代的 API？ | 否 |
+| 您是否與 Microsoft 識別平臺 (Azure AD) 整合？  | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

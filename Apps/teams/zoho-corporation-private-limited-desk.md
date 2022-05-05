@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho Desk 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fccf55f821edb3bfaa6e63b9982da8c67255a305
-ms.sourcegitcommit: b1e50c421eeb1b54e99180634217d3df35a4897f
+ms.openlocfilehash: 6386c25acea352558965af02c99a49cd79baff6b
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64957679"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65227983"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -22,8 +22,8 @@ ms.locfileid: "64957679"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>上次由開發人員更新日期：2021 年 10 月 20 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/091ec948-c0ee-4d56-aa9e-51c3d8316a9c" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104382044" target="_blank">在 AppSource 中檢視</a>
+* [在Teams存放區中檢視](https://teams.microsoft.com/l/app/091ec948-c0ee-4d56-aa9e-51c3d8316a9c)
+* [在 AppSource 中檢視](https://appsource.microsoft.com/product/office/WA104382044)
 
 ::: zone pivot="general"
 
@@ -54,6 +54,46 @@ Zoho Corporation Private Limited 提供給 Microsoft 的資訊：
 
 Zoho Corporation Private Limited 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
+
+列出此應用程式[所需的任何 Microsoft Graph](/graph/permissions-reference)許可權。
+
+>| **權限**  | **委派/應用程式 (許可權類型)** | **是否收集資料？收集它的理由為何？** | **是否儲存資料？儲存它的理由為何？** | **Azure AD應用程式識別碼** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | 委託 |  | 讀取使用者檔案。 |  |
+>| Files.Read.All | 委託 |  | 讀取使用者可以存取的所有檔案。 |  |
+>| User.Read | 委託 |  | 登入和讀取使用者設定檔。 |  |
+>| User.ReadBasic.All | 委託 |  | 讀取所有使用者的基本設定檔。 |  |
+>| 電子郵件 | 委託 |  | 檢視使用者的電子郵件地址。 |  |
+>| offline_access | 委託 |  | 維護您提供給它存取之資料的存取權。 |  |
+>| 設定檔 | 委託 |  | 檢視使用者的基本設定檔。 |  |
+
+
+#### <a name="non-microsoft-services-used"></a>未使用Microsoft 服務
+
+如果應用程式與非 Microsoft 服務傳輸或共用組織資料，請列出應用程式使用的非 Microsoft 服務、傳輸的資料，並包含應用程式需要傳輸此資訊的理由。
+
+>不使用非Microsoft 服務。
+
+#### <a name="data-access-via-bots"></a>透過 Bot 存取資料
+
+如果此應用程式包含 Bot 或訊息擴充功能，它可以存取使用者可識別的資訊 (EUII) ：名冊 (名字、姓氏、顯示名稱、電子郵件地址) 加入小組中的任何小組成員或聊天。 此應用程式是否使用此功能？
+
+>未存取 EUII。
+
+
+#### <a name="telemetry-data"></a>遙測資料
+
+任何組織標識資訊 (OII) 或使用者可識別資訊 (EUII) 是否會出現在此應用程式的遙測或記錄中？ 如果是，請描述儲存哪些資料，以及保留和移除原則為何？
+
+>否
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>合作夥伴所儲存資料的組織控制
+
+描述組織的系統管理員如何在合作夥伴系統中控制其資訊？例如刪除、保留、稽核、封存、使用者原則等。
+
+>1) 使用者介面中有一個選項可刪除實體，Zoho 桌面內具有刪除選項的系統管理員和代理程式可以執行此作業。2) 我們也有可供系統管理員匯出並達到其目的的匯出選項。  3) 我們會在客戶要求時，于後端維持稽核，以便提供這項資訊。
+
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
@@ -75,29 +115,32 @@ Zoho Corporation Private Limited 已提供此資訊，說明此應用程式如�
 
 Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
 
-| **Information** | **回應** |
+<iframe height='1020' title='Microsoft Cloud App Security資訊' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308' frameborder='no'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308" target="_blank">在新的</a> 
+| **TabInformation** | **回應** |
 |:----------------|:-------------|
-| 您是否在應用程式上執行年度滲透測試？ | 是 |
-| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
-| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware、ApplicationControls |
-| 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
-| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
-| 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
-| 您的環境是否有任何不支援的作業系統或軟體？ | 否 |
-| 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ | 是 |
-| 您的外部網路界限上是否已安裝防火牆？ | 是 |
-| 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
-| 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是 |
-| 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ | 是 |
-| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、DNSManagement、Credential |
+| 中檢視您是否在應用程式上執行年度滲透測試？ | 是 |
+| ，應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
+| ，您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware、ApplicationControls |
+| 您是否有已建立的程式來縮排和風險排名安全性弱點？ | 是 |
+| ，您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
+| ，您是否根據修補原則 SLA 執行修補程式管理活動？ | 是 |
+| ，您的環境是否有任何不支援的作業系統或軟體？ | 否 |
+| ：您是否每季對您的應用程式和支援它的結構進行弱點掃描？ | 是 |
+| ，您是否已在外部網路界限上安裝防火牆？ | 是 |
+| ，您是否有已建立的變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
+| ，是否有其他人檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是， |
+| 安全程式碼撰寫做法是否將 OWASP 前 10 名等常見弱點類別納入考慮？ | 是 |
+| ，多重要素驗證 (啟用 MFA) ： | CodeRepositories、DNSManagement、Credential |
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
-| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
-| 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
-| 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | 是 |
-| 偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 是 |
-| 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
-| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？ | 是 |
+| ，您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
+| ，您是否已在支援您應用程式的所有系統元件上設定事件記錄？ | 是 |
+| ：所有記錄都是以人為或自動化工具定期檢閱以偵測潛在安全性事件嗎？ | 是 |
+| ：偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 是 |
+| ，您是否已建立正式的資訊安全性風險管理程式？ | 是 |
+| ，您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| ，您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？ | 是的 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
