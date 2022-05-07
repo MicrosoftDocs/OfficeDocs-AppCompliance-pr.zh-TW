@@ -846,6 +846,8 @@ items:
         href: teams/pagerduty-inc.md
       - name: PandaDoc
         href: teams/pandadoc.md
+      - name: Pandos
+        href: teams/pandos-intelligence-inc.md
       - name: Panopto
         href: teams/panopto.md
       - name: ParkHere Corporate
@@ -992,6 +994,8 @@ items:
         href: teams/smileback.md
       - name: Sobol
         href: teams/consensys-ags-sobol.md
+      - name: Sociabble
+        href: teams/sociabble.md
       - name: Social Advocacy
         href: teams/oktopost-social-advocacy.md
       - name: Solo
@@ -1086,7 +1090,7 @@ items:
         href: teams/teamschamp.md
       - name: Communitio 的 TeamSticker
         href: teams/communitio-corporation-teamsticker-by.md
-      - name: 團隊合作
+      - name: 團隊工作
         href: teams/teamwork.md
       - name: TELUS Business Connect
         href: teams/ringcentral-inc-telus-business-connect.md
