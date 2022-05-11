@@ -3,17 +3,17 @@ title: Azure App d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d 的識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/06/2022
+ms.date: 05/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: 014fc425e728fe1f1be75f8f204bb0b1ca2df1e1
-ms.sourcegitcommit: 2f4d962dc1778849751d2e1db212ff702c247627
+ms.openlocfilehash: c4b8fb022d415962bf9ef85f2c817104dd284ceb
+ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "65263552"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65308549"
 ---
 # <a name="azure-app-id-d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d"></a>Azure App識別碼：d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
 
