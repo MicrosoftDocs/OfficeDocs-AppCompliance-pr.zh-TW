@@ -3,17 +3,17 @@ title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/11/2022
+ms.date: 05/12/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: f3d39ae22dea3b9df50a4aeaf7409422c5e50ea0
-ms.sourcegitcommit: 07b2885ce41c10ee8dc55adfd86c8c9b90c99011
+ms.openlocfilehash: 84842053ca664747f4e44669d89722a03bc34646
+ms.sourcegitcommit: 4d256127e7de5b02c6b9d4f05e823c6845d5bbf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65359449"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "65381443"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -31,7 +31,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Adobe Acrobat Reader](./adobe-systems-inc-acrobat.md) | Adobe Systems Inc. | **✓** |  |
 | [Adobe Acrobat Sign](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Adobe Creative Cloud Express](./adobe-creative-cloud-express.md) | Adobe | **✓** |  |
-| [Agenda Boss](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
 | [敏捷任務面板](./agile-is-task-board.md) | Agile-IS | **✓** |  |
 | [AI Producer](./livearena-technologies-ab-ai-producer.md) | LiveArena Technologies AB | **✓** |  |
 | [有目標](./aimful.md) | 有目標 | **✓** |  |
@@ -87,7 +86,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Bright Remind Me](./chat-apps-llc-bright-remind-me.md) | 聊天應用程式，LLC | **✓** |  |
 | [Brightcove 影片連線](./brightcove-inc-video-connect.md) | Brightcove Inc.。 | **✓** |  |
 | [Brightidea](./brightidea.md) | Brightidea | **✓** |  |
-| [廣播](./cerkl-broadcast.md) | Cerkl | **✓** |  |
 | [Brochesia](./brochesia.md) | Brochesia | **✓** |  |
 | [佈告欄 - NextSet](./nextsetinc-bulletin-board-nextset.md) | NextSet,Inc. | **✓** |  |
 | [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -117,7 +115,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Collection Pot](./gifted-to-you-limited-collection-pot.md) | Gifted to You Limited | **✓** |  |
 | [Commander](./nimbella-commander.md) | Nimbella | **✓** |  |
 | [Company Navigator](./konica-minolta-it-solutions-company-navigator.md) | Konica Minolta IT Solutions | **✓** |  |
-| [Complish](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [會議 i/O](./conferences-io.md) | 會議 i/O | **✓** |  |
 | [Confluence Cloud](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
 | [Confluence 連接器（按 MWF）](./move-work-forward-confluence-connector-by-mwf.md) | 推展工作進度 | **✓** |  |
@@ -150,7 +147,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [文件起草者](./green-meadow-aps-document-drafter.md) | Green Meadow ApS | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
-| [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
 | [Dubber 整合通話錄音](./dubber-unified-call-recording.md) | 配音器 | **✓** |  |
 | [DZ Notification Bot](./dz-notification-bot.md) | &#36948;&#26131;&#26234;&#36896;&#32929;&#20221;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [簡單專案](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
@@ -285,7 +281,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Loops - Creative Learning](./skooler-loops-creative-learning.md) | Skooler | **✓** |  |
 | [LTI 用戶端](./flipick-pvt-ltd-lti-client.md) | Flipick Pvt Ltd | **✓** |  |
 | [Lucca](./lucca.md) | Lucca | **✓** |  |
-| [Lucidspark Whiteboard](./lucid-software-lucidspark-whiteboard.md) | Lucid Software | **✓** |  |
 | [LumApps](./lumapps.md) | LumApps | **✓** |  |
 | [SMART 的 Lumio](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
 | [Map Pro](./witivio-map-pro.md) | Witivio | **✓** |  |
@@ -374,7 +369,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [qChange Leader Experience](./qchange-software-solution-inc-leader-experience.md) | qChange Software Solution, Inc. | **✓** |  |
 | [Qooper](./cognata-technologies-llc-qooper.md) | COGNATA TECHNOLOGIES, LLC | **✓** |  |
 | [Quadra Thankz](./quadrasystemsnet-quadra-thankz.md) | Quadrasystems.net | **✓** |  |
-| [符合資格](./qualified.md) | 符合資格 | **✓** |  |
 | [Quire](./potix-corporation-quire.md) | Potix Corporation | **✓** |  |
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | 全球會議 SRL | **✓** |  |
@@ -449,7 +443,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Switchvox](./sangoma-switchvox.md) | Sangoma | **✓** |  |
 | [SWOOP Analytics](./swoop-analytics-pty-ltd.md) | SWOOP Analytics Pty Ltd | **✓** |  |
 | [SysAid](./sysaid.md) | SysAid | **✓** |  |
-| [Tactileo](./maskott-tactileo.md) | Maskott | **✓** |  |
 | [TagMyFav](./avishkaram-technologies-pvt-ltd-tagmyfav.md) | Avishkaram Technologies Pvt Ltd | **✓** |  |
 | [TagTeam](./smarter-business-solution-gmbh-tagteam.md) | Smarter Business Solution GmbH | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
