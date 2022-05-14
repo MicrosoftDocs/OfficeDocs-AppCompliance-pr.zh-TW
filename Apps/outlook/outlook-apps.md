@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps 安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/10/2022
+ms.date: 05/13/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook Apps 的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 150a248def762691047a13127f28dff9378f239b
-ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
+ms.openlocfilehash: 9a1c96597460585f3f79bd41ee15c10bd91f8a90
+ms.sourcegitcommit: 28e4529834823fb61620dc9ac5b33eeddaca67a1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65305639"
+ms.lasthandoff: 05/14/2022
+ms.locfileid: "65413469"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 安全性與合規性
 
@@ -24,6 +24,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [適用于 Microsoft Outlook 的 Adobe Acrobat Sign](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Altru 影片](./altru-videos.md) | Altru | **✓** |  |
 | [已核准的連絡人行事曆](./approved-contact-calendars.md) | 已核准的連絡人 | **✓** |  |
+| [提升我的郵件](./boost-my-mail.md) | 提升我的郵件 | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [codeTwo for Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Commuty](./commuty.md) | Commuty | **✓** |  |
