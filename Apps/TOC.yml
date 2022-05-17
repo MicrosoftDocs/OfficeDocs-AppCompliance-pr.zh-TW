@@ -19,6 +19,10 @@ items:
         href: docs/certification.md
       - name: Microsoft 365認證提交指南
         href: docs/certification-submission-guide.md
+      - name: 什麼是應用程式合規性自動化工具 (ACAT) ？
+        href: docs/acat-overview.md
+      - name: 使用 ACAT 加速Microsoft 365認證
+        href: docs/automate-certification-with-acat.md
   - name: Microsoft Excel應用程式
     href: excel/excel-apps.md
     items:
