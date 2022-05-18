@@ -3,17 +3,17 @@ title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/13/2022
+ms.date: 05/17/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 8c6a89142076fd475457c1be92ce6fbe94f4422e
-ms.sourcegitcommit: 7eb24e5432be5d305fa7140c46d6d52c234fb621
+ms.openlocfilehash: 5e6dd5458edbd117108f28d2555f9e4a755388e4
+ms.sourcegitcommit: 9fc27c6c7e9683291d85818c07e7be8291c75532
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2022
-ms.locfileid: "65420246"
+ms.lasthandoff: 05/18/2022
+ms.locfileid: "65453537"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -78,6 +78,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Bizfone](./mobikom-bizfone.md) | MobiKOM | **✓** |  |
 | [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [版面連結](./engage-squared-board-connect.md) | 使用方形 | **✓** |  |
+| [額外獎勵](./bonusly.md) | 額外獎勵 | **✓** |  |
 | [Booking Room Pro](./witivio-booking-room-pro.md) | Witivio | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
 | [BRAVO Workhub](./coeus-solutions-gmbh-bravo-workhub.md) | Coeus Solutions GmbH | **✓** |  |
@@ -143,6 +144,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
 | [DeskBooking](./desknow-gmbh-deskbooking.md) | DeskNow GmbH | **✓** |  |
 | [DeskManager](./desknow-gmbh-deskmanager.md) | DeskNow GmbH | **✓** |  |
+| [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [DigitalOps Toolbox](./medalsoft-digitalops-toolbox.md) | Medalsoft | **✓** |  |
 | [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
 | [通訊群組清單專業人員](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
@@ -164,6 +166,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Eloops](./eloops.md) | Eloops | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
+| [電子郵件-傳送簡訊](./voice-elements-corporation-email-texting.md) | Voice Elements 公司 | **✓** |  |
 | [DSMN8 呈現員工之權](./dsmn8-employee-advocacy-by.md) | DSMN8 | **✓** |  |
 | [員工推薦](./recruitday-inc-employee-referrals.md) | Recruitday Inc. | **✓** |  |
 | [Employee Training Management](./sharepointsapiens-employee-training-management.md) | SharePoint-Sapiens | **✓** |  |
@@ -332,7 +335,9 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [OfficeSuite](./windstream-officesuite.md) | Windstream | **✓** |  |
 | [OfficeTogether](./officetogether-inc.md) | OfficeTogether, Inc. | **✓** |  |
 | [Officevibe](./officevibe.md) | Officevibe | **✓** |  |
+| [Offishall Planning](./offishall-planning.md) | Offishall | **✓** |  |
 | [OLIVE VLE](./olivegroup-olive-vle.md) | OliveGroup | **✓** |  |
+| [上線開始](./apr-management-solutions-lda-onboarding-start.md) | APR - 管理解決方案 Lda. | **✓** |  |
 | [Onluyen](./edmicro-onluyen.md) | Edmicro | **✓** |  |
 | [Onsight Connect](./librestream-onsight-connect.md) | Librestream | **✓** |  |
 | [Optmyzr](./optmyzr.md) | Optmyzr | **✓** |  |
@@ -405,6 +410,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps， Inc. | **✓** |  |
+| [Sine](./sineco-sine.md) | Sine.co | **✓** |  |
 | [Skedda](./skedda-pty-ltd.md) | Skedda Pty Ltd | **✓** |  |
 | [SkilledHuman](./saltflat-limited-skilledhuman.md) | SaltFlat Limited | **✓** |  |
 | [Skillsoft Percipio](./skillsoft-percipio.md) | Skillsoft | **✓** |  |
@@ -480,6 +486,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - Time tracking](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM 數位 SRL | **✓** |  |
+| [Tonkean](./tonkean.md) | Tonkean | **✓** |  |
 | [Totara](./totara-learning.md) | Totara Learning | **✓** |  |
 | [touchSMS](./edgility-touchsms.md) | 敏捷性 | **✓** |  |
 | [訓練助理](./the-bot-platform-training-assistant.md) | Bot 平台 | **✓** |  |
