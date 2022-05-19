@@ -3,17 +3,17 @@ title: Azure App 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba 的識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/17/2022
+ms.date: 05/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: d6914d1d01e2473a7c4817b9c701fa9fe4e75439
-ms.sourcegitcommit: 9fc27c6c7e9683291d85818c07e7be8291c75532
+ms.openlocfilehash: c005ed43ae6eb3b3fa236658c1c01b4eecda6656
+ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/18/2022
-ms.locfileid: "65453727"
+ms.locfileid: "65474867"
 ---
 # <a name="azure-app-id-6f5cab29-c1ad-4048-bf96-fdbe54dba6ba"></a>Azure App識別碼：6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 
