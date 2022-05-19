@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps 安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/13/2022
+ms.date: 05/18/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook Apps 的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 9a1c96597460585f3f79bd41ee15c10bd91f8a90
-ms.sourcegitcommit: 28e4529834823fb61620dc9ac5b33eeddaca67a1
+ms.openlocfilehash: d5c06c88c4170ef21e7edd190863e7f53830f69d
+ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2022
-ms.locfileid: "65413469"
+ms.lasthandoff: 05/18/2022
+ms.locfileid: "65475537"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 安全性與合規性
 
@@ -28,6 +28,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [codeTwo for Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Commuty](./commuty.md) | Commuty | **✓** |  |
+| [適用于 Outlook 的 DocuSign](./docusign-inc-for-outlook.md) | DocuSign, Inc. | **✓** |  |
 | [發電機](./dynamo-software.md) | 動態軟體 | **✓** |  |
 | [電子郵件反應器](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
