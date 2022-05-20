@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: e5d2a66a0965a870d356a980e27baa26155fb51b
-ms.sourcegitcommit: b363fcc87dc5720eaddbe567a857270732ef9e1c
+ms.openlocfilehash: 91a6a336a7b8fb2a6a873e06cd01f4de771bf00e
+ms.sourcegitcommit: 44d44584aecd6cfc08b9cd06f47cd4363fb3a812
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/19/2022
-ms.locfileid: "65546586"
+ms.locfileid: "65586939"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -128,6 +128,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [內容管理員](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [CoNtextere AVA](./contextere-ava.md) | CoNtextere | **✓** |  |
 | [ContractZen](./contractzen.md) | ContractZen | **✓** |  |
+| [CorporateFitness.app](./noctilucent-bv-corporatefitnessapp.md) | Noctilucent BV | **✓** |  |
 | [CSOD Learn](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
 | [Cuckoo Workout](./cuckoo-networks-oy-workout.md) | Cuckoo Networks Oy | **✓** |  |
 | [Cultr Connect](./cultr-connect.md) | Cultr | **✓** |  |
@@ -161,6 +162,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR（亞洲） Co.Ltd。 | **✓** |  |
 | [敏捷性](./edgility.md) | 敏捷性 | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
+| [EdPuzzle](./edpuzzle.md) | EdPuzzle | **✓** |  |
 | [Efecte Service Management](./efecte-oyj-service-management.md) | Efecte Oyj | **✓** |  |
 | [eformity - 範本管理](./eformity-eformitytemplate-management.md) | eformity | **✓** |  |
 | [Egnyte](./egnyte.md) | Egnyte | **✓** |  |
