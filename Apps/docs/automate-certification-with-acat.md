@@ -8,12 +8,12 @@ ms.service: certification
 ms.topic: how-to
 ms.date: 04/13/2022
 ms.custom: template-how-to
-ms.openlocfilehash: c81ccf3626d6039333f52a487e98233364f7174e
-ms.sourcegitcommit: 785d1c5d829e44e0ad696b85c92be81f549b989e
+ms.openlocfilehash: 6a18e64f3b75f6d197c9867830d0a061ce298584
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65433398"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608794"
 ---
 # <a name="automate-microsoft-365-certification-with-app-compliance-automation-tool-for-microsoft-365"></a>使用適用于 Microsoft 365 的應用程式合規性自動化工具自動化Microsoft 365認證
 
@@ -22,14 +22,17 @@ ms.locfileid: "65433398"
 > [!IMPORTANT]
 > ACAT 目前處於私人預覽狀態。 如果您想要加入私人預覽計畫，請 [在這裡](https://aka.ms/acat/private/signup)註冊。
 
+> [!NOTE]
+> 如果您想要提供意見反應給 ACAT 私人預覽，您可以從此 [表單](https://aka.ms/acat/feedback)開始。 一旦收到您的訊息，ACAT 產品小組就會儘快與您一起追蹤。 
+
 ## <a name="create-your-first-compliance-report-to-onboard-acat"></a>建立您的第一個合規性報告以將 ACAT 上線
 
 ACAT 可讓您專注于應用程式的合規性，或應用程式 (的特定環境，例如生產環境、預備環境等) 。 它可讓您建立 **合規性報告** ，您可以在其中根據應用程式的雲端基礎結構或應用程式的特定環境來定義合規性界限。
 
 > [!IMPORTANT]
-> 由於 ACAT 處於私人預覽狀態，因此您無法直接在中 *https://portal.azure.com* 搜尋。 請使用下列選項來啟動 ACAT。
+> 由於 ACAT 處於私人預覽狀態，因此您無法直接在Azure 入口網站中搜尋。 請註冊 [ACAT 私人預覽計畫](https://aka.ms/acat/private/signup) ，並取得支援小組的存取權。
 
-- 搜尋並啟動 ***應用程式合規性自動化工具，以在Azure 入口網站*** 中 [Microsoft 365](https://portal.azure.com/?microsoft_azure_appcomplianceautomation_assettypeoptions=%7B%22AppComplianceAutomation%22:%7B%22options%22:%22%22%7D%7D&microsoft_azure_marketplace_ItemHideKey=Microsoft_Azure_AppComplianceAutomationHidden)，或直接使用 [ACAT 的深層連結](https://portal.azure.com/#blade/Microsoft_Azure_AppComplianceAutomation/AcatMenuBlade/overview)啟動。
+- 搜尋並啟動 ***應用程式合規性自動化工具，以在Azure 入口網站中Microsoft 365***。
 - 從左側移至 ***[報*** 表]。
 
 :::image type="complex" source="../media/ACAT/getstarted-create-report-inline.png" lightbox="../media/ACAT/getstarted-create-report.png" alt-text="建立合規性報告":::
@@ -144,7 +147,7 @@ ACAT 可讓您專注于應用程式的合規性，或應用程式 (的特定環�
     作用中合規性報告的合規性狀態概觀。
 :::image-end:::
 
-## <a name="troubleshooting"></a>疑難排解 
+## <a name="troubleshooting"></a>正在疑難排解 
 
 ### <a name="why-is-the-compliance-report-created-failed-due-to-authorization-error"></a>為什麼因為授權錯誤而建立的合規性報告失敗？ 
 

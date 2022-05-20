@@ -7,18 +7,21 @@ description: 適用于Microsoft 365的應用程式合規性自動化工具概觀
 keywords: 應用程式認證自動化Microsoft 365
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: bd570496ce11bf72270cb18542846140122efb8b
-ms.sourcegitcommit: 3931a0f41e8a6637cd1ce0a7c5273dabf592e475
+ms.openlocfilehash: 5e3fbc062c1887a205a7b99a85a292ad9a64f8d0
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65441989"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608806"
 ---
 # <a name="app-compliance-automation-tool-for-microsoft-365"></a>適用于 Microsoft 365 的應用程式合規性自動化工具
 在本文中，您將瞭解適用于 Microsoft 365 (ACAT) 的應用程式合規性自動化工具是什麼，以及它如何簡化合規性並取得Microsoft 365認證。
 
 > [!IMPORTANT]
 > ACAT 目前處於私人預覽狀態。 如果您想要加入私人預覽計畫，請 [在這裡](https://aka.ms/acat/private/signup)註冊。
+
+> [!NOTE]
+> 如果您想要提供意見反應給 ACAT 私人預覽，您可以從此 [表單](https://aka.ms/acat/feedback)開始。 一旦收到您的訊息，ACAT 產品小組就會儘快與您一起追蹤。 
 
 ## <a name="what-is-app-compliance-automation-tool-for-microsoft-365"></a>什麼是適用于 Microsoft 365 的應用程式合規性自動化工具
 適用于 Microsoft 365 (ACAT) 的應用程式合規性自動化工具是 Azure 入口網站中的一項服務，可協助簡化任何取用Microsoft 365客戶資料並透過合作夥伴中心發佈之應用程式的合規性旅程。 適用于Microsoft 365的應用程式合規性自動化工具是以應用程式為中心的合規性自動化工具，可協助您以更輕鬆且便利的方式完成Microsoft 365認證。 在私人預覽版中，ACAT 適用于在 Azure 上執行的應用程式。
