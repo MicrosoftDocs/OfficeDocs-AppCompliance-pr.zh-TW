@@ -7,12 +7,12 @@ description: Microsoft 365應用程式合規性計畫 SaaS 的 ISV 使用者指�
 keywords: Microsoft 365應用程式合規性計畫 SaaS 的 ISV 使用者指南
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: abb26a45c9dc0d0d91ebd26c06b29644b41b2dfd
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: af6561ffb4670269fc4e219f58d069ce3fa20ce9
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64752862"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618288"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>合作夥伴的應用程式合規性計畫Microsoft 365使用者指南 - SaaS
 
@@ -23,7 +23,10 @@ ms.locfileid: "64752862"
 
 ## <a name="1-overview"></a>1. 概觀 
 
-本檔是合作夥伴的逐步使用者指南，我們已註冊Microsoft 365應用程式合規性計畫，並透過合作夥伴中心入口網站進行其 SaaS 應用程式的發行者證明和認證。
+本檔是合作夥伴的逐步使用者指南，我們已註冊Microsoft 365應用程式合規性計畫，並嘗試透過合作夥伴中心入口網站進行其 SaaS 應用程式的Publisher證明和認證。
+
+>[!IMPORTANT]
+>本指南僅適用于已由Microsoft 365應用程式合規性小組核准並列入允許清單的 SaaS 應用程式。 如果您的應用程式未列入允許清單，您將無法在合作夥伴中心內繼續進行。 若要將您的 SaaS 列入允許清單，請連絡 appcert@microsoft.com。
 
 ## <a name="2-acronyms--definitions"></a>2.縮寫&定義
 |縮略字 | 定義 |
@@ -33,7 +36,7 @@ ms.locfileid: "64752862"
 |應用程式來源 | 應用程式目錄 |
 |範例 |[現在虛擬代理程式](https://appsource.microsoft.com/product/office/WA104381816)|
 
-## <a name="3-publisher-attestation-workflow"></a>3.發行者證明工作流程
+## <a name="3-publisher-attestation-workflow"></a>3.Publisher證明工作流程
 
 **首頁**：這是合作夥伴登入合作夥伴中心之後的登陸頁面。
 
@@ -53,43 +56,43 @@ ms.locfileid: "64752862"
   
 ![商業市集中的應用程式合規性](../media/PCappcompliance3.png)
   
-**步驟 4**：填寫發行者證明的自我評量問卷。
+**步驟 4**：填寫Publisher證明的自我評估問卷。
 
-![完成發行者證明](../media/UserGuidePhotos/5.5.png)
+![完成Publisher證明](../media/UserGuidePhotos/5.5.png)
   
 **注意 如果您要返回更新/重新提交應用程式，請按一下 [選擇產品] 的下拉式清單，選取應用程式，然後按一下 [複製]。**
 
 ![複製功能](../media/UserGuidePhotos/05.png)
 
-**您也可以利用匯入/匯出功能，離線完成表單，並在完成後匯入表單。**
+**您也可以利用匯入/匯出功能離線完成表單，並在完成後匯入表單。**
 
 ![匯入匯出功能](../media/UserGuidePhotos/06.png)
  
 **步驟 5**：完成後，按一下 [提交]，評定現在會是 [正在檢閱中]。
  
- ![提交發行者位元組確認 ](../media/UserGuidePhotos/07.png) ![ 提交](../media/UserGuidePhotos/08.png)
+ ![提交Publisher位元組確認 ](../media/UserGuidePhotos/07.png) ![ 提交](../media/UserGuidePhotos/08.png)
   
 **核准/拒絕案例：**
   
-答： 發行者證明拒絕
+答： Publisher證明拒絕
 - 如果遭到拒絕，合作夥伴可以：
      - 檢視失敗報告
           - 合作夥伴會透過電子郵件收到通知，他們可以在合作夥伴中心檢視失敗報告
      - 更新並重新提交自我評估問卷。
         
-![發行者證明遭拒](../media/UserGuidePhotos/09.png)
+![Publisher證明已拒絕](../media/UserGuidePhotos/09.png)
 
-B.  發行者證明核准
+B.  Publisher證明核准
 - 經核准，合作夥伴可以：
      - 更新並重新提交證明
-     - 檢視已完成的發行者證明
+     - 檢視已完成Publisher證明
      - 啟動Microsoft 365認證程式
         
- ![發行者證明已完成](../media/UserGuidePhotos/10.png)       
+ ![Publisher證明已完成](../media/UserGuidePhotos/10.png)       
   
  ![啟動Microsoft 365認證](../media/UserGuidePhotos/11.png)
   
-**發行者證明核准後：AppSource 中針對發行者證明應用程式連結的範例。**
+**發佈Publisher證明核准：AppSource 中針對發行者證明應用程式連結的範例。**
   
 ![已核准的連絡人範例](../media/UserGuidePhotos/12.png)
    
@@ -122,7 +125,7 @@ B.  發行者證明核准
 
 ![完整控制需求](../media/UserGuidePhotos/18.png)
   
-![上傳控制需求](../media/UserGuidePhotos/19.png)
+![Upload控制項需求](../media/UserGuidePhotos/19.png)
 
 ![符合控制項需求](../media/UserGuidePhotos/20.png)
  
@@ -154,43 +157,43 @@ B.  發行者證明核准
  
 ## <a name="5---microsoft-365-renewal-workflow"></a>5.Microsoft 365更新工作流程：
   
-**Microsoft 365發行者證明和認證更新工作流程：**  
+**Microsoft 365Publisher證明和認證更新工作流程：**  
 
-Microsoft 365應用程式合規性計畫現在提供年度更新程式。 在此程式中，應用程式開發人員可以更新其現有的發行者證明問卷，以及Microsoft 365認證所需的檔。 
+Microsoft 365應用程式合規性計畫現在提供年度更新程式。 在此程式中，應用程式開發人員可以更新其現有的Publisher證明問卷，以及Microsoft 365認證所需的檔。 
  
 **好處：** 
 
-- 在 AppSource、Office 市集、Teams市集和各種管理入口網站中維護您的認證徽章，以區別您的應用程式與其他人。 
+- 在 AppSource、Office Microsoft Store、Teams Microsoft Store和各種管理入口網站中維護您的認證徽章，以區別您的應用程式與其他人。 
 - 提高客戶對使用認證應用程式的信賴度。 
 - 使用更新的認證資訊，協助 IT 系統管理員做出明智的決策。
 
 合作夥伴 [中心](https://partner.microsoft.com/dashboard/home) 提供新的續約程式，以提供順暢的體驗。 從到期日之前的 90 天開始，合作夥伴中心會顯示續約提醒。 定期提醒也會在到期前 90 天、60 天和 30 天透過電子郵件傳送。 
  
-**階段 1：發行者證明更新：**
+**階段 1：Publisher證明更新：**
   
-應用程式的發行者證明解答必須每年重新提交。 當證明接近 1 年標記時，會傳送電子郵件提醒，鼓勵重新提交證明。 
+應用程式的Publisher證明答案必須每年重新提交。 當證明接近 1 年標記時，會傳送電子郵件提醒，鼓勵重新提交證明。 
  
-**步驟 1**：選取 **[更新** ] 以更新發行者證明。
+**步驟 1**：選取 **[更新**] 以更新Publisher證明。
   
 ![Renewel 已核准](../media/UserGuidePhotos/31.png)
   
-**步驟 2**：檢閱先前的發行者證明解答，並視需要更新最新資訊。 
+**步驟 2**：檢閱先前的Publisher證明解答，並視需要更新最新資訊。 
   
-準備就緒時，提交發行者證明以進行更新。 M365 應用程式合規性分析師會加以檢閱。
+提交Publisher證明以在準備就緒時進行更新。 M365 應用程式合規性分析師會加以檢閱。
 
 ![更新為證明](../media/UserGuidePhotos/29.png)
   
-**發行者證明更新已核准：**
+**Publisher證明更新已核准：**
   
 ![提交以進行續約](../media/UserGuidePhotos/30.png)
   
-**發行者證明已過期：**
+**Publisher證明已過期：**
   
-應用程式的資訊必須在到期日之前更新，才能在 Microsoft 檔上維護應用程式的發行者證明頁面。及時更新也會確保應用程式在各種店面中持續出現徽章和圖示。 
+應用程式的資訊必須在到期日之前更新，才能在 Microsoft 檔上維護應用程式的 [Publisher證明] 頁面。及時更新也會確保應用程式在各種店面中持續出現徽章和圖示。 
  
 ![Renewel 已核准](../media/UserGuidePhotos/31.png)
 
-**注意**：過期後，只要按一下 [更新]，即可隨時啟動發行者證明更新程式。
+**注意**：過期後，只要按一下 [更新] 即可隨時啟動Publisher證明更新程式。
  
 **階段 2：Microsoft 365認證更新**
   
@@ -223,8 +226,8 @@ Microsoft 365應用程式合規性計畫現在提供年度更新程式。 在此
 
 **認證到期：**
 
-應用程式的資訊必須在到期日之前更新，才能在 Microsoft 檔上維護應用程式的 [認證] 頁面。及時更新也會確保 AppSource 和 Team Store 中應用程式的持續徽章和圖示。
+應用程式的資訊必須在到期日之前更新，才能在 Microsoft 檔上維護應用程式的 [認證] 頁面。及時更新也會確保 AppSource 和 Team Microsoft Store 中應用程式的徽章和圖示持續出現。
 
 ![認證更新核准](../media/UserGuidePhotos/36.png)
   
-注意：一旦過期，只要按一下 [更新]，即可隨時啟動發行者證明和認證程式。 
+注意：過期後，只要按一下 [更新]，即可隨時啟動Publisher證明和認證程式。 

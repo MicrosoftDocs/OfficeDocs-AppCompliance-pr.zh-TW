@@ -3,17 +3,17 @@ title: Microsoft Word應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/20/2022
 ms.topic: article
 ms.service: attestation
 description: 所有Microsoft Word應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 6fbf61c48d0348327107911d493592eeb2e849e3
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 28a1f34f21b783fec68f1ffaab516f8abd432a3e
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65474757"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618983"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word應用程式安全性與合規性
 
@@ -52,4 +52,3 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，提供組
 | [適用于 Word 的 Stilus](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [TaxKit Docs](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [TerMef](./mondeca-termef.md) | Mondeca | **✓** |  |
-| [x][架構 - 知識管理系統]](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |

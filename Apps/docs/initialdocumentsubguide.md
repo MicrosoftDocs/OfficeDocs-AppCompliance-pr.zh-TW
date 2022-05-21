@@ -7,12 +7,12 @@ description: 初始檔提交是認證評估前階段的一部分。
 keywords: 應用程式認證小組Microsoft 365安全性合規性 m365 初始檔提交
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 23c3cf7a64025bb7269adb35175e8d87bc64224e
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 8cb7ac4711b7399ae24b76794c251e3cae845e94
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784502"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618579"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365憑證 - 初始檔提交指南
 
@@ -125,5 +125,7 @@ Flow詳細說明下列各項的圖表：
 
 ![資料Flow圖](../media/Dataflowdiagram.png)
 
+## <a name="external-certifications-soc2-pci-dss-iso27001---optional"></a>外部認證 (SOC2、PCI DSS、ISO27001) - 選擇性
 
+如果您已經取得 SOC2、PCI DSS 或 ISO27001 認證，且在過去 12 個月內發出的報告超過所認證應用程式的完整範圍和支援環境，您可以在初始檔提交期間提交。 我們將嘗試利用它來滿足控制項子集，並加速您的評量。 不過，這不需要取得Microsoft 365認證。 
 
