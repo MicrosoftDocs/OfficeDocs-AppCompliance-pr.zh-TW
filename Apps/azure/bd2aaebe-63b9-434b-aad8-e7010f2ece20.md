@@ -3,17 +3,17 @@ title: bd2aaebe-63b9-434b-aad8-e7010f2ece20 的Azure App識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/21/2022
+ms.date: 05/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: bd2aaebe-63b9-434b-aad8-e7010f2ece20 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: c8b993428040c5e5f55d752236c3722851d8e9f4
-ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
+ms.openlocfilehash: 8427ce342e79a34073499a2bf9cdc3a7261a2859
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/23/2022
-ms.locfileid: "65644122"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65692118"
 ---
 # <a name="azure-app-id-bd2aaebe-63b9-434b-aad8-e7010f2ece20"></a>Azure App識別碼：bd2aaebe-63b9-434b-aad8-e7010f2ece20
 

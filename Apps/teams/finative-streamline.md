@@ -1,49 +1,48 @@
 ---
-title: TINYpulse by TINYpulse 的應用程式資訊
+title: 依有限性簡化的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/25/2022
+ms.date: 05/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: TINYpulse 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: 所有可用的安全性與合規性資訊，適用于簡化程式、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1bf60852826c1e186ccd0590ebca1a76ddcb97e9
+ms.openlocfilehash: 42ee00766760eca68fde3804a83209de5b4a6fed
 ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/26/2022
-ms.locfileid: "65692048"
+ms.locfileid: "65692389"
 ---
-# <a name="tinypulse"></a>TINYpulse
+# <a name="streamline"></a>簡化
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 5 月 25 日</p>
+<p>上次由開發人員更新日期：2022 年 4 月 7 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/1950b3dc-66fc-4c5f-bbbe-e411ad91a49f" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381729" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/aa6e7fb6-34ac-4947-9c13-3565c66e368b" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004100" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-TINYpulse 提供給 Microsoft 的資訊：
+由 Finative 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | TINYpulse |
-| ID | WA104381729 |
+| 應用程式名稱 | 簡化 |
+| ID | WA200004100 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | TINYpulse |
-| 公司的網站 | [https://www.tinypulse.com](https://www.tinypulse.com) |
-| 應用程式的使用規定 | [https://www.tinypulse.com/terms-and-conditions](https://www.tinypulse.com/terms-and-conditions) |
-| 應用程式的核心功能 | 最高評等的應用程式，可改善文化特性、辨識和避免盲點。 |
-| 公司總部位置 | 美國美國 |
-| 應用程式資訊頁面 | [https://www.tinypulse.com/engage](https://www.tinypulse.com/engage) |
-| 用來執行應用程式的裝載環境或服務模型為何？ | Paas |
-| 應用程式會使用哪些主控雲端提供者？ | 其他 |
+| 合作夥伴公司名稱 | 有限 |
+| 公司的網站 | [https://finative.it](https://finative.it) |
+| 應用程式的使用規定 | [https://finative.it/streamline/terms-of-use/](https://finative.it/streamline/terms-of-use/) |
+| 應用程式的核心功能 | 透過簡化會議體驗來提高生產力。 |
+| 公司總部位置 | 荷蘭 ()  |
+| 應用程式資訊頁面 | [https://finative.it/streamline/](https://finative.it/streamline/) |
+| 用來執行應用程式的裝載環境或服務模型為何？ | IsvHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,16 +52,16 @@ TINYpulse 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-TINYpulse 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+這項資訊是由 Finative 所提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | conversation_id、conversation_type、tenant_id、service_url、email、userPrincialName、使用者識別碼、使用者物件識別碼 (AADObjectId)  |
+| 您的應用程式會處理哪些資料？ | Azure AD 使用者識別碼 |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 哪些資料會儲存在您的資料庫中？ | conversation_id、conversation_type、tenant_id、service_url、email、userPrincialName、使用者識別碼、使用者物件識別碼 (AADObjectId)  |
-| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國美國 |
+| 哪些資料會儲存在您的資料庫中？ | Userids、tenantid 和 OneDrive 連結至應用程式內建立的資料夾 |
+| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 荷蘭 ()  |
 | 您是否有已建立的資料租用和處置程式？ | 是 |
 | 帳戶終止之後，資料會保留多久？ | 小於 90 天 |
 | 您是否有已建立的資料存取管理程式？ | 是 |
@@ -78,27 +77,26 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否在應用程式上執行年度滲透測試？ | 是 |
+| 您是否在應用程式上執行年度滲透測試？ | 否 |
 | 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
-| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | ApplicationControls |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware |
 | 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
-| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
-| 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
+| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 否 |
+| 您是否根據修補原則 SLA 執行修補管理活動？ | 否 |
 | 您的環境是否有任何不支援的作業系統或軟體？ | 否 |
-| 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ | 是 |
-| 您的外部網路界限上是否已安裝防火牆？ | 是 |
+| 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ | 否 |
+| 您的外部網路界限上是否已安裝防火牆？ | 否 |
 | 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
 | 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是 |
 | 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ | 是 |
 | 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、DNSManagement、Credential |
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
-| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
+| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 否 |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
 | 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | 是 |
-| 偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 是 |
-| 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
-| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？ | 是 |
+| 偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 否 |
+| 您是否已建立正式的資訊安全性風險管理程式？ | 否 |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -108,21 +106,21 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 是 |
-| 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 是 |
+| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 否 |
+| 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 否 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 否 |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
-| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 是 |
+| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 否 |
+| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 |  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
-| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 不適用 |
-| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 否 |
+| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 是 |
 | 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
-| 應用程式是否符合 NIST 800-171？ | 不適用 |
+| 應用程式是否符合 NIST 800-171？ | 否 |
 | 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -135,15 +133,15 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
 | 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
-| 隱私權原則 URL | https://www.tinypulse.com/privacy-policy |
+| 隱私權原則 URL | https://finative.nl/streamline/privacy-statement |
 | 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
 | 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
 | 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
 | 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ | 否 |
 | 應用程式是否有在要求時刪除個人個人資料的功能？ | 是 |
 | 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ | 是 |
-| 應用程式是否提供個人更正或更新其個人資料的能力？ | 是 |
-| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ | 是 |
+| 應用程式是否提供個人更正或更新其個人資料的能力？ | 不適用 |
+| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -156,12 +154,25 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
-| 您的應用程式是否支援條件式存取原則？ | 否 |
+| 您的應用程式是否支援條件式存取原則？ | 是 |
+| 列出支援的原則類型 | 身分識別 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
 | 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
->此應用程式不會使用 Microsoft Graph。
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
+
+>|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委託 | 根據使用者的動作檢視和編輯使用者排程的必要專案。 | [7f6565a7-45e4-4bba-94d4-bac64886ed83](../azure/7f6565a7-45e4-4bba-94d4-bac64886ed83.md) |
+>| Files.ReadWrite.All | 委託 | 將附件和其他檔案儲存在使用者&#8217;商務用 OneDrive的必要專案。 | [7f6565a7-45e4-4bba-94d4-bac64886ed83](../azure/7f6565a7-45e4-4bba-94d4-bac64886ed83.md) |
+>| Notes.Create | 委託 | 根據會議議程建立 OneNotes 的必要專案。 | [7f6565a7-45e4-4bba-94d4-bac64886ed83](../azure/7f6565a7-45e4-4bba-94d4-bac64886ed83.md) |
+>| User.Read | 委託 | 登入和讀取使用者&#8217;設定檔以驗證及授權對[簡化] 應用程式的存取權的必要專案。 | [7f6565a7-45e4-4bba-94d4-bac64886ed83](../azure/7f6565a7-45e4-4bba-94d4-bac64886ed83.md) |
+>| User.ReadBasic.All | 委託 | 搜尋其他使用者並指派給工作、角色、議程專案等專案時的必要專案。只會顯示登入使用者有權存取的使用者。 | [7f6565a7-45e4-4bba-94d4-bac64886ed83](../azure/7f6565a7-45e4-4bba-94d4-bac64886ed83.md) |
+>| User.Read | 委託 | 在應用程式中顯示已登入使用者的基本資訊 | [c7cdd862-2527-49ea-b873-0c5f51a83292](../azure/c7cdd862-2527-49ea-b873-0c5f51a83292.md) |
+>| 電子郵件 | 委託 | 傳送歡迎電子郵件給使用者 | [c7cdd862-2527-49ea-b873-0c5f51a83292](../azure/c7cdd862-2527-49ea-b873-0c5f51a83292.md) |
+>| openid | 委託 | 登入使用者 | [c7cdd862-2527-49ea-b873-0c5f51a83292](../azure/c7cdd862-2527-49ea-b873-0c5f51a83292.md) |
+>| 設定檔 | 委託 | 在應用程式中顯示已登入使用者的基本資訊 | [c7cdd862-2527-49ea-b873-0c5f51a83292](../azure/c7cdd862-2527-49ea-b873-0c5f51a83292.md) |
 
 >此應用程式沒有其他 API。
 

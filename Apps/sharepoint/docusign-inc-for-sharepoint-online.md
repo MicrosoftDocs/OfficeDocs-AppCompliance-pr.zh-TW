@@ -1,28 +1,28 @@
 ---
-title: DocuSign for Word by DocuSign， Inc. 的 DocuSign 應用程式資訊
+title: DocuSign for SharePoint Online 的 DocuSign 應用程式資訊，由 DocuSign， Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/25/2022
+ms.date: 05/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 適用于 Word 的 DocuSign、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
+description: 適用于 SharePoint Online 的 DocuSign、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8cde4186d69cf52b28f2b5d6e5d111ddf69238c7
+ms.openlocfilehash: f28eb43569050094f196ab5e88ee155d2f634705
 ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/26/2022
-ms.locfileid: "65690898"
+ms.locfileid: "65692383"
 ---
-# <a name="docusign-for-word"></a>DocuSign for Word
+# <a name="docusign-for-sharepoint-online"></a>DocuSign for SharePoint Online
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 5 月 24 日</p>
+<p>上次由開發人員更新日期：2021 年 8 月 28 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104218065" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104218069" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
@@ -32,15 +32,15 @@ DocuSign， Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | DocuSign for Word |
-| ID | WA104218065 |
-| 支援Office 365用戶端 | Word 2016或更新版本，請參閱 mac 上的 Windows、Word 2016 或更新版本，Word 網頁版 |
+| 應用程式名稱 | DocuSign for SharePoint Online |
+| ID | WA104218069 |
+| 支援Office 365用戶端 | SharePoint 2013 或更新版本 |
 | 合作夥伴公司名稱 | DocuSign, Inc. |
 | 公司的網站 | [https://www.docusign.com](https://www.docusign.com) |
 | 應用程式的使用規定 | [https://www.docusign.com/company/terms-and-conditions/web](https://www.docusign.com/company/terms-and-conditions/web) |
-| 應用程式的核心功能 | 使用 DocuSign 快速取得簽章或簽署 Word 檔 |
+| 應用程式的核心功能 | 簽署或要求SharePoint中檔的簽章。 |
 | 公司總部位置 | 美國美國 |
-| 應用程式資訊頁面 | [https://www.docusign.com/solutions/microsoft/word](https://www.docusign.com/solutions/microsoft/word) |
+| 應用程式資訊頁面 | [https://www.docusign.com/solutions/microsoft/sharepoint-onl...](https://www.docusign.com/solutions/microsoft/sharepoint-online) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | IsvHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

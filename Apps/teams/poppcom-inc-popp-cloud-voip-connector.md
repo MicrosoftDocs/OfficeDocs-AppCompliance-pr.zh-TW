@@ -1,49 +1,49 @@
 ---
-title: qChange Software Solution， Inc. 的 qChange 領導者體驗應用程式資訊
+title: POPP.Com、 Inc 的 POP Cloud VoIP 連接器應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/12/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: qChange 領導者體驗、其資料處理原則、其Microsoft Cloud App Security應用程式類別目錄資訊，以及 CSA STAR 登錄中安全性/合規性資訊的所有可用安全性與合規性資訊。
+description: POP Cloud VoIP 連接器的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2c681007f0fb8b398e60b19b095bf1274de883d6
+ms.openlocfilehash: d5ccc3615b47d4ef8c1f1ff8540d1c7192abd792
 ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/26/2022
-ms.locfileid: "65691398"
+ms.locfileid: "65692351"
 ---
-# <a name="qchange-leader-experience"></a>qChange Leader Experience
+# <a name="popp-cloud-voip-connector"></a>POPP Cloud VoIP Connector
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 4 月 20 日</p>
+<p>上次由開發人員更新日期：2021 年 9 月 20 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/32dbfdc9-7832-4969-ad02-77a4902fae35" target="_blank">在Teams存放區中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001639" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/b8e57f6b-31cf-468e-9e99-81f0395cb1f9" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003306" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-qChange Software Solution， Inc. 提供給 Microsoft 的資訊：
+POPP.Com 公司提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | qChange Leader Experience |
-| ID | WA200001639 |
+| 應用程式名稱 | POPP Cloud VoIP Connector |
+| ID | WA200003306 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | qChange Software Solution, Inc. |
-| 公司的網站 | [https://qchange.com](https://qchange.com) |
-| 應用程式的使用規定 | [https://www.qchange.com/terms-of-service](https://www.qchange.com/terms-of-service) |
-| 應用程式的核心功能 | LX 是引導和提升每個人領導力的最快方式，因此會議和文化更佳。 |
+| 合作夥伴公司名稱 | POPP.Com， Inc |
+| 公司的網站 | [https://popp.com](https://popp.com) |
+| 應用程式的使用規定 | [https://popp.com/pvnterms/](https://popp.com/pvnterms/) |
+| 應用程式的核心功能 | 使用您的 MaxUC 用戶端從 Microsoft Teams 進行呼叫 |
 | 公司總部位置 | 美國美國 |
-| 應用程式資訊頁面 | [https://www.qchange.com/leader-experience](https://www.qchange.com/leader-experience) |
+| 應用程式資訊頁面 | |
 | 用來執行應用程式的裝載環境或服務模型為何？ |  |
-| 應用程式會使用哪些主控雲端提供者？ | AWS、Mongodb、Azure |
+| 應用程式會使用哪些主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,7 +53,7 @@ qChange Software Solution， Inc. 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊已由 qChange Software Solution， Inc. 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+這項資訊是由 POPP.Com Inc 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -71,7 +71,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否在應用程式上執行年度滲透測試？ | 否 |
-| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
+| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 否 |
 | 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ |  |
 | 您是否有針對縮排和風險排名安全性弱點所建立的程式？ |  |
 | 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ |  |
@@ -100,21 +100,18 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 不適用 |
 | 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 1) ？ | 是 |
-| 最新的 SOC1 認證日期 | 2020-09-30 |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 最新的 SOC2 認證日期 | 2020-09-30 |
-| 應用程式是否符合服務組織控制 (SOC 3) ？ | 是 |
-| 最新的 SOC3 認證日期 | 2020-04-01 |
+| 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
-| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 是 |
-| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 是 |
+| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 |  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
 | 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 不適用 |
 | 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 否 |
 | 應用程式是否符合 NIST 800-171？ |  |
 | 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
 
@@ -137,20 +134,23 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
-| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
+| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 否 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 真 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
-| 您的應用程式是否支援條件式存取原則？ | 否 |
-| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
+| 您的應用程式是否支援條件式存取原則？ | 是 |
+| 列出支援的原則類型 | 條件式存取原則，可讓用於驗證的 MSAL 程式庫自動提供這類支援。  |
 | 您的應用程式是否支援持續存取評估 (CAE)  |  |
 | 您的應用程式是否在程式碼中儲存任何認證？ |  |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 是 |
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
 >|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委託 | 使用者行事曆資訊和虛擬人偶 | c35f7dcf-1079-4510-a6ec-1f69659c98c1 32dbfdc9-7832-4969-ad02-77a4902fae35 |
+>| ChannelMember.Read.All | 委託 | 目前通道成員的使用者識別碼和顯示名稱。 應用程式會使用這個來向使用者顯示要呼叫的通道成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| Chat.Read | 委託 |  收集或使用哪些資料？ 新增收集或使用資料的理由。 目前聊天成員的使用者識別碼和顯示名稱。 應用程式會使用這個來向使用者顯示要撥打的聊天成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| TeamMember.Read.All | 委託 | 目前小組成員的使用者識別碼和顯示名稱。 應用程式會使用此專案向使用者顯示要呼叫的小組成員清單。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| User.Read.All | 委託 |  收集或使用哪些資料？ 新增收集或使用資料的理由。 使用者的商務和行動電話號碼。 這是必要專案，才能起始這些號碼的電話。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| openid | 委託 | 使用者的授權權杖，授權應用程式存取代表其列出的其他圖形 API端點。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
 
 >此應用程式沒有其他 API。
 
