@@ -8,12 +8,12 @@ ms.service: certification
 ms.topic: how-to
 ms.date: 04/13/2022
 ms.custom: template-how-to
-ms.openlocfilehash: 6a18e64f3b75f6d197c9867830d0a061ce298584
-ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
+ms.openlocfilehash: b708f68ed5717d08b321f02f3ba09989a77fdf17
+ms.sourcegitcommit: e639149031755df8cd50c03341b6507146cc48b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65608794"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65793021"
 ---
 # <a name="automate-microsoft-365-certification-with-app-compliance-automation-tool-for-microsoft-365"></a>使用適用于 Microsoft 365 的應用程式合規性自動化工具自動化Microsoft 365認證
 
@@ -147,7 +147,7 @@ ACAT 可讓您專注于應用程式的合規性，或應用程式 (的特定環�
     作用中合規性報告的合規性狀態概觀。
 :::image-end:::
 
-## <a name="troubleshooting"></a>正在疑難排解 
+## <a name="troubleshooting"></a>疑難排解 
 
 ### <a name="why-is-the-compliance-report-created-failed-due-to-authorization-error"></a>為什麼因為授權錯誤而建立的合規性報告失敗？ 
 
@@ -158,7 +158,7 @@ ACAT 可讓您專注于應用程式的合規性，或應用程式 (的特定環�
 - 移至左側 **IAM)  (存取控制** 。 
 - 選 **取 [檢視我的存取權** ] 以檢查您的許可權。
     - 如果您的組織使用 [Azure 內建角色](/azure/role-based-access-control/built-in-roles)，您的角色指派應該至少包含下列其中一個角色：
-        - [資源原則參與者](/azure/role-based-access-control/built-in-roles#resource-policy-contributor)[和安全性系統管理員](/azure/role-based-access-control/built-in-roles#security-admin)
+        - [資源原則參與者](/azure/role-based-access-control/built-in-roles#resource-policy-contributor)[和安全性管理員](/azure/role-based-access-control/built-in-roles#security-admin)
         - 其他具有較高許可權的角色指派 (例如擁有 [者](/azure/role-based-access-control/built-in-roles#owner)等) 
 
 ### <a name="how-to-report-an-acat-issue-or-warning"></a>如何報告 ACAT 問題或警告？ 
@@ -169,11 +169,15 @@ ACAT 可讓您專注于應用程式的合規性，或應用程式 (的特定環�
     - 移至Azure 入口網站頂端 **的通知**[。](https://portal.azure.com/?microsoft_azure_appcomplianceautomation_assettypeoptions=%7B%22AppComplianceAutomation%22:%7B%22options%22:%22%22%7D%7D)
     - 在 **活動記錄中選取 [更多事件]** 
     
-    :::image type="complex" source="../media/ACAT/getstarted-troubleshoot-activitylog.png" alt-text="ACAT 通知":::
-        移至活動記錄以檢查 ACAT 通知。
-    :::image-end:::
     
-    - 適當地變更 **時間範圍** ，以篩選掉活動記錄檔中的 ACAT 錯誤或警告。 
+    
+    - 切換至 **目錄活動** 
+    - 正確變更 **時間範圍** ，並將 **租使用者資源提供者** 設定為 *Microsoft.AppComplianceAutomation* ，以篩選掉活動記錄檔中的 ACAT 錯誤或警告。 
+    
+    :::image type="complex" source="../media/ACAT/getstarted-troubleshoot-log-settings.png" alt-text="活動記錄":::
+        在活動記錄中尋找 ACAT 記錄。
+    :::image-end:::
+
     - 找出您的 ACAT 錯誤或警告，選取以取得詳細資料，並將詳細資料儲存為檔案。
     
 - 檢查您的訂用帳戶是否已由 ACAT 正確設定。 
