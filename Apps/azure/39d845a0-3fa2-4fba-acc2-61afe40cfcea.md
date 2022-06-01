@@ -3,17 +3,17 @@ title: Azure App 39d845a0-3fa2-4fba-acc2-61afe40cfcea 的識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/26/2022
+ms.date: 05/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 39d845a0-3fa2-4fba-acc2-61afe40cfcea 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: 0d873493ba499981b649a151d3ebbbc7f7e4e6f8
-ms.sourcegitcommit: f1a2e22d28ef56ce3f3811febbbf8c7054797a98
+ms.openlocfilehash: 11f0f60feed631a1ed657301bf39216de4d94896
+ms.sourcegitcommit: 29a4475d630d2f1d0755a6322eb994646322aca1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65746737"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65808217"
 ---
 # <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>Azure App識別碼：39d845a0-3fa2-4fba-acc2-61afe40cfcea
 

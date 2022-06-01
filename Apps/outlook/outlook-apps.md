@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps 安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/25/2022
+ms.date: 05/31/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook Apps 的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 7cd0e6f2501b8715757f4d6fbbe214fb42ec18c3
-ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
+ms.openlocfilehash: 9328f65dcdbc22d97a0b71a1e7e4a1c83814140b
+ms.sourcegitcommit: 9cbff2dbc9762426293b9b094a29e3d2bebc760b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65692228"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65818371"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 安全性與合規性
 
@@ -48,7 +48,6 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [適用于Outlook的拓展銷售業務](./outreach-sales-engagement-for-outlook.md) | 外 展 | **✓** |  |
 | [適用于 Outlook 的 Pexip One](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [優先順序矩陣 - 將電子郵件轉換成工作](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [適用于 Outlook 的策略-AI](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla Software Limited | **✓** |  |
 | [XQ 安全電子郵件](./xq-message-secure-email.md) | XQ 訊息 | **✓** |  |

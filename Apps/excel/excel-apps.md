@@ -3,17 +3,17 @@ title: Microsoft Excel應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/21/2022
+ms.date: 05/31/2022
 ms.topic: article
 ms.service: attestation
 description: 所有Microsoft Excel應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 963258f90d264ccc39eabc608d8103f7405e6dd4
-ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
+ms.openlocfilehash: 1087e5cf36b285c0d45888f7d20f3dcd3a01f482
+ms.sourcegitcommit: 9cbff2dbc9762426293b9b094a29e3d2bebc760b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/23/2022
-ms.locfileid: "65645013"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65818301"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel應用程式安全性與合規性
 
@@ -28,6 +28,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，提供組
 | [For區](./forbury-property.md) | For權屬性 | **✓** |  |
 | [適用于 Microsoft Word、Excel 和 PowerPoint 的 Foxit PDF 編輯器](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
 | [曝光簽章](./impression-signatures.md) | 曝光簽章 | **✓** |  |
+| [Indicadores Economicos Microsoft](./birdie-indicadores-economicos-chile.md) | 小鳥 | **✓** |  |
 | [適用于 Excel 的 Jira Cloud](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
 | [MeaningCloud 文字分析 for Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
