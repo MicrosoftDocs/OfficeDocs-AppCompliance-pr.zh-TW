@@ -472,6 +472,8 @@ items:
         href: teams/medalsoft-digitalops-toolbox.md
       - name: Diligent Boards
         href: teams/diligent-boards.md
+      - name: DisasterTech DICE
+        href: teams/disastertech-dice.md
       - name: 通訊群組清單專業人員
         href: teams/witivio-distribution-lists-pro.md
       - name: do!book CB
@@ -876,7 +878,7 @@ items:
         href: teams/panopto.md
       - name: ParkHere Corporate
         href: teams/parkhere-gmbh-corporate.md
-      - name: 平路
+      - name: Pavestep
         href: teams/pavestep.md
       - name: PayaFy
         href: teams/nimblesoft-inc-payafy.md
@@ -888,7 +890,7 @@ items:
         href: teams/perflo.md
       - name: 相片檔案處理工具
         href: teams/ichicraft-photo-filer.md
-      - name: 內部洞即時
+      - name: Pigeonhole Live
         href: teams/pigeonlab-pte-ltd-pigeonhole-live.md
       - name: Plandisc
         href: teams/plandisc.md
@@ -970,6 +972,8 @@ items:
         href: teams/ringcentral-inc.md
       - name: RowShare
         href: teams/rowshare.md
+      - name: Rungway
+        href: teams/rungway.md
       - name: 安全空間
         href: teams/ecare-vault-inc-safe-spaces.md
       - name: Sailpoint
@@ -1050,7 +1054,7 @@ items:
         href: teams/stealthmail-software-ltd.md
       - name: Stipop 貼圖
         href: teams/stipop-stickers.md
-      - name: 簡化
+      - name: Streamline
         href: teams/finative-streamline.md
       - name: Streem
         href: teams/streem.md
@@ -1398,6 +1402,8 @@ items:
         href: saas/avepoint-inc-policiesinsights-for-microsoft-office-365.md
       - name: Priority Matrix
         href: saas/appfluence-inc-priority-matrix.md
+      - name: Project Migrator
+        href: saas/fluentpro-software-corporation-project-migrator.md
       - name: SalesTim
         href: saas/salestim.md
       - name: 投影片選擇器
@@ -2013,6 +2019,8 @@ items:
         href: azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md
       - name: d5630318-189a-4912-abae-99b1f8f82cce
         href: azure/d5630318-189a-4912-abae-99b1f8f82cce.md
+      - name: d5ed7567-83fb-4978-8aca-5018e63ece32
+        href: azure/d5ed7567-83fb-4978-8aca-5018e63ece32.md
       - name: d6a2090f-1447-456b-bd5f-121e4efd8c89
         href: azure/d6a2090f-1447-456b-bd5f-121e4efd8c89.md
       - name: d76f016f-52c7-41b5-835b-900361d7040c

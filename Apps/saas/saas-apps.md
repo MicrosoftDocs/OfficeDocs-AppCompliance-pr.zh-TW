@@ -3,17 +3,17 @@ title: SaaS 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/29/2022
+ms.date: 05/31/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: ddd2212052e7e4998442bc41fee6935503d27382
-ms.sourcegitcommit: 4e4e1e4f91f4fab06f3585388784a0da1a963453
+ms.openlocfilehash: 19607b575ae4c5b257415c0d7e373a36c398802b
+ms.sourcegitcommit: 29a4475d630d2f1d0755a6322eb994646322aca1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/02/2022
-ms.locfileid: "65168521"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65804677"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性與合規性
 
@@ -57,6 +57,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [適用于 MS365 的 Onna Discovery](./onna-discovery-for-ms365.md) | Onna | **✓** |  |
 | [&amp;Microsoft Office 365的原則Insights](./avepoint-inc-policiesinsights-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Project Migrator](./fluentpro-software-corporation-project-migrator.md) | FluentPro Software Corporation | **✓** |  |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [投影片選擇器](./officeatwork-slide-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [storm Cloud Contact Center Teams整合](./content-guru-storm-cloud-contact-center-teams-integration.md) | 內容 Guru | **✓** |  |
