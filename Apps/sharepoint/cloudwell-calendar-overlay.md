@@ -3,24 +3,24 @@ title: Cloudwell 行事曆重迭的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/10/2022
+ms.date: 06/06/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 行事曆重迭、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中安全性/合規性資訊的所有可用安全性與合規性資訊。
+description: 行事曆重迭、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e98ea9e1131121d82c9b8a41eb336000c464e8c6
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 98207f2c5b4e21d005e3717784396f02d935ac1c
+ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877370"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65936430"
 ---
 # <a name="calendar-overlay"></a>行事曆重迭
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 3 月 10 日</p>
+<p>上次由開發人員更新日期：2022 年 6 月 6 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003806" target="_blank">在 AppSource 中檢視</a>
 
@@ -34,12 +34,12 @@ Cloudwell 提供給 Microsoft 的資訊：
 |:----------------|:-------------|
 | 應用程式名稱 | 行事曆重迭 |
 | ID | WA200003806 |
-| 支援Office 365用戶端 | SharePoint 2016 或更新版本 |
+| 支援 Office 365 用戶端 | SharePoint 2016 或更新版本 |
 | 合作夥伴公司名稱 | Cloudwell |
 | 公司的網站 | [https://cloudwell.io](https://cloudwell.io) |
 | 應用程式的使用規定 | [https://cwlicensingprod.blob.core.windows.net/termsofuse/St...](https://cwlicensingprod.blob.core.windows.net/termsofuse/StandardContractMarch2019.pdf) |
-| 應用程式的核心功能 | Calendar Overlay 網頁元件可讓您在單一位置檢視所有 Microsoft SharePoint、Planner 和 Exchange 事件！ |
-| 公司總部位置 | 美國美國 |
+| 應用程式的核心功能 | 行事曆重迭網頁元件可讓您在單一位置檢視所有 Microsoft SharePoint、Planner 和 Exchange 事件！ |
+| 公司總部位置 | 美國 |
 | 應用程式資訊頁面 | [https://cloudwell.io/products/calendar-overlay](https://cloudwell.io/products/calendar-overlay) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪些主控雲端提供者？ | Azure |
@@ -57,11 +57,11 @@ Cloudwell 已提供此資訊，說明此應用程式如何收集和儲存組織�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | 使用者電子郵件地址、使用者租使用者識別碼 |
+| 您的應用程式會處理哪些資料？ | 租使用者識別碼 |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 哪些資料會儲存在您的資料庫中？ | 使用者電子郵件地址、使用者租使用者識別碼 |
-| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國美國 |
+| 哪些資料會儲存在您的資料庫中？ | 租使用者識別碼 |
+| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國 |
 | 您是否有已建立的資料租用和處置程式？ | 是 |
 | 帳戶終止之後，資料會保留多久？ | 小於 30 天 |
 | 您是否有已建立的資料存取管理程式？ | 是 |
@@ -73,7 +73,7 @@ Cloudwell 已提供此資訊，說明此應用程式如何收集和儲存組織�
 
 ::: zone pivot="security"
 
-Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄中的資訊如下所示。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -141,14 +141,13 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
-| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
+| 您是否已檢閱並符合 Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 是 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 是 |
 
 >此應用程式不會使用 Microsoft Graph。
 

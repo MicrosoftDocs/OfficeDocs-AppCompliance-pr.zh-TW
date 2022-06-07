@@ -6,24 +6,24 @@ items:
     items:
       - name: 概觀
         href: overview.md
-      - name: 什麼是Publisher驗證？
+      - name: 什麼是發行者驗證？
         href: /azure/active-directory/develop/publisher-verification-overview
-      - name: 什麼是Microsoft 365認證？
+      - name: 什麼是 Microsoft 365 認證？
         href: docs/enterprise-app-certification-guide.md
   - name: 適用于開發人員
     expanded: true
     items:
-      - name: 完成Publisher驗證
+      - name: 完成發行者驗證
         href: /azure/active-directory/develop/mark-app-as-publisher-verified
-      - name: 完成Microsoft 365認證
+      - name: 完成 Microsoft 365 認證
         href: docs/certification.md
-      - name: Microsoft 365認證提交指南
+      - name: Microsoft 365 認證提交指南
         href: docs/certification-submission-guide.md
       - name: 什麼是應用程式合規性自動化工具 (ACAT) ？
         href: docs/acat-overview.md
-      - name: 使用 ACAT 加速Microsoft 365認證
+      - name: 使用 ACAT 加速 Microsoft 365 認證
         href: docs/automate-certification-with-acat.md
-  - name: Microsoft Excel應用程式
+  - name: Microsoft Excel Apps
     href: excel/excel-apps.md
     items:
       - name: AuditBoard 增益集
@@ -32,7 +32,7 @@ items:
         href: excel/canon-emea-service-cost-calculator-for-b2b-partners.md
       - name: CloudExtend Analytics for NetSuite
         href: excel/celigo-cloudextend-analytics-for-netsuite.md
-      - name: Excel對 Word 檔自動化
+      - name: Excel-to-Word 檔自動化
         href: excel/analysisplace-excel-to-word-document-automation.md
       - name: For區
         href: excel/forbury-property.md
@@ -42,17 +42,17 @@ items:
         href: excel/impression-signatures.md
       - name: Indicadores Economicos Microsoft
         href: excel/birdie-indicadores-economicos-chile.md
-      - name: 適用于 Excel 的 Jira Cloud
+      - name: Jira Cloud for Excel
         href: excel/atlassiancom-jira-cloud-for-excel.md
-      - name: MeaningCloud 文字分析 for Excel
+      - name: MeaningCloud Text Analytics for Excel
         href: excel/meaningcloud-text-analytics-for-excel.md
       - name: Office2SharePoint for Office
         href: excel/iglobe-office2sharepoint-for-office.md
-      - name: officeatwork |適用于Office的內容選擇器
+      - name: officeatwork |Office 版內容選擇器
         href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
-      - name: officeatwork |適用于 Office 的影像選擇器
+      - name: officeatwork |Office 的影像選擇器
         href: excel/officeatwork-officeatworkimage-chooser-for-office.md
-      - name: officeatwork |適用于 Office 的範本選擇器
+      - name: officeatwork |Office 範本選擇器
         href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
       - name: 報表產生器
         href: excel/adobe-inc-report-builder.md
@@ -64,19 +64,19 @@ items:
         href: excel/supermetrics.md
       - name: XBRL 歸檔資料
         href: excel/xbrl-us-filed-data.md
-      - name: 適用于 Excel 的 ZEMA
+      - name: ZEMA for Excel
         href: excel/ze-powergroup-zema-for-excel.md
   - name: Microsoft OneNote Apps
     href: onenote/onenote-apps.md
     items:
-      - name: officeatwork |適用于Office的內容選擇器
+      - name: officeatwork |Office 版內容選擇器
         href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
-      - name: officeatwork |適用于 Office 的影像選擇器
+      - name: officeatwork |Office 的影像選擇器
         href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
-  - name: Microsoft Outlook Apps
+  - name: Microsoft Outlook 應用程式
     href: outlook/outlook-apps.md
     items:
-      - name: 適用于 Microsoft Outlook 的 Adobe Acrobat Sign
+      - name: Microsoft Outlook 的 Adobe Acrobat Sign
         href: outlook/adobe-inc-acrobat-sign-for-microsoft-outlook.md
       - name: 已核准的連絡人行事曆
         href: outlook/approved-contact-calendars.md
@@ -86,11 +86,11 @@ items:
         href: outlook/boost-my-mail.md
       - name: CI-Signature
         href: outlook/ci-solution-gmbh-signature.md
-      - name: codeTwo for Outlook
+      - name: Outlook 的 CodeTwo
         href: outlook/codetwo-for-outlook.md
       - name: Commuty
         href: outlook/commuty.md
-      - name: 適用于 Outlook 的 DocuSign
+      - name: DocuSign for Outlook
         href: outlook/docusign-inc-for-outlook.md
       - name: 發電機
         href: outlook/dynamo-software.md
@@ -98,13 +98,13 @@ items:
         href: outlook/flow-simulation-ltd-email-reactor.md
       - name: Evernote
         href: outlook/evernote.md
-      - name: 適用于Outlook的曝光簽章
+      - name: Outlook 的曝光簽章
         href: outlook/impression-signatures-for-outlook.md
       - name: 適用于 Outlook 的 iPlanner Office 365 Planner 增益集
         href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
       - name: iPlanner Pro Office 365
         href: outlook/iglobe-iplanner-pro-office-365.md
-      - name: 適用于Outlook (官方) 的 Jira Cloud
+      - name: 'Jira Cloud for Outlook (官方) '
         href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
       - name: LawToolBox 期限和事務管理 - Outlook
         href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlinesmatter-management-outlook.md
@@ -118,13 +118,13 @@ items:
         href: outlook/all-blue-solutions-ngdesk.md
       - name: Office2SharePoint for Outlook
         href: outlook/iglobe-office2sharepoint-for-outlook.md
-      - name: officeatwork |適用于Outlook的內容選擇器
+      - name: officeatwork |Outlook 的內容選擇器
         href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
-      - name: officeatwork |Outlook的郵件簽章
+      - name: officeatwork |Outlook 的郵件簽章
         href: outlook/officeatwork-officeatworkmail-signature-for-outlook.md
-      - name: OnePlaceMail for Outlook
+      - name: 適用于 Outlook 的 OnePlaceMail
         href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
-      - name: 適用于Outlook的拓展銷售業務
+      - name: Outlook 的拓展銷售業務開發
         href: outlook/outreach-sales-engagement-for-outlook.md
       - name: 適用于 Outlook 的 Pexip One
         href: outlook/pexipas-pexip-one-for-outlook.md
@@ -139,41 +139,39 @@ items:
   - name: Microsoft PowerPoint Apps
     href: powerpoint/powerpoint-apps.md
     items:
-      - name: 適用于 Microsoft Word 和 PowerPoint 的 Adobe Acrobat Sign
+      - name: Microsoft Word 和 PowerPoint 的 Adobe Acrobat Sign
         href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
       - name: 停機時間
         href: powerpoint/flow-simulation-ltd-breaktime.md
-      - name: Excel對 Word 檔自動化
+      - name: Excel-to-Word 檔自動化
         href: powerpoint/analysisplace-excel-to-word-document-automation.md
       - name: 適用于 Microsoft Word、Excel 和 PowerPoint 的 Foxit PDF 編輯器
         href: powerpoint/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
       - name: Office2SharePoint for Office
         href: powerpoint/iglobe-office2sharepoint-for-office.md
-      - name: officeatwork |適用于Office的內容選擇器
+      - name: officeatwork |Office 版內容選擇器
         href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
-      - name: officeatwork |適用于 Office 的影像選擇器
+      - name: officeatwork |Office 的影像選擇器
         href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
       - name: officeatwork |適用于 Office 的投影片選擇器
         href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
-      - name: officeatwork |適用于 Office 的範本選擇器
+      - name: officeatwork |Office 範本選擇器
         href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
       - name: Showmaster
         href: powerpoint/cherryware-showmaster.md
       - name: 'Showmaster (Helper 外掛程式) '
         href: powerpoint/cherryware-showmaster-helper-plugin.md
-      - name: SlideHub
-        href: powerpoint/nomorehours-slidehub.md
-  - name: Microsoft Project應用程式
+  - name: Microsoft Project Apps
     href: project/project-apps.md
     items:
-      - name: officeatwork |適用于 Office 的範本選擇器
+      - name: officeatwork |Office 範本選擇器
         href: project/officeatwork-officeatworktemplate-chooser-for-office.md
   - name: Microsoft SharePoint Apps
     href: sharepoint/sharepoint-apps.md
     items:
       - name: 4Mata
         href: sharepoint/cloudignite-llc-4mata.md
-      - name: 適用于 Microsoft Office SharePoint Online 的 Adobe Acrobat Sign
+      - name: Microsoft SharePoint Online 的 Adobe Acrobat Sign
         href: sharepoint/adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md
       - name: 適用于 SharePoint Online 的敏捷式工作面板
         href: sharepoint/agile-is-task-board-for-sharepoint-online.md
@@ -187,7 +185,7 @@ items:
         href: sharepoint/cloudwell-calendar-overlay.md
       - name: DocuSign for SharePoint Online
         href: sharepoint/docusign-inc-for-sharepoint-online.md
-      - name: 適用于 SharePoint 的 FormMachines 連接器
+      - name: FormMachines Connector for SharePoint
         href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
       - name: HelloSign for SharePoint
         href: sharepoint/dropbox-inc-hellosign-for-sharepoint.md
@@ -195,7 +193,7 @@ items:
         href: sharepoint/ichicraft-bv-boards-your-digital-workplace.md
       - name: iGlobe CRM 附加元件
         href: sharepoint/iglobe-crm-add-ons.md
-      - name: 適用于 Microsoft Office 365 的 iGlobe CRM Office 365
+      - name: iGlobe CRM Office 365 for Microsoft Office 365
         href: sharepoint/iglobe-crm-office-365-for-microsoft.md
       - name: Konnect eMail Parser
         href: sharepoint/konnect-email-parser.md
@@ -219,9 +217,9 @@ items:
         href: sharepoint/lightning-tools-social-squared-discussion-forums.md
       - name: 分類
         href: sharepoint/accuracy-software-inc-taxonomy.md
-      - name: 適用于 SharePoint Online 的 Zynyo Sign
+      - name: Zynyo Sign for SharePoint Online
         href: sharepoint/zynyo-sign-for-sharepoint-online.md
-  - name: Microsoft Teams應用程式
+  - name: Microsoft Teams 應用程式
     href: teams/teams-apps.md
     items:
       - name: 10xGoals
@@ -236,8 +234,6 @@ items:
         href: teams/8x8-inc.md
       - name: absentify
         href: teams/braincore-solutions-absentify.md
-      - name: ADI
-        href: teams/akari-solutions-limited-adi.md
       - name: Adobe Acrobat Reader
         href: teams/adobe-acrobat.md
       - name: Adobe Acrobat Sign
@@ -320,8 +316,6 @@ items:
         href: teams/decision-point-beagle.md
       - name: Bedriftsnett
         href: teams/unifon-as-bedriftsnett.md
-      - name: Beekast
-        href: teams/beekast.md
       - name: 漿果
         href: teams/berryworksai-berry.md
       - name: Berrycast
@@ -332,6 +326,8 @@ items:
         href: teams/breathe-india-advisors-pvt-ltd-bigfish.md
       - name: Bigger Brains eLearning
         href: teams/biggerbrains-bigger-brains-elearning.md
+      - name: BitFractal
+        href: teams/bitfractal.md
       - name: Biz-Oin
         href: teams/suzuyo-shinwart-corporation-biz-oin.md
       - name: Bizfone
@@ -344,8 +340,6 @@ items:
         href: teams/bonusly.md
       - name: Booking Room Pro
         href: teams/witivio-booking-room-pro.md
-      - name: BrainBot
-        href: teams/biggerbrains-brainbot.md
       - name: BRAVO Workhub
         href: teams/coeus-solutions-gmbh-bravo-workhub.md
       - name: BravoNow
@@ -358,8 +352,6 @@ items:
         href: teams/chat-apps-llc-bright-remind-me.md
       - name: Brightcove 影片連線
         href: teams/brightcove-inc-video-connect.md
-      - name: Brightidea
-        href: teams/brightidea.md
       - name: 廣播
         href: teams/cerkl-broadcast.md
       - name: Brochesia
@@ -388,6 +380,8 @@ items:
         href: teams/churnzero.md
       - name: CI-Out-of-Office Lite
         href: teams/ci-solution-gmbh-out-of-office-lite.md
+      - name: 分類清單
+        href: teams/binaryroots-classified-listing.md
       - name: Clerk SMS
         href: teams/unnamed-ventures-llc-clerk-sms.md
       - name: ClipTraining
@@ -494,8 +488,6 @@ items:
         href: teams/dubber-unified-call-recording.md
       - name: DZ Notification Bot
         href: teams/dz-notification-bot.md
-      - name: 簡單專案
-        href: teams/logic-software-inc-easy-projects.md
       - name: EasyLife 365
         href: teams/easylife-365-ag.md
       - name: eCademy Lernplattform
@@ -590,8 +582,6 @@ items:
         href: teams/enterprise-digital-machines-formmachines.md
       - name: 適用於雲端的 Foxit PDF Editor
         href: teams/foxit-software-incorporated-pdf-editor-for-cloud.md
-      - name: Freehand by InVision
-        href: teams/invisionapp-inc-freehand-by-invision.md
       - name: Futureworks
         href: teams/futureworks-as.md
       - name: Gameinar
@@ -664,8 +654,6 @@ items:
         href: teams/humu-inc.md
       - name: Hyperlinks
         href: teams/solutions2share-gmbh-hyperlinks.md
-      - name: Hyperproof
-        href: teams/hyperproof.md
       - name: Ideanote
         href: teams/ideanote-aps.md
       - name: Ideas by Sideways 6
@@ -686,6 +674,8 @@ items:
         href: teams/indeqa-bv.md
       - name: Infor Coleman
         href: teams/infor-us-inc-coleman.md
+      - name: 智商
+        href: teams/nlsql-iq.md
       - name: isLucid
         href: teams/uab-lucid-agreements-islucid.md
       - name: Jabber
@@ -702,10 +692,12 @@ items:
         href: teams/joye-pte-ltd.md
       - name: Kakeai
         href: teams/kakeai.md
-      - name: 卡米
+      - name: Kami
         href: teams/kami.md
       - name: Kanban Tool
         href: teams/shore-labs-kanban-tool.md
+      - name: 卡羅羅Gift
+        href: teams/kangogift-inc.md
       - name: Kaptain Charlie
         href: teams/askrai-kaptain-charlie.md
       - name: Karma
@@ -820,8 +812,6 @@ items:
         href: teams/ltapps-software-coltd-multi-approval-process.md
       - name: MURAL
         href: teams/mural.md
-      - name: Mybys
-        href: teams/facilis-mybys.md
       - name: Myfone
         href: teams/flexfone-myfone.md
       - name: MyHub
@@ -872,14 +862,12 @@ items:
         href: teams/librestream-onsight-connect.md
       - name: Optmyzr
         href: teams/optmyzr.md
-      - name: 逆 戟 鯨
+      - name: Orca 安全性
         href: teams/orca-security-ltd.md
       - name: Org@Work
         href: teams/lundano-org@work.md
       - name: PA PEOPLE
         href: teams/pa-people.md
-      - name: Package 通知程式
-        href: teams/qburst-technologies-pvt-ltd-package-notifier.md
       - name: PagerDuty
         href: teams/pagerduty.md
       - name: PandaDoc
@@ -906,8 +894,8 @@ items:
         href: teams/pigeonlab-pte-ltd-pigeonhole-live.md
       - name: Plandisc
         href: teams/plandisc.md
-      - name: Planyway Calendar for Trello
-        href: teams/rubius-planyway-calendar-for-trello.md
+      - name: 由 IntraActive 播放
+        href: teams/fellowmind-denmark-play-by-intraactive.md
       - name: PlayQuiz - Aprende 和 Juega
         href: teams/teamschamp-playquiz-aprendejuega.md
       - name: Plumm
@@ -1038,8 +1026,6 @@ items:
         href: teams/discourse-analytics-smartpods.md
       - name: SmartWork
         href: teams/smartwork-of-intumit.md
-      - name: SmileBack
-        href: teams/smileback.md
       - name: Sobol
         href: teams/consensys-ags-sobol.md
       - name: Sociabble
@@ -1062,8 +1048,6 @@ items:
         href: teams/starbucks.md
       - name: Startgrid
         href: teams/startgrid.md
-      - name: StealthMail
-        href: teams/stealthmail-software-ltd.md
       - name: Stipop 貼圖
         href: teams/stipop-stickers.md
       - name: Streamline
@@ -1126,8 +1110,6 @@ items:
         href: teams/grepsi-software-teamflect.md
       - name: TeamGether
         href: teams/effency-teamgether.md
-      - name: Teamhood
-        href: teams/eylean-teamhood.md
       - name: TeamMood
         href: teams/power-up-conseil-teammood.md
       - name: Teams Manager
@@ -1176,14 +1158,10 @@ items:
         href: teams/edgility-touchsms.md
       - name: 訓練助理
         href: teams/the-bot-platform-training-assistant.md
-      - name: Tribute
-        href: teams/tribute-co.md
       - name: Trivia
         href: teams/springworks-hr-tech-trivia.md
       - name: Trivia Engine
         href: teams/enableuc-trivia-engine.md
-      - name: Trivie
-        href: teams/trivie-inc.md
       - name: UKG Pro
         href: teams/ukg-inc-pro.md
       - name: 整合連絡人
@@ -1256,6 +1234,8 @@ items:
         href: teams/workplacebuddy.md
       - name: Wrike
         href: teams/wrike-inc.md
+      - name: Wurqi
+        href: teams/wurqi.md
       - name: X0PA 會議室
         href: teams/x0pa-ai-singapore-room.md
       - name: xMatters
@@ -1277,7 +1257,7 @@ items:
   - name: Microsoft Word Apps
     href: word/word-apps.md
     items:
-      - name: 適用于 Microsoft Word 和 PowerPoint 的 Adobe Acrobat Sign
+      - name: Microsoft Word 和 PowerPoint 的 Adobe Acrobat Sign
         href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
       - name: AuditBoard 增益集
         href: word/auditboard-inc-add-in.md
@@ -1293,9 +1273,9 @@ items:
         href: word/green-meadow-aps-document-drafter.md
       - name: DocuSign for Word
         href: word/docusign-inc-for-word.md
-      - name: Excel對 Word 檔自動化
+      - name: Excel-to-Word 檔自動化
         href: word/analysisplace-excel-to-word-document-automation.md
-      - name: Fabasoft Cloud Office增益集
+      - name: Fabasoft Cloud Office 增益集
         href: word/fabasoft-austria-gmbh-cloud-office-add-in.md
       - name: 適用于 Microsoft Word、Excel 和 PowerPoint 的 Foxit PDF 編輯器
         href: word/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
@@ -1313,19 +1293,19 @@ items:
         href: word/neopolis-gmbh.md
       - name: Office2SharePoint for Office
         href: word/iglobe-office2sharepoint-for-office.md
-      - name: officeatwork |適用于Office的內容選擇器
+      - name: officeatwork |Office 版內容選擇器
         href: word/officeatwork-officeatworkcontent-chooser-for-office.md
-      - name: officeatwork |Office設計工具
+      - name: officeatwork |Office 設計工具
         href: word/officeatwork-officeatworkdesigner-for-office.md
-      - name: officeatwork |適用于 Office 的影像選擇器
+      - name: officeatwork |Office 的影像選擇器
         href: word/officeatwork-officeatworkimage-chooser-for-office.md
-      - name: officeatwork |適用于 Office 的範本選擇器
+      - name: officeatwork |Office 範本選擇器
         href: word/officeatwork-officeatworktemplate-chooser-for-office.md
-      - name: officeatwork |Office的上傳程式
+      - name: officeatwork |Office 的上傳程式
         href: word/officeatwork-officeatworkuploader-for-office.md
-      - name: officeatwork |Office的驗證器
+      - name: officeatwork |Office 的驗證程式
         href: word/officeatwork-officeatworkverifier-for-office.md
-      - name: officeatwork |Office精靈
+      - name: officeatwork |Office 精靈
         href: word/officeatwork-officeatworkwizard-for-office.md
       - name: RetMig 和 Kommaforslag
         href: word/grammarsoft-aps-retmigkommaforslag.md
@@ -1358,9 +1338,9 @@ items:
         href: saas/cc4all-cc4teams.md
       - name: Classroom.cloud
         href: saas/netsupport-ltd-classroomcloud.md
-      - name: 適用于 Microsoft Office 365 的雲端備份
+      - name: Microsoft Office 365 的雲端備份
         href: saas/avepoint-inc-cloud-backup-for-microsoft-office-365.md
-      - name: Office 365的 CodeTwo 電子郵件簽章
+      - name: Office 365 的 CodeTwo 電子郵件簽章
         href: saas/codetwo-email-signatures-for-office-365.md
       - name: Competella Communication Suite
         href: saas/competella-ab-communication-suite.md
@@ -1370,23 +1350,23 @@ items:
         href: saas/officeatwork-content-chooser-browser.md
       - name: Designer
         href: saas/officeatwork-designer.md
-      - name: 適用于 Microsoft Teams 的 Dubber 整合通話錄製
+      - name: Microsoft Teams 的 Dubber 整合通話錄製
         href: saas/dubber-corp-unified-call-recording-for-microsoft-teams.md
       - name: 電子郵件
         href: saas/emailgistics-corp.md
-      - name: 適用于 Outlook 的 EmailNotes
+      - name: Outlook 的 EmailNotes
         href: saas/standss-south-pacific-pte-limited-emailnotes-for-outlook.md
-      - name: Genesys Cloud CX Teams整合
+      - name: Genesys Cloud CX Teams 整合
         href: saas/genesys-cloud-services-inc-cx-teams-integration.md
       - name: ice Contact Center
         href: saas/computertalk-ice-contact-center.md
-      - name: 適用于 Microsoft 365 的 iGlobe CRM Office 365
+      - name: iGlobe CRM Office 365 for Microsoft 365
         href: saas/iglobe-crm-office-365-for-microsoft.md
       - name: 影像選擇器
         href: saas/officeatwork-image-chooser.md
       - name: iPlanner Pro Office 365
         href: saas/iglobe-iplanner-pro-office-365.md
-      - name: IXCloud - Teams合規性錄製和智慧
+      - name: IXCloud - Teams 合規性錄製和智慧
         href: saas/numonix-llc-ixcloud-teams-compliance-recordingintelligence.md
       - name: LMS365
         href: saas/elearningforce-international-aps-lms365.md
@@ -1400,9 +1380,9 @@ items:
         href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
       - name: MURAL
         href: saas/mural.md
-      - name: 適用于 Teams 的 MyHub
+      - name: MyHub for Teams
         href: saas/avepoint-inc-myhub-for-teams.md
-      - name: 適用于 Microsoft Teams 的 Netskope
+      - name: Netskope for Microsoft Teams
         href: saas/netskope-for-microsoft-teams.md
       - name: Office2SharePoint
         href: saas/iglobe-office2sharepoint.md
@@ -1410,7 +1390,7 @@ items:
         href: saas/iglobe-office2sharepoint-for-teams.md
       - name: 適用于 MS365 的 Onna Discovery
         href: saas/onna-discovery-for-ms365.md
-      - name: Microsoft Office 365的原則和Insights
+      - name: Microsoft Office 365 的原則和深入解析
         href: saas/avepoint-inc-policiesinsights-for-microsoft-office-365.md
       - name: Priority Matrix
         href: saas/appfluence-inc-priority-matrix.md
@@ -1420,9 +1400,9 @@ items:
         href: saas/salestim.md
       - name: 投影片選擇器
         href: saas/officeatwork-slide-chooser.md
-      - name: storm Cloud Contact Center Teams整合
+      - name: storm Cloud Contact Center Teams 整合
         href: saas/content-guru-storm-cloud-contact-center-teams-integration.md
-      - name: Talkdesk Microsoft Teams連接器
+      - name: Talkdesk Microsoft Teams 連接器
         href: saas/talkdesk-inc-microsoft-teams-connector.md
       - name: TeamOrgChart
         href: saas/teamimprovercom-ltd-teamorgchart.md
@@ -1430,7 +1410,7 @@ items:
         href: saas/officeatwork-template-chooser.md
       - name: 範本選擇器瀏覽器
         href: saas/officeatwork-template-chooser-browser.md
-      - name: Teams影片的 Theta Lake 錄製與合規性
+      - name: Teams 影片的 Theta Lake 錄製與合規性
         href: saas/theta-lake-recordingcompliance-for-teams-video.md
       - name: 上傳者
         href: saas/officeatwork-uploader.md
@@ -1440,7 +1420,7 @@ items:
         href: saas/wide-ideasidea2innovation-ideas-innovation-software.md
       - name: Wizard
         href: saas/officeatwork-wizard.md
-  - name: Azure App識別碼
+  - name: Azure 應用程式識別碼
     href: azure/azure-apps.md
     items:
       - name: 00485db5-81b3-4299-833a-8d6c366d0ac0
@@ -1579,8 +1559,6 @@ items:
         href: azure/312728bc-5d02-49a5-9230-1f09884f6d04.md
       - name: 32eae2b8-2111-431f-9263-e8e1120d0a97
         href: azure/32eae2b8-2111-431f-9263-e8e1120d0a97.md
-      - name: 33ccef75-8248-44e8-88d3-24526ca9c2d3
-        href: azure/33ccef75-8248-44e8-88d3-24526ca9c2d3.md
       - name: 3407e97c-3eed-4eca-add5-2549ed881269
         href: azure/3407e97c-3eed-4eca-add5-2549ed881269.md
       - name: 34ed2c1e-bccf-463d-8fbc-0403e72e89fc
@@ -1661,8 +1639,6 @@ items:
         href: azure/4bea8f81-966b-45fe-8c33-4c8843fda977.md
       - name: 4cda80df-64fe-4961-8d73-cbe8d5ad0724
         href: azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md
-      - name: 4d0997dc-df53-4b18-9df1-bb283f8a0377
-        href: azure/4d0997dc-df53-4b18-9df1-bb283f8a0377.md
       - name: 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b
         href: azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md
       - name: 4db812e1-4d29-44e4-b72e-9654c0c91ce4
@@ -1731,6 +1707,8 @@ items:
         href: azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222.md
       - name: 5f5ab403-96ae-46a9-b78e-a06d60cc9e4e
         href: azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md
+      - name: 5fb90a92-665c-4ec3-863e-e37572074eb2
+        href: azure/5fb90a92-665c-4ec3-863e-e37572074eb2.md
       - name: 61dc5e28-775a-4dd0-8990-aaabe3be9e2f
         href: azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md
       - name: 626ce0a3-4620-483d-953d-53b106b9ffad
@@ -1869,6 +1847,8 @@ items:
         href: azure/9bc8244d-a186-4b12-809e-c47b3eee73c6.md
       - name: 9e8e113c-8a08-4606-b08a-de4decc7252f
         href: azure/9e8e113c-8a08-4606-b08a-de4decc7252f.md
+      - name: 9e997761-d28c-4542-8897-94e7b5dc2484
+        href: azure/9e997761-d28c-4542-8897-94e7b5dc2484.md
       - name: a0b58ca7-958d-4343-a2dc-a75f2eeb0953
         href: azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md
       - name: a1a0b277-0efb-4f00-9661-6d1a3df3cddc
@@ -1939,8 +1919,6 @@ items:
         href: azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md
       - name: b2380441-bb33-439e-bf4a-8cd277dcebc8
         href: azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md
-      - name: b256b34a-b377-4fc2-b25a-a8f5f0594e86
-        href: azure/b256b34a-b377-4fc2-b25a-a8f5f0594e86.md
       - name: b3af1387-3ee6-4074-a594-7a768cd00d44
         href: azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md
       - name: b5d4e933-e001-4168-83f8-dfd974877bd
@@ -2013,6 +1991,8 @@ items:
         href: azure/ca9b0417-d519-4ed6-ae2a-d939583a083c.md
       - name: cb657bc2-9910-4b9c-82a0-6f4f3a47006b
         href: azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md
+      - name: cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2
+        href: azure/cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2.md
       - name: cbc8bfef-8dd2-4714-ab18-18e15566b63e
         href: azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md
       - name: 函式fe641-3e2e-449d-b4f7-7e377c7060aa
@@ -2079,6 +2059,8 @@ items:
         href: azure/e7fb100c-8c81-4e3f-9c78-bb1407080cdc.md
       - name: e854ea05-68ab-4204-控制項-db4a784fb4d8
         href: azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md
+      - name: e8a37d29-e4be-4ce1-ae06-bbd1ad1968e3
+        href: azure/e8a37d29-e4be-4ce1-ae06-bbd1ad1968e3.md
       - name: e8bea835-c6b0-45aa-9c39-889d3c77d5a3
         href: azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3.md
       - name: e9f5cb58-89eb-4f80-9a6c-b73823b62176
