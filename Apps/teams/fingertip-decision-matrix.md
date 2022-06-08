@@ -1,5 +1,5 @@
 ---
-title: 適用于發生危機時由 RockDove Solutions， Inc. 的應用程式資訊
+title: 按指尖指尖判定矩陣的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,43 @@ ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 如需危機、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊，所有可用的安全性與合規性資訊。
+description: 所有可用的安全性與合規性資訊，適用于指尖決策矩陣、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 95c70c26f32bacabd6721e4b60f2417765a8eea0
+ms.openlocfilehash: 390378f757af6d9fd9afbfd647210827c6f9f3db
 ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/08/2022
-ms.locfileid: "65943122"
+ms.locfileid: "65943186"
 ---
-# <a name="in-case-of-crisis"></a>發生危機時
+# <a name="fingertip-decision-matrix"></a>指尖決策矩陣
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 6 月 6 日</p>
+<p>上次由開發人員更新日期：2021 年 10 月 6 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/cf430644-447e-4572-8467-3892596d05c7" target="_blank">在 Teams 市集中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003194" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/9d9390bb-2d73-4c5e-9609-0ee86fc620ce" target="_blank">在 Teams 市集中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004070" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 RockDove Solutions， Inc. 提供給 Microsoft 的資訊：
+由指尖提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | 發生危機時 |
-| ID | WA200003194 |
+| 應用程式名稱 | 指尖決策矩陣 |
+| ID | WA200004070 |
 | 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | RockDove Solutions, Inc. |
-| 公司的網站 | [https://www.rockdovesolutions.com](https://www.rockdovesolutions.com) |
-| 應用程式的使用規定 | [https://www.rockdovesolutions.com/terms-of-use](https://www.rockdovesolutions.com/terms-of-use) |
-| 應用程式的核心功能 | 如果是危機，則是針對動態問題和危機管理生命週期所設計的目的平臺。 我們的應用程式可讓組織輕鬆地共用和啟用可採取動作的劇本，其中包含您的回應通訊協定和最佳做法，因為情況正在展開。  您也可以管理和擷取影響您企業之問題的完整生命週期，從初始報告到解決方式。   |
-| 公司總部位置 | 美國 |
-| 應用程式資訊頁面 | [https://www.rockdovesolutions.com/in-case-of-crisis/in-case...](https://www.rockdovesolutions.com/in-case-of-crisis/in-case-of-crisis-platform) |
+| 合作夥伴公司名稱 | 指尖 |
+| 公司的網站 | [https://www.fingertip.org](https://www.fingertip.org) |
+| 應用程式的使用規定 | [https://www.fingertip.org/terms-of-use/](https://www.fingertip.org/terms-of-use/) |
+| 應用程式的核心功能 | 當您需要考慮許多不同的因素時，指尖決策矩陣可協助您決定數個替代方案。 它可讓程式更加清楚和透明，並協助您排定替代專案的優先順序，同時降低偏差的影響。 透過按指尖的決策矩陣，您可以使用 Microsoft Teams 共同作業，以更精確地一起做出決策。 |
+| 公司總部位置 | 芬蘭 |
+| 應用程式資訊頁面 | [https://www.fingertip.org/solutions/fingertip-decision-matr...](https://www.fingertip.org/solutions/fingertip-decision-matrix/) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
-| 應用程式會使用哪些主控雲端提供者？ | Aws、Azure |
+| 應用程式會使用哪些主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,18 +53,18 @@ ms.locfileid: "65943122"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊由 RockDove Solutions， Inc. 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+這項資訊是由 Fingertip 所提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | 會議排程，將檔案共用到頻道 |
+| 您的應用程式會處理哪些資料？ | 使用者設定檔資訊、租使用者識別碼 |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 哪些資料會儲存在您的資料庫中？ | 會議排程，將檔案共用到頻道 |
-| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國 |
-| 您是否有已建立的資料租用和處置程式？ | 是 |
-| 帳戶終止之後，資料會保留多久？ | 小於 90 天 |
+| 哪些資料會儲存在您的資料庫中？ | 使用者設定檔資訊、租使用者識別碼 |
+| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 芬蘭 |
+| 您是否有已建立的資料租用和處置程式？ | 否 |
+| 帳戶終止之後，資料會保留多久？ |  |
 | 您是否有已建立的資料存取管理程式？ | 是 |
 | 您要將客戶資料或客戶內容傳輸給協力廠商或子處理者嗎？ | 否 |
 
@@ -79,8 +79,8 @@ ms.locfileid: "65943122"
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 您是否在應用程式上執行年度滲透測試？ | 是 |
-| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
-| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware |
+| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 否 |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | ApplicationControls |
 | 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
 | 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
 | 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
@@ -90,7 +90,7 @@ ms.locfileid: "65943122"
 | 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
 | 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是 |
 | 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ | 是 |
-| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、DNSManagement、Credential |
+| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、Credential、DNSManagement |
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
 | 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
@@ -120,7 +120,7 @@ ms.locfileid: "65943122"
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 |  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
 | 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 不適用 |
-| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
+| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 是 |
 | 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ | 不適用 |
 | 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
@@ -133,17 +133,7 @@ ms.locfileid: "65943122"
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
-| 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
-| 隱私權原則 URL | https://www.rockdovesolutions.com/privacy-policy |
-| 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
-| 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
-| 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
-| 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ | 否 |
-| 應用程式是否有在要求時刪除個人個人資料的功能？ | 是 |
-| 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ | 是 |
-| 應用程式是否提供個人更正或更新其個人資料的能力？ | 是 |
-| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ | 是 |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -156,24 +146,22 @@ ms.locfileid: "65943122"
 | 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合 Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
-| 您的應用程式是否支援條件式存取原則？ | 否 |
-| 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
-| 您的應用程式是否在程式碼中儲存任何認證？ | 是 |
-| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| 您的應用程式是否支援條件式存取原則？ | 是 |
+| 列出支援的原則類型 | 多重要素驗證，只允許 Intune 註冊的裝置存取特定服務，限制使用者位置和 IP 範圍 |
+| 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
+| 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 是 |
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
 
 >|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委託 | 與問題管理小組成員共用行事曆邀請 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
->| Channel.ReadBasic.All | 委託 | 讓我們可以上傳和共用問題管理小組成員的檔案 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
->| Files.ReadWrite | 委託 | 針對問題管理行事曆和檔案變更和通知 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
->| Files.ReadWrite.All | 委託 | 針對問題管理行事曆和檔案變更和通知 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
->| Sites.ReadWrite.All | 委託 | 針對問題管理行事曆和網站變更和通知 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
->| Team.ReadBasic.All | 委託 | 允許我們列出使用者可存取以進行問題管理的 Teams | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
->| 電子郵件 | 委託 | 因為我們使用此作為 OAuth 2.0 和 Azure Active Directory 的主要使用者識別碼 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
->| offline_access | 委託 | 針對問題管理行事曆和檔案變更和通知 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
->| openid | 委託 | 用於單一Sign-On (SSO)  | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| User.Read | 委託 | 使用者建立的基本設定檔資訊 | [5a6a4d82-42ce-42c4-88f0-df529fe54dcc](../azure/5a6a4d82-42ce-42c4-88f0-df529fe54dcc.md) |
+>| User.ReadBasic.All | 委託 | 使用者建立的基本設定檔資訊 | [5a6a4d82-42ce-42c4-88f0-df529fe54dcc](../azure/5a6a4d82-42ce-42c4-88f0-df529fe54dcc.md) |
+>| 電子郵件 | 委託 | 使用者建立的基本設定檔資訊 | [5a6a4d82-42ce-42c4-88f0-df529fe54dcc](../azure/5a6a4d82-42ce-42c4-88f0-df529fe54dcc.md) |
+>| offline_access | 委託 | 如果使用者中斷連線，則為 | [5a6a4d82-42ce-42c4-88f0-df529fe54dcc](../azure/5a6a4d82-42ce-42c4-88f0-df529fe54dcc.md) |
+>| openid | 委託 | 登錄 | [5a6a4d82-42ce-42c4-88f0-df529fe54dcc](../azure/5a6a4d82-42ce-42c4-88f0-df529fe54dcc.md) |
+>| 設定檔 | 委託 | 使用者建立的基本設定檔資訊 | [5a6a4d82-42ce-42c4-88f0-df529fe54dcc](../azure/5a6a4d82-42ce-42c4-88f0-df529fe54dcc.md) |
 
 >此應用程式沒有其他 API。
 

@@ -1,5 +1,5 @@
 ---
-title: Hootsuite Inc. 適用于 Hootsuite 的 Amplify 應用程式資訊。
+title: FD Mxmn 的應用程式資訊 - 由 Maximon Ltd 匯入商務資料。
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,42 @@ ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 所有可用的安全性和合規性資訊，適用于 Amplify by Hootsuite、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: FD Mxmn 的所有可用安全性與合規性資訊 - 匯入商務資料、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 88118f5f68c22989297619bb44badde8e3bf570c
+ms.openlocfilehash: 68b432baff30d04a9e4530af12304c2ba6029956
 ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/08/2022
-ms.locfileid: "65943162"
+ms.locfileid: "65943188"
 ---
-# <a name="amplify-by-hootsuite"></a>Amplify by Hootsuite
+# <a name="fd-mxmn---import-business-data"></a>FD Mxmn - 匯入商務資料
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 6 月 6 日</p>
+<p>上次由開發人員更新日期：2022 年 5 月 3 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/08d9aab9-a8f3-4f65-91e2-a33ef9bad6bb" target="_blank">在 Teams 市集中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003153" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004151" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Hootsuite Inc. 提供給 Microsoft 的資訊：
+Maximon Ltd. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Amplify by Hootsuite |
-| ID | WA200003153 |
-| 支援 Office 365 用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Hootsuite Inc. |
-| 公司的網站 | [https://www.hootsuite.com](https://www.hootsuite.com) |
-| 應用程式的使用規定 | [https://www.hootsuite.com/legal/eula](https://www.hootsuite.com/legal/eula) |
-| 應用程式的核心功能 | 從 Microsoft Teams 將內容分享到您的團隊社交頻道，由 Hootsuite Amplify 提供支援。 |
-| 公司總部位置 | 加拿大 |
-| 應用程式資訊頁面 | [https://www.hootsuite.com/about/contact-us](https://www.hootsuite.com/about/contact-us) |
-| 用來執行應用程式的裝載環境或服務模型為何？ | 混合式 |
-| 應用程式會使用哪些主控雲端提供者？ | Azure |
+| 應用程式名稱 | FD Mxmn - 匯入商務資料 |
+| ID | WA200004151 |
+| 支援 Office 365 用戶端 | Mac 上的 Word 2016 或更新版本、網頁上的 Word、Windows 上的 Word 2013 或更新版本 |
+| 合作夥伴公司名稱 | Maximon Ltd. |
+| 公司的網站 | [https://www.maximon.ltd/fdmxmn/](https://www.maximon.ltd/fdmxmn/) |
+| 應用程式的使用規定 | [https://www.maximon.ltd/legal_tou.php](https://www.maximon.ltd/legal_tou.php) |
+| 應用程式的核心功能 | 直接從 ACRA BizFile 擷取匯入公司資料，以簡化法律草稿。 |
+| 公司總部位置 | 美國 |
+| 應用程式資訊頁面 | |
+| 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
+| 應用程式會使用哪些主控雲端提供者？ | 其他 |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,7 +52,7 @@ Hootsuite Inc. 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-此資訊由 Hootsuite Inc. 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+此資訊是由 Maximon Ltd 所提供。關於此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
@@ -70,26 +69,27 @@ Hootsuite Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否在應用程式上執行年度滲透測試？ | 是 |
-| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 否 |
+| 您是否在應用程式上執行年度滲透測試？ | 否 |
+| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
 | 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware |
-| 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 否 |
-| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 否 |
-| 您是否根據修補原則 SLA 執行修補管理活動？ | 否 |
+| 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
+| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
+| 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
 | 您的環境是否有任何不支援的作業系統或軟體？ | 否 |
-| 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ | 否 |
-| 您的外部網路界限上是否已安裝防火牆？ | 否 |
+| 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ | 是 |
+| 您的外部網路界限上是否已安裝防火牆？ | 是 |
 | 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
-| 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是 |
+| 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 否 |
 | 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ | 是 |
-| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、Credential |
+| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、DNSManagement、Credential |
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
-| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
+| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 不適用 |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
 | 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | 是 |
 | 偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 否 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ | 否 |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -114,7 +114,7 @@ Hootsuite Inc. 提供給 Microsoft 的資訊：
 | 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
 | 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ | 不適用 |
-| 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
+| 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -124,7 +124,17 @@ Hootsuite Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 否 |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
+| 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
+| 隱私權原則 URL | https://www.maximon.ltd/legal_privacy.php |
+| 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
+| 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
+| 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
+| 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ | 否 |
+| 應用程式是否有在要求時刪除個人個人資料的功能？ | 不適用 |
+| 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ | 不適用 |
+| 應用程式是否提供個人更正或更新其個人資料的能力？ | 不適用 |
+| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -134,19 +144,15 @@ Hootsuite Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
-| 您是否已檢閱並符合 Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 不適用 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 否 |
+| 您是否已檢閱並符合 Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 否 |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
 | Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
-
->|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | 委託 | 存取使用者活動通知摘要 | [e308040f-41b5-4b8c-8f08-c2c38056f7e2](../azure/e308040f-41b5-4b8c-8f08-c2c38056f7e2.md) |
+>此應用程式不會使用 Microsoft Graph。
 
 >此應用程式沒有其他 API。
 
