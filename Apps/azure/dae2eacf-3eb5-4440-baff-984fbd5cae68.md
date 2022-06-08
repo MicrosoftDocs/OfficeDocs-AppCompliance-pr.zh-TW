@@ -1,21 +1,21 @@
 ---
-title: Azure App dae2eacf-3eb5-4440-baff-984fbd5cae68 的識別碼資訊
+title: dae2eacf-3eb5-4440-baff-984fbd5cae68 的 Azure 應用程式識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/02/2022
+ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: dae2eacf-3eb5-4440-baff-984fbd5cae68 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: 83f30b561240df38e2d72b3c6c8b19b078703f89
-ms.sourcegitcommit: 4ceff6ef6aa0bae1075da646773b852970bb4049
+ms.openlocfilehash: 24b5a32bc6a5ec9d14eb3a218a8754ede2d358ca
+ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65870704"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65937040"
 ---
-# <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure App識別碼：dae2eacf-3eb5-4440-baff-984fbd5cae68
+# <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure 應用程式識別碼：dae2eacf-3eb5-4440-baff-984fbd5cae68
 
 
 ### <a name="apps-associated-with-this-id"></a>與此識別碼相關聯的應用程式：
@@ -27,6 +27,6 @@ ms.locfileid: "65870704"
 | [officeatwork - 適用于 Office 的範本選擇器](../forward/WA104380050.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104380050](https://appsource.microsoft.com/product/office/WA104380050) |
 | [officeatwork - 適用于 SharePoint 的範本選擇器](../forward/WA200001923.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA200001923](https://appsource.microsoft.com/product/office/WA200001923) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365應用程式合規性狀態
-- Publisher證明狀態：已完成
-- Microsoft 365認證：核准 (2022/01/25) 
+### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 應用程式合規性狀態
+- 發行者證明狀態：已完成
+- Microsoft 365 認證：核准 (2022/01/25) 
