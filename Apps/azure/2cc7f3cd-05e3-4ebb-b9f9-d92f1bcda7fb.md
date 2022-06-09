@@ -3,17 +3,17 @@ title: 適用于 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb 的 Azure 應用程式識�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 06/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: 1550961f0128feb0a19ad992d94d6f8426386871
-ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
+ms.openlocfilehash: 344376d2d11488154a494adf91b039d83c3eaee2
+ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65932490"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65967113"
 ---
 # <a name="azure-app-id-2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb"></a>Azure 應用程式識別碼：2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb
 

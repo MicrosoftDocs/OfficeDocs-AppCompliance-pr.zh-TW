@@ -3,24 +3,24 @@ title: 適用于發生危機時由 RockDove Solutions， Inc. 的應用程式資
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 06/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 如需危機、其資料處理原則、Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊，所有可用的安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 95c70c26f32bacabd6721e4b60f2417765a8eea0
-ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
+ms.openlocfilehash: 2a8c81db5aeda003ad0f71971f0b63a5b5cee460
+ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/08/2022
-ms.locfileid: "65943122"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65967653"
 ---
 # <a name="in-case-of-crisis"></a>發生危機時
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 6 月 6 日</p>
+<p>上次由開發人員更新日期：2022 年 6 月 8 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/cf430644-447e-4572-8467-3892596d05c7" target="_blank">在 Teams 市集中檢視</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003194" target="_blank">在 AppSource 中檢視</a>
@@ -158,7 +158,7 @@ ms.locfileid: "65943122"
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
-| 您的應用程式是否在程式碼中儲存任何認證？ | 是 |
+| 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
 | Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
