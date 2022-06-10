@@ -3,17 +3,17 @@ title: SaaS 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/31/2022
+ms.date: 06/09/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 19607b575ae4c5b257415c0d7e373a36c398802b
-ms.sourcegitcommit: 29a4475d630d2f1d0755a6322eb994646322aca1
+ms.openlocfilehash: 6531238f8a203e205f67f521984a85c3a029df5f
+ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65804677"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65981577"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性與合規性
 
@@ -58,6 +58,7 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [&amp;Microsoft Office 365的原則Insights](./avepoint-inc-policiesinsights-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Project Migrator](./fluentpro-software-corporation-project-migrator.md) | FluentPro Software Corporation | **✓** |  |
+| [Puzzel Microsoft Teams整合](./puzzel-as-microsoft-teams-integration.md) | Puzzel AS | **✓** |  |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [投影片選擇器](./officeatwork-slide-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [storm Cloud Contact Center Teams整合](./content-guru-storm-cloud-contact-center-teams-integration.md) | 內容 Guru | **✓** |  |
@@ -69,4 +70,4 @@ Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，以提供
 | [上傳者](./officeatwork-uploader.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [驗證](./officeatwork-verifier.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [廣泛構想 - 創新軟體](./wide-ideasidea2innovation-ideas-innovation-software.md) | Wide Ideas/Idea2Innovation | **✓** |  |
-| [精靈](./officeatwork-wizard.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Wizard](./officeatwork-wizard.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
