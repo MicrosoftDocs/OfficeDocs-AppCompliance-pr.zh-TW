@@ -1,25 +1,25 @@
 ---
-title: Azure 應用程式識別碼安全性與合規性 - 所有應用程式
+title: Azure App識別碼安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/08/2022
+ms.date: 06/09/2022
 ms.topic: article
 ms.service: attestation
-description: 所有 Azure 應用程式識別碼的所有可用安全性與合規性資訊。
+description: 所有Azure App識別碼的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 5d6ccac4a607a1e8f65daf9491ff3c82da7b7ccd
-ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
+ms.openlocfilehash: db27a71ac4bb09e82f536462ba979385fcdd3328
+ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/09/2022
-ms.locfileid: "65967213"
+ms.locfileid: "65975579"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Azure 應用程式識別碼安全性與合規性
+# <a name="azure-app-ids-security-and-compliance"></a>Azure App識別碼安全性與合規性
 
-Microsoft 會與我們的 Microsoft 365 開發人員合作夥伴合作，以提供組織加速和通知其所使用 Azure 應用程式識別碼和增益集決策所需的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
+Microsoft 會與我們的Microsoft 365開發人員合作夥伴合作，提供組織加速和通知其所使用Azure App識別碼和增益集決策所需的資訊。 此安全性、資料處理和合規性資訊旨在協助組織評估和管理使用這些應用程式的風險。
 
-| **Azure 應用程式識別碼** | **發行者證明** | **認證** |
+| **Azure App識別碼** | **發行者證明** | **認證** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
