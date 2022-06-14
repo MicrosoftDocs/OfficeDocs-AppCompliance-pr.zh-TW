@@ -3,24 +3,24 @@ title: Atlassian 的 Jira Cloud 應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/27/2021
+ms.date: 06/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Jira Cloud 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bcba0e0913aab92a5808c0316443696de0767b54
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 4c1f10d22494f45b1e51277e9f33206c8f73fbc4
+ms.sourcegitcommit: b6dd040770330d4499a0e19998f909be31b67c34
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880984"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66076064"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 8 月 11 日</p>
+<p>上次由開發人員更新日期：2022 年 6 月 13 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/aa183fd9-7104-46c4-af9f-9ee9b81d717e" target="_blank">在Teams存放區中檢視</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002140" target="_blank">在 AppSource 中檢視</a>
@@ -146,10 +146,9 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 否 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
@@ -157,7 +156,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
->|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
+>|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| offline_access | 委託 | 提供長時間代表使用者存取資源的許可權，以確保最佳的使用者體驗。 | [512b84d2-5840-45d6-8d01-5f073836d039](../azure/512b84d2-5840-45d6-8d01-5f073836d039.md) |
 >| openid | 委託 | 取得使用者的指定名稱、姓氏、慣用使用者名稱和物件識別碼。 | [512b84d2-5840-45d6-8d01-5f073836d039](../azure/512b84d2-5840-45d6-8d01-5f073836d039.md) |
