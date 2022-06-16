@@ -3,24 +3,24 @@ title: Teladoc， Inc. 的 Solo 應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/03/2022
+ms.date: 06/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Solo 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 643a6162d201fb7b41e2bb33dc0268670e59bcc5
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 5b00791610112ea615e763c0504a88334195a0ae
+ms.sourcegitcommit: fd81f2f5b4f627e3d1cabdff7e2caf40fafbe35c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65228987"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "66117997"
 ---
 # <a name="solo"></a>Solo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 10 月 5 日</p>
+<p>上次由開發人員更新日期：2022 年 6 月 15 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e" target="_blank">在Teams存放區中檢視</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003826" target="_blank">在 AppSource 中檢視</a>
@@ -41,7 +41,7 @@ Teladoc， Inc. 提供給 Microsoft 的資訊：
 | 應用程式的使用規定 | [https://www.teladochealth.com/terms-and-conditions/](https://www.teladochealth.com/terms-and-conditions/) |
 | 應用程式的核心功能 | 具有可設定服務和病患工作流程的虛擬照護平臺。 |
 | 公司總部位置 | 美國美國 |
-| 應用程式資訊頁面 | [https://intouchhealth.com/virtual-care-platform/solo/](https://intouchhealth.com/virtual-care-platform/solo/) |
+| 應用程式資訊頁面 | [https://teladochealth.com/platform/](https://teladochealth.com/platform/) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪些主控雲端提供者？ | Azure、Aws |
 
@@ -153,10 +153,9 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
@@ -164,17 +163,17 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 #### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
 
->|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
+>|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.Read.All | 委託 | 若要取得側邊窗格應用程式的目錄應用程式識別碼，並將其安裝在排程的 telehealth 約會中 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| CallRecords.Read.All | 應用程式 | 確保與電話修復約會相關的通話品質 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| OnlineMeetings.ReadWrite | 委託 | 安裝主機側邊窗格，並將病患加入自訂應用程式以進行約會 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| TeamsActivity.Send | 應用程式 | 電話修復約會的會話訊號結束。 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| User.Read | 委託 | 來自 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| 電子郵件 | 委託 | 來自 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| offline_access | 委託 | 來自 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| openid | 委託 | 來自 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| 設定檔 | 委託 | oid 和 tid 可用來對應 Solo 帳戶和Teams帳戶，讓Teams中的醫生可以檢視他們的 telehealth 約會 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| AppCatalog.Read.All | 委託 | 若要取得側邊窗格應用程式的目錄應用程式識別碼，並將其安裝在排程的 telehealth 約會中 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| CallRecords.Read.All | 應用程式 | 確保與電話修復約會相關的通話品質 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| OnlineMeetings.ReadWrite | 委託 | 安裝主機側邊窗格，並將病患加入自訂應用程式以進行約會 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| TeamsActivity.Send | 應用程式 | 電話修復約會的會話訊號結束。 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| User.Read | 委託 | 來自 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| 電子郵件 | 委託 | 來自 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| offline_access | 委託 | 來自 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| openid | 委託 | 來自 Teams 的應用程式 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| 設定檔 | 委託 | oid 和 tid 可用來對應 Solo 帳戶和Teams帳戶，讓Teams中的醫生可以檢視他們的 telehealth 約會 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
 
 >此應用程式沒有其他 API。
 
