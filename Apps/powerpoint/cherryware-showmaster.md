@@ -3,24 +3,24 @@ title: Showmaster byware 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 01/27/2022
+ms.date: 06/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Showmaster、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中安全性/合規性資訊的所有可用安全性與合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9cde99fdf18b018fe2b881c4f60837fa88d8ae66
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: f6c6e1d68e4e0ab5a366ccb98f9d05420fcd044c
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881080"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66248716"
 ---
 # <a name="showmaster"></a>Showmaster
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 1 月 21 日</p>
+<p>上次由開發人員更新日期：2022 年 6 月 23 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003706" target="_blank">在 AppSource 中檢視</a>
 
@@ -34,11 +34,11 @@ ms.locfileid: "64881080"
 |:----------------|:-------------|
 | 應用程式名稱 | Showmaster |
 | ID | WA200003706 |
-| 支援Office 365用戶端 | PowerPoint 2016或更新版本的 Mac、PowerPoint 網頁版、PowerPoint 2016或更新版本Windows |
+| 支援Office 365用戶端 | 在 Windows 上的 Mac、PowerPoint 網頁版、PowerPoint 2016 或更新版本上PowerPoint 2016或更新版本 |
 | 合作夥伴公司名稱 | 工具 |
 | 公司的網站 | [https://www.cherryware.com](https://www.cherryware.com) |
 | 應用程式的使用規定 | [https://showmaster.app/terms/](https://showmaster.app/terms/) |
-| 應用程式的核心功能 | Showmaster 是一個PowerPoint增益集，可在等候期間圍繞您的交談建立令人興奮的畫面，並以標題、倒數計時、音樂等等來中斷。 |
+| 應用程式的核心功能 | Showmaster 是一個 PowerPoint 增益集，可在等候時間期間圍繞您的交談建立令人興奮的畫面，並以標題、倒數計時、音樂等等中斷。 |
 | 公司總部位置 | 德國 |
 | 應用程式資訊頁面 | [https://showmaster.app](https://showmaster.app) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Paas |
@@ -134,14 +134,13 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 否 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 否 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 否 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
 >此應用程式不會使用 Microsoft Graph。
 
