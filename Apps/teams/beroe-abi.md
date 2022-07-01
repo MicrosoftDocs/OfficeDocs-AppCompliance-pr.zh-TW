@@ -1,5 +1,5 @@
 ---
-title: MindManager by Corel 的應用程式資訊
+title: 依 Beroe 的 Abi 應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,43 @@ ms.date: 06/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: MindManager 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: Abi 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b57ba8d0236b2e8bcccfc28139aaa289d23a9dcb
+ms.openlocfilehash: 040164e46e94e7fa43f38f73361c049c46acb373
 ms.sourcegitcommit: 2ae239376c807fa9223fc7e18daa1feed6e826aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/30/2022
-ms.locfileid: "66564519"
+ms.locfileid: "66564575"
 ---
-# <a name="mindmanager"></a>MindManager
+# <a name="abi"></a>Abi
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 6 月 6 日</p>
+<p>上次由開發人員更新日期：2022 年 3 月 17 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/cebe4a59-b076-47f3-a7bf-79148daf82f7" target="_blank">在 Teams 市集中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002261" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/55560ea0-ae82-48b2-b71e-a45356f56bb1" target="_blank">在 Teams 市集中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003862" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Corel 提供給 Microsoft 的資訊：
+Beroe 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | MindManager |
-| ID | WA200002261 |
+| 應用程式名稱 | Abi |
+| ID | WA200003862 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Corel |
-| 公司的網站 | [https://www.mindmanager.com](https://www.mindmanager.com) |
-| 應用程式的使用規定 | [https://www.mindjet.com/go/mmcloudterms](https://www.mindjet.com/go/mmcloudterms) |
-| 應用程式的核心功能 | 共同編輯地圖、管理小組儀表板、建立流程圖，以及讓專案保持在檢視中。 |
-| 公司總部位置 | 加拿大 |
-| 應用程式資訊頁面 | |
-| 用來執行應用程式的裝載環境或服務模型為何？ | Paas |
-| 應用程式會使用哪些主控雲端提供者？ | Aws |
+| 合作夥伴公司名稱 | Beroe |
+| 公司的網站 | [https://www.beroeinc.com](https://www.beroeinc.com) |
+| 應用程式的使用規定 | [https://www.beroeinc.com/terms/](https://www.beroeinc.com/terms/) |
+| 應用程式的核心功能 | Abi &#8211;您的 AI 技術數位採購小幫手 |
+| 公司總部位置 | 印度 |
+| 應用程式資訊頁面 | [https://www.beroeinc.com/beroe-live-ai](https://www.beroeinc.com/beroe-live-ai) |
+| 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
+| 應用程式會使用哪些主控雲端提供者？ | Aws、Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,12 +53,21 @@ Corel 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-Corel 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+Beroe 已提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 否 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
+| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
+| 您的應用程式會處理哪些資料？ | 名字，姓氏 &amp; 公司電子郵件識別碼 |
+| 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
+| 哪些資料會儲存在您的資料庫中？ | 名字、姓氏、工作電子郵件識別碼 &amp; 交談識別碼 |
+| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 愛爾蘭 |
+| 您是否有已建立的資料租用和處置程式？ | 是 |
+| 帳戶終止之後，資料會保留多久？ | 未保留 |
+| 您是否有已建立的資料存取管理程式？ | 是 |
+| 您要將客戶資料或客戶內容傳輸給協力廠商或子處理者嗎？ | 是 |
+| 您是否已與您共用 Microsoft 客戶資料的任何協力廠商服務簽訂資料共用協定？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -82,7 +91,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
 | 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是 |
 | 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ | 是 |
-| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories |
+| 已針對下列專案啟用多重要素驗證 (MFA) ： | Credential、DNSManagement |
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
 | 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
@@ -103,13 +112,10 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 不適用 |
 | 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 不適用 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 不適用 |
-| 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您達成哪一個 SOC 2 認證？ | type2 |
-| 最新的 SOC2 認證日期 | 2020-08-31 |
-| 應用程式是否符合服務組織控制 (SOC 3) ？ | 是 |
-| 最新的 SOC3 認證日期 | 2021-10-15 |
+| 應用程式是否符合服務組織控制 (SOC 2) ？ | 否 |
+| 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
-| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
+| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
@@ -117,7 +123,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 不適用 |
 | 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
 | 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
-| 應用程式是否符合 NIST 800-171？ | 是 |
+| 應用程式是否符合 NIST 800-171？ | 不適用 |
 | 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -130,7 +136,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
 | 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
-| 隱私權原則 URL | https://www.corel.com/en/corel-privacy-policy/ |
+| 隱私權原則 URL | https://www.beroeinc.com/privacy-policy/ |
 | 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
 | 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
 | 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
@@ -150,23 +156,13 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
-| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 否 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ | 用於驗證的 MS Teams JavaScript SDK |
+| 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 不適用 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
 | Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
-
->|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Send | 委託 | 應用程式 (MindManager) 委派許可權給使用者以執行檔案作業。   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Chat.Send | 委託 | 應用程式 (MindManager) 委派許可權給使用者以執行檔案作業。   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Files.ReadWrite | 委託 | 應用程式 (MindManager) 委派許可權給使用者以執行檔案作業。   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Sites.ReadWrite.All | 委託 | 應用程式 (MindManager) 委派許可權給使用者以執行檔案作業。   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| User.Read | 委託 | 應用程式 (MindManager) 委派許可權給使用者以執行檔案作業。   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| offline_access | 委託 | 應用程式 (MindManager) 委派許可權給使用者以執行檔案作業。   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
+>此應用程式不會使用 Microsoft Graph。
 
 >此應用程式沒有其他 API。
 
