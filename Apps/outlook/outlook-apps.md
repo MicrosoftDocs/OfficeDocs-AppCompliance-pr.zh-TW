@@ -3,17 +3,17 @@ title: Microsoft Outlook 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/24/2022
+ms.date: 07/06/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 931290ecbe2e51c6d9a94232eacab98a693bc25f
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: e068b2d07c5fb1e006f593e5d4423d78e1c5dd71
+ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66247299"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66654822"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 安全性與合規性
 
@@ -29,6 +29,7 @@ Microsoft 會與我們的 Microsoft 365 開發人員合作夥伴合作，以提�
 | [Commuty](./commuty.md) | Commuty | **✓** |  |
 | [DocuSign for Outlook](./docusign-inc-for-outlook.md) | DocuSign, Inc. | **✓** |  |
 | [發電機](./dynamo-software.md) | 動態軟體 | **✓** |  |
+| [Egnyte for Outlook](./egnyte-inc-for-outlook.md) | Egnyte， Inc. | **✓** |  |
 | [電子郵件反應器](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Outlook 的曝光簽章](./impression-signatures-for-outlook.md) | 曝光簽章 | **✓** |  |
@@ -47,6 +48,7 @@ Microsoft 會與我們的 Microsoft 365 開發人員合作夥伴合作，以提�
 | [Outlook 的拓展銷售業務開發](./outreach-sales-engagement-for-outlook.md) | 外 展 | **✓** |  |
 | [適用于 Outlook 的 Pexip One](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [優先順序矩陣 - 將電子郵件轉換成工作](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [適用于 Outlook 的策略-AI](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla Software Limited | **✓** |  |
 | [XQ 安全電子郵件](./xq-message-secure-email.md) | XQ 訊息 | **✓** |  |
