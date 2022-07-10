@@ -1,5 +1,5 @@
 ---
-title: Anaek Inc 的 OfficeAmp 應用程式資訊
+title: 由白水之白水的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,42 +7,42 @@ ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: OfficeAmp 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+description: 在 CSA STAR 登錄中，所有可用的安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a2acfb48fc37ce950afb2f6d2d92d77bfd4dbef6
+ms.openlocfilehash: a130b27965a26617a68e5ebe212f3cb0634f7357
 ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/10/2022
-ms.locfileid: "66704172"
+ms.locfileid: "66705746"
 ---
-# <a name="officeamp"></a>OfficeAmp
+# <a name="meltwater"></a>融水
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 6 月 22 日</p>
+<p>上次由開發人員更新日期：2021 年 7 月 1 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/b3f65e46-d08c-4ab9-a11d-20836a9dcdda" target="_blank">在 Teams 市集中檢視</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381756" target="_blank">在 AppSource 中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/83b0e721-a17c-4284-8af3-7ac51418dd86" target="_blank">在 Teams 市集中檢視</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003094" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-Anaek Inc 提供給 Microsoft 的資訊：
+由Waterwater 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | OfficeAmp |
-| ID | WA104381756 |
+| 應用程式名稱 | 融水 |
+| ID | WA200003094 |
 | 支援Office 365用戶端 | Microsoft Teams |
-| 合作夥伴公司名稱 | Anaek Inc |
-| 公司的網站 | [https://www.harmonizehq.com](https://www.harmonizehq.com) |
-| 應用程式的使用規定 | [https://www.officeamp.com/adminbot/tos/](https://www.officeamp.com/adminbot/tos/) |
-| 應用程式的核心功能 | 內部技術服務人員 Bot，Microsoft Teams 內健全的 ITSM 系統，並提供工作流程看板儀表板來追蹤、指派和解析票證。 |
+| 合作夥伴公司名稱 | 融水 |
+| 公司的網站 | [https://www.meltwater.com](https://www.meltwater.com) |
+| 應用程式的使用規定 | [https://www.meltwater.com/en/terms-of-use](https://www.meltwater.com/en/terms-of-use) |
+| 應用程式的核心功能 | 我們提供跨線上新聞、社交媒體、列印、廣播和播客的完整媒體監視和分析，擷取的內容和交談比產業中的任何人都多。  |
 | 公司總部位置 | 美國美國 |
-| 應用程式資訊頁面 | [https://www.officeamp.com](https://www.officeamp.com) |
-| 用來執行應用程式的裝載環境或服務模型為何？ | 混合式 |
+| 應用程式資訊頁面 | [https://help.meltwater.com/en/articles/5360376-set-up-your-...](https://help.meltwater.com/en/articles/5360376-set-up-your-alerts-with-teams-integration) |
+| 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪些主控雲端提供者？ | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -53,20 +53,12 @@ Anaek Inc 提供給 Microsoft 的資訊：
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-Anaek Inc 提供此資訊，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
+此資訊由Waterwater 提供，說明此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | 使用者設定檔資料 |
-| 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 哪些資料會儲存在您的資料庫中？ | 存取權杖、租使用者資料 (租使用者識別碼、名稱、小組詳細資料) 、使用者資料 (名稱、電子郵件)  |
-| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國美國 |
-| 您是否有已建立的資料租用和處置程式？ | 是 |
-| 帳戶終止之後，資料會保留多久？ |  |
-| 您是否有已建立的資料存取管理程式？ | 是 |
-| 您要將客戶資料或客戶內容傳輸給協力廠商或子處理者嗎？ | 否 |
+| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 否 |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,9 +70,9 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否在應用程式上執行年度滲透測試？ | 否 |
+| 您是否在應用程式上執行年度滲透測試？ | 是 |
 | 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
-| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware、ApplicationControls |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | ApplicationControls |
 | 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
 | 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
 | 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
@@ -90,7 +82,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
 | 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是 |
 | 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ | 是 |
-| 已針對下列專案啟用多重要素驗證 (MFA) ： | DNSManagement、Credential |
+| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、DNSManagement、Credential |
 | 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
 | 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
 | 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
@@ -115,7 +107,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
 | 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 不適用 |
 | 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 否 |
-| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 否 |
+| 應用程式是否符合國際標準組織 (ISO 27018) ？ | 不適用 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
 |  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
@@ -135,14 +127,14 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 |:----------------|:-------------|
 | 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
 | 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
-| 隱私權原則 URL | https://www.officeamp.com/adminbot/privacy/ |
+| 隱私權原則 URL | https://www.meltwater.com/en/privacy/gdpr |
 | 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
 | 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
 | 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 否 |
 | 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ | 否 |
 | 應用程式是否有在要求時刪除個人個人資料的功能？ | 是 |
 | 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ | 是 |
-| 應用程式是否提供個人更正或更新其個人資料的能力？ | 是 |
+| 應用程式是否提供個人更正或更新其個人資料的能力？ | 不適用 |
 | 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

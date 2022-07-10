@@ -1,26 +1,25 @@
 ---
-title: Luware AG Microsoft Teams的 Luware Nimbus 應用程式資訊
+title: Luware AG 的 Luware Nimbus for Microsoft Teams 應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/07/2021
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: 適用于 Microsoft Teams 的 Luware Nimbus、其資料處理原則、其Microsoft Cloud App Security應用程式類別目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 31195c90a4e3b9484ae630fd7be76509b6a40e23
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+certification_type: certified
+description: 適用于 Microsoft Teams 的 Luware Nimbus 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式類別目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 44e6e1c0f91285cc105ed5f3f4a1f1526ce0d55b
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881420"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66707320"
 ---
 # <a name="luware-nimbus-for-microsoft-teams"></a>Luware Nimbus for Microsoft Teams
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 10 月 1 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次由開發人員更新日期：2021 年 10 月 19 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/luwareagzurich.advanced_routing_azure_marketplace" target="_blank">在 AppSource 中檢視</a>
 
@@ -37,7 +36,7 @@ Luware AG 提供給 Microsoft 的資訊：
 | 合作夥伴公司名稱 | Luware AG |
 | 公司的網站 | [https://luware.com](https://luware.com) |
 | 應用程式的使用規定 | [https://luware.com/en/agreements/saas/](https://luware.com/en/agreements/saas/) |
-| 應用程式的核心功能 | Nimbus 會將通話佇列、目前狀態的路由、報告函式和切換板新增至Teams |
+| 應用程式的核心功能 | Nimbus 會將通話佇列、目前狀態的路由、報告函式和切換板新增至 Teams |
 | 公司總部位置 | 瑞士 |
 | 應用程式資訊頁面 | [https://luware.com/en/solution/advanced-routing-for-microso...](https://luware.com/en/solution/advanced-routing-for-microsoft-teams/) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Paas |
@@ -148,29 +147,27 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 真 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
 | 列出支援的原則類型 | 用戶端應用程式、使用者和群組 |
-| 您的應用程式是否要求案例的最低許可權許可權？ | 是 |
 | 您的應用程式是否支援持續存取評估 (CAE)  |  |
 | 您的應用程式是否在程式碼中儲存任何認證？ |  |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
 
->|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.Read | 委託 | 語音應答主控台：已登入使用者的讀取行事曆顯示具有約會的行事曆 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| Calendars.Read.Shared | 委託 | 語音應答主控台：讀取共用行事曆以顯示具有約會的行事曆 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
->| Contacts.Read | 委託 | 語音應答主控台：搜尋已登入使用者的Exchange連絡人 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
->| Contacts.Read.Shared | 委託 | 語音應答主控台：在共用Exchange連絡人中搜尋 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts.Read | 委託 | 語音應答主控台：在已登入使用者的 Exchange 連絡人中搜尋 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts.Read.Shared | 委託 | 語音應答主控台：在共用 Exchange 連絡人中搜尋 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| GroupMember.Read.All | 應用程式 | 取得小組成員、讀取安全性群組 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| Presence.Read.All | 委託 | 在語音應答主控台頁面上顯示連絡人搜尋中的顯示狀態 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| User.Read | 委託 | 從登入的使用者) 取得 UserInformation ( | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
->| User.Read.All | 兩者 | Nimbus 應用程式 - 取得 CallerInformation。 在連絡中心的內部通話中，我們會反向查閱可能是誰，以便向代理程式顯示該資訊。 在具有委派許可權的語音應答主控台 () 我們會搜尋傳輸目標的整個內部目錄。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.Read.All | 兩者皆是 | Nimbus 應用程式 - 取得 CallerInformation。 在連絡中心的內部通話中，我們會反向查閱可能是誰，以便向代理程式顯示該資訊。 在具有委派許可權的語音應答主控台 () 我們會搜尋傳輸目標的整個內部目錄。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| User.ReadBasic.All | 委託 | 有限的使用者搜尋 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| Calls.AccessMedia.All | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) 一個：訂閱 DTMF 音調，客戶實際上可以在 IVR 中選取他的位置 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
 >| Calls.Initiate.All | 應用程式 | 其中許多應用程式/Bot (每個連絡人中心佇列) 一個：呼叫代理程式  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
@@ -183,3 +180,39 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 不適用 |
+| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 在範圍中 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **通過** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 在範圍中 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -1,25 +1,25 @@
 ---
-title: LMS365 概觀
+title: ELEARNINGFORCE International Aps 的 LMS365 應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/05/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: LMS365、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5aeb76840bd35071c203866165ea1a4563159cc5
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 3e9f22b83662510d1a20816187547fb799803400
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65228127"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66704502"
 ---
-# <a name="lms365-overview"></a>LMS365 概觀
+# <a name="lms365"></a>LMS365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>上次由開發人員更新日期：2022 年 4 月 5 日</p>
+<p>上次由開發人員更新日期：2022 年 5 月 19 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/elearningforce.lms365_spfx" target="_blank">在 AppSource 中檢視</a>
 
@@ -36,7 +36,7 @@ ELEARNINGFORCE International Aps 提供給 Microsoft 的資訊：
 | 合作夥伴公司名稱 | ELEARNINGFORCE International Aps |
 | 公司的網站 | [https://lms365.com](https://lms365.com) |
 | 應用程式的使用規定 | [https://lms365.com/lms365-saas-terms/](https://lms365.com/lms365-saas-terms/) |
-| 應用程式的核心功能 | LMS365 可讓您的組織透過SharePoint、Teams和行動裝置，在Microsoft 365平臺上提供和管理訓練，為您的員工、合作夥伴和客戶提供熟悉的環境 |
+| 應用程式的核心功能 | LMS365 可讓您的組織透過 SharePoint、Teams 和行動裝置，在 Microsoft 365 平臺上提供和管理訓練，為您的員工、合作夥伴和客戶提供熟悉的環境 |
 | 公司總部位置 | 丹麥 |
 | 應用程式資訊頁面 | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Paas |
@@ -150,26 +150,25 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 是 |
 | 列出支援的原則類型 | 裝置平臺、裝置狀態、用戶端應用程式 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 是 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 是 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 是 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
 
->|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| GroupMember.Read.All | 應用程式 | 允許應用程式擴充 AD 群組的成員，以將使用者群組註冊到訓練 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| Mail.Send | 委託 | 允許應用程式傳送通知電子郵件。 設定電子郵件帳戶以取得通知時，會動態要求許可權。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| OnlineMeetings.ReadWrite | 委託 | 允許應用程式建立、讀取、更新和刪除線上會議活動。 設定電子郵件帳戶以取得通知時，會動態要求許可權。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| RoleManagement.Read.Directory | 應用程式 | 應用程式必須能夠讀取使用者擁有的角色，以及他們是否為Office 365全域管理員和/或SharePoint管理員。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| RoleManagement.Read.Directory | 應用程式 | 應用程式必須能夠讀取使用者擁有的角色，以及他們是否Office 365全域管理員和/或 SharePoint 系統管理員。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| User.Invite.All | 委託 | 選擇性功能：允許目錄管理員邀請來賓使用者加入訓練目錄。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Read | 委託 | 允許使用者使用客戶&#8217;Azure AD登入應用程式，並允許應用程式讀取已登入使用者的設定檔和基本公司資訊。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Read | 委託 | 允許使用者使用客戶&#8217;Azure AD 登入應用程式，並允許應用程式讀取已登入使用者的設定檔和基本公司資訊。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| User.Read.All | 委託 | 允許應用程式讀取完整的使用者設定檔。 &#8217;需要讀取使用者&#8217;管理員和建立報 &amp; 表管理員儀表板的階層 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| User.Read.All | 應用程式 | 允許應用程式讀取完整的使用者設定檔。 &#8217;需要讀取使用者&#8217;管理員和建立報 &amp; 表管理員儀表板的階層 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| 設定檔 | 委託 | 若要向使用者顯示用來登入的帳戶，LMS365 需要此許可權才能顯示基本設定檔資訊，包括顯示名稱、名字和姓氏、電子郵件地址和相片。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
@@ -180,3 +179,39 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 不適用 |
+| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

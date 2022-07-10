@@ -1,47 +1,46 @@
 ---
-title: Genesys cloud Services，inc. 的 Genesys cloud CX Teams 整合的應用程式資訊
+title: Genesys Cloud CX Teams Integration by Genesys 雲端服務， Inc 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/23/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: 所有可用的安全性和符合性資訊，Genesys 雲端 CX Teams 整合、其資料處理原則、其 Microsoft Cloud App Security 應用程式目錄資訊，以及 CSA 星型登錄中的安全性/符合性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 81ddd4b2bcaaf688b5a95d6351673d3cad19a352
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+certification_type: certified
+description: Genesys Cloud CX Teams 整合的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: f050c9d0e583b78334f6b047db96eaf2cf0ca69a
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63541821"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66705544"
 ---
-# <a name="genesys-cloud-cx-teams-integration"></a>Genesys 雲端 CX Teams 整合
+# <a name="genesys-cloud-cx-teams-integration"></a>Genesys Cloud CX Teams 整合
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次於開發人員的更新：2022年2月17日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次由開發人員更新日期：2022 年 2 月 28 日</p>
 
-* <a href="https://appsource.microsoft.com/product/web-apps/genesyslabs.genesys-cloud_teams_integration" target="_blank">在 AppSource 中查看</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/genesyslabs.genesys-cloud_teams_integration" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般資訊
 
-由 Genesys Cloud Services （Inc.）提供給 Microsoft 的資訊：
+由 Genesys 雲端服務， Inc 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Genesys 雲端 CX Teams 整合 |
-| ID | genesyslabs。 genesys-cloud_teams_integration |
-| 合作夥伴公司名稱 | Genesys 雲端服務，Inc。 |
+| 應用程式名稱 | Genesys Cloud CX Teams 整合 |
+| ID | genesyslabs.genesys-cloud_teams_integration |
+| 合作夥伴公司名稱 | Genesys 雲端服務， Inc |
 | 公司的網站 | [https://www.genesys.com](https://www.genesys.com) |
-| App 的使用條款 | [https://help.mypurecloud.com/articles/global-genesys-cloud-...](https://help.mypurecloud.com/articles/global-genesys-cloud-service-terms-and-conditions/) |
-| 應用程式的核心功能 | Genesys 雲端 CX&#8482; Microsoft Teams 的整合 |
-| 公司 headquarter 位置 | 美國地區 |
+| 應用程式的使用規定 | [https://help.mypurecloud.com/articles/global-genesys-cloud-...](https://help.mypurecloud.com/articles/global-genesys-cloud-service-terms-and-conditions/) |
+| 應用程式的核心功能 | Microsoft Teams 的 Genesys Cloud CX&#8482;整合 |
+| 公司總部位置 | 美國美國 |
 | 應用程式資訊頁面 | [https://appsource.microsoft.com/en-us/product/web-apps/gene...](https://appsource.microsoft.com/en-us/product/web-apps/genesyslabs.genesys-cloud_teams_integration) |
-| 用來執行應用程式的主控環境或服務模型為何？ | Iaas |
-| 應用程式會使用哪一個主控雲端提供者？ | Aws |
+| 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
+| 應用程式會使用哪些主控雲端提供者？ | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,21 +50,20 @@ ms.locfileid: "63541821"
 
 ### <a name="how-the-app-handles-data"></a>應用程式如何處理資料
 
-Genesys 雲端服務（Inc.）會提供此資訊，其是關於此應用程式如何收集和儲存組織資料，以及您的組織將會透過應用程式所收集資料的控制項。
+此資訊是由 Genesys 雲端服務 Inc 提供，其中包含此應用程式如何收集和儲存組織資料，以及貴組織對於應用程式所收集資料的控制。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式或基礎結構是否可以處理與 Microsoft 客戶或其裝置相關的任何資料？ | 是 |
-| 您的應用程式所處理的資料為何？ | DocsPublishingCommon。 AppInfos 的 DataProcess |
-| App 是否支援 TLS 1.1 或更新版本？ | 是 |
+| 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
+| 您的應用程式會處理哪些資料？ | 使用者設定檔資料 |
+| 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 資料庫中儲存的資料為何？ | 使用者設定檔資料 |
-| 如果基礎 infastructure 處理或儲存 Microsoft 客戶資料，該資料地理位置存放在何處？ | 美國地區 |
-| 您是否有既定的資料 rentention 與處置程式？ | 是 |
-| 在帳戶終止後，資料會保留多久？ | 小於90days |
-| 您是否有既定的資料存取管理程式？ | 是 |
-| 您是否要將客戶資料或客戶內容轉移至協力廠商或子處理者？ | 否 |
-| 您與與您共用 Microsoft 客戶資料的協力廠商服務是否有相同的資料共用協定？ |  |
+| 哪些資料會儲存在您的資料庫中？ | 使用者設定檔資料 |
+| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 美國美國 |
+| 您是否有已建立的資料租用和處置程式？ | 是 |
+| 帳戶終止之後，資料會保留多久？ | 小於 90 天 |
+| 您是否有已建立的資料存取管理程式？ | 是 |
+| 您要將客戶資料或客戶內容傳輸給協力廠商或子處理者嗎？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -73,31 +71,31 @@ Genesys 雲端服務（Inc.）會提供此資訊，其是關於此應用程式�
 
 ::: zone pivot="security"
 
-來自[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)目錄的資訊如下所示。
+Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)的資訊如下所示。
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否要在應用程式中執行年度滲透測試？ | 是 |
-| 應用程式是否有記錄的嚴重損壞修復計畫，包括備份與還原策略？ | 是 |
-| 您的環境使用傳統的反惡意程式碼保護或應用程式控制嗎？ | TraditionalAntiMalware, ApplicationControls |
-| 您是否已針對 indentifying 及風險排名安全性弱點建立處理常式？ | 是 |
-| 您是否有原則可以控制您用來套用修補程式的服務等級協定 (SLA) ？ | 是 |
-| 您是否根據修補原則 Sla 來執行修補程式管理活動？ | 是 |
-| 您的環境是否有不受支援的作業系統或軟體？ | 是 |
-| 您是否在您的應用程式和支援 infastructure 的應用程式上進行季度弱點掃描？ | 是 |
-| 您的外部網路界限是否已安裝防火牆？ | 是 |
-| 您是否有已建立的變更管理程式，用來在將變更要求部署至生產環境之前，加以檢查和核准？ | 是 |
-| 是否有其他人員檢查及核准原始開發人員送出給生產的所有程式碼變更要求？ | 是 |
-| 安全的編碼做法會考慮常見的弱點類別，例如 OWASP Top 10？ | 是 |
-| 啟用下列各要素驗證 (MFA) ： | CodeRepositories、DNSManagement、身分憑證 |
-| 您是否已確定要提供、修改和刪除員工帳戶的程式？ | 是 |
-| 您是否有入侵偵測及防護 (IDPS) 軟體部署在支援您應用程式的網路邊界周邊？ | 是 |
-| 您是否已在所有支援應用程式的系統元件上設定事件記錄？ | 是 |
-| 所有記錄檔中的所有記錄是否都透過人工或自動工具檢查，以偵測可能的安全性事件？ | 是|
-| 偵測到安全性事件時，會自動將預警傳送給員工以進行會審？ | 是 |
+| 您是否在應用程式上執行年度滲透測試？ | 是 |
+| 應用程式是否有記載的災害復原計畫，包括備份和還原策略？ | 是 |
+| 您的環境是否使用傳統的反惡意程式碼保護或應用程式控制？ | TraditionalAntiMalware、ApplicationControls |
+| 您是否有針對縮排和風險排名安全性弱點所建立的程式？ | 是 |
+| 您是否有原則可控管您的服務等級協定 (套用修補程式的 SLA) ？ | 是 |
+| 您是否根據修補原則 SLA 執行修補管理活動？ | 是 |
+| 您的環境是否有任何不支援的作業系統或軟體？ | 是 |
+| 您是否每季對您的應用程式和支援它的結構進行弱點掃描？ | 是 |
+| 您的外部網路界限上是否已安裝防火牆？ | 是 |
+| 您是否已建立變更管理程式，用來在變更要求部署至生產環境之前，先加以檢閱和核准？ | 是 |
+| 是否有其他人員檢閱和核准原始開發人員提交至生產環境的所有程式碼變更要求？ | 是 |
+| 安全的程式碼撰寫做法是否將常見弱點類別納入考慮，例如 OWASP 前 10 名？ | 是 |
+| 已針對下列專案啟用多重要素驗證 (MFA) ： | CodeRepositories、DNSManagement、Credential |
+| 您是否已建立員工帳戶的布建、修改和刪除程式？ | 是 |
+| 您是否已在支援應用程式的網路界限周邊部署入侵偵測和預防 (IDPS) 軟體？ | 是 |
+| 您是否已在支援應用程式的所有系統元件上設定事件記錄？ | 是 |
+| 所有記錄都是透過人類或自動化工具定期檢閱，以偵測潛在的安全性事件嗎？ | 是 |
+| 偵測到安全性事件時，警示會自動傳送給員工進行分級？ | 是 |
 | 您是否已建立正式的資訊安全性風險管理程式？ | 是 |
-| 您是否已記錄並建立正式的安全性事件回應程式？ |  |
-| 您是否要將應用程式或服務資料違例報告給主管機關和個人在偵測到72小時內受破壞的人員？| |
+| 您是否已記錄並建立正式的安全性事件回應程式？ | 是 |
+| 您是否在偵測到 72 小時內向監督機關和個人回報應用程式或服務資料外泄？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,26 +105,25 @@ Genesys 雲端服務（Inc.）會提供此資訊，其是關於此應用程式�
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式是否符合健康保險業便攜性和會計法案 (HIPAA) ？ | 是 |
-| 應用程式是否符合健康資訊信任同盟，常見的安全性框架 (HITRUST CSF) ？ | 是 |
+| 應用程式是否符合 HIPAA)  (健康保險可攜性和會計法？ | 是 |
+| 應用程式是否符合健康情況資訊信任聯盟、Common Security Framework (HITRUST CSF) ？ | 是 |
 | 應用程式是否符合服務組織控制 (SOC 1) ？ | 是 |
-| 最近的 SOC1 認證日期 |  2021-12-10 |
+| 最新的 SOC1 認證日期 | 2021-12-10 |
 | 應用程式是否符合服務組織控制 (SOC 2) ？ | 是 |
-| 您已完成哪一種 SOC 2 憑證？ |  type2 |
-| 最近的 SOC2 認證日期 |  2021-11-30 |
+| 您達成哪一個 SOC 2 認證？ | type2 |
+| 最新的 SOC2 認證日期 | 2021-11-30 |
 | 應用程式是否符合服務組織控制 (SOC 3) ？ | 否 |
-| 最近的 SOC3 認證日期 | |
-| 您是否要針對 appand 其支援的環境，進行每年 PCI DSS 評估？ | 是 |
-| 應用程式的國際標準組織 (ISO 27001) 驗證？ | 是 |
+| 您是否針對應用程式及其支援環境執行年度 PCI DSS 評量？ | 是 |
+| 應用程式國際標準組織 (ISO 27001) 認證嗎？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27018) ？ | 是 |
 | 應用程式是否符合國際標準組織 (ISO 27017) ？ | 否 |
 | 應用程式是否符合國際標準組織 (ISO 27002) ？ | 否 |
-| 應用程式的聯邦風險和授權管理計畫是否 (FedRAMP) 相容？ | 否 |
-| 應用程式是否符合家庭教育權利和隱私權法案 (FERPA) ？ | 是 |
-| 應用程式是否符合孩子的線上隱私權保護法案 (COPPA) ？ | 不適用 |
-| 應用程式是否符合 Sarbanes-Oxley 法案 (SOX) ？ | 不適用 |
+|  (FedRAMP) 相容的應用程式是否符合美國聯邦風險和授權管理計畫？ | 否 |
+| 應用程式是否符合 FERPA)  (家庭教育權利和隱私權法案？ | 是 |
+| 應用程式是否符合兒童線上隱私保護法 (COPPA) ？ | 不適用 |
+| 應用程式是否符合 Sarbanes-Oxley Act (SOX) ？ | 不適用 |
 | 應用程式是否符合 NIST 800-171？ | 不適用 |
-| App 是否已 (CSA 星) 認證？ | 否 |
+| 應用程式是否已通過雲端安全性聯盟 (CSA Star) 認證？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -136,18 +133,18 @@ Genesys 雲端服務（Inc.）會提供此資訊，其是關於此應用程式�
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (例如 CCPA) ？ | 是 |
-| 此應用程式是否有對外的隱私權通知，描述其收集、使用、共用及儲存客戶資料的方式？ | 是 |
+| 您是否有 GDPR 或其他隱私權或資料保護需求或義務 (，例如 CCPA) ？ | 是 |
+| 應用程式是否有外部隱私權注意事項，說明其如何收集、使用、共用及儲存客戶資料？ | 是 |
 | 隱私權原則 URL | https://help.mypurecloud.com/wp-content/uploads/2021/11/Genesys-Cloud-Privacy-Policy-Nov-2021.pdf |
-| 應用程式是否會執行自動決策，包括可能具有法律效果或類似影響的分析？ | 否 |
-| 此應用程式是否會在隱私權通知 (（例如行銷，分析) ？）中處理次要用途的客戶資料。 | 否 |
-| 您是否處理特殊類別的機密資料 (例如種族或種族、政治觀點、宗教或哲學 beliefs、遺傳或生物統計學資料、健康資料) 或受侵犯通知法律之資料的類別）？ | 是 |
-| 應用程式會收集或處理來自未成年人的 (，亦即，在 16) 年齡的個人。 | 是 |
-| 同意從父系或法律監護人取得？ | 是 |
-| 應用程式是否有功能可在要求時刪除個人資料？ | 是 |
-| 應用程式是否具有限制或限制在要求時處理個人資料的功能？ | 是 |
-| App 是否提供個人資料，以更正或更新其個人資料？ | 是 |
-| 常規資料安全性和隱私權評論執行 (例如，資料保護影響評估或隱私權風險評估) 識別與處理應用程式個人資料相關的風險？ | 是 |
+| 應用程式是否會執行自動化決策，包括可能會有法律效果或類似影響的分析？ | 否 |
+| 應用程式是否針對隱私權通知中未說明的次要用途處理客戶資料， (也就是行銷、分析) ？ | 否 |
+| 您是否處理特殊類別的敏感性資料 (例如種族或種族來源、政治意見、種族或種族情緒、基因或生物特徵辨識資料、健康資料) 或資料類別，但可能會違反通知法？ | 是 |
+| 應用程式是否會收集或處理未成年人的資料 (也就是 16 歲以下的個人) ？ | 是 |
+| 是否從父系或法律守護者取得同意？ | 是 |
+| 應用程式是否有在要求時刪除個人個人資料的功能？ | 是 |
+| 應用程式是否有限制或限制個人個人資料在要求時處理的功能？ | 是 |
+| 應用程式是否提供個人更正或更新其個人資料的能力？ | 是 |
+| 是否 (執行一般資料安全性和隱私權檢閱，例如資料保護影響評估或隱私權風險評估) ，以識別與處理應用程式個人資料相關的風險？ | 是 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,24 +154,59 @@ Genesys 雲端服務（Inc.）會提供此資訊，其是關於此應用程式�
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式與 Microsoft Identity Platform (Azure AD) 是否整合，以進行單一登入、API 存取等等）？ | 是 |
-| 您是否已複習並編譯 Microsoft 身分識別平臺整合檢查清單中所述的所有適用的最佳作法？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
+| 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 不適用 |
-| 如果您的應用程式不使用上述其中一個文件庫，它會使用哪個驗證程式庫或文件庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
-| 您的應用程式是否會在程式碼中儲存任何認證？ | 否 |
-| Microsoft 365 的應用程式和增益集可能會使用 microsoft Graph 以外的其他 microsoft APIs。 您的應用程式或增益集會使用其他 Microsoft APIs 嗎？ | 否 |
+| 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 的資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
 
->|   **Graph 許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 目前狀態為 [已讀取]。 | 包括 | 連絡人中心代理程式必須能夠查看其同事在轉接電話通話之前的狀態 | [728ece5a-0f26-4c43-9705-cea9debe3fb5](../azure/728ece5a-0f26-4c43-9705-cea9debe3fb5.md) |
+>| Presence.Read.All | 兩者皆是 | 連絡人中心代理程式必須能夠在轉接電話之前查看其同事的目前狀態 | [728ece5a-0f26-4c43-9705-cea9debe3fb5](../azure/728ece5a-0f26-4c43-9705-cea9debe3fb5.md) |
 
->此應用程式沒有額外的 APIs。
+>此應用程式沒有其他 API。
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **通過** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 在範圍中 |
+| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **通過** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 在範圍中 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -3,24 +3,23 @@ title: ComputerTalk 之 ice Contact Center 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/01/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Ice Contact Center、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 932a13e140f4d332275cf21acf529af1c5f691e4
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 3624609e62383a44e9dd6eba04d68a6bcc356685
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64879850"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66707340"
 ---
 # <a name="ice-contact-center"></a>ice Contact Center
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 1 月 31 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次由開發人員更新日期：2022 年 2 月 14 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/computertalk.ice-contact-center" target="_blank">在 AppSource 中檢視</a>
 
@@ -55,10 +54,10 @@ ComputerTalk 已提供此資訊，說明此應用程式如何收集和儲存組�
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | AzureADGuid (帳戶連結) 。  您可以從AAD匯入電子郵件地址和電話號碼。 |
+| 您的應用程式會處理哪些資料？ | AzureADGuid (帳戶連結) 。  您可以從 AAD 匯入電子郵件地址和電話號碼。 |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
-| 哪些資料會儲存在您的資料庫中？ | AzureADGuid (帳戶連結) 。  您可以從AAD匯入電子郵件地址和電話號碼。 |
+| 哪些資料會儲存在您的資料庫中？ | AzureADGuid (帳戶連結) 。  您可以從 AAD 匯入電子郵件地址和電話號碼。 |
 | 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 加拿大 |
 | 您是否有已建立的資料租用和處置程式？ | 是 |
 | 帳戶終止之後，資料會保留多久？ | 小於 30 天 |
@@ -142,14 +141,13 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
 >此應用程式不會使用 Microsoft Graph。
 
@@ -159,3 +157,39 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 在範圍中 |
+| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **通過** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 在範圍中 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **通過** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 在範圍中 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

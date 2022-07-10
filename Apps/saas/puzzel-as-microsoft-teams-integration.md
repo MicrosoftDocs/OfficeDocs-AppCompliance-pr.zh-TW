@@ -1,26 +1,25 @@
 ---
-title: Puzzel Microsoft Teams整合的應用程式資訊
+title: Puzzel As 的 Puzzel Microsoft Teams 整合應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/09/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Puzzel Microsoft Teams整合、其資料處理原則、其Microsoft Cloud App Security應用程式類別目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 45d4499625b9f1ed2c2ae869bdf8e1507e32e6f2
-ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
+certification_type: certified
+description: Puzzel Microsoft Teams 整合的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 85f750d9946286c21b06160a4c9745a8454326b0
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2022
-ms.locfileid: "65982591"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66704182"
 ---
-# <a name="puzzel-microsoft-teams-integration"></a>Puzzel Microsoft Teams整合
+# <a name="puzzel-microsoft-teams-integration"></a>Puzzel Microsoft Teams 整合
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 6 月 9 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次由開發人員更新日期：2022 年 6 月 15 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/puzzel-5257631.puzzel_teams_integration" target="_blank">在 AppSource 中檢視</a>
 
@@ -32,12 +31,12 @@ Puzzel AS 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Puzzel Microsoft Teams整合 |
+| 應用程式名稱 | Puzzel Microsoft Teams 整合 |
 | ID | puzzel-5257631.puzzel_teams_integration |
 | 合作夥伴公司名稱 | Puzzel AS |
 | 公司的網站 | [https://www.puzzel.com](https://www.puzzel.com) |
 | 應用程式的使用規定 | [https://www.puzzel.com/neighbourhood/trust-centre/privacy-p...](https://www.puzzel.com/neighbourhood/trust-centre/privacy-policy) |
-| 應用程式的核心功能 | Puzzel 與Microsoft Teams讓您的代理程式更緊密地結合在一起，並讓共同作業更容易。 代理程式可以進行Teams呼叫、傳送訊息、搜尋和傳輸連絡人，而不需要離開 Puzzel 代理程式應用程式。 使用者可以查看其他代理程式是否在線上、忙碌、離開或通話中，以及組織中所有其他同事的目前狀態。 代理程式可以在Teams中檢視&#8217;行事曆和排程的連絡人，以更妥善地對齊計畫、會議和通話。 |
+| 應用程式的核心功能 | Puzzel 與 Microsoft Teams 的整合讓您的代理程式更緊密地結合在一起，並讓共同作業更容易。 代理程式可以撥打 Teams 通話、傳送訊息、搜尋和傳輸連絡人，而不需要離開 Puzzel 代理程式應用程式。 使用者可以查看其他代理程式是否在線上、忙碌、離開或通話中，以及組織中所有其他同事的目前狀態。 代理程式可以在 Teams 中檢視&#8217;行事曆和排程的連絡人，以更妥善地對齊方案、會議和通話。 |
 | 公司總部位置 | 挪威 |
 | 應用程式資訊頁面 | [https://www.puzzel.com/microsoft-teams](https://www.puzzel.com/microsoft-teams) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | IsvHosted |
@@ -156,7 +155,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
 >此應用程式不會使用 Microsoft Graph。
 
@@ -166,3 +165,39 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 不適用 |
+| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -3,24 +3,23 @@ title: Talkdesk Microsoft Teams Connector by Talkdesk， Inc. 的應用程式資
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/11/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Talkdesk Microsoft Teams Connector 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b3964ffc0d7bf1ea8f8efbf2f0ffac242275f49f
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+certification_type: certified
+description: Talkdesk Microsoft Teams 連接器的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 6ef9327f17317b4893a5d3f74ef6be15d8527943
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881040"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66704162"
 ---
-# <a name="talkdesk-microsoft-teams-connector"></a>Talkdesk Microsoft Teams連接器
+# <a name="talkdesk-microsoft-teams-connector"></a>Talkdesk Microsoft Teams 連接器
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 2 月 9 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次由開發人員更新日期：2022 年 2 月 14 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/talkdeskinc1579824950513.talkdesk_for_teams" target="_blank">在 AppSource 中檢視</a>
 
@@ -32,12 +31,12 @@ Talkdesk， Inc. 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | Talkdesk Microsoft Teams連接器 |
+| 應用程式名稱 | Talkdesk Microsoft Teams 連接器 |
 | ID | talkdeskinc1579824950513.talkdesk_for_teams |
 | 合作夥伴公司名稱 | Talkdesk， Inc. |
 | 公司的網站 | [https://www.talkdesk.com](https://www.talkdesk.com) |
 | 應用程式的使用規定 | [https://www.talkdesk.com/terms-of-service](https://www.talkdesk.com/terms-of-service) |
-| 應用程式的核心功能 | Microsoft Teams整合至可啟用目錄和直接路由的 Talkdesk |
+| 應用程式的核心功能 | Microsoft Teams 與 Talkdesk 整合，可啟用目錄和直接路由 |
 | 公司總部位置 | 美國美國 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的裝載環境或服務模型為何？ | 混合式 |
@@ -153,20 +152,20 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 否 |
 | 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ | https://rubygems.org/gems/oauth2，v1.4.4 |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
 
->|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read.All | 委託 | 收集 MS Teams使用者設定檔資料的必要專案 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
+>| User.Read.All | 委託 | 收集 MS Teams 使用者設定檔資料的必要專案 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
 >| offline_access | 委託 | 即使授與存取權的使用者未登入，也可讓應用程式查看資料。 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
 
 >此應用程式沒有其他 API。
@@ -175,3 +174,39 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 不適用 |
+| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 在範圍中 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 在範圍中 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 在範圍中 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -3,26 +3,25 @@ title: Appspace， Inc. Appspace 的應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/15/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Appspace 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 24caf7d62adac3ed1db9a8b705805cfbfdce6629
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 79f03868c35f9604be796811f9a6bee688c842dd
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877310"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66705825"
 ---
 # <a name="appspace"></a>Appspace
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 7 月 8 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次由開發人員更新日期：2021 年 8 月 3 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/a9a866c4-e5cf-47f2-932c-db14cb89008f" target="_blank">在Teams存放區中檢視</a>
+* <a href="https://teams.microsoft.com/l/app/a9a866c4-e5cf-47f2-932c-db14cb89008f" target="_blank">在 Teams 市集中檢視</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001738" target="_blank">在 AppSource 中檢視</a>
 
 ::: zone pivot="general"
@@ -135,18 +134,17 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 否 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 否 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 否 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ |  |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  |  |
 | 您的應用程式是否在程式碼中儲存任何認證？ |  |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
 
->|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Team.ReadBasic.All | 委託 | 取得使用者所屬的小組。 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](../azure/a9a866c4-e5cf-47f2-932c-db14cb89008f.md) |
 >| User.ReadBasic.All | 委託 | 代表登入使用者讀取組織中其他使用者的基本配置檔案屬性。 這包括顯示名稱、名字和姓氏、電子郵件地址、開啟的延伸模組和相片。 也可讓應用程式讀取已登入使用者的完整設定檔。 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](../azure/a9a866c4-e5cf-47f2-932c-db14cb89008f.md) |

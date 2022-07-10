@@ -1,26 +1,25 @@
 ---
-title: IXCloud 的應用程式資訊 - Teams Numonix LLC 的合規性錄製 &amp; 智慧
+title: IXCloud 的應用程式資訊 - 由 Numonix LLC 提供的 Teams 合規性錄製 &amp; 智慧
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/11/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: IXCloud 的所有可用安全性與合規性資訊 - Teams合規性錄製 &amp; 智慧、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5628c375c4a33d93ed06ada1f31d85c316b4220f
-ms.sourcegitcommit: fb02bf852b775f9114966cfbf158197149ec95a2
+certification_type: certified
+description: IXCloud 的所有可用安全性與合規性資訊 - Teams 合規性錄製 &amp; 智慧、其資料處理原則、其Microsoft Cloud App Security應用程式類別目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: d174cb155e2e40973392a6648e794a77e3248c2c
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/11/2022
-ms.locfileid: "64776246"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66706186"
 ---
-# <a name="ixcloud---teams-compliance-recording-amp-intelligence"></a>IXCloud - Teams合規性錄製 &amp; 智慧
+# <a name="ixcloud---teams-compliance-recording-amp-intelligence"></a>IXCloud - Teams 合規性錄製 &amp; 智慧
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 2 月 23 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>上次由開發人員更新日期：2022 年 4 月 12 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/numonix.nmx-teams" target="_blank">在 AppSource 中檢視</a>
 
@@ -32,12 +31,12 @@ Numonix LLC 提供給 Microsoft 的資訊：
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 應用程式名稱 | IXCloud - Teams合規性錄製 &amp; 智慧 |
+| 應用程式名稱 | IXCloud - Teams 合規性錄製 &amp; 智慧 |
 | ID | numonix.nmx-teams |
 | 合作夥伴公司名稱 | Numonix LLC |
 | 公司的網站 | [https://numonix.cloud](https://numonix.cloud) |
 | 應用程式的使用規定 | [https://numonix.cloud/Compliance/](https://numonix.cloud/Compliance/) |
-| 應用程式的核心功能 | IXCloud 是安全、完全受控的原生雲端合規性記錄解決方案即服務，適用于 Teams |
+| 應用程式的核心功能 | IXCloud 是適用于 Teams 的安全、完全受控原生雲端合規性記錄解決方案即服務 |
 | 公司總部位置 | 美國美國 |
 | 應用程式資訊頁面 | [https://appsource.microsoft.com/en-us/product/web-apps/numo...](https://appsource.microsoft.com/en-us/product/web-apps/numonix.nmx-teams) |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Paas |
@@ -150,18 +149,17 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 | **Information** | **回應** |
 |:----------------|:-------------|
-| 您的應用程式是否與 Microsoft 身分識別平臺 (Azure AD) 整合，以進行單一登入、API 存取等等？ | 是 |
+| 您的應用程式是否與 Microsoft 身分識別平臺整合 (Azure AD) 以進行單一登入、API 存取等等？ | 是 |
 | 您是否已檢閱並符合Microsoft 身分識別平臺整合檢查清單中所述的所有適用最佳做法？ | 是 |
 | 您的應用程式是否使用最新版的 MSAL (Microsoft 驗證程式庫) 或 Microsoft Identity Web 進行驗證？ | 是 |
-| 如果您的應用程式未使用上述其中一個程式庫，則會使用哪些驗證程式庫或程式庫？ |  |
 | 您的應用程式是否支援條件式存取原則？ | 否 |
 | 您的應用程式是否支援持續存取評估 (CAE)  | 否 |
 | 您的應用程式是否在程式碼中儲存任何認證？ | 否 |
-| 適用于 Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
+| Microsoft 365 的應用程式和增益集可能會使用 Microsoft Graph 以外的其他 Microsoft API。 您的應用程式或增益集是否使用其他 Microsoft API？ | 否 |
 
-#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 進行資料存取
+#### <a name="data-access-using-microsoft-graph"></a>使用 Microsoft Graph 存取資料
 
->|   **Graph許可權**  | **權限類型** |          **對齊**          | **Azure AD應用程式識別碼** |
+>|   **圖形許可權**  | **權限類型** |          **對齊**          | **Azure AD 應用程式識別碼** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.Read | 應用程式 | 識別參與者並視需要傳遞記錄並提供 Muting | [30c7a49f-89f6-45ba-9938-ed627d102c54](../azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md) |
 >| Calls.AccessMedia.All | 應用程式 | 若要記錄  | [30c7a49f-89f6-45ba-9938-ed627d102c54](../azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md) |
@@ -172,7 +170,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 >| OnlineMeetings.Read | 應用程式 | 讀取中繼資料和 OnDemand 錄製規則的會議資訊 | [30c7a49f-89f6-45ba-9938-ed627d102c54](../azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md) |
 >| User.Read | 應用程式 | 若要取得中繼資料並識別使用者 | [30c7a49f-89f6-45ba-9938-ed627d102c54](../azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md) |
 >| Calendars.Read | 應用程式 | 允許應用程式在沒有登入使用者的情況下讀取所有行事曆的事件 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
->| Calls.AccessMedia.All | 應用程式 | 以應用程式形式存取呼叫中的媒體串流 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
+>| Calls.AccessMedia.All | 應用程式 | 以應用程式形式存取電話中的媒體串流 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| Calls.Initiate.All | 應用程式 | 允許應用程式對單一使用者進行連出呼叫，並將通話傳送到組織中&#8217;目錄的使用者 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| Calls.InitiateGroupCall.All | 應用程式 | 允許應用程式對多位使用者發出輸出通話，並將參與者新增至會議 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| Calls.JoinGroupCall.All | 應用程式 | 允許應用程式加入組織中的群組通話和排程會議，而不需要登入的使用者。 應用程式將以目錄使用者的許可權加入組織中的會議。 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
@@ -180,7 +178,7 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 >| OnlineMeetings.Read.All | 應用程式 | 允許應用程式讀取您組織中的線上會議詳細資料，而不需要登入的使用者。 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| User.Read.All | 應用程式 | 允許應用程式在未登入使用者的情況下讀取使用者設定檔。 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](../azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) |
 >| Calendars.Read | 應用程式 | 允許應用程式在沒有登入使用者的情況下讀取所有行事曆的事件 | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
->| Calls.AccessMedia.All | 應用程式 | 以應用程式形式存取呼叫中的媒體串流 | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
+>| Calls.AccessMedia.All | 應用程式 | 以應用程式形式存取電話中的媒體串流 | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
 >| Calls.Initiate.All | 應用程式 | 允許應用程式對單一使用者進行連出呼叫，並將通話傳送到組織中&#8217;目錄的使用者 | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
 >| Calls.InitiateGroupCall.All | 應用程式 | 允許應用程式對多位使用者發出輸出通話，並將參與者新增至會議 | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
 >| Calls.JoinGroupCall.All | 應用程式 | 加入組織中的群組通話和排程會議 | [c2395027-53de-4f00-b658-246d82ed7e6f](../azure/c2395027-53de-4f00-b658-246d82ed7e6f.md) |
@@ -194,3 +192,39 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認證資訊
+
+| **Control** | **Microsoft 365 認證結果** |
+|:------------|:---------------------------------------|
+| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 不適用 |
+| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
+| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **不適用** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
