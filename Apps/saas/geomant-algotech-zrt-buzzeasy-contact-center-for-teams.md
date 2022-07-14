@@ -6,19 +6,20 @@ manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: 所有可用的安全性與合規性資訊，適用于 Teams 的 Quieteasy 連絡人中心、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 4388c1e72e3504ecf4d75aa59d2cfb75d3071239
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: b991fdcdd4e2c7aad48cbc5d26403a04b0b9c170
+ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66707330"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66781657"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>適用于 Teams 的警報連絡人中心
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>上次由開發人員更新日期：2021 年 11 月 23 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/geomant.buzzeasy_teams_contact_center" target="_blank">在 AppSource 中檢視</a>
@@ -39,7 +40,7 @@ Geomant-Algotech Zrt 所提供的資訊。 至 Microsoft：
 | 應用程式的核心功能 | Microsoft Teams 的連絡人中心解決方案 |
 | 公司總部位置 | 匈牙利 |
 | 應用程式資訊頁面 | [https://www.geomant.com/buzzeasy-contact-centre-for-microso...](https://www.geomant.com/buzzeasy-contact-centre-for-microsoft-teams) |
-| 用來執行應用程式的裝載環境或服務模型為何？ | 混合式 |
+| 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
 | 應用程式會使用哪些主控雲端提供者？ | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -55,9 +56,15 @@ Geomant-Algotech Zrt 所提供的資訊。 至 Microsoft：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | Microsoft JWT 使用者和重新整理權杖、Microsoft 應用程式識別碼、應用程式密碼、來自 圖形 API 的 M365 電子郵件內容 |
+| 您的應用程式會處理哪些資料？ | Microsoft JWT 使用者和重新整理權杖、Microsoft 應用程式識別碼、應用程式密碼、M365 Email來自 圖形 API |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
-| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 否 |
+| 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
+| 哪些資料會儲存在您的資料庫中？ | Microsoft JWT 使用者和重新整理權杖、Microsoft 應用程式識別碼、應用程式密碼、M365 Email來自 圖形 API |
+| 如果基礎結構化會處理或儲存 Microsoft 客戶資料，則此資料會在何處儲存？ | 愛爾蘭 |
+| 您是否有已建立的資料租用和處置程式？ | 是 |
+| 帳戶終止之後，資料會保留多久？ | 小於 90 天 |
+| 您是否有已建立的資料存取管理程式？ | 是 |
+| 您要將客戶資料或客戶內容傳輸給協力廠商或子處理者嗎？ | 否 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -171,39 +178,3 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ::: zone-end
 
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認證資訊
-
-| **Control** | **Microsoft 365 認證結果** |
-|:------------|:---------------------------------------|
-| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 不適用 |
-| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 在範圍中 |
-| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 在範圍中 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 在範圍中 |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
