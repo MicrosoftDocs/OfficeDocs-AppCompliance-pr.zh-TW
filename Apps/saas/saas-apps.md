@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 SaaS 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: 2540acebe47558ff7e325ad58bef3741b7d40508
-ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
+ms.openlocfilehash: e8bd67ffe994724af91ce39854452cde1cc4b8db
+ms.sourcegitcommit: 72f4a6341a000d08a27b69b25ee9d3fb0bbfea6e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/14/2022
-ms.locfileid: "66786020"
+ms.locfileid: "66792752"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 應用程式安全性與合規性
 
@@ -38,7 +38,7 @@ Microsoft 會與我們的 Microsoft 365 開發人員合作夥伴合作，以提�
 | [Microsoft Teams 的 Dubber 整合通話錄製](./dubber-corp-unified-call-recording-for-microsoft-teams.md) | Dubber Corp | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [電子郵件](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [Outlook 的 EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) |  (南太平洋) PTE 限制 | **✓** |  |
-| [Genesys Cloud CX Teams 整合](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys 雲端服務， Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Genesys Cloud CX Teams 整合](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys 雲端服務， Inc | **✓** |  |
 | [ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [適用于 Microsoft 365 的 iGlobe CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [影像選擇器](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -46,7 +46,7 @@ Microsoft 會與我們的 Microsoft 365 開發人員合作夥伴合作，以提�
 | [IXCloud - Teams 合規性錄製 &amp; 智慧](./numonix-llc-ixcloud-teams-compliance-recordingintelligence.md) | Numonix LLC | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [適用于 Microsoft Teams 的 Luware 合規性錄製](./luware-ag-compliance-recording-for-microsoft-teams.md) | Luware AG | **✓** |  |
-| [Luware Nimbus for Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Luware Nimbus for Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [郵件簽章](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA - 我的智慧型個人助理](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ModuleQ](./moduleq.md) | ModuleQ | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
