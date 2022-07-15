@@ -3,17 +3,17 @@ title: Azure App 777d9a9f-feef-48dd-b62d-562ff21aeda2 的識別碼資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/13/2022
+ms.date: 07/14/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 777d9a9f-feef-48dd-b62d-562ff21aeda2 的所有可用安全性與合規性資訊。
-ms.openlocfilehash: ba437b940ab6a44a52eb23f4eee2df890973ad45
-ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
+ms.openlocfilehash: 721bf7b1bc2ee7c436068216f4817096218f9fe7
+ms.sourcegitcommit: ac75dd8bb815bc9e8b1d5b39a2d2dbe46e65f680
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "66786267"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66801884"
 ---
 # <a name="azure-app-id-777d9a9f-feef-48dd-b62d-562ff21aeda2"></a>Azure App識別碼：777d9a9f-feef-48dd-b62d-562ff21aeda2
 
