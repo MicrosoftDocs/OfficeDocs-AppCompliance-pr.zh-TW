@@ -3,24 +3,24 @@ title: 依 Replicon 的 ZeroTime Bot 應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/06/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ZeroTime Bot 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 35065d4157b4a4870f76344189781e9ba3d6599b
-ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
+ms.openlocfilehash: 446918fff565bc4d136bcdded4d3e9059cf9bb2c
+ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66765139"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66815363"
 ---
 # <a name="zerotime-bot"></a>ZeroTime Bot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2021 年 12 月 8 日</p>
+<p>上次由開發人員更新日期：2022 年 7 月 13 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/4db812e1-4d29-44e4-b72e-9654c0c91ce4" target="_blank">在 Teams 市集中檢視</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003717" target="_blank">在 AppSource 中檢視</a>
@@ -39,7 +39,7 @@ Replicon 提供給 Microsoft 的資訊：
 | 合作夥伴公司名稱 | Replicon |
 | 公司的網站 | [https://www.replicon.com](https://www.replicon.com) |
 | 應用程式的使用規定 | [https://www.replicon.com/terms-and-conditions/](https://www.replicon.com/terms-and-conditions/) |
-| 應用程式的核心功能 | 零時差 Bot 可讓使用者與 Bot 聊天，直接填入其 Replicon 時程表。 |
+| 應用程式的核心功能 | ZeroTime Bot 可讓使用者與 Bot 聊天，直接填入其 Replicon 時程表。 |
 | 公司總部位置 | 加拿大 |
 | 應用程式資訊頁面 | |
 | 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
