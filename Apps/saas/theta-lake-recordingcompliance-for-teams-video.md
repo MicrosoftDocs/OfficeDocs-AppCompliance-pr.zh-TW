@@ -3,23 +3,24 @@ title: Theta Lake 的 Theta Lake Recording &amp; Compliance for Teams 影片的�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 03/16/2022
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: 適用于 Teams 影片的 Theta Lake Recording &amp; 合規性、其資料處理原則、其Microsoft Cloud App Security應用程式類別目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊的所有可用安全性與合規性資訊。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 12a26943a19f3115db6b95e5bd96f1de4abcc0e6
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 72b82554da291075d0265aa86c5de9c2a62e4c52
+ms.sourcegitcommit: ac75dd8bb815bc9e8b1d5b39a2d2dbe46e65f680
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66705845"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66809044"
 ---
 # <a name="theta-lake-recording-amp-compliance-for-teams-video"></a>Teams 影片的 Theta Lake Recording &amp; 合規性
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>上次由開發人員更新日期：2022 年 3 月 29 日</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>上次由開發人員更新日期：2022 年 3 月 7 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/thetalake.thetalake_recording_and_compliance_for_teams" target="_blank">在 AppSource 中檢視</a>
 
@@ -172,39 +173,3 @@ Microsoft Cloud App Security[目錄中](https://www.microsoft.com/enterprise-mob
 
 ::: zone-end
 
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認證資訊
-
-| **Control** | **Microsoft 365 認證結果** |
-|:------------|:---------------------------------------|
-| [**應用程式安全性**](../docs/certification-submission-guide.md#application-security) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;滲透測試 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點評量檢閱 (DAST/SAST/滲透測試)  | 不適用 |
-| [**操作安全性**](../docs/certification-submission-guide.md#operational-security) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼防護 - 防毒軟體 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惡意程式碼保護 - 應用程式控制 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 風險排名 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修補程式管理 - 修補 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱點掃描 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - 防火牆 (或對等技術)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防火牆 - Web 應用程式防火牆 (WAFs)  (選擇性)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變更控制項 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全軟體發展/部署 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帳戶管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入侵偵測與預防 (選擇性)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件記錄 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;檢閱 (記錄資料)  | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全性事件警示 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資訊安全性風險管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事件回應 | 不適用 |
-| [**資料處理安全性 &amp; 隱私權**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **不適用** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳輸中的資料 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待用資料 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料保留和處置 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;資料存取管理 | 不適用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 不適用 |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
