@@ -3,24 +3,24 @@ title: Hippo Ed Tech LTD 的 Tigim Analytics 應用程式資訊
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/16/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Tigim Analytics 的所有可用安全性與合規性資訊、其資料處理原則、其Microsoft Cloud App Security應用程式目錄資訊，以及 CSA STAR 登錄中的安全性/合規性資訊。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 81d3b55c0609d1d3f56e6dd55b0e6b5d8194842c
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: 66a78bdd74c3002e176335c62c5a5f8a090847cb
+ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66247349"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66818185"
 ---
 # <a name="tigim-analytics"></a>Tigim Analytics
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>上次由開發人員更新日期：2022 年 5 月 25 日</p>
+<p>上次由開發人員更新日期：2022 年 7 月 14 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/98172521-768f-4271-a872-00bd46bd9460" target="_blank">在 Teams 市集中檢視</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200004242" target="_blank">在 AppSource 中檢視</a>
@@ -42,7 +42,8 @@ Hippo Ed Tech LTD 提供給 Microsoft 的資訊：
 | 應用程式的核心功能 | 通訊， 生產力， 商務管理， 訓練 |
 | 公司總部位置 | 愛爾蘭 |
 | 應用程式資訊頁面 | |
-| 用來執行應用程式的裝載環境或服務模型為何？ | IsvHosted |
+| 用來執行應用程式的裝載環境或服務模型為何？ | Iaas |
+| 應用程式會使用哪些主控雲端提供者？ | 其他 |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,7 +58,7 @@ Hippo Ed Tech LTD 提供給 Microsoft 的資訊：
 | **Information** | **回應** |
 |:----------------|:-------------|
 | 應用程式或基礎結構是否會處理任何與 Microsoft 客戶或其裝置相關的資料？ | 是 |
-| 您的應用程式會處理哪些資料？ | 使用者電子郵件、使用者設定檔、使用者行事曆、使用者 OnlineMeetings |
+| 您的應用程式會處理哪些資料？ | 使用者Email、使用者設定檔、使用者行事曆、使用者 OnlineMeetings |
 | 應用程式是否支援 TLS 1.1 或更新版本？ | 是 |
 | 應用程式或基礎結構是否會儲存任何 Microsoft 客戶資料？ | 是 |
 | 哪些資料會儲存在您的資料庫中？ | 使用者資料、User OnlineMeetings 轉譯、使用者交談參考 |
