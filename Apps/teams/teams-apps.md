@@ -3,17 +3,17 @@ title: Microsoft Teams 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/15/2022
+ms.date: 07/18/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 497609f2820ce7932a5eb5f6ab7bda14f39e8cf2
-ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
+ms.openlocfilehash: 3309095b4fb299aca5dc85bfd198eed0b30d22cf
+ms.sourcegitcommit: cb9d047bfc5e5890edd2962db826c77cdee9c0f6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66815343"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "66853577"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -25,14 +25,12 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [1Page](./oayaw-inc-1page.md) | OAYAW, Inc. | **✓** |  |
 | [365-QA](./advantive-365-qa.md) | Advantive | **✓** |  |
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
-| [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
 | [Abi](./beroe-abi.md) | Beroe | **✓** |  |
 | [absentify](./braincore-solutions-absentify.md) | BrainCore Solutions GmbH | **✓** |  |
 | [ACV](./tangible-it-mexico-acv.md) | Tangible IT Mexico | **✓** |  |
 | [Adobe Acrobat Reader](./adobe-acrobat.md) | Adobe | **✓** |  |
 | [Adobe Acrobat Sign](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Adobe Express](./adobe-express.md) | Adobe | **✓** |  |
-| [Agenda Boss](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
 | [敏捷任務面板](./agile-is-task-board.md) | Agile-IS | **✓** |  |
 | [ahead](./ahead-ag.md) | ahead AG | **✓** |  |
 | [AI Producer](./livearena-technologies-ab-ai-producer.md) | LiveArena Technologies AB | **✓** |  |
@@ -95,7 +93,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Brightcove 影片連線](./brightcove-inc-video-connect.md) | Brightcove Inc.。 | **✓** |  |
 | [Brochesia](./brochesia.md) | Brochesia | **✓** |  |
 | [BrowserStack](./browserstack-inc.md) | BrowserStack Inc | **✓** |  |
-| [佈告欄 - NextSet](./nextsetinc-bulletin-board-nextset.md) | NextSet,Inc. | **✓** |  |
 | [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [行事曆專業版](./witivio-calendar-pro.md) | Witivio | **✓** |  |
 | [Canary](./yattee-inc-canary.md) | YATTEE Inc. | **✓** |  |
@@ -122,7 +119,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Collection Pot](./gifted-to-you-limited-collection-pot.md) | Gifted to You Limited | **✓** |  |
 | [Company Navigator](./konica-minolta-it-solutions-company-navigator.md) | Konica Minolta IT Solutions | **✓** |  |
 | [ComplianceCow](./continube-inc-compliancecow.md) | ContiNube Inc | **✓** |  |
-| [Complish](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [會議 i/O](./conferences-io.md) | 會議 i/O | **✓** |  |
 | [Confluence Cloud](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
 | [Confluence 連接器（按 MWF）](./move-work-forward-confluence-connector-by-mwf.md) | 推展工作進度 | **✓** |  |
@@ -150,7 +146,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Data Hu](./data-hu.md) | &#21271;&#20140;&#20061;&#40594;&#20449;&#24687;&#25216;&#26415;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [DataFetch](./datafetch-inc.md) | DataFetch, Inc | **✓** |  |
 | [DataMiner](./skyline-communications-dataminer.md) | Skyline 通訊 | **✓** |  |
-| [Datto Workplace](./datto-inc-workplace.md) | Datto, Inc. | **✓** |  |
 | [DBit](./diamondsoft-solutions-llc-dbit.md) | Diamondsoft Solutions，LLC | **✓** |  |
 | [決定](./decisions.md) | 決定 | **✓** |  |
 | [Deeplink Chatbot](./deeplink-sa-chatbot.md) | Deeplink SA | **✓** |  |
@@ -259,7 +254,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Heedify](./heedify.md) | Heedify | **✓** |  |
 | [HelloTeam](./helloteam-inc.md) | HelloTeam Inc. | **✓** |  |
 | [HeyTaco](./heytaco-llc.md) | HeyTaco, LLC | **✓** |  |
-| [hi Digital Coach](./digital-attitude-srl-hi-coach.md) | Digital Attitude Srl | **✓** |  |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  |
 | [HighSide](./highside-inc.md) | HighSide, Inc | **✓** |  |
 | [HitHorizons](./finstat-sro-hithorizons.md) | FinStat s.r.o. | **✓** |  |
@@ -292,7 +286,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Cloud 解決方案 | **✓** |  |
 | [Joye](./joye-pte-ltd.md) | Joye Pte Ltd | **✓** |  |
 | [JustLogin](./justlogin.md) | JustLogin | **✓** |  |
-| [Kakeai](./kakeai.md) | KAKEAI | **✓** |  |
 | [Kami](./kami.md) | Kami | **✓** |  |
 | [Kanban Tool](./shore-labs-kanban-tool.md) | Shore Labs | **✓** |  |
 | [KangoGift](./kangogift-inc.md) | KangoGift, Inc. | **✓** |  |
@@ -520,7 +513,6 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Switchvox](./sangoma-switchvox.md) | Sangoma | **✓** |  |
 | [SWOOP Analytics](./swoop-analytics-pty-ltd.md) | SWOOP Analytics Pty Ltd | **✓** |  |
 | [SysAid](./sysaid.md) | SysAid | **✓** |  |
-| [Tactileo](./maskott-tactileo.md) | Maskott | **✓** |  |
 | [TagMyFav](./avishkaram-technologies-pvt-ltd-tagmyfav.md) | Avishkaram Technologies Pvt Ltd | **✓** |  |
 | [Tailored Talks](./pogo-studio-tailored-talks.md) | Pogo Studio | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
@@ -608,7 +600,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [X2O](./x2o-media-inc.md) | X2O Media， Inc. | **✓** |  |
 | [xMatters](./xmatters-inc.md) | xMatters Inc. | **✓** |  |
 | [YAROOMS](./yarooms.md) | YAROOMS | **✓** |  |
-| [Yeastar Workplace](./xiamen-yeastar-coltd-workplace.md) | Xiamen Yeastar Co.,Ltd | **✓** |  |
+| [Yeastar Workplace](./yeastar-information-technology-workplace.md) | Yeastar 資訊技術 | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
 | [Zavvy](./zavvy-gmbh.md) | Zavvy GmbH | **✓** |  |
 | [Zendesk](./softserve-inc-office-store-zendesk.md) | SoftServe Inc. Office Store | **✓** |  |
