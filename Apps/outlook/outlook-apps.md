@@ -3,17 +3,17 @@ title: Microsoft Outlook 應用程式安全性與合規性 - 所有應用程式
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/15/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Outlook 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Normal
-ms.openlocfilehash: bbd1db0a9e77da480e6a99ed6dfb0712b3d80182
-ms.sourcegitcommit: 41d719a4473ff77d0955bbdb198e9ca084b02dc2
+ms.openlocfilehash: 6725f3b4f6b0ebcf60850ee21c966aa9123e53fe
+ms.sourcegitcommit: b072ed662849382b6df1bebf43454e12e5ed544d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66826089"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66912869"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 安全性與合規性
 
@@ -21,6 +21,7 @@ Microsoft 會與我們的 Microsoft 365 開發人員合作夥伴合作，以提�
 
 | **應用程式** | **合作夥伴** | **發行者證明** | **認證** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [Outlook 的達成者](./achievers-for-outlook.md) | 成就 | **✓** |  |
 | [Microsoft Outlook 的 Adobe Acrobat Sign](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [適用于 Outlook 的 Appspace](./appspace-inc-for-outlook.md) | Appspace， Inc | **✓** |  |
 | [提升我的郵件](./boost-my-mail.md) | 提升我的郵件 | **✓** |  |
