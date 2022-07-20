@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: 3309095b4fb299aca5dc85bfd198eed0b30d22cf
-ms.sourcegitcommit: cb9d047bfc5e5890edd2962db826c77cdee9c0f6
+ms.openlocfilehash: 5fb901e6d5a38f4b67d5fa3063761a8ef1dc6c64
+ms.sourcegitcommit: 21d1c42a8e6d9f94b9c8f279bbe37f649ebd4e10
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/19/2022
-ms.locfileid: "66853577"
+ms.locfileid: "66845005"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -71,6 +71,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Beacapp Here](./beacapp-inc-here.md) | Beacapp Inc. | **✓** |  |
 | [Beagle](./decision-point-beagle.md) | Decision Point | **✓** |  |
 | [Bedriftsnett](./unifon-as-bedriftsnett.md) | Unifon AS | **✓** |  |
+| [Beep](./medxnote-beep.md) | Medxnote | **✓** |  |
 | [漿果](./berryworksai-berry.md) | Berryworks.ai | **✓** |  |
 | [Berrycast](./technologies-openmind-inc-les-berrycast.md) | Technologies Openmind Inc, Les | **✓** |  |
 | [BGA 通知](./honeywell-bga-notify.md) | Honeywell | **✓** |  |
@@ -371,6 +372,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [News - Jalios](./jalios-sa-news.md) | Jalios SA | **✓** |  |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 所有藍色解決方案 | **✓** |  |
 | [nickname by flowrish games](./room6-nickname-by-flowrish-games.md) | 會議室 6 | **✓** |  |
+| [現在虛擬代理程式](./servicenow-now-virtual-agent.md) | ServiceNow | **✓** |  |
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  |
 | [O2S - Office2SharePoint](./iglobe-o2s-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [OfficeAmp](./anaek-inc-officeamp.md) | Anaek Inc | **✓** |  |
@@ -431,6 +433,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [Qooper](./cognata-technologies-llc-qooper.md) | COGNATA TECHNOLOGIES, LLC | **✓** |  |
 | [Quadra Thankz](./quadrasystemsnet-quadra-thankz.md) | Quadrasystems.net | **✓** |  |
 | [Quadra Visitorz](./quadrasystemsnet-quadra-visitorz.md) | Quadrasystems.net | **✓** |  |
+| [QuickMinutes](./quickminutes.md) | QuickMinutes | **✓** |  |
 | [Quire](./potix-corporation-quire.md) | Potix Corporation | **✓** |  |
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | 全球會議 SRL | **✓** |  |
