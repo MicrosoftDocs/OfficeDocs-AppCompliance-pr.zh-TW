@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 所有 Microsoft Teams 應用程式的所有可用安全性與合規性資訊。
 localization_priority: Priority
-ms.openlocfilehash: f86b5b37fd1c146c7517c7a4861f474a5093df1d
-ms.sourcegitcommit: b072ed662849382b6df1bebf43454e12e5ed544d
+ms.openlocfilehash: 915447afd534019f3142c93e42c438e57d110f9a
+ms.sourcegitcommit: 65cdf1f1a0b38b05e29adf12828851ba225da959
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66912866"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66915606"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 應用程式安全性與合規性
 
@@ -145,6 +145,7 @@ Microsoft 會與 Microsoft 365 開發人員合作夥伴合作，提供組織加�
 | [CyDesk](./cytrack-cydesk.md) | CyTrack | **✓** |  |
 | [CyRecord](./cytrack-cyrecord.md) | CyTrack | **✓** |  |
 | [CyReport](./cytrack-cyreport.md) | CyTrack | **✓** |  |
+| [DailyBot](./dailybot.md) | DailyBot | **✓** |  |
 | [Data Hu](./data-hu.md) | &#21271;&#20140;&#20061;&#40594;&#20449;&#24687;&#25216;&#26415;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [DataFetch](./datafetch-inc.md) | DataFetch, Inc | **✓** |  |
 | [DataMiner](./skyline-communications-dataminer.md) | Skyline 通訊 | **✓** |  |
